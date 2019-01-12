@@ -1,0 +1,14 @@
+# 69 - Province0069
+
+# County Title
+title = c_province0069
+
+# Settlements
+max_settlements = 3
+b_barony0069c = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

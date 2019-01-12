@@ -1,0 +1,15 @@
+# 136 - Province0136
+
+# County Title
+title = c_province0136
+
+# Settlements
+max_settlements = 3
+b_barony0136c = castle
+b_barony0136d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

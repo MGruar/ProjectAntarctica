@@ -1,0 +1,15 @@
+# 501 - Province0501
+
+# County Title
+title = c_province0501
+
+# Settlements
+max_settlements = 3
+b_barony0501c = castle
+b_barony0501d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

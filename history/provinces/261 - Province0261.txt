@@ -1,0 +1,14 @@
+# 261 - Province0261
+
+# County Title
+title = c_province0261
+
+# Settlements
+max_settlements = 3
+b_barony0261c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

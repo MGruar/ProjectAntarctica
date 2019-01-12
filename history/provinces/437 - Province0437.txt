@@ -1,0 +1,16 @@
+# 437 - Province0437
+
+# County Title
+title = c_province0437
+
+# Settlements
+max_settlements = 4
+b_barony0437c = castle
+b_barony0437d = temple
+b_barony0437e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

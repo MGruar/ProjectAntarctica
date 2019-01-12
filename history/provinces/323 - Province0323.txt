@@ -1,0 +1,14 @@
+# 323 - Province0323
+
+# County Title
+title = c_province0323
+
+# Settlements
+max_settlements = 3
+b_barony0323c = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

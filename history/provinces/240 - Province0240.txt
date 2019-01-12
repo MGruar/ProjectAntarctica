@@ -1,0 +1,17 @@
+# 240 - Province0240
+
+# County Title
+title = c_province0240
+
+# Settlements
+max_settlements = 5
+b_barony0240c = castle
+b_barony0240d = temple
+b_barony0240e = city
+b_barony0240f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

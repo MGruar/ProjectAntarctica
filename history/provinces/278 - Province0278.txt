@@ -1,0 +1,15 @@
+# 278 - Province0278
+
+# County Title
+title = c_province0278
+
+# Settlements
+max_settlements = 4
+b_barony0278c = tribal
+b_barony0278d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

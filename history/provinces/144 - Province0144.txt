@@ -1,0 +1,14 @@
+# 144 - Province0144
+
+# County Title
+title = c_province0144
+
+# Settlements
+max_settlements = 3
+b_barony0144c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

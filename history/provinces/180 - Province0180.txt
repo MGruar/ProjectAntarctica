@@ -1,0 +1,16 @@
+# 180 - Province0180
+
+# County Title
+title = c_province0180
+
+# Settlements
+max_settlements = 4
+b_barony0180c = castle
+b_barony0180d = temple
+b_barony0180e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

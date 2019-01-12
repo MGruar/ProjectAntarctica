@@ -1,0 +1,16 @@
+# 332 - Province0332
+
+# County Title
+title = c_province0332
+
+# Settlements
+max_settlements = 4
+b_barony0332c = castle
+b_barony0332d = temple
+b_barony0332e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 348 - Province0348
+
+# County Title
+title = c_province0348
+
+# Settlements
+max_settlements = 2
+b_barony0348c = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

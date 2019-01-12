@@ -1,0 +1,15 @@
+# 93 - Province0093
+
+# County Title
+title = c_province0093
+
+# Settlements
+max_settlements = 7
+b_barony0093c = tribal
+b_barony0093d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

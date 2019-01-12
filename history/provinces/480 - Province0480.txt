@@ -1,0 +1,17 @@
+# 480 - Province0480
+
+# County Title
+title = c_province0480
+
+# Settlements
+max_settlements = 5
+b_barony0480c = castle
+b_barony0480d = temple
+b_barony0480e = city
+b_barony0480f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

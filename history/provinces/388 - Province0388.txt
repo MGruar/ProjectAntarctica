@@ -1,0 +1,15 @@
+# 388 - Province0388
+
+# County Title
+title = c_province0388
+
+# Settlements
+max_settlements = 3
+b_barony0388c = castle
+b_barony0388d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

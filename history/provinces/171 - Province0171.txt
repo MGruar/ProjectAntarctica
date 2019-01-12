@@ -1,0 +1,17 @@
+# 171 - Province0171
+
+# County Title
+title = c_province0171
+
+# Settlements
+max_settlements = 5
+b_barony0171c = castle
+b_barony0171d = temple
+b_barony0171e = city
+b_barony0171f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

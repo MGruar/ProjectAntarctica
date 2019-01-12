@@ -1,0 +1,14 @@
+# 203 - Province0203
+
+# County Title
+title = c_province0203
+
+# Settlements
+max_settlements = 4
+b_barony0203c = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

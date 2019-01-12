@@ -1,0 +1,14 @@
+# 257 - Province0257
+
+# County Title
+title = c_province0257
+
+# Settlements
+max_settlements = 4
+b_barony0257c = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

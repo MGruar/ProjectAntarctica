@@ -1,0 +1,14 @@
+# 208 - Province0208
+
+# County Title
+title = c_province0208
+
+# Settlements
+max_settlements = 4
+b_barony0208c = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

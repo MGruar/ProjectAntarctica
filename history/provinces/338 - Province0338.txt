@@ -1,0 +1,15 @@
+# 338 - Province0338
+
+# County Title
+title = c_province0338
+
+# Settlements
+max_settlements = 5
+b_barony0338c = tribal
+b_barony0338d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

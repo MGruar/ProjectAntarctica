@@ -1,0 +1,15 @@
+# 77 - Province0077
+
+# County Title
+title = c_province0077
+
+# Settlements
+max_settlements = 6
+b_barony0077c = tribal
+b_barony0077d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

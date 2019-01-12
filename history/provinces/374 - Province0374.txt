@@ -1,0 +1,15 @@
+# 374 - Province0374
+
+# County Title
+title = c_province0374
+
+# Settlements
+max_settlements = 3
+b_barony0374c = castle
+b_barony0374d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

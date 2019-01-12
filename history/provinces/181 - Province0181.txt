@@ -1,0 +1,16 @@
+# 181 - Province0181
+
+# County Title
+title = c_province0181
+
+# Settlements
+max_settlements = 4
+b_barony0181c = castle
+b_barony0181d = temple
+b_barony0181e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

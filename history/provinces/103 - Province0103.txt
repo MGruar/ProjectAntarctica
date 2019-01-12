@@ -1,0 +1,16 @@
+# 103 - Province0103
+
+# County Title
+title = c_province0103
+
+# Settlements
+max_settlements = 4
+b_barony0103c = castle
+b_barony0103d = temple
+b_barony0103e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

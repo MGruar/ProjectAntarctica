@@ -1,0 +1,17 @@
+# 441 - Province0441
+
+# County Title
+title = c_province0441
+
+# Settlements
+max_settlements = 6
+b_barony0441c = castle
+b_barony0441d = temple
+b_barony0441e = city
+b_barony0441f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

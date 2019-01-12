@@ -1,0 +1,15 @@
+# 369 - Province0369
+
+# County Title
+title = c_province0369
+
+# Settlements
+max_settlements = 5
+b_barony0369c = tribal
+b_barony0369d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

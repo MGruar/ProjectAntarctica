@@ -1,0 +1,16 @@
+# 248 - Province0248
+
+# County Title
+title = c_province0248
+
+# Settlements
+max_settlements = 4
+b_barony0248c = castle
+b_barony0248d = temple
+b_barony0248e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

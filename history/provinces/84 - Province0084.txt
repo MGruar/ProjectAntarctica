@@ -1,0 +1,14 @@
+# 84 - Province0084
+
+# County Title
+title = c_province0084
+
+# Settlements
+max_settlements = 4
+b_barony0084c = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

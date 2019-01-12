@@ -1,0 +1,16 @@
+# 297 - Province0297
+
+# County Title
+title = c_province0297
+
+# Settlements
+max_settlements = 4
+b_barony0297c = castle
+b_barony0297d = temple
+b_barony0297e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

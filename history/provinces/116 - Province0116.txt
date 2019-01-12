@@ -1,0 +1,16 @@
+# 116 - Province0116
+
+# County Title
+title = c_province0116
+
+# Settlements
+max_settlements = 4
+b_barony0116c = castle
+b_barony0116d = temple
+b_barony0116e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

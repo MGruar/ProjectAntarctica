@@ -1,0 +1,15 @@
+# 421 - Province0421
+
+# County Title
+title = c_province0421
+
+# Settlements
+max_settlements = 5
+b_barony0421c = tribal
+b_barony0421d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

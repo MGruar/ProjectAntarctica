@@ -1,0 +1,16 @@
+# 271 - Province0271
+
+# County Title
+title = c_province0271
+
+# Settlements
+max_settlements = 4
+b_barony0271c = castle
+b_barony0271d = temple
+b_barony0271e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

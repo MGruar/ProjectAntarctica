@@ -1,0 +1,15 @@
+# 464 - Province0464
+
+# County Title
+title = c_province0464
+
+# Settlements
+max_settlements = 7
+b_barony0464c = tribal
+b_barony0464d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

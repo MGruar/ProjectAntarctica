@@ -1,0 +1,17 @@
+# 333 - Province0333
+
+# County Title
+title = c_province0333
+
+# Settlements
+max_settlements = 5
+b_barony0333c = castle
+b_barony0333d = temple
+b_barony0333e = city
+b_barony0333f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

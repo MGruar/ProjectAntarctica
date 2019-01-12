@@ -1,0 +1,16 @@
+# 475 - Province0475
+
+# County Title
+title = c_province0475
+
+# Settlements
+max_settlements = 4
+b_barony0475c = castle
+b_barony0475d = temple
+b_barony0475e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

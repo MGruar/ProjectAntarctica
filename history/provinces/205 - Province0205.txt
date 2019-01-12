@@ -1,0 +1,14 @@
+# 205 - Province0205
+
+# County Title
+title = c_province0205
+
+# Settlements
+max_settlements = 2
+b_barony0205c = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

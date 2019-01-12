@@ -1,0 +1,16 @@
+# 227 - Province0227
+
+# County Title
+title = c_province0227
+
+# Settlements
+max_settlements = 4
+b_barony0227c = castle
+b_barony0227d = temple
+b_barony0227e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,14 @@
+# 242 - Province0242
+
+# County Title
+title = c_province0242
+
+# Settlements
+max_settlements = 4
+b_barony0242c = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 492 - Province0492
+
+# County Title
+title = c_province0492
+
+# Settlements
+max_settlements = 5
+b_barony0492c = tribal
+b_barony0492d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

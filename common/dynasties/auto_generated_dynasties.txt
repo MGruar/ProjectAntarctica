@@ -1,0 +1,2670 @@
+100010={
+	name="af Province0001"
+	culture="norse"
+	religion="norse_pagan"
+}
+100020={
+	name="af Province0002"
+	culture="norse"
+	religion="norse_pagan"
+}
+100030={
+	name="af Province0003"
+	culture="norse"
+	religion="norse_pagan"
+}
+100040={
+	name="af Province0004"
+	culture="norse"
+	religion="norse_pagan"
+}
+100050={
+	name="af Province0005"
+	culture="norse"
+	religion="norse_pagan"
+}
+100060={
+	name="af Province0006"
+	culture="norse"
+	religion="norse_pagan"
+}
+100070={
+	name="af Province0007"
+	culture="norse"
+	religion="norse_pagan"
+}
+100080={
+	name="af Province0008"
+	culture="norse"
+	religion="norse_pagan"
+}
+100090={
+	name="af Province0009"
+	culture="norse"
+	religion="norse_pagan"
+}
+100100={
+	name="af Province0010"
+	culture="norse"
+	religion="norse_pagan"
+}
+100110={
+	name="af Province0011"
+	culture="norse"
+	religion="norse_pagan"
+}
+100120={
+	name="af Province0012"
+	culture="norse"
+	religion="norse_pagan"
+}
+100130={
+	name="af Province0013"
+	culture="norse"
+	religion="norse_pagan"
+}
+100140={
+	name="af Province0014"
+	culture="norse"
+	religion="norse_pagan"
+}
+100150={
+	name="af Province0015"
+	culture="norse"
+	religion="norse_pagan"
+}
+100160={
+	name="af Province0016"
+	culture="norse"
+	religion="norse_pagan"
+}
+100170={
+	name="af Province0017"
+	culture="norse"
+	religion="norse_pagan"
+}
+100180={
+	name="af Province0018"
+	culture="norse"
+	religion="norse_pagan"
+}
+100190={
+	name="af Province0019"
+	culture="norse"
+	religion="norse_pagan"
+}
+100200={
+	name="af Province0020"
+	culture="norse"
+	religion="norse_pagan"
+}
+100210={
+	name="af Province0021"
+	culture="norse"
+	religion="norse_pagan"
+}
+100220={
+	name="af Province0022"
+	culture="norse"
+	religion="norse_pagan"
+}
+100230={
+	name="af Province0023"
+	culture="norse"
+	religion="norse_pagan"
+}
+100240={
+	name="af Province0024"
+	culture="norse"
+	religion="norse_pagan"
+}
+100250={
+	name="af Province0025"
+	culture="norse"
+	religion="norse_pagan"
+}
+100260={
+	name="af Province0026"
+	culture="norse"
+	religion="norse_pagan"
+}
+100270={
+	name="af Province0027"
+	culture="norse"
+	religion="norse_pagan"
+}
+100280={
+	name="af Province0028"
+	culture="norse"
+	religion="norse_pagan"
+}
+100290={
+	name="af Province0029"
+	culture="norse"
+	religion="norse_pagan"
+}
+100300={
+	name="af Province0030"
+	culture="norse"
+	religion="norse_pagan"
+}
+100310={
+	name="af Province0031"
+	culture="norse"
+	religion="norse_pagan"
+}
+100320={
+	name="af Province0032"
+	culture="norse"
+	religion="norse_pagan"
+}
+100330={
+	name="af Province0033"
+	culture="norse"
+	religion="norse_pagan"
+}
+100340={
+	name="af Province0034"
+	culture="norse"
+	religion="norse_pagan"
+}
+100350={
+	name="af Province0035"
+	culture="norse"
+	religion="norse_pagan"
+}
+100360={
+	name="af Province0036"
+	culture="norse"
+	religion="norse_pagan"
+}
+100370={
+	name="af Province0037"
+	culture="norse"
+	religion="norse_pagan"
+}
+100380={
+	name="af Province0038"
+	culture="norse"
+	religion="norse_pagan"
+}
+100390={
+	name="af Province0039"
+	culture="norse"
+	religion="norse_pagan"
+}
+100400={
+	name="af Province0040"
+	culture="norse"
+	religion="norse_pagan"
+}
+100410={
+	name="af Province0041"
+	culture="norse"
+	religion="norse_pagan"
+}
+100420={
+	name="af Province0042"
+	culture="norse"
+	religion="norse_pagan"
+}
+100430={
+	name="af Province0043"
+	culture="norse"
+	religion="norse_pagan"
+}
+100440={
+	name="af Province0044"
+	culture="norse"
+	religion="norse_pagan"
+}
+100450={
+	name="af Province0045"
+	culture="norse"
+	religion="norse_pagan"
+}
+100460={
+	name="af Province0046"
+	culture="norse"
+	religion="norse_pagan"
+}
+100470={
+	name="af Province0047"
+	culture="norse"
+	religion="norse_pagan"
+}
+100480={
+	name="af Province0048"
+	culture="norse"
+	religion="norse_pagan"
+}
+100490={
+	name="af Province0049"
+	culture="norse"
+	religion="norse_pagan"
+}
+100500={
+	name="af Province0050"
+	culture="norse"
+	religion="norse_pagan"
+}
+100510={
+	name="af Province0051"
+	culture="norse"
+	religion="norse_pagan"
+}
+100520={
+	name="af Province0052"
+	culture="norse"
+	religion="norse_pagan"
+}
+100530={
+	name="of Province0053"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100540={
+	name="af Province0054"
+	culture="norse"
+	religion="norse_pagan"
+}
+100550={
+	name="of Province0055"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100560={
+	name="af Province0056"
+	culture="norse"
+	religion="norse_pagan"
+}
+100570={
+	name="af Province0057"
+	culture="norse"
+	religion="norse_pagan"
+}
+100580={
+	name="af Province0058"
+	culture="norse"
+	religion="norse_pagan"
+}
+100590={
+	name="af Province0059"
+	culture="norse"
+	religion="norse_pagan"
+}
+100600={
+	name="af Province0060"
+	culture="norse"
+	religion="norse_pagan"
+}
+100610={
+	name="of Province0061"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100620={
+	name="of Province0062"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100630={
+	name="af Province0063"
+	culture="norse"
+	religion="norse_pagan"
+}
+100640={
+	name="af Province0064"
+	culture="norse"
+	religion="norse_pagan"
+}
+100650={
+	name="of Province0065"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100660={
+	name="of Province0066"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100670={
+	name="of Province0067"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100680={
+	name="of Province0068"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100690={
+	name="af Province0069"
+	culture="norse"
+	religion="norse_pagan"
+}
+100700={
+	name="of Province0070"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100710={
+	name="of Province0071"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100720={
+	name="af Province0072"
+	culture="norse"
+	religion="norse_pagan"
+}
+100730={
+	name="of Province0073"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100740={
+	name="af Province0074"
+	culture="norse"
+	religion="norse_pagan"
+}
+100750={
+	name="of Province0075"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100760={
+	name="of Province0076"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100770={
+	name="of Province0077"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100780={
+	name="af Province0078"
+	culture="norse"
+	religion="norse_pagan"
+}
+100790={
+	name="of Province0079"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100800={
+	name="af Province0080"
+	culture="norse"
+	religion="norse_pagan"
+}
+100810={
+	name="of Province0081"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100820={
+	name="of Province0082"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100830={
+	name="of Province0083"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100840={
+	name="of Province0084"
+	culture="ashkenazi"
+	religion="jewish"
+}
+100850={
+	name="of Province0085"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100860={
+	name="af Province0086"
+	culture="norse"
+	religion="norse_pagan"
+}
+100870={
+	name="of Province0087"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100880={
+	name="of Province0088"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100890={
+	name="af Province0089"
+	culture="norse"
+	religion="norse_pagan"
+}
+100900={
+	name="af Province0090"
+	culture="norse"
+	religion="norse_pagan"
+}
+100910={
+	name="of Province0091"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100920={
+	name="of Province0092"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100930={
+	name="of Province0093"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100940={
+	name="af Province0094"
+	culture="norse"
+	religion="norse_pagan"
+}
+100950={
+	name="of Province0095"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+100960={
+	name="af Province0096"
+	culture="norse"
+	religion="norse_pagan"
+}
+100970={
+	name="of Province0097"
+	culture="ashkenazi"
+	religion="jewish"
+}
+100980={
+	name="of Province0098"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+100990={
+	name="of Province0099"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101000={
+	name="of Province0100"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101010={
+	name="af Province0101"
+	culture="norse"
+	religion="norse_pagan"
+}
+101020={
+	name="of Province0102"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101030={
+	name="of Province0103"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101040={
+	name="of Province0104"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101050={
+	name="af Province0105"
+	culture="norse"
+	religion="norse_pagan"
+}
+101060={
+	name="of Province0106"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101070={
+	name="of Province0107"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101080={
+	name="of Province0108"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101090={
+	name="of Province0109"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101100={
+	name="of Province0110"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101110={
+	name="of Province0111"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101120={
+	name="of Province0112"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101130={
+	name="of Province0113"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101140={
+	name="of Province0114"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101150={
+	name="of Province0115"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101160={
+	name="of Province0116"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101170={
+	name="of Province0117"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101180={
+	name="of Province0118"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101190={
+	name="of Province0119"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101200={
+	name="of Province0120"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101210={
+	name="of Province0121"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101220={
+	name="of Province0122"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101230={
+	name="of Province0123"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101240={
+	name="of Province0124"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101250={
+	name="of Province0125"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101260={
+	name="de Province0126"
+	culture="catalan"
+	religion="catholic"
+}
+101270={
+	name="de Province0127"
+	culture="catalan"
+	religion="catholic"
+}
+101280={
+	name="of Province0128"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101290={
+	name="of Province0129"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101300={
+	name="of Province0130"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101310={
+	name="of Province0131"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101320={
+	name="of Province0132"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101330={
+	name="of Province0133"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101340={
+	name="of Barony0134d"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101341={
+	name="of Barony0134d"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101342={
+	name="of Barony0134e"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101343={
+	name="of Barony0134f"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101344={
+	name="of Barony0134g"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101360={
+	name="de Province0136"
+	culture="catalan"
+	religion="catholic"
+}
+101370={
+	name="de Province0137"
+	culture="catalan"
+	religion="catholic"
+}
+101380={
+	name="of Province0138"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101390={
+	name="de Province0139"
+	culture="catalan"
+	religion="catholic"
+}
+101400={
+	name="of Province0140"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101410={
+	name="of Province0141"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101430={
+	name="of Province0143"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101440={
+	name="of Province0144"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101450={
+	name="of Province0145"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101460={
+	name="de Province0146"
+	culture="catalan"
+	religion="catholic"
+}
+101470={
+	name="de Province0147"
+	culture="catalan"
+	religion="catholic"
+}
+101480={
+	name="of Province0148"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101490={
+	name="of Province0149"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101500={
+	name="de Province0150"
+	culture="catalan"
+	religion="catholic"
+}
+101510={
+	name="de Province0151"
+	culture="catalan"
+	religion="catholic"
+}
+101530={
+	name="of Province0153"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101540={
+	name="of Province0154"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101550={
+	name="of Province0155"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101560={
+	name="de Province0156"
+	culture="catalan"
+	religion="catholic"
+}
+101570={
+	name="of Province0157"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101580={
+	name="of Province0158"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101600={
+	name="de Province0160"
+	culture="catalan"
+	religion="catholic"
+}
+101610={
+	name="de Province0161"
+	culture="catalan"
+	religion="catholic"
+}
+101620={
+	name="of Province0162"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101630={
+	name="de Province0163"
+	culture="catalan"
+	religion="catholic"
+}
+101640={
+	name="of Province0164"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101650={
+	name="de Province0165"
+	culture="catalan"
+	religion="catholic"
+}
+101660={
+	name="de Province0166"
+	culture="catalan"
+	religion="catholic"
+}
+101670={
+	name="of Province0167"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101680={
+	name="de Province0168"
+	culture="catalan"
+	religion="catholic"
+}
+101690={
+	name="of Province0169"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101700={
+	name="de Province0170"
+	culture="catalan"
+	religion="catholic"
+}
+101710={
+	name="of Province0171"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101720={
+	name="of Province0172"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101730={
+	name="de Province0173"
+	culture="catalan"
+	religion="catholic"
+}
+101740={
+	name="de Province0174"
+	culture="catalan"
+	religion="catholic"
+}
+101750={
+	name="of Province0175"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101760={
+	name="of Province0176"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101770={
+	name="de Province0177"
+	culture="catalan"
+	religion="catholic"
+}
+101780={
+	name="of Province0178"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101790={
+	name="of Province0179"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101800={
+	name="of Province0180"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101810={
+	name="de Province0181"
+	culture="catalan"
+	religion="catholic"
+}
+101820={
+	name="of Province0182"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101830={
+	name="of Province0183"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101840={
+	name="of Province0184"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101850={
+	name="of Province0185"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+101860={
+	name="de Province0186"
+	culture="catalan"
+	religion="catholic"
+}
+101870={
+	name="de Province0187"
+	culture="catalan"
+	religion="catholic"
+}
+101880={
+	name="de Province0188"
+	culture="catalan"
+	religion="catholic"
+}
+101890={
+	name="of Province0189"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101900={
+	name="of Province0190"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+101910={
+	name="de Province0191"
+	culture="catalan"
+	religion="catholic"
+}
+101920={
+	name="de Province0192"
+	culture="catalan"
+	religion="catholic"
+}
+101930={
+	name="of Province0193"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101940={
+	name="of Province0194"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101950={
+	name="of Province0195"
+	culture="ashkenazi"
+	religion="jewish"
+}
+101960={
+	name="de Province0196"
+	culture="catalan"
+	religion="catholic"
+}
+101970={
+	name="de Province0197"
+	culture="catalan"
+	religion="catholic"
+}
+101980={
+	name="of Province0198"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+101990={
+	name="of Province0199"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102000={
+	name="of Province0200"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102010={
+	name="of Province0201"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102020={
+	name="of Province0202"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102030={
+	name="of Province0203"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102040={
+	name="of Province0204"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102050={
+	name="de Province0205"
+	culture="catalan"
+	religion="catholic"
+}
+102060={
+	name="de Province0206"
+	culture="catalan"
+	religion="catholic"
+}
+102070={
+	name="of Province0207"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102080={
+	name="of Province0208"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102090={
+	name="of Province0209"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102100={
+	name="de Province0210"
+	culture="catalan"
+	religion="catholic"
+}
+102110={
+	name="of Province0211"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102120={
+	name="de Province0212"
+	culture="catalan"
+	religion="catholic"
+}
+102130={
+	name="of Province0213"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102140={
+	name="de Province0214"
+	culture="catalan"
+	religion="catholic"
+}
+102150={
+	name="of Province0215"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102160={
+	name="de Province0216"
+	culture="catalan"
+	religion="catholic"
+}
+102170={
+	name="de Province0217"
+	culture="catalan"
+	religion="catholic"
+}
+102180={
+	name="of Province0218"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102190={
+	name="of Province0219"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102200={
+	name="de Province0220"
+	culture="catalan"
+	religion="catholic"
+}
+102210={
+	name="of Province0221"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102220={
+	name="of Province0222"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102230={
+	name="of Province0223"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102240={
+	name="of Province0224"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102250={
+	name="of Province0225"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102260={
+	name="Province0226"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102270={
+	name="of Province0227"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102280={
+	name="of Province0228"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102290={
+	name="of Province0229"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102300={
+	name="of Province0230"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102310={
+	name="de Province0231"
+	culture="catalan"
+	religion="catholic"
+}
+102320={
+	name="de Province0232"
+	culture="catalan"
+	religion="catholic"
+}
+102330={
+	name="of Province0233"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102340={
+	name="of Province0234"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102350={
+	name="de Province0235"
+	culture="catalan"
+	religion="catholic"
+}
+102360={
+	name="Province0236"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102370={
+	name="of Province0237"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102380={
+	name="of Province0238"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102390={
+	name="of Province0239"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102400={
+	name="de Province0240"
+	culture="catalan"
+	religion="catholic"
+}
+102410={
+	name="of Province0241"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102420={
+	name="de Province0242"
+	culture="catalan"
+	religion="catholic"
+}
+102430={
+	name="of Province0243"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102440={
+	name="of Province0244"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102450={
+	name="of Province0245"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102460={
+	name="of Province0246"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102470={
+	name="of Province0247"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102480={
+	name="de Province0248"
+	culture="catalan"
+	religion="catholic"
+}
+102490={
+	name="of Province0249"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102500={
+	name="of Province0250"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102510={
+	name="de Province0251"
+	culture="catalan"
+	religion="catholic"
+}
+102520={
+	name="of Province0252"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102530={
+	name="of Province0253"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102540={
+	name="of Province0254"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102550={
+	name="of Province0255"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102560={
+	name="of Province0256"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102570={
+	name="de Province0257"
+	culture="catalan"
+	religion="catholic"
+}
+102580={
+	name="de Province0258"
+	culture="catalan"
+	religion="catholic"
+}
+102590={
+	name="Jajiradid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102600={
+	name="de Province0260"
+	culture="catalan"
+	religion="catholic"
+}
+102610={
+	name="of Province0261"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102620={
+	name="de Province0262"
+	culture="catalan"
+	religion="catholic"
+}
+102630={
+	name="of Province0263"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102640={
+	name="of Province0264"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102650={
+	name="of Province0265"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102660={
+	name="Mungligid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102670={
+	name="Province0267"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102680={
+	name="of Province0268"
+	culture="roman"
+	religion="hellenic_pagan_reformed"
+}
+102690={
+	name="of Province0269"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102700={
+	name="of Province0270"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102710={
+	name="Province0271"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102720={
+	name="of Province0272"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102730={
+	name="Chilagunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102740={
+	name="Bolkhadarid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102750={
+	name="of Province0275"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102760={
+	name="of Province0276"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102770={
+	name="of Province0277"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102780={
+	name="of Province0278"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102790={
+	name="of Province0279"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102800={
+	name="Daritid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102810={
+	name="Province0281"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102820={
+	name="Province0282"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102830={
+	name="Achighid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102840={
+	name="of Province0284"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102850={
+	name="of Province0285"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102860={
+	name="of Province0286"
+	culture="finnish"
+	religion="finnish_pagan"
+}
+102870={
+	name="of Province0287"
+	culture="ashkenazi"
+	religion="jewish"
+}
+102880={
+	name="Province0288"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102890={
+	name="Gughlugid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102900={
+	name="of Province0290"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102910={
+	name="of Province0291"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102920={
+	name="Khagatid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102930={
+	name="Alchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102940={
+	name="Province0294"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102950={
+	name="Province0295"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102960={
+	name="Bughid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+102970={
+	name="of Province0297"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+102980={
+	name="Province0298"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+102990={
+	name="of Province0299"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+103000={
+	name="of Province0300"
+	culture="ashkenazi"
+	religion="jewish"
+}
+103010={
+	name="Husunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103020={
+	name="of Province0302"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+103030={
+	name="Bogenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103040={
+	name="Khudid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103050={
+	name="Subetid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103060={
+	name="Province0306"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103070={
+	name="Toghtogid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103080={
+	name="of Province0308"
+	culture="greek"
+	religion="hellenic_pagan"
+}
+103090={
+	name="Bogenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103100={
+	name="Aguchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103110={
+	name="Bukhid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103120={
+	name="Bujegid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103130={
+	name="Toghorilid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103140={
+	name="Province0314"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103150={
+	name="Harpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103160={
+	name="Lakshmandevid"
+	culture="hindustani"
+	religion="hindu"
+}
+103170={
+	name="Hirapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103180={
+	name="Province0318"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103190={
+	name="Province0319"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103200={
+	name="Jochid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103210={
+	name="Province0321"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103220={
+	name="Province0322"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103230={
+	name="Bolkhadarid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103240={
+	name="Chidukhulid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103250={
+	name="Yedid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103260={
+	name="Province0326"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103270={
+	name="Province0327"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103280={
+	name="Sukhinpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103290={
+	name="Kiratpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103300={
+	name="Narayanapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103310={
+	name="Inanchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103320={
+	name="Province0332"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103330={
+	name="Province0333"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103340={
+	name="Ambaghid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103350={
+	name="Jamughid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103360={
+	name="Yassirid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103370={
+	name="Uddharandevid"
+	culture="hindustani"
+	religion="hindu"
+}
+103380={
+	name="Inalchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103390={
+	name="Lokpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103400={
+	name="Mihirid"
+	culture="hindustani"
+	religion="hindu"
+}
+103410={
+	name="Ridwanid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103420={
+	name="Lakshmandevid"
+	culture="hindustani"
+	religion="hindu"
+}
+103430={
+	name="Margdevid"
+	culture="hindustani"
+	religion="hindu"
+}
+103440={
+	name="Province0344"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103450={
+	name="Province0345"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103460={
+	name="Borjigidid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103470={
+	name="Province0347"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103480={
+	name="Khuyildarid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103490={
+	name="Sisupalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103500={
+	name="Nakhid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103510={
+	name="Toghtogid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103520={
+	name="Bujegid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103530={
+	name="Province0353"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103540={
+	name="Dothid"
+	culture="hindustani"
+	religion="hindu"
+}
+103550={
+	name="Badid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103560={
+	name="Bartanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103570={
+	name="Jayapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103580={
+	name="Ilyasid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103590={
+	name="Krystaferid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103600={
+	name="Abanoubid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103610={
+	name="Harghasunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103620={
+	name="Pritampalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103630={
+	name="Hammiravarmanid"
+	culture="hindustani"
+	religion="hindu"
+}
+103640={
+	name="Mahipalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103650={
+	name="Bishid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103660={
+	name="Nabilid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103670={
+	name="Province0367"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103680={
+	name="Province0368"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103690={
+	name="Jhetpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103700={
+	name="Husunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103710={
+	name="Trilochanpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103720={
+	name="Muammarid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103730={
+	name="Aguchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103740={
+	name="Khorchid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103750={
+	name="Jagdevid"
+	culture="hindustani"
+	religion="hindu"
+}
+103760={
+	name="Ogodid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103770={
+	name="Ghiyasaddinid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103780={
+	name="Province0378"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103790={
+	name="Yesungid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103800={
+	name="Chigid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103810={
+	name="Athanasid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103820={
+	name="Khorilartid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103830={
+	name="Bedugunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103840={
+	name="Govindarajid"
+	culture="hindustani"
+	religion="hindu"
+}
+103850={
+	name="Viravarmanid"
+	culture="hindustani"
+	religion="hindu"
+}
+103860={
+	name="Jagatpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103870={
+	name="Todogenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103880={
+	name="Miladid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+103890={
+	name="Province0389"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103900={
+	name="Province0390"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103910={
+	name="Province0391"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103920={
+	name="Province0392"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+103930={
+	name="Brahmdevpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103940={
+	name="Kadanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103950={
+	name="Khalid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103960={
+	name="Burkhanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103970={
+	name="Duid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103980={
+	name="Tejapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+103990={
+	name="Kadanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104000={
+	name="Khuyildarid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104010={
+	name="Ahmadid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104020={
+	name="Kalkurnid"
+	culture="hindustani"
+	religion="hindu"
+}
+104030={
+	name="Agathid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104040={
+	name="Abisalomid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104050={
+	name="Province0405"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104060={
+	name="Ajinid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104070={
+	name="Province0407"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104080={
+	name="Province0408"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104090={
+	name="Ogodid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104100={
+	name="Bughid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104110={
+	name="Hammudid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104120={
+	name="Achighid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104130={
+	name="Surajpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+104140={
+	name="Hussaynid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104150={
+	name="Province0415"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104160={
+	name="Dayirid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104170={
+	name="Province0417"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104180={
+	name="Province0418"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104190={
+	name="Temujinid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104200={
+	name="Arasenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104210={
+	name="Megetid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104220={
+	name="Coanacochid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104230={
+	name="Burkhanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104240={
+	name="Province0424"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104250={
+	name="Bogenid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104260={
+	name="Aaronid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104270={
+	name="Ibrahimid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104280={
+	name="Nannukid"
+	culture="hindustani"
+	religion="hindu"
+}
+104290={
+	name="Mahchimalehid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104300={
+	name="Mahendrapalid"
+	culture="hindustani"
+	religion="hindu"
+}
+104310={
+	name="Mahlakadevid"
+	culture="hindustani"
+	religion="hindu"
+}
+104320={
+	name="Jurchedid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104330={
+	name="Akbarid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104340={
+	name="Bisaldevid"
+	culture="hindustani"
+	religion="hindu"
+}
+104350={
+	name="Province0435"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104360={
+	name="Opochtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104370={
+	name="Yokhunanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104380={
+	name="Daritid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104390={
+	name="Hanrid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104400={
+	name="Ibrahimid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104410={
+	name="Province0441"
+	culture="han"
+	religion="taoist"
+}
+104420={
+	name="Harghasunid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104430={
+	name="Province0443"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104440={
+	name="Sulakshanpalid"
+	culture="hindustani"
+	religion="hindu"
+}
+104450={
+	name="Province0445"
+	culture="han"
+	religion="taoist"
+}
+104460={
+	name="Province0446"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104470={
+	name="Khaidid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104480={
+	name="Province0448"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104490={
+	name="Province0449"
+	culture="han"
+	religion="taoist"
+}
+104500={
+	name="Sha'banid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104510={
+	name="Province0451"
+	culture="han"
+	religion="taoist"
+}
+104520={
+	name="Akhutid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104530={
+	name="Province0453"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104540={
+	name="Province0454"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104550={
+	name="Ghunanid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+104560={
+	name="Yolyamanitzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104570={
+	name="Province0457"
+	culture="han"
+	religion="taoist"
+}
+104580={
+	name="Harounid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104590={
+	name="Ramachandrid"
+	culture="hindustani"
+	religion="hindu"
+}
+104600={
+	name="Maharanid"
+	culture="hindustani"
+	religion="hindu"
+}
+104610={
+	name="Krishnrid"
+	culture="hindustani"
+	religion="hindu"
+}
+104620={
+	name="Province0462"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104630={
+	name="Province0463"
+	culture="han"
+	religion="taoist"
+}
+104640={
+	name="Province0464"
+	culture="han"
+	religion="taoist"
+}
+104650={
+	name="Province0465"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104660={
+	name="Province0466"
+	culture="han"
+	religion="taoist"
+}
+104670={
+	name="Province0467"
+	culture="han"
+	religion="taoist"
+}
+104680={
+	name="Province0468"
+	culture="han"
+	religion="taoist"
+}
+104690={
+	name="Province0469"
+	culture="han"
+	religion="taoist"
+}
+104700={
+	name="Abdullahid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104710={
+	name="Huitzilinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104720={
+	name="Pavakid"
+	culture="hindustani"
+	religion="hindu"
+}
+104730={
+	name="Province0473"
+	culture="songhay"
+	religion="west_african_pagan"
+}
+104740={
+	name="Matlatzincatzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104750={
+	name="Mahchimalehid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104760={
+	name="Salimid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104770={
+	name="Ahuitzotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104780={
+	name="Malikid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+104790={
+	name="Province0479"
+	culture="han"
+	religion="taoist"
+}
+104800={
+	name="Province0480"
+	culture="han"
+	religion="taoist"
+}
+104810={
+	name="Jagdevid"
+	culture="hindustani"
+	religion="hindu"
+}
+104820={
+	name="Tzompantzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104830={
+	name="Cuetlachtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104840={
+	name="Cipacid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104850={
+	name="Matlalid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104860={
+	name="Province0486"
+	culture="han"
+	religion="taoist"
+}
+104870={
+	name="Nochehuatlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104880={
+	name="Province0488"
+	culture="han"
+	religion="taoist"
+}
+104890={
+	name="Nezahualcoyotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104900={
+	name="Province0490"
+	culture="han"
+	religion="taoist"
+}
+104910={
+	name="Province0491"
+	culture="han"
+	religion="taoist"
+}
+104920={
+	name="Dothid"
+	culture="hindustani"
+	religion="hindu"
+}
+104930={
+	name="Xicohtencatlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104940={
+	name="Province0494"
+	culture="han"
+	religion="taoist"
+}
+104950={
+	name="Province0495"
+	culture="han"
+	religion="taoist"
+}
+104960={
+	name="Axayacatlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+104970={
+	name="Province0497"
+	culture="han"
+	religion="taoist"
+}
+104980={
+	name="Province0498"
+	culture="han"
+	religion="taoist"
+}
+104990={
+	name="Agathonid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+105000={
+	name="Tapayaxid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105010={
+	name="Maxtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105020={
+	name="Xipillid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105030={
+	name="Acacitlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105040={
+	name="Province0504"
+	culture="han"
+	religion="taoist"
+}
+105050={
+	name="Tlalocid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105060={
+	name="Tochtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105070={
+	name="Nabilid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+105080={
+	name="Zipactonalid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105090={
+	name="Cuetlachtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105100={
+	name="Hammudid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+105110={
+	name="Cozahtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105120={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105130={
+	name="Ahuitzotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105140={
+	name="Chimalpillid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105150={
+	name="Hammudid"
+	culture="egyptian_arabic"
+	religion="shiite"
+}
+105160={
+	name="Itzcuintlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105170={
+	name="Tzompantzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105180={
+	name="Cuitlahuacid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105190={
+	name="Huitztecolid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105200={
+	name="Iquehuacatzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105210={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105220={
+	name="Nezahualpillid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105230={
+	name="Yayauhqid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105240={
+	name="Matlalid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105250={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105260={
+	name="Cuitlahuacid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105270={
+	name="Yolotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105280={
+	name="Yolotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105290={
+	name="Yaotlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105300={
+	name="Tecocoltzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105310={
+	name="Quauhtlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105320={
+	name="Mahchimalehid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105330={
+	name="Nochehuatlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105340={
+	name="Tizocid"
+	culture="nahuatl"
+	religion="aztec"
+}

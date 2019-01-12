@@ -1,0 +1,15 @@
+# 54 - Province0054
+
+# County Title
+title = c_province0054
+
+# Settlements
+max_settlements = 6
+b_barony0054c = tribal
+b_barony0054d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

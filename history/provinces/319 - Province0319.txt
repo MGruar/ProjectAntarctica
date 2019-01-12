@@ -1,0 +1,16 @@
+# 319 - Province0319
+
+# County Title
+title = c_province0319
+
+# Settlements
+max_settlements = 4
+b_barony0319c = castle
+b_barony0319d = temple
+b_barony0319e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

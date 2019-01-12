@@ -1,0 +1,16 @@
+# 161 - Province0161
+
+# County Title
+title = c_province0161
+
+# Settlements
+max_settlements = 4
+b_barony0161c = castle
+b_barony0161d = temple
+b_barony0161e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

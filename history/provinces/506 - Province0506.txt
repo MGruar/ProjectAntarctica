@@ -1,0 +1,15 @@
+# 506 - Province0506
+
+# County Title
+title = c_province0506
+
+# Settlements
+max_settlements = 5
+b_barony0506c = tribal
+b_barony0506d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

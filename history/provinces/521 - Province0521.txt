@@ -1,0 +1,15 @@
+# 521 - Province0521
+
+# County Title
+title = c_province0521
+
+# Settlements
+max_settlements = 6
+b_barony0521c = tribal
+b_barony0521d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

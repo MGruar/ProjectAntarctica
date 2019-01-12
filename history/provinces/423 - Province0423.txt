@@ -1,0 +1,15 @@
+# 423 - Province0423
+
+# County Title
+title = c_province0423
+
+# Settlements
+max_settlements = 3
+b_barony0423c = castle
+b_barony0423d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

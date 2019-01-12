@@ -1,0 +1,15 @@
+# 96 - Province0096
+
+# County Title
+title = c_province0096
+
+# Settlements
+max_settlements = 6
+b_barony0096c = tribal
+b_barony0096d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

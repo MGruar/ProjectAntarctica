@@ -1,0 +1,14 @@
+# 473 - Province0473
+
+# County Title
+title = c_province0473
+
+# Settlements
+max_settlements = 2
+b_barony0473c = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

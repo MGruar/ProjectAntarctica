@@ -1,0 +1,15 @@
+# 97 - Province0097
+
+# County Title
+title = c_province0097
+
+# Settlements
+max_settlements = 5
+b_barony0097c = tribal
+b_barony0097d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

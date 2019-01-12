@@ -1,0 +1,15 @@
+# 344 - Province0344
+
+# County Title
+title = c_province0344
+
+# Settlements
+max_settlements = 5
+b_barony0344c = tribal
+b_barony0344d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

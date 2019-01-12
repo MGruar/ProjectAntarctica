@@ -1,0 +1,17 @@
+# 306 - Province0306
+
+# County Title
+title = c_province0306
+
+# Settlements
+max_settlements = 6
+b_barony0306c = castle
+b_barony0306d = temple
+b_barony0306e = city
+b_barony0306f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 468 - Province0468
+
+# County Title
+title = c_province0468
+
+# Settlements
+max_settlements = 5
+b_barony0468c = tribal
+b_barony0468d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

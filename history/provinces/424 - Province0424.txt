@@ -1,0 +1,17 @@
+# 424 - Province0424
+
+# County Title
+title = c_province0424
+
+# Settlements
+max_settlements = 5
+b_barony0424c = castle
+b_barony0424d = temple
+b_barony0424e = city
+b_barony0424f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 460 - Province0460
+
+# County Title
+title = c_province0460
+
+# Settlements
+max_settlements = 7
+b_barony0460c = tribal
+b_barony0460d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

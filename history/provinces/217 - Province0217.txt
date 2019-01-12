@@ -1,0 +1,16 @@
+# 217 - Province0217
+
+# County Title
+title = c_province0217
+
+# Settlements
+max_settlements = 4
+b_barony0217c = castle
+b_barony0217d = temple
+b_barony0217e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

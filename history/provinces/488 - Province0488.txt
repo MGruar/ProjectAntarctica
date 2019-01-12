@@ -1,0 +1,17 @@
+# 488 - Province0488
+
+# County Title
+title = c_province0488
+
+# Settlements
+max_settlements = 6
+b_barony0488c = castle
+b_barony0488d = temple
+b_barony0488e = city
+b_barony0488f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

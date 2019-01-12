@@ -1,0 +1,16 @@
+# 170 - Province0170
+
+# County Title
+title = c_province0170
+
+# Settlements
+max_settlements = 4
+b_barony0170c = castle
+b_barony0170d = temple
+b_barony0170e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,15 @@
+# 157 - Province0157
+
+# County Title
+title = c_province0157
+
+# Settlements
+max_settlements = 3
+b_barony0157c = castle
+b_barony0157d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

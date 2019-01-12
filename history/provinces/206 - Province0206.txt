@@ -1,0 +1,15 @@
+# 206 - Province0206
+
+# County Title
+title = c_province0206
+
+# Settlements
+max_settlements = 3
+b_barony0206c = castle
+b_barony0206d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

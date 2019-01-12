@@ -1,0 +1,15 @@
+# 490 - Province0490
+
+# County Title
+title = c_province0490
+
+# Settlements
+max_settlements = 6
+b_barony0490c = tribal
+b_barony0490d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 63 - Province0063
+
+# County Title
+title = c_province0063
+
+# Settlements
+max_settlements = 3
+b_barony0063c = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

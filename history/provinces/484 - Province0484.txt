@@ -1,0 +1,16 @@
+# 484 - Province0484
+
+# County Title
+title = c_province0484
+
+# Settlements
+max_settlements = 4
+b_barony0484c = castle
+b_barony0484d = temple
+b_barony0484e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,14 @@
+# 280 - Province0280
+
+# County Title
+title = c_province0280
+
+# Settlements
+max_settlements = 4
+b_barony0280c = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

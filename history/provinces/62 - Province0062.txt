@@ -1,0 +1,15 @@
+# 62 - Province0062
+
+# County Title
+title = c_province0062
+
+# Settlements
+max_settlements = 5
+b_barony0062c = tribal
+b_barony0062d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

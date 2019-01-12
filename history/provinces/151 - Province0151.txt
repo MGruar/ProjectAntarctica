@@ -1,0 +1,17 @@
+# 151 - Province0151
+
+# County Title
+title = c_province0151
+
+# Settlements
+max_settlements = 5
+b_barony0151c = castle
+b_barony0151d = temple
+b_barony0151e = city
+b_barony0151f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

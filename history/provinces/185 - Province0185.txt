@@ -1,0 +1,14 @@
+# 185 - Province0185
+
+# County Title
+title = c_province0185
+
+# Settlements
+max_settlements = 4
+b_barony0185c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

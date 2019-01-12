@@ -1,0 +1,15 @@
+# 385 - Province0385
+
+# County Title
+title = c_province0385
+
+# Settlements
+max_settlements = 5
+b_barony0385c = tribal
+b_barony0385d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

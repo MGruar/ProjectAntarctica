@@ -1,0 +1,14 @@
+# 336 - Province0336
+
+# County Title
+title = c_province0336
+
+# Settlements
+max_settlements = 2
+b_barony0336c = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

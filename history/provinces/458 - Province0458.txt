@@ -1,0 +1,16 @@
+# 458 - Province0458
+
+# County Title
+title = c_province0458
+
+# Settlements
+max_settlements = 4
+b_barony0458c = castle
+b_barony0458d = temple
+b_barony0458e = city
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

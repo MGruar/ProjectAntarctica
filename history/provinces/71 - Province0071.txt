@@ -1,0 +1,15 @@
+# 71 - Province0071
+
+# County Title
+title = c_province0071
+
+# Settlements
+max_settlements = 7
+b_barony0071c = tribal
+b_barony0071d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

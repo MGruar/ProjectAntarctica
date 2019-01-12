@@ -1,0 +1,17 @@
+# 228 - Province0228
+
+# County Title
+title = c_province0228
+
+# Settlements
+max_settlements = 5
+b_barony0228c = castle
+b_barony0228d = temple
+b_barony0228e = city
+b_barony0228f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

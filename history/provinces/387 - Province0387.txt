@@ -1,0 +1,14 @@
+# 387 - Province0387
+
+# County Title
+title = c_province0387
+
+# Settlements
+max_settlements = 4
+b_barony0387c = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

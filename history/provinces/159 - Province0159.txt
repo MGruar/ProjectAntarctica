@@ -1,0 +1,16 @@
+# 159 - Province0159
+
+# County Title
+title = c_province0159
+
+# Settlements
+max_settlements = 4
+b_barony0159c = city
+b_barony0159d = temple
+b_barony0159e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

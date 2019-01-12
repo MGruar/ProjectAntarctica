@@ -1,0 +1,17 @@
+# 253 - Province0253
+
+# County Title
+title = c_province0253
+
+# Settlements
+max_settlements = 5
+b_barony0253c = castle
+b_barony0253d = temple
+b_barony0253e = city
+b_barony0253f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

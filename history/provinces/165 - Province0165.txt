@@ -1,0 +1,16 @@
+# 165 - Province0165
+
+# County Title
+title = c_province0165
+
+# Settlements
+max_settlements = 4
+b_barony0165c = castle
+b_barony0165d = temple
+b_barony0165e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

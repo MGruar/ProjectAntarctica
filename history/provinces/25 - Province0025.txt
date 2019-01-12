@@ -1,0 +1,14 @@
+# 25 - Province0025
+
+# County Title
+title = c_province0025
+
+# Settlements
+max_settlements = 4
+b_barony0025c = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 516 - Province0516
+
+# County Title
+title = c_province0516
+
+# Settlements
+max_settlements = 4
+b_barony0516c = castle
+b_barony0516d = temple
+b_barony0516e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

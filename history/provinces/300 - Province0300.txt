@@ -1,0 +1,15 @@
+# 300 - Province0300
+
+# County Title
+title = c_province0300
+
+# Settlements
+max_settlements = 6
+b_barony0300c = tribal
+b_barony0300d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

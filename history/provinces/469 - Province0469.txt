@@ -1,0 +1,17 @@
+# 469 - Province0469
+
+# County Title
+title = c_province0469
+
+# Settlements
+max_settlements = 6
+b_barony0469c = castle
+b_barony0469d = temple
+b_barony0469e = city
+b_barony0469f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

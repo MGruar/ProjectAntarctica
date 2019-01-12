@@ -1,0 +1,16 @@
+# 528 - Province0528
+
+# County Title
+title = c_province0528
+
+# Settlements
+max_settlements = 4
+b_barony0528c = castle
+b_barony0528d = temple
+b_barony0528e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

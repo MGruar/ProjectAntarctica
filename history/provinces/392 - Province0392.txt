@@ -1,0 +1,17 @@
+# 392 - Province0392
+
+# County Title
+title = c_province0392
+
+# Settlements
+max_settlements = 5
+b_barony0392c = castle
+b_barony0392d = temple
+b_barony0392e = city
+b_barony0392f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 406 - Province0406
+
+# County Title
+title = c_province0406
+
+# Settlements
+max_settlements = 6
+b_barony0406c = castle
+b_barony0406d = temple
+b_barony0406e = city
+b_barony0406f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

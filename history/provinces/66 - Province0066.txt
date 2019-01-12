@@ -1,0 +1,15 @@
+# 66 - Province0066
+
+# County Title
+title = c_province0066
+
+# Settlements
+max_settlements = 7
+b_barony0066c = tribal
+b_barony0066d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

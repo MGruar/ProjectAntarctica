@@ -1,0 +1,15 @@
+# 370 - Province0370
+
+# County Title
+title = c_province0370
+
+# Settlements
+max_settlements = 6
+b_barony0370c = tribal
+b_barony0370d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

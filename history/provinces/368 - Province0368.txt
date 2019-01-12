@@ -1,0 +1,15 @@
+# 368 - Province0368
+
+# County Title
+title = c_province0368
+
+# Settlements
+max_settlements = 5
+b_barony0368c = tribal
+b_barony0368d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

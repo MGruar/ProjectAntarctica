@@ -1,0 +1,15 @@
+# 47 - Province0047
+
+# County Title
+title = c_province0047
+
+# Settlements
+max_settlements = 7
+b_barony0047c = tribal
+b_barony0047d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

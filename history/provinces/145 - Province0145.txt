@@ -1,0 +1,17 @@
+# 145 - Province0145
+
+# County Title
+title = c_province0145
+
+# Settlements
+max_settlements = 5
+b_barony0145c = castle
+b_barony0145d = temple
+b_barony0145e = city
+b_barony0145f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

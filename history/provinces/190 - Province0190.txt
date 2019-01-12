@@ -1,0 +1,17 @@
+# 190 - Province0190
+
+# County Title
+title = c_province0190
+
+# Settlements
+max_settlements = 5
+b_barony0190c = castle
+b_barony0190d = temple
+b_barony0190e = city
+b_barony0190f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

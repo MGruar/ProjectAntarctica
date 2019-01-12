@@ -1,0 +1,17 @@
+# 140 - Province0140
+
+# County Title
+title = c_province0140
+
+# Settlements
+max_settlements = 5
+b_barony0140c = castle
+b_barony0140d = temple
+b_barony0140e = city
+b_barony0140f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

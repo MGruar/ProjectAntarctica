@@ -1,0 +1,15 @@
+# 90 - Province0090
+
+# County Title
+title = c_province0090
+
+# Settlements
+max_settlements = 6
+b_barony0090c = tribal
+b_barony0090d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 497 - Province0497
+
+# County Title
+title = c_province0497
+
+# Settlements
+max_settlements = 5
+b_barony0497c = castle
+b_barony0497d = temple
+b_barony0497e = city
+b_barony0497f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

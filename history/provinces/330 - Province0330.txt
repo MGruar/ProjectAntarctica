@@ -1,0 +1,15 @@
+# 330 - Province0330
+
+# County Title
+title = c_province0330
+
+# Settlements
+max_settlements = 5
+b_barony0330c = tribal
+b_barony0330d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

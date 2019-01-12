@@ -1,0 +1,15 @@
+# 426 - Province0426
+
+# County Title
+title = c_province0426
+
+# Settlements
+max_settlements = 3
+b_barony0426c = castle
+b_barony0426d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 264 - Province0264
+
+# County Title
+title = c_province0264
+
+# Settlements
+max_settlements = 4
+b_barony0264c = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

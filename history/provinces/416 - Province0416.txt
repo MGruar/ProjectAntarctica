@@ -1,0 +1,17 @@
+# 416 - Province0416
+
+# County Title
+title = c_province0416
+
+# Settlements
+max_settlements = 5
+b_barony0416c = castle
+b_barony0416d = temple
+b_barony0416e = city
+b_barony0416f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

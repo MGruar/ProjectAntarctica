@@ -1,0 +1,17 @@
+# 466 - Province0466
+
+# County Title
+title = c_province0466
+
+# Settlements
+max_settlements = 5
+b_barony0466c = castle
+b_barony0466d = temple
+b_barony0466e = city
+b_barony0466f = castle
+
+# Misc
+culture = han
+religion = taoist
+
+# History

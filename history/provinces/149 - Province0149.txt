@@ -1,0 +1,17 @@
+# 149 - Province0149
+
+# County Title
+title = c_province0149
+
+# Settlements
+max_settlements = 5
+b_barony0149c = castle
+b_barony0149d = temple
+b_barony0149e = city
+b_barony0149f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

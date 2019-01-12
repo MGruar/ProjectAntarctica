@@ -1,0 +1,17 @@
+# 383 - Province0383
+
+# County Title
+title = c_province0383
+
+# Settlements
+max_settlements = 6
+b_barony0383c = castle
+b_barony0383d = temple
+b_barony0383e = city
+b_barony0383f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

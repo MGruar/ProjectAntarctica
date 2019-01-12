@@ -1,0 +1,15 @@
+# 345 - Province0345
+
+# County Title
+title = c_province0345
+
+# Settlements
+max_settlements = 5
+b_barony0345c = tribal
+b_barony0345d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

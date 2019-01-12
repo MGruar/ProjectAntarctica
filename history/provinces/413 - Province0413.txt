@@ -1,0 +1,15 @@
+# 413 - Province0413
+
+# County Title
+title = c_province0413
+
+# Settlements
+max_settlements = 5
+b_barony0413c = tribal
+b_barony0413d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

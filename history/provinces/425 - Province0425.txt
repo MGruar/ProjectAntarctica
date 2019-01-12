@@ -1,0 +1,16 @@
+# 425 - Province0425
+
+# County Title
+title = c_province0425
+
+# Settlements
+max_settlements = 4
+b_barony0425c = castle
+b_barony0425d = temple
+b_barony0425e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

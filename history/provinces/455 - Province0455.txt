@@ -1,0 +1,15 @@
+# 455 - Province0455
+
+# County Title
+title = c_province0455
+
+# Settlements
+max_settlements = 5
+b_barony0455c = tribal
+b_barony0455d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

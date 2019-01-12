@@ -1,0 +1,17 @@
+# 446 - Province0446
+
+# County Title
+title = c_province0446
+
+# Settlements
+max_settlements = 5
+b_barony0446c = castle
+b_barony0446d = temple
+b_barony0446e = city
+b_barony0446f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

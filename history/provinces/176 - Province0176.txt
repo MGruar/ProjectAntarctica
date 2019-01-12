@@ -1,0 +1,15 @@
+# 176 - Province0176
+
+# County Title
+title = c_province0176
+
+# Settlements
+max_settlements = 5
+b_barony0176c = tribal
+b_barony0176d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

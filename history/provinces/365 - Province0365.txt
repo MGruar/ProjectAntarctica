@@ -1,0 +1,15 @@
+# 365 - Province0365
+
+# County Title
+title = c_province0365
+
+# Settlements
+max_settlements = 3
+b_barony0365c = castle
+b_barony0365d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

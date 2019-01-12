@@ -1,0 +1,15 @@
+# 164 - Province0164
+
+# County Title
+title = c_province0164
+
+# Settlements
+max_settlements = 2
+b_barony0164c = tribal
+b_barony0164d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

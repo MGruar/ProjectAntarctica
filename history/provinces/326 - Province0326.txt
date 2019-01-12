@@ -1,0 +1,14 @@
+# 326 - Province0326
+
+# County Title
+title = c_province0326
+
+# Settlements
+max_settlements = 2
+b_barony0326c = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

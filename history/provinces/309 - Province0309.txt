@@ -1,0 +1,14 @@
+# 309 - Province0309
+
+# County Title
+title = c_province0309
+
+# Settlements
+max_settlements = 4
+b_barony0309c = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

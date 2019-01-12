@@ -1,0 +1,15 @@
+# 431 - Province0431
+
+# County Title
+title = c_province0431
+
+# Settlements
+max_settlements = 6
+b_barony0431c = tribal
+b_barony0431d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

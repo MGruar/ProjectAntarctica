@@ -1,0 +1,14 @@
+# 357 - Province0357
+
+# County Title
+title = c_province0357
+
+# Settlements
+max_settlements = 4
+b_barony0357c = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

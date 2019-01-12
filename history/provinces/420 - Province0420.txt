@@ -1,0 +1,15 @@
+# 420 - Province0420
+
+# County Title
+title = c_province0420
+
+# Settlements
+max_settlements = 3
+b_barony0420c = castle
+b_barony0420d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

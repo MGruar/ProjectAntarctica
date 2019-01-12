@@ -1,0 +1,16 @@
+# 202 - Province0202
+
+# County Title
+title = c_province0202
+
+# Settlements
+max_settlements = 4
+b_barony0202c = castle
+b_barony0202d = temple
+b_barony0202e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

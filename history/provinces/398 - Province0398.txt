@@ -1,0 +1,15 @@
+# 398 - Province0398
+
+# County Title
+title = c_province0398
+
+# Settlements
+max_settlements = 5
+b_barony0398c = tribal
+b_barony0398d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

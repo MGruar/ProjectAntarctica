@@ -1,0 +1,16 @@
+# 408 - Province0408
+
+# County Title
+title = c_province0408
+
+# Settlements
+max_settlements = 4
+b_barony0408c = castle
+b_barony0408d = temple
+b_barony0408e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

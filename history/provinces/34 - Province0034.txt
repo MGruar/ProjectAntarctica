@@ -1,0 +1,14 @@
+# 34 - Province0034
+
+# County Title
+title = c_province0034
+
+# Settlements
+max_settlements = 3
+b_barony0034c = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

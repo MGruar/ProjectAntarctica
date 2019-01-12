@@ -1,0 +1,15 @@
+# 459 - Province0459
+
+# County Title
+title = c_province0459
+
+# Settlements
+max_settlements = 5
+b_barony0459c = tribal
+b_barony0459d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

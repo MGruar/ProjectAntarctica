@@ -1,0 +1,16 @@
+# 520 - Province0520
+
+# County Title
+title = c_province0520
+
+# Settlements
+max_settlements = 4
+b_barony0520c = castle
+b_barony0520d = temple
+b_barony0520e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

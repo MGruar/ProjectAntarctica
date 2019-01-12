@@ -1,0 +1,14 @@
+# 88 - Province0088
+
+# County Title
+title = c_province0088
+
+# Settlements
+max_settlements = 4
+b_barony0088c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

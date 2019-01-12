@@ -1,0 +1,16 @@
+# 152 - Province0152
+
+# County Title
+title = c_province0152
+
+# Settlements
+max_settlements = 4
+b_barony0152c = city
+b_barony0152d = temple
+b_barony0152e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

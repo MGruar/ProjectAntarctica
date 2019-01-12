@@ -1,0 +1,14 @@
+# 117 - Province0117
+
+# County Title
+title = c_province0117
+
+# Settlements
+max_settlements = 3
+b_barony0117c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

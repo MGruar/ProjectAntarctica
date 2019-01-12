@@ -1,0 +1,15 @@
+# 347 - Province0347
+
+# County Title
+title = c_province0347
+
+# Settlements
+max_settlements = 5
+b_barony0347c = tribal
+b_barony0347d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

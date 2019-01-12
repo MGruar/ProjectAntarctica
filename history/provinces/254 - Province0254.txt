@@ -1,0 +1,14 @@
+# 254 - Province0254
+
+# County Title
+title = c_province0254
+
+# Settlements
+max_settlements = 4
+b_barony0254c = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

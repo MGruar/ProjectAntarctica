@@ -1,0 +1,18 @@
+# 295 - Province0295
+
+# County Title
+title = c_province0295
+
+# Settlements
+max_settlements = 7
+b_barony0295c = castle
+b_barony0295d = temple
+b_barony0295e = city
+b_barony0295f = castle
+b_barony0295g = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

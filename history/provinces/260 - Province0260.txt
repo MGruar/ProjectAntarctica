@@ -1,0 +1,17 @@
+# 260 - Province0260
+
+# County Title
+title = c_province0260
+
+# Settlements
+max_settlements = 5
+b_barony0260c = castle
+b_barony0260d = temple
+b_barony0260e = city
+b_barony0260f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

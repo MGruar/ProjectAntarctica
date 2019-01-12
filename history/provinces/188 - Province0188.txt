@@ -1,0 +1,15 @@
+# 188 - Province0188
+
+# County Title
+title = c_province0188
+
+# Settlements
+max_settlements = 3
+b_barony0188c = castle
+b_barony0188d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,21 @@
+# Duchy0134 Merchant Republic Palaces
+b_patrician_101340 = {
+	culture = roman
+	religion = hellenic_pagan_reformed
+}
+b_patrician_101341 = {
+	culture = roman
+	religion = hellenic_pagan_reformed
+}
+b_patrician_101342 = {
+	culture = roman
+	religion = hellenic_pagan_reformed
+}
+b_patrician_101343 = {
+	culture = roman
+	religion = hellenic_pagan_reformed
+}
+b_patrician_101344 = {
+	culture = roman
+	religion = hellenic_pagan_reformed
+}

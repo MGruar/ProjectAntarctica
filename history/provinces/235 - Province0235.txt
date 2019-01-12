@@ -1,0 +1,16 @@
+# 235 - Province0235
+
+# County Title
+title = c_province0235
+
+# Settlements
+max_settlements = 4
+b_barony0235c = castle
+b_barony0235d = temple
+b_barony0235e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

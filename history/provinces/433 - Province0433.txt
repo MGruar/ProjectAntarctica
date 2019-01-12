@@ -1,0 +1,16 @@
+# 433 - Province0433
+
+# County Title
+title = c_province0433
+
+# Settlements
+max_settlements = 4
+b_barony0433c = castle
+b_barony0433d = temple
+b_barony0433e = city
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

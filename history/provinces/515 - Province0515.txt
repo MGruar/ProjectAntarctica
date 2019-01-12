@@ -1,0 +1,15 @@
+# 515 - Province0515
+
+# County Title
+title = c_province0515
+
+# Settlements
+max_settlements = 5
+b_barony0515c = tribal
+b_barony0515d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

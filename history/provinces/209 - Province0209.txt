@@ -1,0 +1,16 @@
+# 209 - Province0209
+
+# County Title
+title = c_province0209
+
+# Settlements
+max_settlements = 4
+b_barony0209c = castle
+b_barony0209d = temple
+b_barony0209e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

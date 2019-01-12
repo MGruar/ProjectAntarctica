@@ -1,0 +1,15 @@
+# 222 - Province0222
+
+# County Title
+title = c_province0222
+
+# Settlements
+max_settlements = 5
+b_barony0222c = tribal
+b_barony0222d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

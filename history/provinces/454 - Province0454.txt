@@ -1,0 +1,14 @@
+# 454 - Province0454
+
+# County Title
+title = c_province0454
+
+# Settlements
+max_settlements = 2
+b_barony0454c = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

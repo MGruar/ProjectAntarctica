@@ -1,0 +1,17 @@
+# 435 - Province0435
+
+# County Title
+title = c_province0435
+
+# Settlements
+max_settlements = 5
+b_barony0435c = castle
+b_barony0435d = temple
+b_barony0435e = city
+b_barony0435f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

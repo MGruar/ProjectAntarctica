@@ -1,0 +1,15 @@
+# 214 - Province0214
+
+# County Title
+title = c_province0214
+
+# Settlements
+max_settlements = 3
+b_barony0214c = castle
+b_barony0214d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

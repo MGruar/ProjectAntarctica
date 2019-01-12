@@ -1,0 +1,16 @@
+# 379 - Province0379
+
+# County Title
+title = c_province0379
+
+# Settlements
+max_settlements = 4
+b_barony0379c = castle
+b_barony0379d = temple
+b_barony0379e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

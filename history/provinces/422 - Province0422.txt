@@ -1,0 +1,14 @@
+# 422 - Province0422
+
+# County Title
+title = c_province0422
+
+# Settlements
+max_settlements = 3
+b_barony0422c = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

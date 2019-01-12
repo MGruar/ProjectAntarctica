@@ -1,0 +1,17 @@
+# 154 - Province0154
+
+# County Title
+title = c_province0154
+
+# Settlements
+max_settlements = 6
+b_barony0154c = castle
+b_barony0154d = temple
+b_barony0154e = city
+b_barony0154f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

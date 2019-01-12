@@ -1,0 +1,17 @@
+# 308 - Province0308
+
+# County Title
+title = c_province0308
+
+# Settlements
+max_settlements = 5
+b_barony0308c = castle
+b_barony0308d = temple
+b_barony0308e = city
+b_barony0308f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

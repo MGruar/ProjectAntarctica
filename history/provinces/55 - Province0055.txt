@@ -1,0 +1,15 @@
+# 55 - Province0055
+
+# County Title
+title = c_province0055
+
+# Settlements
+max_settlements = 5
+b_barony0055c = tribal
+b_barony0055d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

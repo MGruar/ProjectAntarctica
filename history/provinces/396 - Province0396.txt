@@ -1,0 +1,17 @@
+# 396 - Province0396
+
+# County Title
+title = c_province0396
+
+# Settlements
+max_settlements = 5
+b_barony0396c = castle
+b_barony0396d = temple
+b_barony0396e = city
+b_barony0396f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

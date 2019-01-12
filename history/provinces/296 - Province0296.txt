@@ -1,0 +1,15 @@
+# 296 - Province0296
+
+# County Title
+title = c_province0296
+
+# Settlements
+max_settlements = 6
+b_barony0296c = tribal
+b_barony0296d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

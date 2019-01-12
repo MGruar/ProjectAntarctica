@@ -1,0 +1,19 @@
+region_e_empire0035 = { 
+	provinces = { 1 }
+}region_e_empire0035 = { 
+	provinces = { 3 4 6 2 5 9 7 8 11 10 13 14 20 17 12 16 15 19 22 24 28 32 30 21 29 25 31 33 36 35 34 }
+}region_e_empire0035 = { 
+	provinces = { 18 27 23 26 }
+}region_e_empire0035 = { 
+	provinces = { 37 39 40 41 43 46 49 51 58 }
+}region_e_empire0035 = { 
+	provinces = { 38 }
+}region_e_empire0186 = { 
+	provinces = { 70 }
+}region_e_empire0186 = { 
+	provinces = { 351 }
+}region_e_empire0392 = { 
+	provinces = { 422 }
+}region_e_empire0535 = { 
+	provinces = { 535 }
+}

@@ -1,0 +1,16 @@
+# 196 - Province0196
+
+# County Title
+title = c_province0196
+
+# Settlements
+max_settlements = 4
+b_barony0196c = castle
+b_barony0196d = temple
+b_barony0196e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

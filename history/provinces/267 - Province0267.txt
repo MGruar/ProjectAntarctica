@@ -1,0 +1,15 @@
+# 267 - Province0267
+
+# County Title
+title = c_province0267
+
+# Settlements
+max_settlements = 6
+b_barony0267c = tribal
+b_barony0267d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

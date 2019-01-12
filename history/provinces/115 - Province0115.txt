@@ -1,0 +1,17 @@
+# 115 - Province0115
+
+# County Title
+title = c_province0115
+
+# Settlements
+max_settlements = 5
+b_barony0115c = castle
+b_barony0115d = temple
+b_barony0115e = city
+b_barony0115f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

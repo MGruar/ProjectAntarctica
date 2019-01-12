@@ -1,0 +1,14 @@
+# 219 - Province0219
+
+# County Title
+title = c_province0219
+
+# Settlements
+max_settlements = 4
+b_barony0219c = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

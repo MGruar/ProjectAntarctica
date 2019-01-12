@@ -1,0 +1,15 @@
+# 247 - Province0247
+
+# County Title
+title = c_province0247
+
+# Settlements
+max_settlements = 7
+b_barony0247c = tribal
+b_barony0247d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

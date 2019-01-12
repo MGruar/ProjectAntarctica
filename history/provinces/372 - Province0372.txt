@@ -1,0 +1,15 @@
+# 372 - Province0372
+
+# County Title
+title = c_province0372
+
+# Settlements
+max_settlements = 3
+b_barony0372c = castle
+b_barony0372d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

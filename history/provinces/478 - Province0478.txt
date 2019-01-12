@@ -1,0 +1,15 @@
+# 478 - Province0478
+
+# County Title
+title = c_province0478
+
+# Settlements
+max_settlements = 4
+b_barony0478c = tribal
+b_barony0478d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

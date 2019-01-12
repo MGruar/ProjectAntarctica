@@ -1,0 +1,15 @@
+# 125 - Province0125
+
+# County Title
+title = c_province0125
+
+# Settlements
+max_settlements = 3
+b_barony0125c = castle
+b_barony0125d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History
