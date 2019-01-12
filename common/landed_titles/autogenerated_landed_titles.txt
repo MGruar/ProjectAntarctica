@@ -1,4 +1,4 @@
-e_empire0035 = {
+e_western_isles = {
 	color={ 9 111 141 }
 	color2={ 255 255 255 }
 	
@@ -6,7 +6,7 @@ e_empire0035 = {
 	
 	culture = norse
 	
-	k_kingdom0014 = {
+	k_graeme = {
 		color={ 52 78 171 }
 		color2={ 255 255 255 }
 		
@@ -358,7 +358,7 @@ e_empire0035 = {
 			}
 		}
 	}
-	k_kingdom0044 = {
+	k_ellswaere = {
 		color={ 48 118 169 }
 		color2={ 255 255 255 }
 		
@@ -514,7 +514,7 @@ e_empire0035 = {
 			}
 		}
 	}
-	k_kingdom0049 = {
+	k_baerde = {
 		color={ 53 97 153 }
 		color2={ 255 255 255 }
 		
@@ -673,7 +673,7 @@ e_empire0035 = {
 			}
 		}
 	}
-	k_kingdom0035 = {
+	k_paelme = {
 		color={ 9 111 141 }
 		color2={ 255 255 255 }
 		
@@ -889,7 +889,7 @@ e_empire0035 = {
 		}
 	}
 }
-e_empire0134 = {
+e_shactonnia = {
 	color={ 208 33 0 }
 	color2={ 255 255 255 }
 	
@@ -897,7 +897,7 @@ e_empire0134 = {
 	
 	culture = roman
 	
-	k_kingdom0091 = {
+	k_shaekleton = {
 		color={ 237 5 58 }
 		color2={ 255 255 255 }
 		
@@ -1116,7 +1116,7 @@ e_empire0134 = {
 			}
 		}
 	}
-	k_kingdom0211 = {
+	k_romarra = {
 		color={ 193 6 36 }
 		color2={ 255 255 255 }
 		
@@ -1366,7 +1366,7 @@ e_empire0134 = {
 			}
 		}
 	}
-	k_kingdom0134 = {
+	k_reston = {
 		color={ 208 33 0 }
 		color2={ 255 255 255 }
 		
@@ -1746,7 +1746,7 @@ e_empire0134 = {
 		}
 	}
 }
-e_empire0163 = {
+e_fujarra = {
 	color={ 252 170 5 }
 	color2={ 255 255 255 }
 	
@@ -1754,7 +1754,7 @@ e_empire0163 = {
 	
 	culture = catalan
 	
-	k_kingdom0320 = {
+	k_valkyr = {
 		color={ 23 171 175 }
 		color2={ 255 255 255 }
 		
@@ -1945,7 +1945,7 @@ e_empire0163 = {
 			}
 		}
 	}
-	k_kingdom0163 = {
+	k_fujarra = {
 		color={ 252 170 5 }
 		color2={ 255 255 255 }
 		
@@ -2432,7 +2432,7 @@ e_empire0163 = {
 		}
 	}
 }
-e_empire0186 = {
+e_dronnin = {
 	color={ 219 178 54 }
 	color2={ 255 255 255 }
 	
@@ -2440,7 +2440,7 @@ e_empire0186 = {
 	
 	culture = catalan
 	
-	k_kingdom0112 = {
+	k_coets = {
 		color={ 5 128 228 }
 		color2={ 255 255 255 }
 		
@@ -2849,7 +2849,7 @@ e_empire0186 = {
 			}
 		}
 	}
-	k_kingdom0286 = {
+	k_fimbul = {
 		color={ 45 139 194 }
 		color2={ 255 255 255 }
 		
@@ -3096,7 +3096,7 @@ e_empire0186 = {
 			}
 		}
 	}
-	k_kingdom0346 = {
+	k_thorsh = {
 		color={ 14 175 175 }
 		color2={ 255 255 255 }
 		
@@ -3399,7 +3399,7 @@ e_empire0186 = {
 			}
 		}
 	}
-	k_kingdom0186 = {
+	k_dronne = {
 		color={ 219 178 54 }
 		color2={ 255 255 255 }
 		
@@ -3736,7 +3736,7 @@ e_empire0186 = {
 		}
 	}
 }
-e_empire0190 = {
+e_transantar = {
 	color={ 254 54 103 }
 	color2={ 255 255 255 }
 	
@@ -3744,7 +3744,7 @@ e_empire0190 = {
 	
 	culture = greek
 	
-	k_kingdom0080 = {
+	k_maede = {
 		color={ 51 80 144 }
 		color2={ 255 255 255 }
 		
@@ -4100,7 +4100,7 @@ e_empire0190 = {
 			}
 		}
 	}
-	k_kingdom0113 = {
+	k_traenge = {
 		color={ 60 48 226 }
 		color2={ 255 255 255 }
 		
@@ -4295,7 +4295,7 @@ e_empire0190 = {
 			}
 		}
 	}
-	k_kingdom0190 = {
+	k_alexion = {
 		color={ 254 54 103 }
 		color2={ 255 255 255 }
 		
@@ -4606,7 +4606,7 @@ e_empire0190 = {
 		}
 	}
 }
-e_empire0234 = {
+e_elizabethion = {
 	color={ 216 28 107 }
 	color2={ 255 255 255 }
 	
@@ -4614,7 +4614,7 @@ e_empire0234 = {
 	
 	culture = greek
 	
-	k_kingdom0319 = {
+	k_abethi = {
 		color={ 225 210 7 }
 		color2={ 255 255 255 }
 		
@@ -5040,7 +5040,7 @@ e_empire0234 = {
 			}
 		}
 	}
-	k_kingdom0234 = {
+	k_elizion = {
 		color={ 216 28 107 }
 		color2={ 255 255 255 }
 		
@@ -5397,7 +5397,7 @@ e_empire0234 = {
 		}
 	}
 }
-e_empire0372 = {
+e_argum = {
 	color={ 252 156 43 }
 	color2={ 255 255 255 }
 	
@@ -5405,7 +5405,7 @@ e_empire0372 = {
 	
 	culture = egyptian_arabic
 	
-	k_kingdom0396 = {
+	k_macrobbe = {
 		color={ 56 139 168 }
 		color2={ 255 255 255 }
 		
@@ -5659,7 +5659,7 @@ e_empire0372 = {
 			}
 		}
 	}
-	k_kingdom0510 = {
+	k_prydess = {
 		color={ 199 193 22 }
 		color2={ 255 255 255 }
 		
@@ -5874,7 +5874,7 @@ e_empire0372 = {
 			}
 		}
 	}
-	k_kingdom0372 = {
+	k_argus = {
 		color={ 252 156 43 }
 		color2={ 255 255 255 }
 		
@@ -6233,7 +6233,7 @@ e_empire0372 = {
 		}
 	}
 }
-e_empire0392 = {
+e_vostum = {
 	color={ 210 224 61 }
 	color2={ 255 255 255 }
 	
@@ -6241,7 +6241,7 @@ e_empire0392 = {
 	
 	culture = songhay
 	
-	k_kingdom0483 = {
+	k_wilksid = {
 		color={ 235 158 16 }
 		color2={ 255 255 255 }
 		
@@ -6555,7 +6555,7 @@ e_empire0392 = {
 			}
 		}
 	}
-	k_kingdom0514 = {
+	k_davir = {
 		color={ 239 133 42 }
 		color2={ 255 255 255 }
 		
@@ -6982,7 +6982,7 @@ e_empire0392 = {
 			}
 		}
 	}
-	k_kingdom0392 = {
+	k_vosto = {
 		color={ 210 224 61 }
 		color2={ 255 255 255 }
 		
@@ -7361,7 +7361,7 @@ e_empire0392 = {
 		}
 	}
 }
-e_empire0398 = {
+e_gran_adelia = {
 	color={ 17 159 52 }
 	color2={ 255 255 255 }
 	
@@ -7369,7 +7369,7 @@ e_empire0398 = {
 	
 	culture = hindustani
 	
-	k_kingdom0245 = {
+	k_victiri = {
 		color={ 4 9 249 }
 		color2={ 255 255 255 }
 		
@@ -7591,7 +7591,7 @@ e_empire0398 = {
 			}
 		}
 	}
-	k_kingdom0252 = {
+	k_oettir = {
 		color={ 55 37 212 }
 		color2={ 255 255 255 }
 		
@@ -7771,7 +7771,7 @@ e_empire0398 = {
 			}
 		}
 	}
-	k_kingdom0354 = {
+	k_domus = {
 		color={ 10 120 40 }
 		color2={ 255 255 255 }
 		
@@ -7913,7 +7913,7 @@ e_empire0398 = {
 			}
 		}
 	}
-	k_kingdom0385 = {
+	k_south_adelie = {
 		color={ 40 126 18 }
 		color2={ 255 255 255 }
 		
@@ -8181,7 +8181,7 @@ e_empire0398 = {
 			}
 		}
 	}
-	k_kingdom0398 = {
+	k_north_adelie = {
 		color={ 17 159 52 }
 		color2={ 255 255 255 }
 		
@@ -8433,7 +8433,7 @@ e_empire0398 = {
 		}
 	}
 }
-e_empire0457 = {
+e_kempia = {
 	color={ 176 8 21 }
 	color2={ 255 255 255 }
 	
@@ -8441,7 +8441,7 @@ e_empire0457 = {
 	
 	culture = han
 	
-	k_kingdom0437 = {
+	k_enderby = {
 		color={ 15 131 126 }
 		color2={ 255 255 255 }
 		
@@ -8811,7 +8811,7 @@ e_empire0457 = {
 			}
 		}
 	}
-	k_kingdom0457 = {
+	k_kemp = {
 		color={ 176 8 21 }
 		color2={ 255 255 255 }
 		

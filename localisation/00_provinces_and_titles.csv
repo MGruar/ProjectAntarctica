@@ -867,8 +867,8 @@ b_barony0013g;Barony0013g;Barony0013g;Barony0013g;;Barony0013g;;;;;;;;;x
 b_barony0013h;Barony0013h;Barony0013h;Barony0013h;;Barony0013h;;;;;;;;;x
 b_barony0013i;Barony0013i;Barony0013i;Barony0013i;;Barony0013i;;;;;;;;;x
 b_barony0013j;Barony0013j;Barony0013j;Barony0013j;;Barony0013j;;;;;;;;;x
-k_kingdom0014;Kingdom0014;Kingdom0014;Kingdom0014;;Kingdom0014;;;;;;;;;x
-k_kingdom0014_adj;Kingdom0014;Kingdom0014;Kingdom0014;;Kingdom0014;;;;;;;;;x
+k_graeme;Graeme;Graeme;Graeme;;Graeme;;;;;;;;;x
+k_graeme_adj;Graeme;Graeme;Graeme;;Graeme;;;;;;;;;x
 d_duchy0014;Duchy0014;Duchy0014;Duchy0014;;Duchy0014;;;;;;;;;x
 d_duchy0014_adj;Duchy0014;Duchy0014;Duchy0014;;Duchy0014;;;;;;;;;x
 c_province0014_adj;Province0014;Province0014;Province0014;;Province0014;;;;;;;;;x
@@ -1072,10 +1072,10 @@ b_barony0034g;Barony0034g;Barony0034g;Barony0034g;;Barony0034g;;;;;;;;;x
 b_barony0034h;Barony0034h;Barony0034h;Barony0034h;;Barony0034h;;;;;;;;;x
 b_barony0034i;Barony0034i;Barony0034i;Barony0034i;;Barony0034i;;;;;;;;;x
 b_barony0034j;Barony0034j;Barony0034j;Barony0034j;;Barony0034j;;;;;;;;;x
-e_empire0035;Empire0035;Empire0035;Empire0035;;Empire0035;;;;;;;;;x
-e_empire0035_adj;Empire0035;Empire0035;Empire0035;;Empire0035;;;;;;;;;x
-k_kingdom0035;Kingdom0035;Kingdom0035;Kingdom0035;;Kingdom0035;;;;;;;;;x
-k_kingdom0035_adj;Kingdom0035;Kingdom0035;Kingdom0035;;Kingdom0035;;;;;;;;;x
+e_western_isles;Western Isles;Western Isles;Western Isles;;Western Isles;;;;;;;;;x
+e_western_isles_adj;Western Isles;Western Isles;Western Isles;;Western Isles;;;;;;;;;x
+k_paelme;Paelme;Paelme;Paelme;;Paelme;;;;;;;;;x
+k_paelme_adj;Paelme;Paelme;Paelme;;Paelme;;;;;;;;;x
 d_duchy0035;Duchy0035;Duchy0035;Duchy0035;;Duchy0035;;;;;;;;;x
 d_duchy0035_adj;Duchy0035;Duchy0035;Duchy0035;;Duchy0035;;;;;;;;;x
 c_province0035_adj;Province0035;Province0035;Province0035;;Province0035;;;;;;;;;x
@@ -1165,8 +1165,8 @@ b_barony0043g;Barony0043g;Barony0043g;Barony0043g;;Barony0043g;;;;;;;;;x
 b_barony0043h;Barony0043h;Barony0043h;Barony0043h;;Barony0043h;;;;;;;;;x
 b_barony0043i;Barony0043i;Barony0043i;Barony0043i;;Barony0043i;;;;;;;;;x
 b_barony0043j;Barony0043j;Barony0043j;Barony0043j;;Barony0043j;;;;;;;;;x
-k_kingdom0044;Kingdom0044;Kingdom0044;Kingdom0044;;Kingdom0044;;;;;;;;;x
-k_kingdom0044_adj;Kingdom0044;Kingdom0044;Kingdom0044;;Kingdom0044;;;;;;;;;x
+k_ellswaere;Ellswaere;Ellswaere;Ellswaere;;Ellswaere;;;;;;;;;x
+k_ellswaere_adj;Ellswaere;Ellswaere;Ellswaere;;Ellswaere;;;;;;;;;x
 d_duchy0044;Duchy0044;Duchy0044;Duchy0044;;Duchy0044;;;;;;;;;x
 d_duchy0044_adj;Duchy0044;Duchy0044;Duchy0044;;Duchy0044;;;;;;;;;x
 c_province0044_adj;Province0044;Province0044;Province0044;;Province0044;;;;;;;;;x
@@ -1216,8 +1216,8 @@ b_barony0048g;Barony0048g;Barony0048g;Barony0048g;;Barony0048g;;;;;;;;;x
 b_barony0048h;Barony0048h;Barony0048h;Barony0048h;;Barony0048h;;;;;;;;;x
 b_barony0048i;Barony0048i;Barony0048i;Barony0048i;;Barony0048i;;;;;;;;;x
 b_barony0048j;Barony0048j;Barony0048j;Barony0048j;;Barony0048j;;;;;;;;;x
-k_kingdom0049;Kingdom0049;Kingdom0049;Kingdom0049;;Kingdom0049;;;;;;;;;x
-k_kingdom0049_adj;Kingdom0049;Kingdom0049;Kingdom0049;;Kingdom0049;;;;;;;;;x
+k_baerde;Baerde;Baerde;Baerde;;Baerde;;;;;;;;;x
+k_baerde_adj;Baerde;Baerde;Baerde;;Baerde;;;;;;;;;x
 d_duchy0049;Duchy0049;Duchy0049;Duchy0049;;Duchy0049;;;;;;;;;x
 d_duchy0049_adj;Duchy0049;Duchy0049;Duchy0049;;Duchy0049;;;;;;;;;x
 c_province0049_adj;Province0049;Province0049;Province0049;;Province0049;;;;;;;;;x
@@ -1515,8 +1515,8 @@ b_barony0079g;Barony0079g;Barony0079g;Barony0079g;;Barony0079g;;;;;;;;;x
 b_barony0079h;Barony0079h;Barony0079h;Barony0079h;;Barony0079h;;;;;;;;;x
 b_barony0079i;Barony0079i;Barony0079i;Barony0079i;;Barony0079i;;;;;;;;;x
 b_barony0079j;Barony0079j;Barony0079j;Barony0079j;;Barony0079j;;;;;;;;;x
-k_kingdom0080;Kingdom0080;Kingdom0080;Kingdom0080;;Kingdom0080;;;;;;;;;x
-k_kingdom0080_adj;Kingdom0080;Kingdom0080;Kingdom0080;;Kingdom0080;;;;;;;;;x
+k_maede;Maede;Maede;Maede;;Maede;;;;;;;;;x
+k_maede_adj;Maede;Maede;Maede;;Maede;;;;;;;;;x
 d_duchy0080;Duchy0080;Duchy0080;Duchy0080;;Duchy0080;;;;;;;;;x
 d_duchy0080_adj;Duchy0080;Duchy0080;Duchy0080;;Duchy0080;;;;;;;;;x
 c_province0080_adj;Province0080;Province0080;Province0080;;Province0080;;;;;;;;;x
@@ -1620,8 +1620,8 @@ b_barony0090g;Barony0090g;Barony0090g;Barony0090g;;Barony0090g;;;;;;;;;x
 b_barony0090h;Barony0090h;Barony0090h;Barony0090h;;Barony0090h;;;;;;;;;x
 b_barony0090i;Barony0090i;Barony0090i;Barony0090i;;Barony0090i;;;;;;;;;x
 b_barony0090j;Barony0090j;Barony0090j;Barony0090j;;Barony0090j;;;;;;;;;x
-k_kingdom0091;Kingdom0091;Kingdom0091;Kingdom0091;;Kingdom0091;;;;;;;;;x
-k_kingdom0091_adj;Kingdom0091;Kingdom0091;Kingdom0091;;Kingdom0091;;;;;;;;;x
+k_shaekleton;Shaekleton;Shaekleton;Shaekleton;;Shaekleton;;;;;;;;;x
+k_shaekleton_adj;Shaekleton;Shaekleton;Shaekleton;;Shaekleton;;;;;;;;;x
 d_duchy0091;Duchy0091;Duchy0091;Duchy0091;;Duchy0091;;;;;;;;;x
 d_duchy0091_adj;Duchy0091;Duchy0091;Duchy0091;;Duchy0091;;;;;;;;;x
 c_province0091_adj;Province0091;Province0091;Province0091;;Province0091;;;;;;;;;x
@@ -1823,8 +1823,8 @@ b_barony0111g;Barony0111g;Barony0111g;Barony0111g;;Barony0111g;;;;;;;;;x
 b_barony0111h;Barony0111h;Barony0111h;Barony0111h;;Barony0111h;;;;;;;;;x
 b_barony0111i;Barony0111i;Barony0111i;Barony0111i;;Barony0111i;;;;;;;;;x
 b_barony0111j;Barony0111j;Barony0111j;Barony0111j;;Barony0111j;;;;;;;;;x
-k_kingdom0112;Kingdom0112;Kingdom0112;Kingdom0112;;Kingdom0112;;;;;;;;;x
-k_kingdom0112_adj;Kingdom0112;Kingdom0112;Kingdom0112;;Kingdom0112;;;;;;;;;x
+k_coets;Coets;Coets;Coets;;Coets;;;;;;;;;x
+k_coets_adj;Coets;Coets;Coets;;Coets;;;;;;;;;x
 d_duchy0112;Duchy0112;Duchy0112;Duchy0112;;Duchy0112;;;;;;;;;x
 d_duchy0112_adj;Duchy0112;Duchy0112;Duchy0112;;Duchy0112;;;;;;;;;x
 c_province0112_adj;Province0112;Province0112;Province0112;;Province0112;;;;;;;;;x
@@ -1836,8 +1836,8 @@ b_barony0112g;Barony0112g;Barony0112g;Barony0112g;;Barony0112g;;;;;;;;;x
 b_barony0112h;Barony0112h;Barony0112h;Barony0112h;;Barony0112h;;;;;;;;;x
 b_barony0112i;Barony0112i;Barony0112i;Barony0112i;;Barony0112i;;;;;;;;;x
 b_barony0112j;Barony0112j;Barony0112j;Barony0112j;;Barony0112j;;;;;;;;;x
-k_kingdom0113;Kingdom0113;Kingdom0113;Kingdom0113;;Kingdom0113;;;;;;;;;x
-k_kingdom0113_adj;Kingdom0113;Kingdom0113;Kingdom0113;;Kingdom0113;;;;;;;;;x
+k_traenge;Traenge;Traenge;Traenge;;Traenge;;;;;;;;;x
+k_traenge_adj;Traenge;Traenge;Traenge;;Traenge;;;;;;;;;x
 d_duchy0113;Duchy0113;Duchy0113;Duchy0113;;Duchy0113;;;;;;;;;x
 d_duchy0113_adj;Duchy0113;Duchy0113;Duchy0113;;Duchy0113;;;;;;;;;x
 c_province0113_adj;Province0113;Province0113;Province0113;;Province0113;;;;;;;;;x
@@ -2041,10 +2041,10 @@ b_barony0133g;Barony0133g;Barony0133g;Barony0133g;;Barony0133g;;;;;;;;;x
 b_barony0133h;Barony0133h;Barony0133h;Barony0133h;;Barony0133h;;;;;;;;;x
 b_barony0133i;Barony0133i;Barony0133i;Barony0133i;;Barony0133i;;;;;;;;;x
 b_barony0133j;Barony0133j;Barony0133j;Barony0133j;;Barony0133j;;;;;;;;;x
-e_empire0134;Empire0134;Empire0134;Empire0134;;Empire0134;;;;;;;;;x
-e_empire0134_adj;Empire0134;Empire0134;Empire0134;;Empire0134;;;;;;;;;x
-k_kingdom0134;Kingdom0134;Kingdom0134;Kingdom0134;;Kingdom0134;;;;;;;;;x
-k_kingdom0134_adj;Kingdom0134;Kingdom0134;Kingdom0134;;Kingdom0134;;;;;;;;;x
+e_shactonnia;Shactonnia;Shactonnia;Shactonnia;;Shactonnia;;;;;;;;;x
+e_shactonnia_adj;Shactonnia;Shactonnia;Shactonnia;;Shactonnia;;;;;;;;;x
+k_reston;Reston;Reston;Reston;;Reston;;;;;;;;;x
+k_reston_adj;Reston;Reston;Reston;;Reston;;;;;;;;;x
 d_duchy0134;Duchy0134;Duchy0134;Duchy0134;;Duchy0134;;;;;;;;;x
 d_duchy0134_adj;Duchy0134;Duchy0134;Duchy0134;;Duchy0134;;;;;;;;;x
 c_province0134_adj;Province0134;Province0134;Province0134;;Province0134;;;;;;;;;x
@@ -2326,10 +2326,10 @@ b_barony0162g;Barony0162g;Barony0162g;Barony0162g;;Barony0162g;;;;;;;;;x
 b_barony0162h;Barony0162h;Barony0162h;Barony0162h;;Barony0162h;;;;;;;;;x
 b_barony0162i;Barony0162i;Barony0162i;Barony0162i;;Barony0162i;;;;;;;;;x
 b_barony0162j;Barony0162j;Barony0162j;Barony0162j;;Barony0162j;;;;;;;;;x
-e_empire0163;Empire0163;Empire0163;Empire0163;;Empire0163;;;;;;;;;x
-e_empire0163_adj;Empire0163;Empire0163;Empire0163;;Empire0163;;;;;;;;;x
-k_kingdom0163;Kingdom0163;Kingdom0163;Kingdom0163;;Kingdom0163;;;;;;;;;x
-k_kingdom0163_adj;Kingdom0163;Kingdom0163;Kingdom0163;;Kingdom0163;;;;;;;;;x
+e_fujarra;Fujarra;Fujarra;Fujarra;;Fujarra;;;;;;;;;x
+e_fujarra_adj;Fujarra;Fujarra;Fujarra;;Fujarra;;;;;;;;;x
+k_fujarra;Fujarra;Fujarra;Fujarra;;Fujarra;;;;;;;;;x
+k_fujarra_adj;Fujarra;Fujarra;Fujarra;;Fujarra;;;;;;;;;x
 d_duchy0163;Duchy0163;Duchy0163;Duchy0163;;Duchy0163;;;;;;;;;x
 d_duchy0163_adj;Duchy0163;Duchy0163;Duchy0163;;Duchy0163;;;;;;;;;x
 c_province0163_adj;Province0163;Province0163;Province0163;;Province0163;;;;;;;;;x
@@ -2543,10 +2543,10 @@ b_barony0185g;Barony0185g;Barony0185g;Barony0185g;;Barony0185g;;;;;;;;;x
 b_barony0185h;Barony0185h;Barony0185h;Barony0185h;;Barony0185h;;;;;;;;;x
 b_barony0185i;Barony0185i;Barony0185i;Barony0185i;;Barony0185i;;;;;;;;;x
 b_barony0185j;Barony0185j;Barony0185j;Barony0185j;;Barony0185j;;;;;;;;;x
-e_empire0186;Empire0186;Empire0186;Empire0186;;Empire0186;;;;;;;;;x
-e_empire0186_adj;Empire0186;Empire0186;Empire0186;;Empire0186;;;;;;;;;x
-k_kingdom0186;Kingdom0186;Kingdom0186;Kingdom0186;;Kingdom0186;;;;;;;;;x
-k_kingdom0186_adj;Kingdom0186;Kingdom0186;Kingdom0186;;Kingdom0186;;;;;;;;;x
+e_dronnin;Dronnin;Dronnin;Dronnin;;Dronnin;;;;;;;;;x
+e_dronnin_adj;Dronnin;Dronnin;Dronnin;;Dronnin;;;;;;;;;x
+k_dronne;Dronne;Dronne;Dronne;;Dronne;;;;;;;;;x
+k_dronne_adj;Dronne;Dronne;Dronne;;Dronne;;;;;;;;;x
 d_duchy0186;Duchy0186;Duchy0186;Duchy0186;;Duchy0186;;;;;;;;;x
 d_duchy0186_adj;Duchy0186;Duchy0186;Duchy0186;;Duchy0186;;;;;;;;;x
 c_province0186_adj;Province0186;Province0186;Province0186;;Province0186;;;;;;;;;x
@@ -2585,10 +2585,10 @@ b_barony0189g;Barony0189g;Barony0189g;Barony0189g;;Barony0189g;;;;;;;;;x
 b_barony0189h;Barony0189h;Barony0189h;Barony0189h;;Barony0189h;;;;;;;;;x
 b_barony0189i;Barony0189i;Barony0189i;Barony0189i;;Barony0189i;;;;;;;;;x
 b_barony0189j;Barony0189j;Barony0189j;Barony0189j;;Barony0189j;;;;;;;;;x
-e_empire0190;Empire0190;Empire0190;Empire0190;;Empire0190;;;;;;;;;x
-e_empire0190_adj;Empire0190;Empire0190;Empire0190;;Empire0190;;;;;;;;;x
-k_kingdom0190;Kingdom0190;Kingdom0190;Kingdom0190;;Kingdom0190;;;;;;;;;x
-k_kingdom0190_adj;Kingdom0190;Kingdom0190;Kingdom0190;;Kingdom0190;;;;;;;;;x
+e_transantar;Transantar;Transantar;Transantar;;Transantar;;;;;;;;;x
+e_transantar_adj;Transantar;Transantar;Transantar;;Transantar;;;;;;;;;x
+k_alexion;Alexion;Alexion;Alexion;;Alexion;;;;;;;;;x
+k_alexion_adj;Alexion;Alexion;Alexion;;Alexion;;;;;;;;;x
 d_duchy0190;Duchy0190;Duchy0190;Duchy0190;;Duchy0190;;;;;;;;;x
 d_duchy0190_adj;Duchy0190;Duchy0190;Duchy0190;;Duchy0190;;;;;;;;;x
 c_province0190_adj;Province0190;Province0190;Province0190;;Province0190;;;;;;;;;x
@@ -2796,8 +2796,8 @@ b_barony0210g;Barony0210g;Barony0210g;Barony0210g;;Barony0210g;;;;;;;;;x
 b_barony0210h;Barony0210h;Barony0210h;Barony0210h;;Barony0210h;;;;;;;;;x
 b_barony0210i;Barony0210i;Barony0210i;Barony0210i;;Barony0210i;;;;;;;;;x
 b_barony0210j;Barony0210j;Barony0210j;Barony0210j;;Barony0210j;;;;;;;;;x
-k_kingdom0211;Kingdom0211;Kingdom0211;Kingdom0211;;Kingdom0211;;;;;;;;;x
-k_kingdom0211_adj;Kingdom0211;Kingdom0211;Kingdom0211;;Kingdom0211;;;;;;;;;x
+k_romarra;Romarra;Romarra;Romarra;;Romarra;;;;;;;;;x
+k_romarra_adj;Romarra;Romarra;Romarra;;Romarra;;;;;;;;;x
 d_duchy0211;Duchy0211;Duchy0211;Duchy0211;;Duchy0211;;;;;;;;;x
 d_duchy0211_adj;Duchy0211;Duchy0211;Duchy0211;;Duchy0211;;;;;;;;;x
 c_province0211_adj;Province0211;Province0211;Province0211;;Province0211;;;;;;;;;x
@@ -3023,10 +3023,10 @@ b_barony0233g;Barony0233g;Barony0233g;Barony0233g;;Barony0233g;;;;;;;;;x
 b_barony0233h;Barony0233h;Barony0233h;Barony0233h;;Barony0233h;;;;;;;;;x
 b_barony0233i;Barony0233i;Barony0233i;Barony0233i;;Barony0233i;;;;;;;;;x
 b_barony0233j;Barony0233j;Barony0233j;Barony0233j;;Barony0233j;;;;;;;;;x
-e_empire0234;Empire0234;Empire0234;Empire0234;;Empire0234;;;;;;;;;x
-e_empire0234_adj;Empire0234;Empire0234;Empire0234;;Empire0234;;;;;;;;;x
-k_kingdom0234;Kingdom0234;Kingdom0234;Kingdom0234;;Kingdom0234;;;;;;;;;x
-k_kingdom0234_adj;Kingdom0234;Kingdom0234;Kingdom0234;;Kingdom0234;;;;;;;;;x
+e_elizabethion;Elizabethion;Elizabethion;Elizabethion;;Elizabethion;;;;;;;;;x
+e_elizabethion_adj;Elizabethion;Elizabethion;Elizabethion;;Elizabethion;;;;;;;;;x
+k_elizion;Elizion;Elizion;Elizion;;Elizion;;;;;;;;;x
+k_elizion_adj;Elizion;Elizion;Elizion;;Elizion;;;;;;;;;x
 d_duchy0234;Duchy0234;Duchy0234;Duchy0234;;Duchy0234;;;;;;;;;x
 d_duchy0234_adj;Duchy0234;Duchy0234;Duchy0234;;Duchy0234;;;;;;;;;x
 c_province0234_adj;Province0234;Province0234;Province0234;;Province0234;;;;;;;;;x
@@ -3132,8 +3132,8 @@ b_barony0244g;Barony0244g;Barony0244g;Barony0244g;;Barony0244g;;;;;;;;;x
 b_barony0244h;Barony0244h;Barony0244h;Barony0244h;;Barony0244h;;;;;;;;;x
 b_barony0244i;Barony0244i;Barony0244i;Barony0244i;;Barony0244i;;;;;;;;;x
 b_barony0244j;Barony0244j;Barony0244j;Barony0244j;;Barony0244j;;;;;;;;;x
-k_kingdom0245;Kingdom0245;Kingdom0245;Kingdom0245;;Kingdom0245;;;;;;;;;x
-k_kingdom0245_adj;Kingdom0245;Kingdom0245;Kingdom0245;;Kingdom0245;;;;;;;;;x
+k_victiri;Victiri;Victiri;Victiri;;Victiri;;;;;;;;;x
+k_victiri_adj;Victiri;Victiri;Victiri;;Victiri;;;;;;;;;x
 d_duchy0245;Duchy0245;Duchy0245;Duchy0245;;Duchy0245;;;;;;;;;x
 d_duchy0245_adj;Duchy0245;Duchy0245;Duchy0245;;Duchy0245;;;;;;;;;x
 c_province0245_adj;Province0245;Province0245;Province0245;;Province0245;;;;;;;;;x
@@ -3203,8 +3203,8 @@ b_barony0251g;Barony0251g;Barony0251g;Barony0251g;;Barony0251g;;;;;;;;;x
 b_barony0251h;Barony0251h;Barony0251h;Barony0251h;;Barony0251h;;;;;;;;;x
 b_barony0251i;Barony0251i;Barony0251i;Barony0251i;;Barony0251i;;;;;;;;;x
 b_barony0251j;Barony0251j;Barony0251j;Barony0251j;;Barony0251j;;;;;;;;;x
-k_kingdom0252;Kingdom0252;Kingdom0252;Kingdom0252;;Kingdom0252;;;;;;;;;x
-k_kingdom0252_adj;Kingdom0252;Kingdom0252;Kingdom0252;;Kingdom0252;;;;;;;;;x
+k_oettir;Oettir;Oettir;Oettir;;Oettir;;;;;;;;;x
+k_oettir_adj;Oettir;Oettir;Oettir;;Oettir;;;;;;;;;x
 d_duchy0252;Duchy0252;Duchy0252;Duchy0252;;Duchy0252;;;;;;;;;x
 d_duchy0252_adj;Duchy0252;Duchy0252;Duchy0252;;Duchy0252;;;;;;;;;x
 c_province0252_adj;Province0252;Province0252;Province0252;;Province0252;;;;;;;;;x
@@ -3529,8 +3529,8 @@ b_barony0285g;Barony0285g;Barony0285g;Barony0285g;;Barony0285g;;;;;;;;;x
 b_barony0285h;Barony0285h;Barony0285h;Barony0285h;;Barony0285h;;;;;;;;;x
 b_barony0285i;Barony0285i;Barony0285i;Barony0285i;;Barony0285i;;;;;;;;;x
 b_barony0285j;Barony0285j;Barony0285j;Barony0285j;;Barony0285j;;;;;;;;;x
-k_kingdom0286;Kingdom0286;Kingdom0286;Kingdom0286;;Kingdom0286;;;;;;;;;x
-k_kingdom0286_adj;Kingdom0286;Kingdom0286;Kingdom0286;;Kingdom0286;;;;;;;;;x
+k_fimbul;Fimbul;Fimbul;Fimbul;;Fimbul;;;;;;;;;x
+k_fimbul_adj;Fimbul;Fimbul;Fimbul;;Fimbul;;;;;;;;;x
 d_duchy0286;Duchy0286;Duchy0286;Duchy0286;;Duchy0286;;;;;;;;;x
 d_duchy0286_adj;Duchy0286;Duchy0286;Duchy0286;;Duchy0286;;;;;;;;;x
 c_province0286_adj;Province0286;Province0286;Province0286;;Province0286;;;;;;;;;x
@@ -3854,8 +3854,8 @@ b_barony0318g;Barony0318g;Barony0318g;Barony0318g;;Barony0318g;;;;;;;;;x
 b_barony0318h;Barony0318h;Barony0318h;Barony0318h;;Barony0318h;;;;;;;;;x
 b_barony0318i;Barony0318i;Barony0318i;Barony0318i;;Barony0318i;;;;;;;;;x
 b_barony0318j;Barony0318j;Barony0318j;Barony0318j;;Barony0318j;;;;;;;;;x
-k_kingdom0319;Kingdom0319;Kingdom0319;Kingdom0319;;Kingdom0319;;;;;;;;;x
-k_kingdom0319_adj;Kingdom0319;Kingdom0319;Kingdom0319;;Kingdom0319;;;;;;;;;x
+k_abethi;Abethi;Abethi;Abethi;;Abethi;;;;;;;;;x
+k_abethi_adj;Abethi;Abethi;Abethi;;Abethi;;;;;;;;;x
 d_duchy0319;Duchy0319;Duchy0319;Duchy0319;;Duchy0319;;;;;;;;;x
 d_duchy0319_adj;Duchy0319;Duchy0319;Duchy0319;;Duchy0319;;;;;;;;;x
 c_province0319_adj;Province0319;Province0319;Province0319;;Province0319;;;;;;;;;x
@@ -3867,8 +3867,8 @@ b_barony0319g;Barony0319g;Barony0319g;Barony0319g;;Barony0319g;;;;;;;;;x
 b_barony0319h;Barony0319h;Barony0319h;Barony0319h;;Barony0319h;;;;;;;;;x
 b_barony0319i;Barony0319i;Barony0319i;Barony0319i;;Barony0319i;;;;;;;;;x
 b_barony0319j;Barony0319j;Barony0319j;Barony0319j;;Barony0319j;;;;;;;;;x
-k_kingdom0320;Kingdom0320;Kingdom0320;Kingdom0320;;Kingdom0320;;;;;;;;;x
-k_kingdom0320_adj;Kingdom0320;Kingdom0320;Kingdom0320;;Kingdom0320;;;;;;;;;x
+k_valkyr;Valkyr;Valkyr;Valkyr;;Valkyr;;;;;;;;;x
+k_valkyr_adj;Valkyr;Valkyr;Valkyr;;Valkyr;;;;;;;;;x
 d_duchy0320;Duchy0320;Duchy0320;Duchy0320;;Duchy0320;;;;;;;;;x
 d_duchy0320_adj;Duchy0320;Duchy0320;Duchy0320;;Duchy0320;;;;;;;;;x
 c_province0320_adj;Province0320;Province0320;Province0320;;Province0320;;;;;;;;;x
@@ -4121,8 +4121,8 @@ b_barony0345g;Barony0345g;Barony0345g;Barony0345g;;Barony0345g;;;;;;;;;x
 b_barony0345h;Barony0345h;Barony0345h;Barony0345h;;Barony0345h;;;;;;;;;x
 b_barony0345i;Barony0345i;Barony0345i;Barony0345i;;Barony0345i;;;;;;;;;x
 b_barony0345j;Barony0345j;Barony0345j;Barony0345j;;Barony0345j;;;;;;;;;x
-k_kingdom0346;Kingdom0346;Kingdom0346;Kingdom0346;;Kingdom0346;;;;;;;;;x
-k_kingdom0346_adj;Kingdom0346;Kingdom0346;Kingdom0346;;Kingdom0346;;;;;;;;;x
+k_thorsh;Thorsh;Thorsh;Thorsh;;Thorsh;;;;;;;;;x
+k_thorsh_adj;Thorsh;Thorsh;Thorsh;;Thorsh;;;;;;;;;x
 d_duchy0346;Duchy0346;Duchy0346;Duchy0346;;Duchy0346;;;;;;;;;x
 d_duchy0346_adj;Duchy0346;Duchy0346;Duchy0346;;Duchy0346;;;;;;;;;x
 c_province0346_adj;Province0346;Province0346;Province0346;;Province0346;;;;;;;;;x
@@ -4203,8 +4203,8 @@ b_barony0353g;Barony0353g;Barony0353g;Barony0353g;;Barony0353g;;;;;;;;;x
 b_barony0353h;Barony0353h;Barony0353h;Barony0353h;;Barony0353h;;;;;;;;;x
 b_barony0353i;Barony0353i;Barony0353i;Barony0353i;;Barony0353i;;;;;;;;;x
 b_barony0353j;Barony0353j;Barony0353j;Barony0353j;;Barony0353j;;;;;;;;;x
-k_kingdom0354;Kingdom0354;Kingdom0354;Kingdom0354;;Kingdom0354;;;;;;;;;x
-k_kingdom0354_adj;Kingdom0354;Kingdom0354;Kingdom0354;;Kingdom0354;;;;;;;;;x
+k_domus;Domus;Domus;Domus;;Domus;;;;;;;;;x
+k_domus_adj;Domus;Domus;Domus;;Domus;;;;;;;;;x
 d_duchy0354;Duchy0354;Duchy0354;Duchy0354;;Duchy0354;;;;;;;;;x
 d_duchy0354_adj;Duchy0354;Duchy0354;Duchy0354;;Duchy0354;;;;;;;;;x
 c_province0354_adj;Province0354;Province0354;Province0354;;Province0354;;;;;;;;;x
@@ -4375,10 +4375,10 @@ b_barony0371g;Barony0371g;Barony0371g;Barony0371g;;Barony0371g;;;;;;;;;x
 b_barony0371h;Barony0371h;Barony0371h;Barony0371h;;Barony0371h;;;;;;;;;x
 b_barony0371i;Barony0371i;Barony0371i;Barony0371i;;Barony0371i;;;;;;;;;x
 b_barony0371j;Barony0371j;Barony0371j;Barony0371j;;Barony0371j;;;;;;;;;x
-e_empire0372;Empire0372;Empire0372;Empire0372;;Empire0372;;;;;;;;;x
-e_empire0372_adj;Empire0372;Empire0372;Empire0372;;Empire0372;;;;;;;;;x
-k_kingdom0372;Kingdom0372;Kingdom0372;Kingdom0372;;Kingdom0372;;;;;;;;;x
-k_kingdom0372_adj;Kingdom0372;Kingdom0372;Kingdom0372;;Kingdom0372;;;;;;;;;x
+e_argum;Argum;Argum;Argum;;Argum;;;;;;;;;x
+e_argum_adj;Argum;Argum;Argum;;Argum;;;;;;;;;x
+k_argus;Argus;Argus;Argus;;Argus;;;;;;;;;x
+k_argus_adj;Argus;Argus;Argus;;Argus;;;;;;;;;x
 d_duchy0372;Duchy0372;Duchy0372;Duchy0372;;Duchy0372;;;;;;;;;x
 d_duchy0372_adj;Duchy0372;Duchy0372;Duchy0372;;Duchy0372;;;;;;;;;x
 c_province0372_adj;Province0372;Province0372;Province0372;;Province0372;;;;;;;;;x
@@ -4504,8 +4504,8 @@ b_barony0384g;Barony0384g;Barony0384g;Barony0384g;;Barony0384g;;;;;;;;;x
 b_barony0384h;Barony0384h;Barony0384h;Barony0384h;;Barony0384h;;;;;;;;;x
 b_barony0384i;Barony0384i;Barony0384i;Barony0384i;;Barony0384i;;;;;;;;;x
 b_barony0384j;Barony0384j;Barony0384j;Barony0384j;;Barony0384j;;;;;;;;;x
-k_kingdom0385;Kingdom0385;Kingdom0385;Kingdom0385;;Kingdom0385;;;;;;;;;x
-k_kingdom0385_adj;Kingdom0385;Kingdom0385;Kingdom0385;;Kingdom0385;;;;;;;;;x
+k_south_adelie;South Adelie;South Adelie;South Adelie;;South Adelie;;;;;;;;;x
+k_south_adelie_adj;South Adelie;South Adelie;South Adelie;;South Adelie;;;;;;;;;x
 d_duchy0385;Duchy0385;Duchy0385;Duchy0385;;Duchy0385;;;;;;;;;x
 d_duchy0385_adj;Duchy0385;Duchy0385;Duchy0385;;Duchy0385;;;;;;;;;x
 c_province0385_adj;Province0385;Province0385;Province0385;;Province0385;;;;;;;;;x
@@ -4579,10 +4579,10 @@ b_barony0391g;Barony0391g;Barony0391g;Barony0391g;;Barony0391g;;;;;;;;;x
 b_barony0391h;Barony0391h;Barony0391h;Barony0391h;;Barony0391h;;;;;;;;;x
 b_barony0391i;Barony0391i;Barony0391i;Barony0391i;;Barony0391i;;;;;;;;;x
 b_barony0391j;Barony0391j;Barony0391j;Barony0391j;;Barony0391j;;;;;;;;;x
-e_empire0392;Empire0392;Empire0392;Empire0392;;Empire0392;;;;;;;;;x
-e_empire0392_adj;Empire0392;Empire0392;Empire0392;;Empire0392;;;;;;;;;x
-k_kingdom0392;Kingdom0392;Kingdom0392;Kingdom0392;;Kingdom0392;;;;;;;;;x
-k_kingdom0392_adj;Kingdom0392;Kingdom0392;Kingdom0392;;Kingdom0392;;;;;;;;;x
+e_vostum;Vostum;Vostum;Vostum;;Vostum;;;;;;;;;x
+e_vostum_adj;Vostum;Vostum;Vostum;;Vostum;;;;;;;;;x
+k_vosto;Vosto;Vosto;Vosto;;Vosto;;;;;;;;;x
+k_vosto_adj;Vosto;Vosto;Vosto;;Vosto;;;;;;;;;x
 d_duchy0392;Duchy0392;Duchy0392;Duchy0392;;Duchy0392;;;;;;;;;x
 d_duchy0392_adj;Duchy0392;Duchy0392;Duchy0392;;Duchy0392;;;;;;;;;x
 c_province0392_adj;Province0392;Province0392;Province0392;;Province0392;;;;;;;;;x
@@ -4621,8 +4621,8 @@ b_barony0395g;Barony0395g;Barony0395g;Barony0395g;;Barony0395g;;;;;;;;;x
 b_barony0395h;Barony0395h;Barony0395h;Barony0395h;;Barony0395h;;;;;;;;;x
 b_barony0395i;Barony0395i;Barony0395i;Barony0395i;;Barony0395i;;;;;;;;;x
 b_barony0395j;Barony0395j;Barony0395j;Barony0395j;;Barony0395j;;;;;;;;;x
-k_kingdom0396;Kingdom0396;Kingdom0396;Kingdom0396;;Kingdom0396;;;;;;;;;x
-k_kingdom0396_adj;Kingdom0396;Kingdom0396;Kingdom0396;;Kingdom0396;;;;;;;;;x
+k_macrobbe;Macrobbe;Macrobbe;Macrobbe;;Macrobbe;;;;;;;;;x
+k_macrobbe_adj;Macrobbe;Macrobbe;Macrobbe;;Macrobbe;;;;;;;;;x
 d_duchy0396;Duchy0396;Duchy0396;Duchy0396;;Duchy0396;;;;;;;;;x
 d_duchy0396_adj;Duchy0396;Duchy0396;Duchy0396;;Duchy0396;;;;;;;;;x
 c_province0396_adj;Province0396;Province0396;Province0396;;Province0396;;;;;;;;;x
@@ -4643,10 +4643,10 @@ b_barony0397g;Barony0397g;Barony0397g;Barony0397g;;Barony0397g;;;;;;;;;x
 b_barony0397h;Barony0397h;Barony0397h;Barony0397h;;Barony0397h;;;;;;;;;x
 b_barony0397i;Barony0397i;Barony0397i;Barony0397i;;Barony0397i;;;;;;;;;x
 b_barony0397j;Barony0397j;Barony0397j;Barony0397j;;Barony0397j;;;;;;;;;x
-e_empire0398;Empire0398;Empire0398;Empire0398;;Empire0398;;;;;;;;;x
-e_empire0398_adj;Empire0398;Empire0398;Empire0398;;Empire0398;;;;;;;;;x
-k_kingdom0398;Kingdom0398;Kingdom0398;Kingdom0398;;Kingdom0398;;;;;;;;;x
-k_kingdom0398_adj;Kingdom0398;Kingdom0398;Kingdom0398;;Kingdom0398;;;;;;;;;x
+e_gran_adelia;Gran Adelia;Gran Adelia;Gran Adelia;;Gran Adelia;;;;;;;;;x
+e_gran_adelia_adj;Gran Adelia;Gran Adelia;Gran Adelia;;Gran Adelia;;;;;;;;;x
+k_north_adelie;North Adelie;North Adelie;North Adelie;;North Adelie;;;;;;;;;x
+k_north_adelie_adj;North Adelie;North Adelie;North Adelie;;North Adelie;;;;;;;;;x
 d_duchy0398;Duchy0398;Duchy0398;Duchy0398;;Duchy0398;;;;;;;;;x
 d_duchy0398_adj;Duchy0398;Duchy0398;Duchy0398;;Duchy0398;;;;;;;;;x
 c_province0398_adj;Province0398;Province0398;Province0398;;Province0398;;;;;;;;;x
@@ -5024,8 +5024,8 @@ b_barony0436g;Barony0436g;Barony0436g;Barony0436g;;Barony0436g;;;;;;;;;x
 b_barony0436h;Barony0436h;Barony0436h;Barony0436h;;Barony0436h;;;;;;;;;x
 b_barony0436i;Barony0436i;Barony0436i;Barony0436i;;Barony0436i;;;;;;;;;x
 b_barony0436j;Barony0436j;Barony0436j;Barony0436j;;Barony0436j;;;;;;;;;x
-k_kingdom0437;Kingdom0437;Kingdom0437;Kingdom0437;;Kingdom0437;;;;;;;;;x
-k_kingdom0437_adj;Kingdom0437;Kingdom0437;Kingdom0437;;Kingdom0437;;;;;;;;;x
+k_enderby;Enderby;Enderby;Enderby;;Enderby;;;;;;;;;x
+k_enderby_adj;Enderby;Enderby;Enderby;;Enderby;;;;;;;;;x
 d_duchy0437;Duchy0437;Duchy0437;Duchy0437;;Duchy0437;;;;;;;;;x
 d_duchy0437_adj;Duchy0437;Duchy0437;Duchy0437;;Duchy0437;;;;;;;;;x
 c_province0437_adj;Province0437;Province0437;Province0437;;Province0437;;;;;;;;;x
@@ -5216,10 +5216,10 @@ b_barony0456g;Barony0456g;Barony0456g;Barony0456g;;Barony0456g;;;;;;;;;x
 b_barony0456h;Barony0456h;Barony0456h;Barony0456h;;Barony0456h;;;;;;;;;x
 b_barony0456i;Barony0456i;Barony0456i;Barony0456i;;Barony0456i;;;;;;;;;x
 b_barony0456j;Barony0456j;Barony0456j;Barony0456j;;Barony0456j;;;;;;;;;x
-e_empire0457;Empire0457;Empire0457;Empire0457;;Empire0457;;;;;;;;;x
-e_empire0457_adj;Empire0457;Empire0457;Empire0457;;Empire0457;;;;;;;;;x
-k_kingdom0457;Kingdom0457;Kingdom0457;Kingdom0457;;Kingdom0457;;;;;;;;;x
-k_kingdom0457_adj;Kingdom0457;Kingdom0457;Kingdom0457;;Kingdom0457;;;;;;;;;x
+e_kempia;Kempia;Kempia;Kempia;;Kempia;;;;;;;;;x
+e_kempia_adj;Kempia;Kempia;Kempia;;Kempia;;;;;;;;;x
+k_kemp;Kemp;Kemp;Kemp;;Kemp;;;;;;;;;x
+k_kemp_adj;Kemp;Kemp;Kemp;;Kemp;;;;;;;;;x
 d_duchy0457;Duchy0457;Duchy0457;Duchy0457;;Duchy0457;;;;;;;;;x
 d_duchy0457_adj;Duchy0457;Duchy0457;Duchy0457;;Duchy0457;;;;;;;;;x
 c_province0457_adj;Province0457;Province0457;Province0457;;Province0457;;;;;;;;;x
@@ -5472,8 +5472,8 @@ b_barony0482g;Barony0482g;Barony0482g;Barony0482g;;Barony0482g;;;;;;;;;x
 b_barony0482h;Barony0482h;Barony0482h;Barony0482h;;Barony0482h;;;;;;;;;x
 b_barony0482i;Barony0482i;Barony0482i;Barony0482i;;Barony0482i;;;;;;;;;x
 b_barony0482j;Barony0482j;Barony0482j;Barony0482j;;Barony0482j;;;;;;;;;x
-k_kingdom0483;Kingdom0483;Kingdom0483;Kingdom0483;;Kingdom0483;;;;;;;;;x
-k_kingdom0483_adj;Kingdom0483;Kingdom0483;Kingdom0483;;Kingdom0483;;;;;;;;;x
+k_wilksid;Wilksid;Wilksid;Wilksid;;Wilksid;;;;;;;;;x
+k_wilksid_adj;Wilksid;Wilksid;Wilksid;;Wilksid;;;;;;;;;x
 d_duchy0483;Duchy0483;Duchy0483;Duchy0483;;Duchy0483;;;;;;;;;x
 d_duchy0483_adj;Duchy0483;Duchy0483;Duchy0483;;Duchy0483;;;;;;;;;x
 c_province0483_adj;Province0483;Province0483;Province0483;;Province0483;;;;;;;;;x
@@ -5733,8 +5733,8 @@ b_barony0509g;Barony0509g;Barony0509g;Barony0509g;;Barony0509g;;;;;;;;;x
 b_barony0509h;Barony0509h;Barony0509h;Barony0509h;;Barony0509h;;;;;;;;;x
 b_barony0509i;Barony0509i;Barony0509i;Barony0509i;;Barony0509i;;;;;;;;;x
 b_barony0509j;Barony0509j;Barony0509j;Barony0509j;;Barony0509j;;;;;;;;;x
-k_kingdom0510;Kingdom0510;Kingdom0510;Kingdom0510;;Kingdom0510;;;;;;;;;x
-k_kingdom0510_adj;Kingdom0510;Kingdom0510;Kingdom0510;;Kingdom0510;;;;;;;;;x
+k_prydess;Prydess;Prydess;Prydess;;Prydess;;;;;;;;;x
+k_prydess_adj;Prydess;Prydess;Prydess;;Prydess;;;;;;;;;x
 d_duchy0510;Duchy0510;Duchy0510;Duchy0510;;Duchy0510;;;;;;;;;x
 d_duchy0510_adj;Duchy0510;Duchy0510;Duchy0510;;Duchy0510;;;;;;;;;x
 c_province0510_adj;Province0510;Province0510;Province0510;;Province0510;;;;;;;;;x
@@ -5775,8 +5775,8 @@ b_barony0513g;Barony0513g;Barony0513g;Barony0513g;;Barony0513g;;;;;;;;;x
 b_barony0513h;Barony0513h;Barony0513h;Barony0513h;;Barony0513h;;;;;;;;;x
 b_barony0513i;Barony0513i;Barony0513i;Barony0513i;;Barony0513i;;;;;;;;;x
 b_barony0513j;Barony0513j;Barony0513j;Barony0513j;;Barony0513j;;;;;;;;;x
-k_kingdom0514;Kingdom0514;Kingdom0514;Kingdom0514;;Kingdom0514;;;;;;;;;x
-k_kingdom0514_adj;Kingdom0514;Kingdom0514;Kingdom0514;;Kingdom0514;;;;;;;;;x
+k_davir;Davir;Davir;Davir;;Davir;;;;;;;;;x
+k_davir_adj;Davir;Davir;Davir;;Davir;;;;;;;;;x
 d_duchy0514;Duchy0514;Duchy0514;Duchy0514;;Duchy0514;;;;;;;;;x
 d_duchy0514_adj;Duchy0514;Duchy0514;Duchy0514;;Duchy0514;;;;;;;;;x
 c_province0514_adj;Province0514;Province0514;Province0514;;Province0514;;;;;;;;;x

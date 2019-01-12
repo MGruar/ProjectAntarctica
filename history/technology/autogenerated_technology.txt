@@ -1,4 +1,4 @@
-# Empire0035
+# Western Isles
 technology = {
 	titles = {
 		d_duchy0001
@@ -27,25 +27,12 @@ technology = {
 	}
 }
 
-# Empire0134
+# Shactonnia
 technology = {
 	titles = {
 		d_duchy0061
 		d_duchy0067
 		d_duchy0091
-		d_duchy0103
-		d_duchy0121
-		d_duchy0123
-		d_duchy0128
-		d_duchy0134
-		d_duchy0138
-		d_duchy0159
-		d_duchy0162
-		d_duchy0193
-		d_duchy0198
-		d_duchy0211
-		d_duchy0224
-		d_duchy0268
 	}
 	1066 = {
 		military = 0.0
@@ -53,20 +40,69 @@ technology = {
 		culture = 0.0
 	}
 }
+technology = {
+	titles = {
+		d_duchy0103
+		d_duchy0121
+		d_duchy0128
+		d_duchy0134
+		d_duchy0138
+		d_duchy0159
+		d_duchy0162
+		d_duchy0193
+		d_duchy0211
+		d_duchy0224
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0123
+		d_duchy0198
+		d_duchy0268
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
 
-# Empire0163
+# Fujarra
 technology = {
 	titles = {
 		d_duchy0150
-		d_duchy0163
 		d_duchy0191
-		d_duchy0197
 		d_duchy0212
 		d_duchy0232
 		d_duchy0242
 		d_duchy0251
 		d_duchy0274
 		d_duchy0283
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0163
+		d_duchy0197
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
 		d_duchy0301
 		d_duchy0312
 		d_duchy0320
@@ -78,10 +114,21 @@ technology = {
 	}
 }
 
-# Empire0186
+# Dronnin
 technology = {
 	titles = {
 		d_duchy0055
+		d_duchy0310
+		d_duchy0346
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+technology = {
+	titles = {
 		d_duchy0075
 		d_duchy0085
 		d_duchy0095
@@ -99,38 +146,26 @@ technology = {
 		d_duchy0231
 		d_duchy0280
 		d_duchy0286
-		d_duchy0310
 		d_duchy0311
-		d_duchy0346
 		d_duchy0350
 		d_duchy0351
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
 	}
 }
 
-# Empire0190
+# Transantar
 technology = {
 	titles = {
 		d_duchy0052
 		d_duchy0057
 		d_duchy0059
 		d_duchy0072
-		d_duchy0080
-		d_duchy0094
 		d_duchy0097
-		d_duchy0105
 		d_duchy0113
-		d_duchy0116
-		d_duchy0133
-		d_duchy0153
-		d_duchy0169
-		d_duchy0190
-		d_duchy0203
-		d_duchy0233
 	}
 	1066 = {
 		military = 0.0
@@ -138,21 +173,58 @@ technology = {
 		culture = 0.0
 	}
 }
+technology = {
+	titles = {
+		d_duchy0080
+		d_duchy0133
+		d_duchy0169
+		d_duchy0203
+		d_duchy0233
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0094
+		d_duchy0105
+		d_duchy0116
+		d_duchy0153
+		d_duchy0190
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
 
-# Empire0234
+# Elizabethion
 technology = {
 	titles = {
 		d_duchy0234
-		d_duchy0236
 		d_duchy0249
 		d_duchy0265
 		d_duchy0269
+		d_duchy0297
+		d_duchy0308
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0236
 		d_duchy0281
 		d_duchy0291
 		d_duchy0295
-		d_duchy0297
 		d_duchy0298
-		d_duchy0308
 		d_duchy0319
 		d_duchy0326
 		d_duchy0333
@@ -160,16 +232,28 @@ technology = {
 		d_duchy0353
 	}
 	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+
+# Argum
+technology = {
+	titles = {
+		d_duchy0335
+		d_duchy0510
+		d_duchy0513
+		d_duchy0515
+	}
+	1066 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
 	}
 }
-
-# Empire0372
 technology = {
 	titles = {
-		d_duchy0335
 		d_duchy0341
 		d_duchy0365
 		d_duchy0372
@@ -182,30 +266,25 @@ technology = {
 		d_duchy0426
 		d_duchy0440
 		d_duchy0476
-		d_duchy0510
-		d_duchy0513
-		d_duchy0515
 	}
 	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
 	}
 }
 
-# Empire0392
+# Vostum
 technology = {
 	titles = {
 		d_duchy0389
 		d_duchy0391
 		d_duchy0392
 		d_duchy0418
-		d_duchy0422
 		d_duchy0424
 		d_duchy0436
 		d_duchy0453
 		d_duchy0462
-		d_duchy0465
 		d_duchy0471
 		d_duchy0475
 		d_duchy0483
@@ -220,28 +299,48 @@ technology = {
 		d_duchy0532
 	}
 	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0422
+		d_duchy0465
+	}
+	1066 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
 	}
 }
 
-# Empire0398
+# Gran Adelia
 technology = {
 	titles = {
 		d_duchy0195
-		d_duchy0207
 		d_duchy0222
 		d_duchy0245
-		d_duchy0252
-		d_duchy0254
 		d_duchy0287
-		d_duchy0300
 		d_duchy0317
-		d_duchy0330
-		d_duchy0339
 		d_duchy0343
 		d_duchy0354
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0207
+		d_duchy0252
+		d_duchy0254
+		d_duchy0300
+		d_duchy0330
+		d_duchy0339
 		d_duchy0357
 		d_duchy0362
 		d_duchy0385
@@ -259,22 +358,31 @@ technology = {
 	}
 }
 
-# Empire0457
+# Kempia
 technology = {
 	titles = {
 		d_duchy0382
 		d_duchy0387
 		d_duchy0419
 		d_duchy0420
-		d_duchy0421
 		d_duchy0437
 		d_duchy0451
 		d_duchy0452
 		d_duchy0457
 		d_duchy0480
 		d_duchy0486
-		d_duchy0494
 		d_duchy0498
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_duchy0421
+		d_duchy0494
 	}
 	1066 = {
 		military = 0.0
