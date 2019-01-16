@@ -1,0 +1,15 @@
+# 35 - Ostfjord
+
+# County Title
+title = c_ostfjord
+
+# Settlements
+max_settlements = 4
+b_ostfjord = tribal
+b_barony0035d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

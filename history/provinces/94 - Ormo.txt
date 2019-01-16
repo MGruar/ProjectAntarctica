@@ -1,0 +1,14 @@
+# 94 - Ormo
+
+# County Title
+title = c_ormo
+
+# Settlements
+max_settlements = 4
+b_ormo = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

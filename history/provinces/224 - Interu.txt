@@ -1,0 +1,14 @@
+# 224 - Interu
+
+# County Title
+title = c_interu
+
+# Settlements
+max_settlements = 2
+b_interu = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

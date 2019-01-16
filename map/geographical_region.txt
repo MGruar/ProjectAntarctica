@@ -2,21 +2,21 @@
 world_western_isles = {
 	duchies = {
 		# k_graeme
-		d_duchy0001 d_duchy0005 d_duchy0006 d_duchy0011 d_duchy0019 d_duchy0024 d_duchy0014 
+		d_orknae d_shaetland d_larsen d_cobae d_inverbend d_goatland 
 		# k_ellswaere
-		d_duchy0027 d_duchy0048 d_duchy0044 
+		d_far_ellswaere d_naersid d_duchy0044 
 		# k_baerde
-		d_duchy0039 d_duchy0041 d_duchy0049 
+		d_norrbaer d_mittenbaer d_soderbaer 
 		# k_paelme
-		d_duchy0025 d_duchy0030 d_duchy0031 d_duchy0038 d_duchy0035 
+		d_faeroe d_waeddel d_vestfjord d_manna d_ostfjord 
 	}
 }
 world_shactonnia = {
 	duchies = {
-		# k_shaekleton
+		# k_shacleton
 		d_duchy0061 d_duchy0067 d_duchy0103 d_duchy0091 
 		# k_romarra
-		d_duchy0193 d_duchy0224 d_duchy0268 d_duchy0211 
+		d_contrarra d_interu d_duchy0268 d_romarra_centra 
 		# k_reston
 		d_duchy0121 d_duchy0123 d_duchy0128 d_duchy0138 d_duchy0159 d_duchy0162 d_duchy0198 d_duchy0134 
 	}
@@ -44,7 +44,7 @@ world_dronnin = {
 world_transantar = {
 	duchies = {
 		# k_maede
-		d_duchy0052 d_duchy0057 d_duchy0059 d_duchy0072 d_duchy0094 d_duchy0105 d_duchy0080 
+		d_makria d_mescher d_omeya d_stoema d_ormo d_maede d_mittenmaede 
 		# k_traenge
 		d_duchy0097 d_duchy0169 d_duchy0233 d_duchy0113 
 		# k_alexion
@@ -82,7 +82,7 @@ world_vostum = {
 world_gran_adelia = {
 	duchies = {
 		# k_victiri
-		d_duchy0195 d_duchy0222 d_duchy0287 d_duchy0245 
+		d_erebus d_murdo d_oriassur d_oria 
 		# k_oettir
 		d_duchy0207 d_duchy0254 d_duchy0300 d_duchy0252 
 		# k_domus

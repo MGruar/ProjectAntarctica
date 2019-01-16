@@ -1,0 +1,14 @@
+# 38 - Manna
+
+# County Title
+title = c_manna
+
+# Settlements
+max_settlements = 4
+b_manna = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

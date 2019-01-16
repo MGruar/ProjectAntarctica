@@ -1,0 +1,15 @@
+# 52 - Makria
+
+# County Title
+title = c_makria
+
+# Settlements
+max_settlements = 5
+b_makria = tribal
+b_barony0052d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

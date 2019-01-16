@@ -1,24 +1,23 @@
 # Western Isles
 technology = {
 	titles = {
-		d_duchy0001
-		d_duchy0005
-		d_duchy0006
-		d_duchy0011
-		d_duchy0014
-		d_duchy0019
-		d_duchy0024
-		d_duchy0025
-		d_duchy0027
-		d_duchy0030
-		d_duchy0031
-		d_duchy0035
-		d_duchy0038
-		d_duchy0039
-		d_duchy0041
+		d_orknae
+		d_shaetland
+		d_larsen
+		d_goatland
+		d_cobae
+		d_inverbend
+		d_faeroe
+		d_far_ellswaere
+		d_waeddel
+		d_vestfjord
+		d_ostfjord
+		d_manna
+		d_norrbaer
+		d_mittenbaer
 		d_duchy0044
-		d_duchy0048
-		d_duchy0049
+		d_naersid
+		d_soderbaer
 	}
 	1066 = {
 		military = 0.0
@@ -49,9 +48,9 @@ technology = {
 		d_duchy0138
 		d_duchy0159
 		d_duchy0162
-		d_duchy0193
-		d_duchy0211
-		d_duchy0224
+		d_contrarra
+		d_romarra_centra
+		d_interu
 	}
 	1066 = {
 		military = 2.0
@@ -160,10 +159,10 @@ technology = {
 # Transantar
 technology = {
 	titles = {
-		d_duchy0052
-		d_duchy0057
-		d_duchy0059
-		d_duchy0072
+		d_makria
+		d_mescher
+		d_omeya
+		d_stoema
 		d_duchy0097
 		d_duchy0113
 	}
@@ -175,7 +174,7 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0080
+		d_mittenmaede
 		d_duchy0133
 		d_duchy0169
 		d_duchy0203
@@ -189,8 +188,8 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0094
-		d_duchy0105
+		d_ormo
+		d_maede
 		d_duchy0116
 		d_duchy0153
 		d_duchy0190
@@ -319,10 +318,10 @@ technology = {
 # Gran Adelia
 technology = {
 	titles = {
-		d_duchy0195
-		d_duchy0222
-		d_duchy0245
-		d_duchy0287
+		d_erebus
+		d_murdo
+		d_oria
+		d_oriassur
 		d_duchy0317
 		d_duchy0343
 		d_duchy0354

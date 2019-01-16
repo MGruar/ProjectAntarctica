@@ -122,6 +122,7 @@ mild_winter = {
 	490
 	494
 	497
+	535
 }
 
 normal_winter = {

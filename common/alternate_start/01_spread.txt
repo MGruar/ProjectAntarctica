@@ -7,7 +7,10 @@ adjacencies = {
 	70 = 83 #Province0070 - Province0083
 	351 = 350 #Province0351 - Province0350
 	422 = 444 #Province0422 - Province0444
-	535 = 381 #Province0535 - Province0381
+	535 = 113 #Province0535 - Province0113
+	536 = 291 #Province0536 - Province0291
+	537 = 358 #Province0537 - Province0358
+	538 = 381 #Province0538 - Province0381
 }
 
 

@@ -4,11 +4,9 @@
 title = c_province0174
 
 # Settlements
-max_settlements = 5
+max_settlements = 3
 b_barony0174c = castle
 b_barony0174d = temple
-b_barony0174e = city
-b_barony0174f = castle
 
 # Misc
 culture = catalan

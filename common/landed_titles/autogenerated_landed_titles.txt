@@ -14,28 +14,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_duchy0001 = {
-			color={ 15 121 115 }
-			color2={ 255 255 255 }
-			
-			capital = 1
-			
-			c_province0001 = {
-				color={ 15 121 115 }
-				color2={ 255 255 255 }
-				
-				
-				b_barony0001c = { }
-				b_barony0001d = { }
-				b_barony0001e = { }
-				b_barony0001f = { }
-				b_barony0001g = { }
-				b_barony0001h = { }
-				b_barony0001i = { }
-				b_barony0001j = { }
-			}
-		}
-		d_duchy0005 = {
+		d_orknae = {
 			color={ 27 97 152 }
 			color2={ 255 255 255 }
 			
@@ -69,12 +48,12 @@ e_western_isles = {
 				b_barony0004i = { }
 				b_barony0004j = { }
 			}
-			c_province0005 = {
+			c_orknae = {
 				color={ 27 97 152 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0005c = { }
+				b_orknae = { }
 				b_barony0005d = { }
 				b_barony0005e = { }
 				b_barony0005f = { }
@@ -84,12 +63,26 @@ e_western_isles = {
 				b_barony0005j = { }
 			}
 		}
-		d_duchy0006 = {
+		d_shaetland = {
 			color={ 43 71 128 }
 			color2={ 255 255 255 }
 			
 			capital = 6
 			
+			c_province0001 = {
+				color={ 15 121 115 }
+				color2={ 255 255 255 }
+				
+				
+				b_barony0001c = { }
+				b_barony0001d = { }
+				b_barony0001e = { }
+				b_barony0001f = { }
+				b_barony0001g = { }
+				b_barony0001h = { }
+				b_barony0001i = { }
+				b_barony0001j = { }
+			}
 			c_province0003 = {
 				color={ 52 95 168 }
 				color2={ 255 255 255 }
@@ -104,12 +97,12 @@ e_western_isles = {
 				b_barony0003i = { }
 				b_barony0003j = { }
 			}
-			c_province0006 = {
+			c_shaetland = {
 				color={ 43 71 128 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0006c = { }
+				b_shaetland = { }
 				b_barony0006d = { }
 				b_barony0006e = { }
 				b_barony0006f = { }
@@ -119,7 +112,7 @@ e_western_isles = {
 				b_barony0006j = { }
 			}
 		}
-		d_duchy0011 = {
+		d_larsen = {
 			color={ 25 91 158 }
 			color2={ 255 255 255 }
 			
@@ -181,12 +174,12 @@ e_western_isles = {
 				b_barony0010i = { }
 				b_barony0010j = { }
 			}
-			c_province0011 = {
+			c_larsen = {
 				color={ 25 91 158 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0011c = { }
+				b_larsen = { }
 				b_barony0011d = { }
 				b_barony0011e = { }
 				b_barony0011f = { }
@@ -196,7 +189,7 @@ e_western_isles = {
 				b_barony0011j = { }
 			}
 		}
-		d_duchy0019 = {
+		d_cobae = {
 			color={ 25 111 146 }
 			color2={ 255 255 255 }
 			
@@ -244,12 +237,12 @@ e_western_isles = {
 				b_barony0016i = { }
 				b_barony0016j = { }
 			}
-			c_province0019 = {
+			c_cobae = {
 				color={ 25 111 146 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0019c = { }
+				b_cobae = { }
 				b_barony0019d = { }
 				b_barony0019e = { }
 				b_barony0019f = { }
@@ -259,7 +252,7 @@ e_western_isles = {
 				b_barony0019j = { }
 			}
 		}
-		d_duchy0024 = {
+		d_inverbend = {
 			color={ 41 123 162 }
 			color2={ 255 255 255 }
 			
@@ -307,12 +300,12 @@ e_western_isles = {
 				b_barony0022i = { }
 				b_barony0022j = { }
 			}
-			c_province0024 = {
+			c_inverbend = {
 				color={ 41 123 162 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0024c = { }
+				b_inverbend = { }
 				b_barony0024d = { }
 				b_barony0024e = { }
 				b_barony0024f = { }
@@ -322,7 +315,7 @@ e_western_isles = {
 				b_barony0024j = { }
 			}
 		}
-		d_duchy0014 = {
+		d_goatland = {
 			color={ 52 78 171 }
 			color2={ 255 255 255 }
 			
@@ -342,12 +335,12 @@ e_western_isles = {
 				b_barony0013i = { }
 				b_barony0013j = { }
 			}
-			c_province0014 = {
+			c_goatland = {
 				color={ 52 78 171 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0014c = { }
+				b_goatland = { }
 				b_barony0014d = { }
 				b_barony0014e = { }
 				b_barony0014f = { }
@@ -366,7 +359,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_duchy0027 = {
+		d_far_ellswaere = {
 			color={ 27 96 118 }
 			color2={ 255 255 255 }
 			
@@ -414,12 +407,12 @@ e_western_isles = {
 				b_barony0026i = { }
 				b_barony0026j = { }
 			}
-			c_province0027 = {
+			c_far_ellswaere = {
 				color={ 27 96 118 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0027c = { }
+				b_far_ellswaere = { }
 				b_barony0027d = { }
 				b_barony0027e = { }
 				b_barony0027f = { }
@@ -429,7 +422,7 @@ e_western_isles = {
 				b_barony0027j = { }
 			}
 		}
-		d_duchy0048 = {
+		d_naersid = {
 			color={ 51 117 116 }
 			color2={ 255 255 255 }
 			
@@ -463,12 +456,12 @@ e_western_isles = {
 				b_barony0047i = { }
 				b_barony0047j = { }
 			}
-			c_province0048 = {
+			c_naersid = {
 				color={ 51 117 116 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0048c = { }
+				b_naersid = { }
 				b_barony0048d = { }
 				b_barony0048e = { }
 				b_barony0048f = { }
@@ -522,7 +515,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_duchy0039 = {
+		d_norrbaer = {
 			color={ 1 76 174 }
 			color2={ 255 255 255 }
 			
@@ -542,12 +535,12 @@ e_western_isles = {
 				b_barony0037i = { }
 				b_barony0037j = { }
 			}
-			c_province0039 = {
+			c_norrbaer = {
 				color={ 1 76 174 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0039c = { }
+				b_norrbaer = { }
 				b_barony0039d = { }
 				b_barony0039e = { }
 				b_barony0039f = { }
@@ -557,7 +550,7 @@ e_western_isles = {
 				b_barony0039j = { }
 			}
 		}
-		d_duchy0041 = {
+		d_mittenbaer = {
 			color={ 45 90 141 }
 			color2={ 255 255 255 }
 			
@@ -591,12 +584,12 @@ e_western_isles = {
 				b_barony0046i = { }
 				b_barony0046j = { }
 			}
-			c_province0041 = {
+			c_mittenbaer = {
 				color={ 45 90 141 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0041c = { }
+				b_mittenbaer = { }
 				b_barony0041d = { }
 				b_barony0041e = { }
 				b_barony0041f = { }
@@ -606,7 +599,7 @@ e_western_isles = {
 				b_barony0041j = { }
 			}
 		}
-		d_duchy0049 = {
+		d_soderbaer = {
 			color={ 53 97 153 }
 			color2={ 255 255 255 }
 			
@@ -654,13 +647,13 @@ e_western_isles = {
 				b_barony0058i = { }
 				b_barony0058j = { }
 			}
-			c_province0049 = {
+			c_soderbaer = {
 				color={ 53 97 153 }
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
 				
-				b_barony0049c = {
+				b_soderbaer = {
 				dynasty_title_names = no
 				}
 				b_barony0049d = { }
@@ -681,7 +674,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_duchy0025 = {
+		d_faeroe = {
 			color={ 17 69 167 }
 			color2={ 255 255 255 }
 			
@@ -701,12 +694,12 @@ e_western_isles = {
 				b_barony0021i = { }
 				b_barony0021j = { }
 			}
-			c_province0025 = {
+			c_faeroe = {
 				color={ 17 69 167 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0025c = { }
+				b_faeroe = { }
 				b_barony0025d = { }
 				b_barony0025e = { }
 				b_barony0025f = { }
@@ -716,7 +709,7 @@ e_western_isles = {
 				b_barony0025j = { }
 			}
 		}
-		d_duchy0030 = {
+		d_waeddel = {
 			color={ 45 84 170 }
 			color2={ 255 255 255 }
 			
@@ -767,12 +760,12 @@ e_western_isles = {
 				b_barony0036i = { }
 				b_barony0036j = { }
 			}
-			c_province0030 = {
+			c_waeddel = {
 				color={ 45 84 170 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0030c = { }
+				b_waeddel = { }
 				b_barony0030d = { }
 				b_barony0030e = { }
 				b_barony0030f = { }
@@ -782,7 +775,7 @@ e_western_isles = {
 				b_barony0030j = { }
 			}
 		}
-		d_duchy0031 = {
+		d_vestfjord = {
 			color={ 8 80 126 }
 			color2={ 255 255 255 }
 			
@@ -816,12 +809,12 @@ e_western_isles = {
 				b_barony0033i = { }
 				b_barony0033j = { }
 			}
-			c_province0031 = {
+			c_vestfjord = {
 				color={ 8 80 126 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0031c = { }
+				b_vestfjord = { }
 				b_barony0031d = { }
 				b_barony0031e = { }
 				b_barony0031f = { }
@@ -831,18 +824,18 @@ e_western_isles = {
 				b_barony0031j = { }
 			}
 		}
-		d_duchy0038 = {
+		d_manna = {
 			color={ 60 93 163 }
 			color2={ 255 255 255 }
 			
 			capital = 38
 			
-			c_province0038 = {
+			c_manna = {
 				color={ 60 93 163 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0038c = { }
+				b_manna = { }
 				b_barony0038d = { }
 				b_barony0038e = { }
 				b_barony0038f = { }
@@ -852,7 +845,7 @@ e_western_isles = {
 				b_barony0038j = { }
 			}
 		}
-		d_duchy0035 = {
+		d_ostfjord = {
 			color={ 9 111 141 }
 			color2={ 255 255 255 }
 			
@@ -872,12 +865,12 @@ e_western_isles = {
 				b_barony0034i = { }
 				b_barony0034j = { }
 			}
-			c_province0035 = {
+			c_ostfjord = {
 				color={ 9 111 141 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0035c = { }
+				b_ostfjord = { }
 				b_barony0035d = { }
 				b_barony0035e = { }
 				b_barony0035f = { }
@@ -897,7 +890,7 @@ e_shactonnia = {
 	
 	culture = roman
 	
-	k_shaekleton = {
+	k_shacleton = {
 		color={ 237 5 58 }
 		color2={ 255 255 255 }
 		
@@ -1124,7 +1117,7 @@ e_shactonnia = {
 		
 		culture = roman
 		
-		d_duchy0193 = {
+		d_contrarra = {
 			color={ 209 21 58 }
 			color2={ 255 255 255 }
 			
@@ -1172,12 +1165,12 @@ e_shactonnia = {
 				b_barony0209i = { }
 				b_barony0209j = { }
 			}
-			c_province0193 = {
+			c_contrarra = {
 				color={ 209 21 58 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0193c = { }
+				b_contrarra = { }
 				b_barony0193d = { }
 				b_barony0193e = { }
 				b_barony0193f = { }
@@ -1187,7 +1180,7 @@ e_shactonnia = {
 				b_barony0193j = { }
 			}
 		}
-		d_duchy0224 = {
+		d_interu = {
 			color={ 215 57 26 }
 			color2={ 255 255 255 }
 			
@@ -1235,12 +1228,12 @@ e_shactonnia = {
 				b_barony0255i = { }
 				b_barony0255j = { }
 			}
-			c_province0224 = {
+			c_interu = {
 				color={ 215 57 26 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0224c = { }
+				b_interu = { }
 				b_barony0224d = { }
 				b_barony0224e = { }
 				b_barony0224f = { }
@@ -1285,7 +1278,7 @@ e_shactonnia = {
 				b_barony0268j = { }
 			}
 		}
-		d_duchy0211 = {
+		d_romarra_centra = {
 			color={ 193 6 36 }
 			color2={ 255 255 255 }
 			
@@ -1347,13 +1340,13 @@ e_shactonnia = {
 				b_barony0241i = { }
 				b_barony0241j = { }
 			}
-			c_province0211 = {
+			c_romarra_centra = {
 				color={ 193 6 36 }
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
 				
-				b_barony0211c = {
+				b_romarra_centra = {
 				dynasty_title_names = no
 				}
 				b_barony0211d = { }
@@ -3752,7 +3745,7 @@ e_transantar = {
 		
 		culture = norse
 		
-		d_duchy0052 = {
+		d_makria = {
 			color={ 3 87 143 }
 			color2={ 255 255 255 }
 			
@@ -3772,12 +3765,12 @@ e_transantar = {
 				b_barony0050i = { }
 				b_barony0050j = { }
 			}
-			c_province0052 = {
+			c_makria = {
 				color={ 3 87 143 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0052c = { }
+				b_makria = { }
 				b_barony0052d = { }
 				b_barony0052e = { }
 				b_barony0052f = { }
@@ -3787,7 +3780,7 @@ e_transantar = {
 				b_barony0052j = { }
 			}
 		}
-		d_duchy0057 = {
+		d_mescher = {
 			color={ 22 86 152 }
 			color2={ 255 255 255 }
 			
@@ -3807,12 +3800,12 @@ e_transantar = {
 				b_barony0056i = { }
 				b_barony0056j = { }
 			}
-			c_province0057 = {
+			c_mescher = {
 				color={ 22 86 152 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0057c = { }
+				b_mescher = { }
 				b_barony0057d = { }
 				b_barony0057e = { }
 				b_barony0057f = { }
@@ -3822,7 +3815,7 @@ e_transantar = {
 				b_barony0057j = { }
 			}
 		}
-		d_duchy0059 = {
+		d_omeya = {
 			color={ 62 123 171 }
 			color2={ 255 255 255 }
 			
@@ -3870,12 +3863,12 @@ e_transantar = {
 				b_barony0064i = { }
 				b_barony0064j = { }
 			}
-			c_province0059 = {
+			c_omeya = {
 				color={ 62 123 171 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0059c = { }
+				b_omeya = { }
 				b_barony0059d = { }
 				b_barony0059e = { }
 				b_barony0059f = { }
@@ -3885,7 +3878,7 @@ e_transantar = {
 				b_barony0059j = { }
 			}
 		}
-		d_duchy0072 = {
+		d_stoema = {
 			color={ 23 80 170 }
 			color2={ 255 255 255 }
 			
@@ -3919,12 +3912,12 @@ e_transantar = {
 				b_barony0078i = { }
 				b_barony0078j = { }
 			}
-			c_province0072 = {
+			c_stoema = {
 				color={ 23 80 170 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0072c = { }
+				b_stoema = { }
 				b_barony0072d = { }
 				b_barony0072e = { }
 				b_barony0072f = { }
@@ -3934,7 +3927,7 @@ e_transantar = {
 				b_barony0072j = { }
 			}
 		}
-		d_duchy0094 = {
+		d_ormo = {
 			color={ 53 102 122 }
 			color2={ 255 255 255 }
 			
@@ -3954,12 +3947,12 @@ e_transantar = {
 				b_barony0090i = { }
 				b_barony0090j = { }
 			}
-			c_province0094 = {
+			c_ormo = {
 				color={ 53 102 122 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0094c = { }
+				b_ormo = { }
 				b_barony0094d = { }
 				b_barony0094e = { }
 				b_barony0094f = { }
@@ -3969,7 +3962,7 @@ e_transantar = {
 				b_barony0094j = { }
 			}
 		}
-		d_duchy0105 = {
+		d_maede = {
 			color={ 52 102 136 }
 			color2={ 255 255 255 }
 			
@@ -4003,12 +3996,12 @@ e_transantar = {
 				b_barony0101i = { }
 				b_barony0101j = { }
 			}
-			c_province0105 = {
+			c_maede = {
 				color={ 52 102 136 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0105c = { }
+				b_maede = { }
 				b_barony0105d = { }
 				b_barony0105e = { }
 				b_barony0105f = { }
@@ -4018,7 +4011,7 @@ e_transantar = {
 				b_barony0105j = { }
 			}
 		}
-		d_duchy0080 = {
+		d_mittenmaede = {
 			color={ 51 80 144 }
 			color2={ 255 255 255 }
 			
@@ -4080,14 +4073,14 @@ e_transantar = {
 				b_barony0089i = { }
 				b_barony0089j = { }
 			}
-			c_province0080 = {
+			c_mittenmaede = {
 				color={ 51 80 144 }
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
 				holy_site = jewish
 				
-				b_barony0080c = {
+				b_mittenmaede = {
 				dynasty_title_names = no
 				}
 				b_barony0080d = { }
@@ -7377,7 +7370,7 @@ e_gran_adelia = {
 		
 		culture = ashkenazi
 		
-		d_duchy0195 = {
+		d_erebus = {
 			color={ 4 26 203 }
 			color2={ 255 255 255 }
 			
@@ -7411,12 +7404,12 @@ e_gran_adelia = {
 				b_barony0213i = { }
 				b_barony0213j = { }
 			}
-			c_province0195 = {
+			c_erebus = {
 				color={ 4 26 203 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0195c = { }
+				b_erebus = { }
 				b_barony0195d = { }
 				b_barony0195e = { }
 				b_barony0195f = { }
@@ -7426,7 +7419,7 @@ e_gran_adelia = {
 				b_barony0195j = { }
 			}
 		}
-		d_duchy0222 = {
+		d_murdo = {
 			color={ 13 17 233 }
 			color2={ 255 255 255 }
 			
@@ -7460,12 +7453,12 @@ e_gran_adelia = {
 				b_barony0238i = { }
 				b_barony0238j = { }
 			}
-			c_province0222 = {
+			c_murdo = {
 				color={ 13 17 233 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0222c = { }
+				b_murdo = { }
 				b_barony0222d = { }
 				b_barony0222e = { }
 				b_barony0222f = { }
@@ -7475,7 +7468,7 @@ e_gran_adelia = {
 				b_barony0222j = { }
 			}
 		}
-		d_duchy0287 = {
+		d_oriassur = {
 			color={ 12 6 220 }
 			color2={ 255 255 255 }
 			
@@ -7495,12 +7488,12 @@ e_gran_adelia = {
 				b_barony0277i = { }
 				b_barony0277j = { }
 			}
-			c_province0287 = {
+			c_oriassur = {
 				color={ 12 6 220 }
 				color2={ 255 255 255 }
 				
 				
-				b_barony0287c = { }
+				b_oriassur = { }
 				b_barony0287d = { }
 				b_barony0287e = { }
 				b_barony0287f = { }
@@ -7510,7 +7503,7 @@ e_gran_adelia = {
 				b_barony0287j = { }
 			}
 		}
-		d_duchy0245 = {
+		d_oria = {
 			color={ 4 9 249 }
 			color2={ 255 255 255 }
 			
@@ -7572,13 +7565,13 @@ e_gran_adelia = {
 				b_barony0275i = { }
 				b_barony0275j = { }
 			}
-			c_province0245 = {
+			c_oria = {
 				color={ 4 9 249 }
 				color2={ 255 255 255 }
 				
 				holy_site = jewish
 				
-				b_barony0245c = {
+				b_oria = {
 				dynasty_title_names = no
 				}
 				b_barony0245d = { }

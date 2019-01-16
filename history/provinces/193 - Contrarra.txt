@@ -1,0 +1,15 @@
+# 193 - Contrarra
+
+# County Title
+title = c_contrarra
+
+# Settlements
+max_settlements = 3
+b_contrarra = castle
+b_barony0193d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

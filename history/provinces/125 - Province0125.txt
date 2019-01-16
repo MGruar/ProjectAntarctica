@@ -4,9 +4,8 @@
 title = c_province0125
 
 # Settlements
-max_settlements = 3
+max_settlements = 2
 b_barony0125c = castle
-b_barony0125d = temple
 
 # Misc
 culture = roman

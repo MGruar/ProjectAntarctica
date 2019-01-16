@@ -118,7 +118,7 @@ d_maede_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = norse_band_composition
 }
-d_shaekleton_band = {
+d_shacleton_band = {
 	color={ 237 5 58 }
 	color2={ 255 255 255 }
 	

@@ -1,0 +1,17 @@
+# 211 - Romarra Centra
+
+# County Title
+title = c_romarra_centra
+
+# Settlements
+max_settlements = 5
+b_romarra_centra = castle
+b_barony0211d = temple
+b_barony0211e = city
+b_barony0211f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

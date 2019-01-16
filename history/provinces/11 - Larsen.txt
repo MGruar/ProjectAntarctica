@@ -1,0 +1,14 @@
+# 11 - Larsen
+
+# County Title
+title = c_larsen
+
+# Settlements
+max_settlements = 2
+b_larsen = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

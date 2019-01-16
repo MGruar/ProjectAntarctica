@@ -1,0 +1,15 @@
+# 80 - Mittenmaede
+
+# County Title
+title = c_mittenmaede
+
+# Settlements
+max_settlements = 5
+b_mittenmaede = tribal
+b_barony0080d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

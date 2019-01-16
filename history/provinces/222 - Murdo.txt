@@ -1,0 +1,14 @@
+# 222 - Murdo
+
+# County Title
+title = c_murdo
+
+# Settlements
+max_settlements = 4
+b_murdo = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

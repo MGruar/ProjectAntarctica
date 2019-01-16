@@ -16,4 +16,10 @@ region_e_western_isles = {
 	provinces = { 422 }
 }region_e_empire0535 = { 
 	provinces = { 535 }
+}region_e_empire0536 = { 
+	provinces = { 536 }
+}region_e_empire0537 = { 
+	provinces = { 537 }
+}region_e_empire0538 = { 
+	provinces = { 538 }
 }

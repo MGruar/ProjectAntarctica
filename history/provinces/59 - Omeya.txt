@@ -1,0 +1,14 @@
+# 59 - Omeya
+
+# County Title
+title = c_omeya
+
+# Settlements
+max_settlements = 4
+b_omeya = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
