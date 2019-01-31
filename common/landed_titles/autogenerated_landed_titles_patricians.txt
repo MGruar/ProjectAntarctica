@@ -1,4 +1,4 @@
-# Duchy0134 Merchant Republic Palaces
+# Restorro Merchant Republic Palaces
 b_patrician_101340 = {
 	culture = roman
 	religion = hellenic_pagan_reformed

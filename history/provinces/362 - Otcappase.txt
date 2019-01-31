@@ -1,0 +1,14 @@
+# 362 - Otcappase
+
+# County Title
+title = c_otcappase
+
+# Settlements
+max_settlements = 4
+b_otcappase = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

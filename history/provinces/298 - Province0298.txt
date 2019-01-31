@@ -4,8 +4,9 @@
 title = c_province0298
 
 # Settlements
-max_settlements = 3
-b_barony0298c = tribal
+max_settlements = 5
+b_province0298 = tribal
+b_barony0298d = temple
 
 # Misc
 culture = songhay

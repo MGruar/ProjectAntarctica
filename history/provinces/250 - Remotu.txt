@@ -1,0 +1,15 @@
+# 250 - Remotu
+
+# County Title
+title = c_remotu
+
+# Settlements
+max_settlements = 3
+b_remotu = castle
+b_barony0250d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

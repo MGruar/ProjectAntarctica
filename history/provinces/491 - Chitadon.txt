@@ -1,0 +1,15 @@
+# 491 - Chitadon
+
+# County Title
+title = c_chitadon
+
+# Settlements
+max_settlements = 5
+b_chitadon = tribal
+b_barony0491d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 488 - Xiawan
+
+# County Title
+title = c_xiawan
+
+# Settlements
+max_settlements = 4
+b_xiawan = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

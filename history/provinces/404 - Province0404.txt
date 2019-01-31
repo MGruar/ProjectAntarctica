@@ -4,10 +4,9 @@
 title = c_province0404
 
 # Settlements
-max_settlements = 4
-b_barony0404c = castle
+max_settlements = 3
+b_province0404 = castle
 b_barony0404d = temple
-b_barony0404e = city
 
 # Misc
 culture = egyptian_arabic

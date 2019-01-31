@@ -1,0 +1,15 @@
+# 61 - Insulos
+
+# County Title
+title = c_insulos
+
+# Settlements
+max_settlements = 6
+b_insulos = tribal
+b_insulos_urbos = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

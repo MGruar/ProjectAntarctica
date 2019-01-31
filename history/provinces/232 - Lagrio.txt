@@ -1,0 +1,16 @@
+# 232 - Lagrio
+
+# County Title
+title = c_lagrio
+
+# Settlements
+max_settlements = 4
+b_lagrio = castle
+b_barony0232d = temple
+b_barony0232e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

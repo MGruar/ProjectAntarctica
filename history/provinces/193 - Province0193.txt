@@ -1,0 +1,15 @@
+# 193 - Province0193
+
+# County Title
+title = c_province0193
+
+# Settlements
+max_settlements = 3
+b_province0193 = castle
+b_barony0193d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

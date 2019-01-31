@@ -1,0 +1,14 @@
+# 343 - Wilkdom
+
+# County Title
+title = c_wilkdom
+
+# Settlements
+max_settlements = 4
+b_wilkdom = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

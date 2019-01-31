@@ -1,0 +1,16 @@
+# 182 - Contrarra
+
+# County Title
+title = c_contrarra
+
+# Settlements
+max_settlements = 4
+b_contrarra = castle
+b_barony0182d = temple
+b_barony0182e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

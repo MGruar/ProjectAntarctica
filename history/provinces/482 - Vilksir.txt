@@ -1,0 +1,17 @@
+# 482 - Vilksir
+
+# County Title
+title = c_vilksir
+
+# Settlements
+max_settlements = 5
+b_vilksir = castle
+b_barony0482d = temple
+b_barony0482e = city
+b_barony0482f = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

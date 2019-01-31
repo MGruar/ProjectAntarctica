@@ -1,0 +1,14 @@
+# 270 - Sutland
+
+# County Title
+title = c_sutland
+
+# Settlements
+max_settlements = 2
+b_sutland = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

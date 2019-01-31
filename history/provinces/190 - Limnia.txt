@@ -1,0 +1,16 @@
+# 190 - Limnia
+
+# County Title
+title = c_limnia
+
+# Settlements
+max_settlements = 4
+b_limnia = castle
+b_barony0190d = temple
+b_barony0190e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

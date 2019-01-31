@@ -1,0 +1,17 @@
+# 251 - Riult
+
+# County Title
+title = c_riult
+
+# Settlements
+max_settlements = 5
+b_riult = castle
+b_barony0251d = temple
+b_barony0251e = city
+b_barony0251f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

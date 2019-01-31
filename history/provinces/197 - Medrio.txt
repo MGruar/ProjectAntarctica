@@ -1,0 +1,17 @@
+# 197 - Medrio
+
+# County Title
+title = c_medrio
+
+# Settlements
+max_settlements = 5
+b_medrio = castle
+b_barony0197d = temple
+b_barony0197e = city
+b_barony0197f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 207 - Desol
+
+# County Title
+title = c_desol
+
+# Settlements
+max_settlements = 3
+b_desol = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

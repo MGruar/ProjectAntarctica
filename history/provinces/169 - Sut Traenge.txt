@@ -1,0 +1,14 @@
+# 169 - Sut Traenge
+
+# County Title
+title = c_sut_traenge
+
+# Settlements
+max_settlements = 3
+b_sut_traenge = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -5,7 +5,7 @@ title = c_province0037
 
 # Settlements
 max_settlements = 3
-b_barony0037c = tribal
+b_province0037 = tribal
 
 # Misc
 culture = norse

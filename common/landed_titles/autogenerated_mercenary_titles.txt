@@ -1,8 +1,8 @@
 d_graeme_band = {
-	color={ 52 78 171 }
+	color={ 25 91 158 }
 	color2={ 255 255 255 }
 	
-	capital = 14
+	capital = 11
 	
 	culture = norse
 	
@@ -23,34 +23,10 @@ d_graeme_band = {
 	mercenary_type = norse_band_composition
 }
 d_paelme_band = {
-	color={ 9 111 141 }
+	color={ 11 108 175 }
 	color2={ 255 255 255 }
 	
-	capital = 35
-	
-	culture = norse
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = norse_band_composition
-}
-d_ellswaere_band = {
-	color={ 48 118 169 }
-	color2={ 255 255 255 }
-	
-	capital = 44
+	capital = 33
 	
 	culture = norse
 	
@@ -71,10 +47,34 @@ d_ellswaere_band = {
 	mercenary_type = norse_band_composition
 }
 d_baerde_band = {
-	color={ 53 97 153 }
+	color={ 45 90 141 }
 	color2={ 255 255 255 }
 	
-	capital = 49
+	capital = 41
+	
+	culture = norse
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = norse_band_composition
+}
+d_ellswaere_band = {
+	color={ 51 117 116 }
+	color2={ 255 255 255 }
+	
+	capital = 48
 	
 	culture = norse
 	
@@ -119,10 +119,10 @@ d_maede_band = {
 	mercenary_type = norse_band_composition
 }
 d_shacleton_band = {
-	color={ 237 5 58 }
+	color={ 233 47 12 }
 	color2={ 255 255 255 }
 	
-	capital = 91
+	capital = 82
 	
 	culture = roman
 	
@@ -143,10 +143,10 @@ d_shacleton_band = {
 	mercenary_type = roman_band_composition
 }
 d_coets_band = {
-	color={ 5 128 228 }
+	color={ 37 158 197 }
 	color2={ 255 255 255 }
 	
-	capital = 112
+	capital = 85
 	
 	culture = finnish
 	
@@ -167,10 +167,10 @@ d_coets_band = {
 	mercenary_type = finnish_band_composition
 }
 d_traenge_band = {
-	color={ 60 48 226 }
+	color={ 11 50 255 }
 	color2={ 255 255 255 }
 	
-	capital = 113
+	capital = 129
 	
 	culture = ashkenazi
 	
@@ -213,6 +213,30 @@ d_reston_band = {
 	
 	strength_growth_per_century = 1.0
 	mercenary_type = roman_band_composition
+}
+d_alexion_band = {
+	color={ 235 48 148 }
+	color2={ 255 255 255 }
+	
+	capital = 140
+	
+	culture = greek
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = greek_band_composition
 }
 d_fujarra_band = {
 	color={ 252 170 5 }
@@ -262,13 +286,13 @@ d_dronne_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = catalan_band_composition
 }
-d_alexion_band = {
-	color={ 254 54 103 }
+d_fimbul_band = {
+	color={ 30 132 219 }
 	color2={ 255 255 255 }
 	
-	capital = 190
+	capital = 200
 	
-	culture = greek
+	culture = finnish
 	
 	mercenary = yes
 	title = "CAPTAIN"
@@ -284,7 +308,7 @@ d_alexion_band = {
 	independent = yes
 	
 	strength_growth_per_century = 1.0
-	mercenary_type = greek_band_composition
+	mercenary_type = finnish_band_composition
 }
 d_romarra_band = {
 	color={ 193 6 36 }
@@ -335,10 +359,10 @@ d_elizion_band = {
 	mercenary_type = greek_band_composition
 }
 d_victiri_band = {
-	color={ 4 9 249 }
+	color={ 43 12 241 }
 	color2={ 255 255 255 }
 	
-	capital = 245
+	capital = 239
 	
 	culture = ashkenazi
 	
@@ -359,10 +383,10 @@ d_victiri_band = {
 	mercenary_type = ashkenazi_band_composition
 }
 d_oettir_band = {
-	color={ 55 37 212 }
+	color={ 30 60 239 }
 	color2={ 255 255 255 }
 	
-	capital = 252
+	capital = 254
 	
 	culture = ashkenazi
 	
@@ -382,35 +406,11 @@ d_oettir_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = ashkenazi_band_composition
 }
-d_fimbul_band = {
-	color={ 45 139 194 }
-	color2={ 255 255 255 }
-	
-	capital = 286
-	
-	culture = finnish
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = finnish_band_composition
-}
 d_abethi_band = {
-	color={ 225 210 7 }
+	color={ 232 215 37 }
 	color2={ 255 255 255 }
 	
-	capital = 319
+	capital = 288
 	
 	culture = songhay
 	
@@ -431,34 +431,10 @@ d_abethi_band = {
 	mercenary_type = songhay_band_composition
 }
 d_valkyr_band = {
-	color={ 23 171 175 }
+	color={ 56 147 115 }
 	color2={ 255 255 255 }
 	
-	capital = 320
-	
-	culture = mongol
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = mongol_band_composition
-}
-d_thorsh_band = {
-	color={ 14 175 175 }
-	color2={ 255 255 255 }
-	
-	capital = 346
+	capital = 303
 	
 	culture = mongol
 	
@@ -483,6 +459,54 @@ d_domus_band = {
 	color2={ 255 255 255 }
 	
 	capital = 354
+	
+	culture = hindustani
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = hindustani_band_composition
+}
+d_thorsh_band = {
+	color={ 56 173 137 }
+	color2={ 255 255 255 }
+	
+	capital = 356
+	
+	culture = mongol
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = mongol_band_composition
+}
+d_north_adelie_band = {
+	color={ 7 137 9 }
+	color2={ 255 255 255 }
+	
+	capital = 371
 	
 	culture = hindustani
 	
@@ -598,30 +622,6 @@ d_macrobbe_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = mongol_band_composition
 }
-d_north_adelie_band = {
-	color={ 17 159 52 }
-	color2={ 255 255 255 }
-	
-	capital = 398
-	
-	culture = hindustani
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = hindustani_band_composition
-}
 d_enderby_band = {
 	color={ 15 131 126 }
 	color2={ 255 255 255 }
@@ -670,35 +670,11 @@ d_kemp_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = han_band_composition
 }
-d_wilksid_band = {
-	color={ 235 158 16 }
-	color2={ 255 255 255 }
-	
-	capital = 483
-	
-	culture = nahuatl
-	
-	mercenary = yes
-	title = "CAPTAIN"
-	foa = "CAPTAIN_FOA"
-	
-	# Always exists
-	landless = yes
-	
-	# Cannot be held as a secondary title
-	primary = yes
-	
-	# Cannot be vassalized
-	independent = yes
-	
-	strength_growth_per_century = 1.0
-	mercenary_type = nahuatl_band_composition
-}
 d_prydess_band = {
-	color={ 199 193 22 }
+	color={ 255 145 33 }
 	color2={ 255 255 255 }
 	
-	capital = 510
+	capital = 476
 	
 	culture = egyptian_arabic
 	
@@ -717,6 +693,30 @@ d_prydess_band = {
 	
 	strength_growth_per_century = 1.0
 	mercenary_type = egyptian_arabic_band_composition
+}
+d_wilksid_band = {
+	color={ 230 138 63 }
+	color2={ 255 255 255 }
+	
+	capital = 482
+	
+	culture = nahuatl
+	
+	mercenary = yes
+	title = "CAPTAIN"
+	foa = "CAPTAIN_FOA"
+	
+	# Always exists
+	landless = yes
+	
+	# Cannot be held as a secondary title
+	primary = yes
+	
+	# Cannot be vassalized
+	independent = yes
+	
+	strength_growth_per_century = 1.0
+	mercenary_type = nahuatl_band_composition
 }
 d_davir_band = {
 	color={ 239 133 42 }

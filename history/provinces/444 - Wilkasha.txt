@@ -1,0 +1,14 @@
+# 444 - Wilkasha
+
+# County Title
+title = c_wilkasha
+
+# Settlements
+max_settlements = 4
+b_wilkasha = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 456 - Estilk
+
+# County Title
+title = c_estilk
+
+# Settlements
+max_settlements = 3
+b_estilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

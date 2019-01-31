@@ -1,0 +1,15 @@
+# 233 - Tran Traenge
+
+# County Title
+title = c_tran_traenge
+
+# Settlements
+max_settlements = 5
+b_tran_traenge = tribal
+b_barony0233d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

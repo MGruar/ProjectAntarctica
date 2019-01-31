@@ -1,0 +1,15 @@
+# 414 - Ziragharb
+
+# County Title
+title = c_ziragharb
+
+# Settlements
+max_settlements = 3
+b_ziragharb = castle
+b_barony0414d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

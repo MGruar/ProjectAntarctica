@@ -1,0 +1,14 @@
+# 16 - Cobae
+
+# County Title
+title = c_cobae
+
+# Settlements
+max_settlements = 4
+b_cobae = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

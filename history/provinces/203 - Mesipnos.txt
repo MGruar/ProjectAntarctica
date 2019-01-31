@@ -1,0 +1,14 @@
+# 203 - Mesipnos
+
+# County Title
+title = c_mesipnos
+
+# Settlements
+max_settlements = 4
+b_mesipnos = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

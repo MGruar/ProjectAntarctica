@@ -1,0 +1,16 @@
+# 103 - Occidens
+
+# County Title
+title = c_occidens
+
+# Settlements
+max_settlements = 4
+b_occidens = castle
+b_barony0103d = temple
+b_barony0103e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

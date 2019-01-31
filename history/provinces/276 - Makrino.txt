@@ -1,0 +1,17 @@
+# 276 - Makrino
+
+# County Title
+title = c_makrino
+
+# Settlements
+max_settlements = 5
+b_makrino = castle
+b_barony0276d = temple
+b_barony0276e = city
+b_barony0276f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

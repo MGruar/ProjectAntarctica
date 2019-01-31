@@ -1,0 +1,16 @@
+# 451 - Kaodo
+
+# County Title
+title = c_kaodo
+
+# Settlements
+max_settlements = 4
+b_kaodo = castle
+b_barony0451d = temple
+b_barony0451e = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

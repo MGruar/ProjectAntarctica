@@ -1,0 +1,14 @@
+# 44 - Faersid
+
+# County Title
+title = c_faersid
+
+# Settlements
+max_settlements = 4
+b_faersid = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

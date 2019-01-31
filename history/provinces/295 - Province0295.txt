@@ -4,8 +4,8 @@
 title = c_province0295
 
 # Settlements
-max_settlements = 6
-b_barony0295c = castle
+max_settlements = 5
+b_province0295 = castle
 b_barony0295d = temple
 b_barony0295e = city
 b_barony0295f = castle

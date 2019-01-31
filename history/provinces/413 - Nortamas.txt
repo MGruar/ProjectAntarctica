@@ -1,0 +1,14 @@
+# 413 - Nortamas
+
+# County Title
+title = c_nortamas
+
+# Settlements
+max_settlements = 4
+b_nortamas = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

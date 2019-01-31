@@ -1,0 +1,17 @@
+# 308 - Peras
+
+# County Title
+title = c_peras
+
+# Settlements
+max_settlements = 5
+b_peras = castle
+b_barony0308d = temple
+b_barony0308e = city
+b_barony0308f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

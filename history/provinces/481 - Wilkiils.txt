@@ -1,0 +1,15 @@
+# 481 - Wilkiils
+
+# County Title
+title = c_wilkiils
+
+# Settlements
+max_settlements = 5
+b_wilkiils = tribal
+b_barony0481d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

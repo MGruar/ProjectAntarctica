@@ -1,0 +1,14 @@
+# 294 - Suuethid
+
+# County Title
+title = c_suuethid
+
+# Settlements
+max_settlements = 4
+b_suuethid = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

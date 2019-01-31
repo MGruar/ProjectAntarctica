@@ -1,0 +1,15 @@
+# 303 - Valkyrtov
+
+# County Title
+title = c_valkyrtov
+
+# Settlements
+max_settlements = 6
+b_valkyrtov = tribal
+b_barony0303d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 137 - Droncote
+
+# County Title
+title = c_droncote
+
+# Settlements
+max_settlements = 4
+b_droncote = castle
+b_barony0137d = temple
+b_barony0137e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

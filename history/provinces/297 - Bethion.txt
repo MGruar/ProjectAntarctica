@@ -1,0 +1,16 @@
+# 297 - Bethion
+
+# County Title
+title = c_bethion
+
+# Settlements
+max_settlements = 4
+b_bethion = castle
+b_barony0297d = temple
+b_barony0297e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

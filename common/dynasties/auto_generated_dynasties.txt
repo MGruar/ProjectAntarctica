@@ -74,7 +74,7 @@
 	religion="norse_pagan"
 }
 100160={
-	name="af Province0016"
+	name="af Cobae"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -89,7 +89,7 @@
 	religion="norse_pagan"
 }
 100190={
-	name="af Cobae"
+	name="af Province0019"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -99,12 +99,12 @@
 	religion="norse_pagan"
 }
 100210={
-	name="af Province0021"
+	name="af Faeroe"
 	culture="norse"
 	religion="norse_pagan"
 }
 100220={
-	name="af Province0022"
+	name="af Inverbend"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -114,27 +114,27 @@
 	religion="norse_pagan"
 }
 100240={
-	name="af Inverbend"
+	name="af Province0024"
 	culture="norse"
 	religion="norse_pagan"
 }
 100250={
-	name="af Faeroe"
+	name="af Province0025"
 	culture="norse"
 	religion="norse_pagan"
 }
 100260={
-	name="af Province0026"
-	culture="norse"
-	religion="norse_pagan"
-}
-100270={
 	name="af Far Ellswaere"
 	culture="norse"
 	religion="norse_pagan"
 }
+100270={
+	name="af Province0027"
+	culture="norse"
+	religion="norse_pagan"
+}
 100280={
-	name="af Province0028"
+	name="af Waeddel"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -144,12 +144,12 @@
 	religion="norse_pagan"
 }
 100300={
-	name="af Waeddel"
+	name="af Province0030"
 	culture="norse"
 	religion="norse_pagan"
 }
 100310={
-	name="af Vestfjord"
+	name="af Province0031"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -159,7 +159,7 @@
 	religion="norse_pagan"
 }
 100330={
-	name="af Province0033"
+	name="af Vestfjord"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -214,7 +214,7 @@
 	religion="norse_pagan"
 }
 100440={
-	name="af Province0044"
+	name="af Faersid"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -274,12 +274,12 @@
 	religion="finnish_pagan"
 }
 100560={
-	name="af Province0056"
+	name="af Mescher"
 	culture="norse"
 	religion="norse_pagan"
 }
 100570={
-	name="af Mescher"
+	name="af Province0057"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -299,7 +299,7 @@
 	religion="norse_pagan"
 }
 100610={
-	name="of Province0061"
+	name="of Insulos"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -319,7 +319,7 @@
 	religion="norse_pagan"
 }
 100650={
-	name="of Province0065"
+	name="of Auringon"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -359,7 +359,7 @@
 	religion="norse_pagan"
 }
 100730={
-	name="of Province0073"
+	name="of Suun"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -399,12 +399,12 @@
 	religion="norse_pagan"
 }
 100810={
-	name="of Province0081"
+	name="of Gran Peninsul"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
 100820={
-	name="of Province0082"
+	name="of Sinulac"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -419,7 +419,7 @@
 	religion="jewish"
 }
 100850={
-	name="of Province0085"
+	name="of Kannaots"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -469,17 +469,17 @@
 	religion="norse_pagan"
 }
 100950={
-	name="of Province0095"
+	name="of Etevuon"
 	culture="finnish"
 	religion="finnish_pagan"
 }
 100960={
-	name="af Province0096"
+	name="af Maede"
 	culture="norse"
 	religion="norse_pagan"
 }
 100970={
-	name="of Province0097"
+	name="of Nort Traenge"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -509,7 +509,7 @@
 	religion="jewish"
 }
 101030={
-	name="of Province0103"
+	name="of Occidens"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -519,7 +519,7 @@
 	religion="hellenic_pagan_reformed"
 }
 101050={
-	name="af Maede"
+	name="af Province0105"
 	culture="norse"
 	religion="norse_pagan"
 }
@@ -549,7 +549,7 @@
 	religion="finnish_pagan"
 }
 101110={
-	name="of Province0111"
+	name="of Polaht"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -564,7 +564,7 @@
 	religion="jewish"
 }
 101140={
-	name="of Province0114"
+	name="of Anderia"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -584,7 +584,7 @@
 	religion="finnish_pagan"
 }
 101180={
-	name="of Province0118"
+	name="of Pojvuon"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -599,7 +599,7 @@
 	religion="hellenic_pagan_reformed"
 }
 101210={
-	name="of Province0121"
+	name="of Chester"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -609,7 +609,7 @@
 	religion="hellenic_pagan_reformed"
 }
 101230={
-	name="of Province0123"
+	name="of Restocciden"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -624,7 +624,7 @@
 	religion="hellenic_pagan_reformed"
 }
 101260={
-	name="de Province0126"
+	name="de Costamig"
 	culture="catalan"
 	religion="catholic"
 }
@@ -639,7 +639,7 @@
 	religion="hellenic_pagan_reformed"
 }
 101290={
-	name="of Province0129"
+	name="of Mitt Traenge"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -694,12 +694,12 @@
 	religion="catholic"
 }
 101370={
-	name="de Province0137"
+	name="de Droncote"
 	culture="catalan"
 	religion="catholic"
 }
 101380={
-	name="of Province0138"
+	name="of Peninsul"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -709,7 +709,7 @@
 	religion="catholic"
 }
 101400={
-	name="of Province0140"
+	name="of Alexion"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -744,7 +744,7 @@
 	religion="catholic"
 }
 101480={
-	name="of Province0148"
+	name="of Joutom"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -789,32 +789,32 @@
 	religion="hellenic_pagan"
 }
 101580={
-	name="of Province0158"
+	name="of Exolexion"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 101600={
-	name="de Province0160"
+	name="de Frontiecoet"
 	culture="catalan"
 	religion="catholic"
 }
 101610={
-	name="de Province0161"
+	name="de Leriv"
 	culture="catalan"
 	religion="catholic"
 }
 101620={
-	name="of Province0162"
+	name="of Onium"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
 101630={
-	name="de Province0163"
+	name="de Fujarra"
 	culture="catalan"
 	religion="catholic"
 }
 101640={
-	name="of Province0164"
+	name="of Lansimbul"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -839,7 +839,7 @@
 	religion="catholic"
 }
 101690={
-	name="of Province0169"
+	name="of Sut Traenge"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -884,7 +884,7 @@
 	religion="catholic"
 }
 101780={
-	name="of Province0178"
+	name="of Agricol"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -904,7 +904,7 @@
 	religion="catholic"
 }
 101820={
-	name="of Province0182"
+	name="of Contrarra"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -919,12 +919,12 @@
 	religion="jewish"
 }
 101850={
-	name="of Province0185"
+	name="of Makinnen"
 	culture="finnish"
 	religion="finnish_pagan"
 }
 101860={
-	name="de Province0186"
+	name="de Dronne Centre"
 	culture="catalan"
 	religion="catholic"
 }
@@ -944,12 +944,12 @@
 	religion="jewish"
 }
 101900={
-	name="of Province0190"
+	name="of Limnia"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 101910={
-	name="de Province0191"
+	name="de Alsur"
 	culture="catalan"
 	religion="catholic"
 }
@@ -959,7 +959,7 @@
 	religion="catholic"
 }
 101930={
-	name="of Contrarra"
+	name="of Province0193"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
@@ -974,12 +974,12 @@
 	religion="jewish"
 }
 101960={
-	name="de Province0196"
+	name="de Frontiefim"
 	culture="catalan"
 	religion="catholic"
 }
 101970={
-	name="de Province0197"
+	name="de Medrio"
 	culture="catalan"
 	religion="catholic"
 }
@@ -994,7 +994,7 @@
 	religion="jewish"
 }
 102000={
-	name="of Province0200"
+	name="of Keskimbul"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -1009,7 +1009,7 @@
 	religion="hellenic_pagan"
 }
 102030={
-	name="of Province0203"
+	name="of Mesipnos"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1029,7 +1029,7 @@
 	religion="catholic"
 }
 102070={
-	name="of Province0207"
+	name="of Desol"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1054,7 +1054,7 @@
 	religion="hellenic_pagan_reformed"
 }
 102120={
-	name="de Province0212"
+	name="de Ermit"
 	culture="catalan"
 	religion="catholic"
 }
@@ -1079,7 +1079,7 @@
 	religion="catholic"
 }
 102170={
-	name="de Province0217"
+	name="de Mesar"
 	culture="catalan"
 	religion="catholic"
 }
@@ -1139,7 +1139,7 @@
 	religion="hellenic_pagan"
 }
 102290={
-	name="of Province0229"
+	name="of Romi"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1149,22 +1149,22 @@
 	religion="finnish_pagan"
 }
 102310={
-	name="de Province0231"
+	name="de Friche"
 	culture="catalan"
 	religion="catholic"
 }
 102320={
-	name="de Province0232"
+	name="de Lagrio"
 	culture="catalan"
 	religion="catholic"
 }
 102330={
-	name="of Province0233"
+	name="of Tran Traenge"
 	culture="ashkenazi"
 	religion="jewish"
 }
 102340={
-	name="of Province0234"
+	name="of Elizion"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1174,7 +1174,7 @@
 	religion="catholic"
 }
 102360={
-	name="Province0236"
+	name="Abetnix"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -1189,7 +1189,7 @@
 	religion="jewish"
 }
 102390={
-	name="of Province0239"
+	name="of Oria"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1214,12 +1214,12 @@
 	religion="hellenic_pagan"
 }
 102440={
-	name="of Province0244"
+	name="of Exolim"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 102450={
-	name="of Oria"
+	name="of Province0245"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1244,12 +1244,12 @@
 	religion="hellenic_pagan"
 }
 102500={
-	name="of Province0250"
+	name="of Remotu"
 	culture="roman"
 	religion="hellenic_pagan_reformed"
 }
 102510={
-	name="de Province0251"
+	name="de Riult"
 	culture="catalan"
 	religion="catholic"
 }
@@ -1264,7 +1264,7 @@
 	religion="hellenic_pagan"
 }
 102540={
-	name="of Province0254"
+	name="of Oettinott"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1289,7 +1289,7 @@
 	religion="catholic"
 }
 102590={
-	name="Bartanid"
+	name="Boroghulid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1309,7 +1309,7 @@
 	religion="catholic"
 }
 102630={
-	name="of Province0263"
+	name="of Peralizion"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1324,12 +1324,12 @@
 	religion="hellenic_pagan"
 }
 102660={
-	name="Oronartid"
+	name="Shirgugetid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 102670={
-	name="Province0267"
+	name="Synethi"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -1344,7 +1344,7 @@
 	religion="hellenic_pagan"
 }
 102700={
-	name="of Province0270"
+	name="of Sutland"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1359,12 +1359,12 @@
 	religion="finnish_pagan"
 }
 102730={
-	name="Morokhid"
+	name="Daritid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 102740={
-	name="Subetid"
+	name="Tolid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1374,7 +1374,7 @@
 	religion="jewish"
 }
 102760={
-	name="of Province0276"
+	name="of Makrino"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1384,7 +1384,7 @@
 	religion="jewish"
 }
 102780={
-	name="of Province0278"
+	name="of Mittmarsh"
 	culture="ashkenazi"
 	religion="jewish"
 }
@@ -1394,7 +1394,7 @@
 	religion="hellenic_pagan"
 }
 102800={
-	name="Jurchedid"
+	name="Uighurtid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1409,7 +1409,7 @@
 	religion="west_african_pagan"
 }
 102830={
-	name="Narinid"
+	name="Burkhanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1424,7 +1424,7 @@
 	religion="finnish_pagan"
 }
 102860={
-	name="of Province0286"
+	name="of Itaambul"
 	culture="finnish"
 	religion="finnish_pagan"
 }
@@ -1434,12 +1434,12 @@
 	religion="jewish"
 }
 102880={
-	name="Province0288"
+	name="Abethid"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 102890={
-	name="Baburid"
+	name="Bodoncharid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1454,17 +1454,17 @@
 	religion="hellenic_pagan"
 }
 102920={
-	name="Dodid"
+	name="Odchiginid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 102930={
-	name="Boroghulid"
+	name="Berkid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 102940={
-	name="Province0294"
+	name="Suuethid"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -1474,12 +1474,12 @@
 	religion="west_african_pagan"
 }
 102960={
-	name="Oronartid"
+	name="Burkhanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 102970={
-	name="of Province0297"
+	name="of Bethion"
 	culture="greek"
 	religion="hellenic_pagan"
 }
@@ -1499,7 +1499,7 @@
 	religion="jewish"
 }
 103010={
-	name="Bogorchid"
+	name="Abaghid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1509,17 +1509,17 @@
 	religion="hellenic_pagan"
 }
 103030={
-	name="Bolkhadarid"
+	name="Baburid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103040={
-	name="Okhoturid"
+	name="Belgutid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103050={
-	name="Harghasunid"
+	name="Chulgetid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1529,37 +1529,37 @@
 	religion="west_african_pagan"
 }
 103070={
-	name="Jajiradid"
+	name="Khubilid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103080={
-	name="of Province0308"
+	name="of Peras"
 	culture="greek"
 	religion="hellenic_pagan"
 }
 103090={
-	name="Khorchid"
+	name="Chormakhanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103100={
-	name="Jamughid"
+	name="Dagunid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103110={
-	name="Jochid"
+	name="Dodid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103120={
-	name="Arasenid"
+	name="Batid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103130={
-	name="Khorchid"
+	name="Odchiginid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1569,17 +1569,17 @@
 	religion="west_african_pagan"
 }
 103150={
-	name="Dilipapalid"
+	name="Sallaksanavarmanid"
 	culture="hindustani"
 	religion="hindu"
 }
 103160={
-	name="Ishtpalid"
+	name="Chandid"
 	culture="hindustani"
 	religion="hindu"
 }
 103170={
-	name="Kalyanachandrid"
+	name="Alsid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -1589,12 +1589,12 @@
 	religion="west_african_pagan"
 }
 103190={
-	name="Province0319"
+	name="Ostekion"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103200={
-	name="Baburid"
+	name="Khorilartid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1604,22 +1604,22 @@
 	religion="west_african_pagan"
 }
 103220={
-	name="Province0322"
+	name="Estperas"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103230={
-	name="Jamughid"
+	name="Ogodid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103240={
-	name="Dodid"
+	name="Oljaitid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103250={
-	name="Jebid"
+	name="Oljaitid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1634,82 +1634,82 @@
 	religion="west_african_pagan"
 }
 103280={
-	name="Dothid"
+	name="Dilippalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103290={
-	name="Birpalid"
+	name="Ratnapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103300={
-	name="Brahmadevid"
+	name="Kakhopalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103310={
-	name="Khorilartid"
+	name="Alchidid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103320={
-	name="Province0332"
+	name="Ostek"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103330={
-	name="Province0333"
+	name="Suustelia"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103340={
-	name="Chiledid"
+	name="Bugunutid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103350={
-	name="Bugidid"
+	name="Khorchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103360={
-	name="Latifid"
+	name="Badrid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103370={
-	name="Madanavarmanid"
+	name="Birpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103380={
-	name="Temurid"
+	name="Burid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103390={
-	name="Dharmapalid"
+	name="Prithvirajid"
 	culture="hindustani"
 	religion="hindu"
 }
 103400={
-	name="Jagdevid"
+	name="Rajyapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103410={
-	name="Mattid"
+	name="Zaid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103420={
-	name="Jagdevid"
+	name="Varshapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103430={
-	name="Subhatavarmanid"
+	name="Jayasaktid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -1724,7 +1724,7 @@
 	religion="west_african_pagan"
 }
 103460={
-	name="Barghujinid"
+	name="Torolchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -1734,97 +1734,97 @@
 	religion="west_african_pagan"
 }
 103480={
-	name="Godanid"
+	name="Khadaghid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103490={
-	name="Anupapalid"
+	name="Dhangadevid"
 	culture="hindustani"
 	religion="hindu"
 }
 103500={
-	name="Gughlugid"
+	name="Bulughanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103510={
-	name="Narinid"
+	name="Dayirid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103520={
-	name="Kogsegid"
+	name="Bilgid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103530={
-	name="Province0353"
+	name="Suulak"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103540={
-	name="Rajapalid"
+	name="Sisupalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103550={
-	name="Alaghid"
+	name="Alchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103560={
-	name="Khorchid"
+	name="Alchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103570={
-	name="Sukhinpalid"
+	name="Ganapatidevid"
 	culture="hindustani"
 	religion="hindu"
 }
 103580={
-	name="Dawlatid"
+	name="Binyaminid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103590={
-	name="Zaid"
+	name="Khalilid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103600={
-	name="Arsenid"
+	name="Abisalomid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103610={
-	name="Khudid"
+	name="Kokochid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103620={
-	name="Prithvipalid"
+	name="Vihangpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103630={
-	name="Jayasimhid"
+	name="Anangpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103640={
-	name="Surajpalid"
+	name="Baghpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103650={
-	name="Yahid"
+	name="Khalilid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103660={
-	name="Amrid"
+	name="Abu-Bakrid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
@@ -1839,7 +1839,7 @@
 	religion="west_african_pagan"
 }
 103690={
-	name="Khadagid"
+	name="Govindarajid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -1849,37 +1849,37 @@
 	religion="tengri_pagan"
 }
 103710={
-	name="Vapyatid"
+	name="Gambhirid"
 	culture="hindustani"
 	religion="hindu"
 }
 103720={
-	name="Georgid"
+	name="Abanoubid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103730={
-	name="Tokhtamisid"
+	name="Chidukhulid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103740={
-	name="Boroghulid"
+	name="Tamachid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103750={
-	name="Beejpalid"
+	name="Srichandrid"
 	culture="hindustani"
 	religion="hindu"
 }
 103760={
-	name="Balid"
+	name="Belgunutid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103770={
-	name="Amrid"
+	name="Zaid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
@@ -1889,57 +1889,57 @@
 	religion="west_african_pagan"
 }
 103790={
-	name="Baburid"
+	name="Ajinid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103800={
-	name="Iturgenid"
+	name="Chormakhanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103810={
-	name="Abdullahid"
+	name="Jerjerid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103820={
-	name="Arkhid"
+	name="Khabichid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103830={
-	name="Khorchid"
+	name="Temurid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103840={
-	name=""Apara Gangeya"id"
+	name="Sonpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103850={
-	name="Vidurathpalid"
+	name="Mahendrapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103860={
-	name="Rangrajid"
+	name="Arjunpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 103870={
-	name="Yedid"
+	name="Ghazanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 103880={
-	name="Ezrid"
+	name="Akbarid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 103890={
-	name="Province0389"
+	name="Suustok"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -1949,72 +1949,72 @@
 	religion="west_african_pagan"
 }
 103910={
-	name="Province0391"
+	name="Norlak"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103920={
-	name="Province0392"
+	name="Vostokia"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 103930={
-	name="Sulakshanpalid"
+	name="Udayaditid"
 	culture="hindustani"
 	religion="hindu"
 }
 103940={
-	name="Jamughid"
-	culture="mongol"
-	religion="tengri_pagan"
-}
-103950={
-	name="Yesugid"
-	culture="mongol"
-	religion="tengri_pagan"
-}
-103960={
-	name="Shirgugetid"
-	culture="mongol"
-	religion="tengri_pagan"
-}
-103970={
 	name="Narinid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
+103950={
+	name="Alchidid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103960={
+	name="Bodoncharid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
+103970={
+	name="Shirgugetid"
+	culture="mongol"
+	religion="tengri_pagan"
+}
 103980={
-	name="Vakpatid"
+	name="Pavakid"
 	culture="hindustani"
 	religion="hindu"
 }
 103990={
-	name="Ajid"
+	name="Inanchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104000={
-	name="Khaidid"
+	name="Tokhtamisid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104010={
-	name="Tadrosid"
+	name="Yassirid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104020={
-	name="Sisupalid"
+	name="Sukhinpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104030={
-	name="Malikid"
+	name="Nasirid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104040={
-	name="Abdul-Azizid"
+	name="Ablarionid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
@@ -2024,7 +2024,7 @@
 	religion="west_african_pagan"
 }
 104060={
-	name="Akhutid"
+	name="Jamughid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -2039,42 +2039,42 @@
 	religion="west_african_pagan"
 }
 104090={
-	name="Hulegid"
+	name="Bartanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104100={
-	name="Chormakhanid"
+	name="Bujegid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104110={
-	name="Zaid"
+	name="Abdul-Madjidid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104120={
-	name="Megetid"
+	name="Belgunutid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104130={
-	name="Govindachandrid"
+	name="Mahendrapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104140={
-	name="Athanasid"
+	name="Nassibid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104150={
-	name="Province0415"
+	name="Bamoth"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104160={
-	name="Tamachid"
+	name="Nayagid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -2089,82 +2089,82 @@
 	religion="west_african_pagan"
 }
 104190={
-	name="Okhoturid"
+	name="Alchidid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104200={
-	name="Suyiketid"
+	name="Arasenid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104210={
-	name="Baburid"
+	name="Chanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104220={
-	name="Axayacatlid"
+	name="Tecolotlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104230={
-	name="Duid"
+	name="Alchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104240={
-	name="Province0424"
+	name="Voster"
 	culture="songhay"
 	religion="west_african_pagan"
 }
 104250={
-	name="Husunid"
+	name="Kogsegid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104260={
-	name="Abdul-Salaamid"
+	name="Sabahid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104270={
-	name="Muhammadid"
+	name="Agathonid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104280={
-	name="Gambhirid"
+	name="Kanhadid"
 	culture="hindustani"
 	religion="hindu"
 }
 104290={
-	name="Xiuhpillid"
+	name="Tlalocid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104300={
-	name="Someshvarid"
+	name="Madanapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104310={
-	name="Draupadid"
+	name="Bacchdevid"
 	culture="hindustani"
 	religion="hindu"
 }
 104320={
-	name="Godanid"
+	name="Shiraghulid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104330={
-	name="Abdullahid"
+	name="Yassirid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104340={
-	name="Tejpalid"
+	name="Bhumpalid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -2174,27 +2174,27 @@
 	religion="west_african_pagan"
 }
 104360={
-	name="Yaotlid"
+	name="Matlalihuitlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104370={
-	name="Bugunutid"
+	name="Tumenid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104380={
-	name="Horkhudaghid"
+	name="Khorchid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104390={
-	name="Lotid"
+	name="Jawdatid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104400={
-	name="Agathonid"
+	name="Lotid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
@@ -2204,7 +2204,7 @@
 	religion="taoist"
 }
 104420={
-	name="Iturgenid"
+	name="Bartanid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -2214,7 +2214,7 @@
 	religion="west_african_pagan"
 }
 104440={
-	name="Saugandevid"
+	name="Sisupalid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -2229,7 +2229,7 @@
 	religion="west_african_pagan"
 }
 104470={
-	name="Toghorilid"
+	name="Bujegid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
@@ -2244,22 +2244,22 @@
 	religion="taoist"
 }
 104500={
-	name="Rafiqid"
+	name="Murshidid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104510={
-	name="Province0451"
+	name="Kaodo"
 	culture="han"
 	religion="taoist"
 }
 104520={
-	name="Ambaghid"
+	name="Shiraghulid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104530={
-	name="Province0453"
+	name="Suloasir"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -2269,42 +2269,42 @@
 	religion="west_african_pagan"
 }
 104550={
-	name="Chaghaganid"
+	name="Yesungid"
 	culture="mongol"
 	religion="tengri_pagan"
 }
 104560={
-	name="Zolinid"
+	name="Tochtlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104570={
-	name="Province0457"
+	name="Kempwan"
 	culture="han"
 	religion="taoist"
 }
 104580={
-	name="Tayyibid"
+	name="Mattid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104590={
-	name="Jhetpalid"
+	name="Jasapalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104600={
-	name="Alsid"
+	name="Surajpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104610={
-	name="Pritampalid"
+	name="Mangaldevid"
 	culture="hindustani"
 	religion="hindu"
 }
 104620={
-	name="Province0462"
+	name="Ostvilk"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -2319,7 +2319,7 @@
 	religion="taoist"
 }
 104650={
-	name="Province0465"
+	name="Oasir"
 	culture="songhay"
 	religion="west_african_pagan"
 }
@@ -2329,7 +2329,7 @@
 	religion="taoist"
 }
 104670={
-	name="Province0467"
+	name="Prybao"
 	culture="han"
 	religion="taoist"
 }
@@ -2344,17 +2344,17 @@
 	religion="taoist"
 }
 104700={
-	name="Mikhaelid"
+	name="Muhammadid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104710={
-	name="Tochtlid"
+	name="Xihuitlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104720={
-	name="Saugandevid"
+	name="Rampalid"
 	culture="hindustani"
 	religion="hindu"
 }
@@ -2364,27 +2364,27 @@
 	religion="west_african_pagan"
 }
 104740={
-	name="Xipilid"
+	name="Tzompantzinid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104750={
-	name="Uemanid"
+	name="Huitztecolid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104760={
-	name="Da’oudid"
+	name="Abdul-Haqid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 104770={
-	name="Ixtlilxochitlid"
+	name="Nezahualcoyotlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104780={
-	name="Mukhtarid"
+	name="Usamid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
@@ -2399,27 +2399,27 @@
 	religion="taoist"
 }
 104810={
-	name="Rajapalid"
+	name="Sonpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104820={
-	name="Xihuitlid"
+	name="Quauhtlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104830={
-	name="Coanacochid"
+	name="Zolinid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104840={
-	name="Matlalid"
+	name="Iquehuacatzinid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104850={
-	name="Mazatlid"
+	name="Xochipillid"
 	culture="nahuatl"
 	religion="aztec"
 }
@@ -2429,17 +2429,17 @@
 	religion="taoist"
 }
 104870={
-	name="Xicohtencatlid"
+	name="Tizocid"
 	culture="nahuatl"
 	religion="aztec"
 }
 104880={
-	name="Province0488"
+	name="Xiawan"
 	culture="han"
 	religion="taoist"
 }
 104890={
-	name="Miztlid"
+	name="Necuametlid"
 	culture="nahuatl"
 	religion="aztec"
 }
@@ -2449,17 +2449,17 @@
 	religion="taoist"
 }
 104910={
-	name="Province0491"
+	name="Chitadon"
 	culture="han"
 	religion="taoist"
 }
 104920={
-	name="Anupapalid"
+	name="Sonpalid"
 	culture="hindustani"
 	religion="hindu"
 }
 104930={
-	name="Xipilid"
+	name="Acamapichtlid"
 	culture="nahuatl"
 	religion="aztec"
 }
@@ -2474,7 +2474,7 @@
 	religion="taoist"
 }
 104960={
-	name="Acamapichtlid"
+	name="Tlilpotonqid"
 	culture="nahuatl"
 	religion="aztec"
 }
@@ -2484,32 +2484,32 @@
 	religion="taoist"
 }
 104980={
-	name="Province0498"
+	name="Dadon"
 	culture="han"
 	religion="taoist"
 }
 104990={
-	name="Lotid"
+	name="Jerjerid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 105000={
-	name="Nezahualpillid"
+	name="Acalanid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105010={
-	name="Tlalocid"
+	name="Cuetzpallid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105020={
-	name="Cacamatzinid"
+	name="Topiltzinid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105030={
-	name="Mazatlid"
+	name="Xiuhpillid"
 	culture="nahuatl"
 	religion="aztec"
 }
@@ -2519,152 +2519,152 @@
 	religion="taoist"
 }
 105050={
-	name="Ozomatlid"
+	name="Xihuitlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105060={
-	name="Xipilid"
+	name="Necuametlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105070={
-	name="Bashirid"
+	name="Kemaladdinid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 105080={
-	name="Yayauhqid"
+	name="Cuitlahuacid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105090={
-	name="Xipillid"
+	name="Zipactonalid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105100={
-	name="Yahid"
+	name="Mattid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 105110={
-	name="Tetlepanquetzaltzinid"
+	name="Ahuitzotlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105120={
-	name="Yaotlid"
+	name="Tecolotlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105130={
-	name="Tezozomocid"
+	name="Huitzilihuitlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105140={
-	name="Xochipepid"
+	name="Yayauhqid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105150={
-	name="Abisalomid"
+	name="Miladid"
 	culture="egyptian_arabic"
 	religion="shiite"
 }
 105160={
-	name="Atlid"
+	name="Itzcoatlid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105170={
-	name="Tezozomocid"
+	name="Cuetzpallid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105180={
-	name="Ixtlilxochitlid"
+	name="Tlacaelelid"
 	culture="nahuatl"
 	religion="aztec"
 }
 105190={
-	name="Yaotlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105200={
-	name="Matlalid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105210={
-	name="Tochtlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105220={
-	name="Huitzilinid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105230={
-	name="Ozomatlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105240={
-	name="Cuixtlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105250={
-	name="Mazatlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105260={
-	name="Xipilid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105270={
-	name="Yolotlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105280={
-	name="Mazatlid"
-	culture="nahuatl"
-	religion="aztec"
-}
-105290={
 	name="Itzlid"
 	culture="nahuatl"
 	religion="aztec"
 }
-105300={
-	name="Tlacaeleltzinid"
+105200={
+	name="Xipilid"
 	culture="nahuatl"
 	religion="aztec"
 }
-105310={
-	name="Coanacochid"
+105210={
+	name="Ollid"
 	culture="nahuatl"
 	religion="aztec"
 }
-105320={
-	name="Tizocicid"
+105220={
+	name="Cuauhtlid"
 	culture="nahuatl"
 	religion="aztec"
 }
-105330={
+105230={
 	name="Acacitlid"
 	culture="nahuatl"
 	religion="aztec"
 }
+105240={
+	name="Tapayaxid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105250={
+	name="Cipacid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105260={
+	name="Nochehuatlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105270={
+	name="Acacitlid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105280={
+	name="Huitztecolid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105290={
+	name="Cacamatzinid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105300={
+	name="Tizocicid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105310={
+	name="Tlallid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105320={
+	name="Xochipepid"
+	culture="nahuatl"
+	religion="aztec"
+}
+105330={
+	name="Tizocicid"
+	culture="nahuatl"
+	religion="aztec"
+}
 105340={
-	name="Tecocoltzinid"
+	name="Itzcoatlid"
 	culture="nahuatl"
 	religion="aztec"
 }

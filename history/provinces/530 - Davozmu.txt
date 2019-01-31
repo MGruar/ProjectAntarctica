@@ -1,0 +1,16 @@
+# 530 - Davozmu
+
+# County Title
+title = c_davozmu
+
+# Settlements
+max_settlements = 4
+b_davozmu = castle
+b_barony0530d = temple
+b_barony0530e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

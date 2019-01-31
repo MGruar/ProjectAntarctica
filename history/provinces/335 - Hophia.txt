@@ -1,0 +1,15 @@
+# 335 - Hophia
+
+# County Title
+title = c_hophia
+
+# Settlements
+max_settlements = 6
+b_hophia = tribal
+b_barony0335d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

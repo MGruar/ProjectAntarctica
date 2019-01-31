@@ -1,0 +1,15 @@
+# 129 - Mitt Traenge
+
+# County Title
+title = c_mitt_traenge
+
+# Settlements
+max_settlements = 4
+b_mitt_traenge = tribal
+b_barony0129d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

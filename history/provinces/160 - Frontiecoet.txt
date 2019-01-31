@@ -1,0 +1,15 @@
+# 160 - Frontiecoet
+
+# County Title
+title = c_frontiecoet
+
+# Settlements
+max_settlements = 3
+b_frontiecoet = castle
+b_barony0160d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

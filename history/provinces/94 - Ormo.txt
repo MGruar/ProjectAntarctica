@@ -4,8 +4,9 @@
 title = c_ormo
 
 # Settlements
-max_settlements = 4
+max_settlements = 5
 b_ormo = tribal
+b_barony0094d = temple
 
 # Misc
 culture = norse

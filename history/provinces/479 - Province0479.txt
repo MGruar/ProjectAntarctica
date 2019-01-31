@@ -5,8 +5,7 @@ title = c_province0479
 
 # Settlements
 max_settlements = 3
-b_barony0479c = castle
-b_barony0479d = temple
+b_province0479 = tribal
 
 # Misc
 culture = han

@@ -1,0 +1,15 @@
+# 33 - Vestfjord
+
+# County Title
+title = c_vestfjord
+
+# Settlements
+max_settlements = 4
+b_vestfjord = tribal
+b_barony0033d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

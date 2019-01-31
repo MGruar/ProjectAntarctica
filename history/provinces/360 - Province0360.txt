@@ -5,7 +5,7 @@ title = c_province0360
 
 # Settlements
 max_settlements = 1
-b_barony0360c = castle
+b_province0360 = castle
 
 # Misc
 culture = egyptian_arabic

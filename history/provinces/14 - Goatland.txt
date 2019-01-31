@@ -4,9 +4,8 @@
 title = c_goatland
 
 # Settlements
-max_settlements = 4
+max_settlements = 3
 b_goatland = tribal
-b_barony0014d = temple
 
 # Misc
 culture = norse

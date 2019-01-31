@@ -4,10 +4,8 @@
 title = c_province0383
 
 # Settlements
-max_settlements = 4
-b_barony0383c = castle
-b_barony0383d = temple
-b_barony0383e = city
+max_settlements = 3
+b_province0383 = tribal
 
 # Misc
 culture = mongol

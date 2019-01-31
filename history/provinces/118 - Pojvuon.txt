@@ -1,0 +1,14 @@
+# 118 - Pojvuon
+
+# County Title
+title = c_pojvuon
+
+# Settlements
+max_settlements = 2
+b_pojvuon = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

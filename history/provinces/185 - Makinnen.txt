@@ -1,0 +1,14 @@
+# 185 - Makinnen
+
+# County Title
+title = c_makinnen
+
+# Settlements
+max_settlements = 3
+b_makinnen = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -6,8 +6,8 @@ technology = {
 		d_larsen
 		d_goatland
 		d_cobae
-		d_inverbend
 		d_faeroe
+		d_inverbend
 		d_far_ellswaere
 		d_waeddel
 		d_vestfjord
@@ -15,7 +15,7 @@ technology = {
 		d_manna
 		d_norrbaer
 		d_mittenbaer
-		d_duchy0044
+		d_faersid
 		d_naersid
 		d_soderbaer
 	}
@@ -26,12 +26,14 @@ technology = {
 	}
 }
 
-# Shactonnia
+# Transantar
 technology = {
 	titles = {
-		d_duchy0061
-		d_duchy0067
-		d_duchy0091
+		d_makria
+		d_mescher
+		d_omeya
+		d_stoema
+		d_nort_traenge
 	}
 	1066 = {
 		military = 0.0
@@ -41,13 +43,140 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0103
-		d_duchy0121
-		d_duchy0128
-		d_duchy0134
-		d_duchy0138
-		d_duchy0159
-		d_duchy0162
+		d_mittenmaede
+		d_mitt_traenge
+		d_sut_traenge
+		d_mesipnos
+		d_tran_traenge
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_ormo
+		d_maede
+		d_anderia
+		d_alexion
+		d_exolexion
+		d_limnia
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+
+# Fujarra
+technology = {
+	titles = {
+		d_costamig
+		d_alsur
+		d_ermit
+		d_mesar
+		d_lagrio
+		d_riult
+		d_altrio
+		d_baruunu
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_fujarra
+		d_medrio
+	}
+	1066 = {
+		military = 2.0
+		economy = 2.0
+		culture = 2.0
+	}
+}
+technology = {
+	titles = {
+		d_valkyrtov
+		d_damjuul
+		d_taldaar
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
+# Dronnin
+technology = {
+	titles = {
+		d_auringon
+		d_vutren
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+technology = {
+	titles = {
+		d_suun
+		d_kannaots
+		d_etevuon
+		d_polaht
+		d_pojvuon
+		d_droncote
+		d_joutom
+		d_frontiecoet
+		d_leriv
+		d_lansimbul
+		d_makinnen
+		d_dronne_centre
+		d_frontiefim
+		d_keskimbul
+		d_friche
+		d_itaambul
+		d_gadna
+		d_duchy0324
+		d_severn
+		d_thorshby
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+
+# Shactonnia
+technology = {
+	titles = {
+		d_insulos
+		d_gran_peninsul
+		d_sinulac
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+technology = {
+	titles = {
+		d_occidens
+		d_chester
+		d_restorro
+		d_restaus
+		d_peninsul
+		d_restorien
+		d_onium
 		d_contrarra
 		d_romarra_centra
 		d_interu
@@ -60,156 +189,26 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0123
-		d_duchy0198
-		d_duchy0268
+		d_restocciden
+		d_agricol
+		d_remotu
 	}
 	1066 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
-	}
-}
-
-# Fujarra
-technology = {
-	titles = {
-		d_duchy0150
-		d_duchy0191
-		d_duchy0212
-		d_duchy0232
-		d_duchy0242
-		d_duchy0251
-		d_duchy0274
-		d_duchy0283
-	}
-	1066 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-technology = {
-	titles = {
-		d_duchy0163
-		d_duchy0197
-	}
-	1066 = {
-		military = 2.0
-		economy = 2.0
-		culture = 2.0
-	}
-}
-technology = {
-	titles = {
-		d_duchy0301
-		d_duchy0312
-		d_duchy0320
-	}
-	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
-	}
-}
-
-# Dronnin
-technology = {
-	titles = {
-		d_duchy0055
-		d_duchy0310
-		d_duchy0346
-	}
-	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
-	}
-}
-technology = {
-	titles = {
-		d_duchy0075
-		d_duchy0085
-		d_duchy0095
-		d_duchy0112
-		d_duchy0118
-		d_duchy0139
-		d_duchy0148
-		d_duchy0160
-		d_duchy0161
-		d_duchy0164
-		d_duchy0186
-		d_duchy0205
-		d_duchy0219
-		d_duchy0230
-		d_duchy0231
-		d_duchy0280
-		d_duchy0286
-		d_duchy0311
-		d_duchy0350
-		d_duchy0351
-	}
-	1066 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-
-# Transantar
-technology = {
-	titles = {
-		d_makria
-		d_mescher
-		d_omeya
-		d_stoema
-		d_duchy0097
-		d_duchy0113
-	}
-	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
-	}
-}
-technology = {
-	titles = {
-		d_mittenmaede
-		d_duchy0133
-		d_duchy0169
-		d_duchy0203
-		d_duchy0233
-	}
-	1066 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-technology = {
-	titles = {
-		d_ormo
-		d_maede
-		d_duchy0116
-		d_duchy0153
-		d_duchy0190
-	}
-	1066 = {
-		military = 2.0
-		economy = 2.0
-		culture = 2.0
 	}
 }
 
 # Elizabethion
 technology = {
 	titles = {
-		d_duchy0234
-		d_duchy0249
-		d_duchy0265
-		d_duchy0269
-		d_duchy0297
-		d_duchy0308
+		d_romi
+		d_elizion
+		d_exolim
+		d_peralizion
+		d_bethion
+		d_peras
 	}
 	1066 = {
 		military = 2.0
@@ -219,16 +218,16 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0236
-		d_duchy0281
-		d_duchy0291
-		d_duchy0295
-		d_duchy0298
-		d_duchy0319
-		d_duchy0326
-		d_duchy0333
-		d_duchy0345
-		d_duchy0353
+		d_abetnix
+		d_synethi
+		d_makrino
+		d_abethid
+		d_suuethid
+		d_ostekion
+		d_estperas
+		d_ostek
+		d_suustelia
+		d_suulak
 	}
 	1066 = {
 		military = 1.0
@@ -237,13 +236,54 @@ technology = {
 	}
 }
 
+# Gran Adelia
+technology = {
+	titles = {
+		d_erebus
+		d_murdo
+		d_oria
+		d_oriassur
+		d_adelidom
+		d_wilkdom
+		d_doma
+	}
+	1066 = {
+		military = 1.0
+		economy = 1.0
+		culture = 1.0
+	}
+}
+technology = {
+	titles = {
+		d_desol
+		d_oettinott
+		d_sutland
+		d_mittmarsh
+		d_peninulas
+		d_surtapenina
+		d_otcappase
+		d_westamas
+		d_lagamas
+		d_gra_cappase
+		d_nortamas
+		d_inncappase
+		d_wilkasha
+		d_surlamas
+		d_wilkiils
+	}
+	1066 = {
+		military = 0.0
+		economy = 0.0
+		culture = 0.0
+	}
+}
+
 # Argum
 technology = {
 	titles = {
-		d_duchy0335
-		d_duchy0510
-		d_duchy0513
-		d_duchy0515
+		d_hophia
+		d_nojanuu
+		d_januu
 	}
 	1066 = {
 		military = 0.0
@@ -253,18 +293,19 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0341
-		d_duchy0365
-		d_duchy0372
-		d_duchy0374
-		d_duchy0379
-		d_duchy0396
-		d_duchy0399
-		d_duchy0401
-		d_duchy0414
-		d_duchy0426
-		d_duchy0440
-		d_duchy0476
+		d_wahalta
+		d_khalargus
+		d_argamal
+		d_biengao
+		d_qiugus
+		d_macrobbe
+		d_mienaroa
+		d_bacca
+		d_lijal
+		d_ziragharb
+		d_sharzirat
+		d_prydhal
+		d_buhay
 	}
 	1066 = {
 		military = 1.0
@@ -276,26 +317,26 @@ technology = {
 # Vostum
 technology = {
 	titles = {
-		d_duchy0389
-		d_duchy0391
-		d_duchy0392
-		d_duchy0418
-		d_duchy0424
-		d_duchy0436
-		d_duchy0453
-		d_duchy0462
-		d_duchy0471
-		d_duchy0475
-		d_duchy0483
-		d_duchy0493
-		d_duchy0502
-		d_duchy0506
-		d_duchy0514
-		d_duchy0520
-		d_duchy0523
-		d_duchy0526
-		d_duchy0530
-		d_duchy0532
+		d_suustok
+		d_norlak
+		d_vostokia
+		d_bamoth
+		d_voster
+		d_westilk
+		d_suloasir
+		d_estilk
+		d_ostvilk
+		d_vilksir
+		d_wixilsi
+		d_xilkosur
+		d_wixilisurpa
+		d_xilket
+		d_davibir
+		d_davisuctl
+		d_otwilk
+		d_xenin
+		d_davozmu
+		d_estebir
 	}
 	1066 = {
 		military = 1.0
@@ -305,50 +346,7 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0422
-		d_duchy0465
-	}
-	1066 = {
-		military = 0.0
-		economy = 0.0
-		culture = 0.0
-	}
-}
-
-# Gran Adelia
-technology = {
-	titles = {
-		d_erebus
-		d_murdo
-		d_oria
-		d_oriassur
-		d_duchy0317
-		d_duchy0343
-		d_duchy0354
-	}
-	1066 = {
-		military = 1.0
-		economy = 1.0
-		culture = 1.0
-	}
-}
-technology = {
-	titles = {
-		d_duchy0207
-		d_duchy0252
-		d_duchy0254
-		d_duchy0300
-		d_duchy0330
-		d_duchy0339
-		d_duchy0357
-		d_duchy0362
-		d_duchy0385
-		d_duchy0386
-		d_duchy0398
-		d_duchy0431
-		d_duchy0459
-		d_duchy0461
-		d_duchy0492
+		d_oasir
 	}
 	1066 = {
 		military = 0.0
@@ -360,17 +358,18 @@ technology = {
 # Kempia
 technology = {
 	titles = {
-		d_duchy0382
-		d_duchy0387
-		d_duchy0419
-		d_duchy0420
-		d_duchy0437
-		d_duchy0451
-		d_duchy0452
-		d_duchy0457
-		d_duchy0480
-		d_duchy0486
-		d_duchy0498
+		d_zuush
+		d_nuuby
+		d_dalagar
+		d_omnuu
+		d_enderb
+		d_enbulan
+		d_kaodo
+		d_kempwan
+		d_prybao
+		d_xiawan
+		d_chitadon
+		d_dadon
 	}
 	1066 = {
 		military = 1.0
@@ -380,8 +379,7 @@ technology = {
 }
 technology = {
 	titles = {
-		d_duchy0421
-		d_duchy0494
+		d_gaamon
 	}
 	1066 = {
 		military = 0.0

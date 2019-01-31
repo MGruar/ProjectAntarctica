@@ -1,0 +1,15 @@
+# 26 - Far Ellswaere
+
+# County Title
+title = c_far_ellswaere
+
+# Settlements
+max_settlements = 5
+b_far_ellswaere = tribal
+b_barony0026d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

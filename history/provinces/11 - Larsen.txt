@@ -6,6 +6,7 @@ title = c_larsen
 # Settlements
 max_settlements = 2
 b_larsen = tribal
+b_barony0011d = temple
 
 # Misc
 culture = norse

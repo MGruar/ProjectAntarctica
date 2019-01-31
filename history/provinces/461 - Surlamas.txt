@@ -1,0 +1,14 @@
+# 461 - Surlamas
+
+# County Title
+title = c_surlamas
+
+# Settlements
+max_settlements = 4
+b_surlamas = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

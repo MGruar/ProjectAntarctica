@@ -1,0 +1,17 @@
+# 114 - Anderia
+
+# County Title
+title = c_anderia
+
+# Settlements
+max_settlements = 5
+b_anderia = castle
+b_barony0114d = temple
+b_barony0114e = city
+b_barony0114f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

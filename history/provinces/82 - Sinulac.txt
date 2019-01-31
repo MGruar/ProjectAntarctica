@@ -1,0 +1,15 @@
+# 82 - Sinulac
+
+# County Title
+title = c_sinulac
+
+# Settlements
+max_settlements = 5
+b_sinulac = tribal
+b_barony0082d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

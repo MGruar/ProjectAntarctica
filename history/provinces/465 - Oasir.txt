@@ -1,0 +1,14 @@
+# 465 - Oasir
+
+# County Title
+title = c_oasir
+
+# Settlements
+max_settlements = 1
+b_oasir = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

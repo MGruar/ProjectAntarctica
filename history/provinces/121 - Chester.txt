@@ -1,0 +1,17 @@
+# 121 - Chester
+
+# County Title
+title = c_chester
+
+# Settlements
+max_settlements = 5
+b_chester = castle
+b_barony0121d = temple
+b_barony0121e = city
+b_barony0121f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

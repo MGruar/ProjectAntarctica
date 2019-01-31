@@ -5,7 +5,7 @@ title = c_province0525
 
 # Settlements
 max_settlements = 3
-b_barony0525c = tribal
+b_province0525 = tribal
 
 # Misc
 culture = nahuatl

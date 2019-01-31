@@ -1,0 +1,15 @@
+# 498 - Dadon
+
+# County Title
+title = c_dadon
+
+# Settlements
+max_settlements = 5
+b_dadon = tribal
+b_barony0498d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

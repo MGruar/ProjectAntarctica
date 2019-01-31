@@ -1,0 +1,17 @@
+# 288 - Abethid
+
+# County Title
+title = c_abethid
+
+# Settlements
+max_settlements = 6
+b_abethid = castle
+b_barony0288d = temple
+b_barony0288e = city
+b_barony0288f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

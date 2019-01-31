@@ -1,0 +1,17 @@
+# 415 - Bamoth
+
+# County Title
+title = c_bamoth
+
+# Settlements
+max_settlements = 5
+b_bamoth = castle
+b_barony0415d = temple
+b_barony0415e = city
+b_barony0415f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

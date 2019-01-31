@@ -1,0 +1,14 @@
+# 374 - Biengao
+
+# County Title
+title = c_biengao
+
+# Settlements
+max_settlements = 2
+b_biengao = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

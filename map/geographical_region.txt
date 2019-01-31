@@ -2,43 +2,13 @@
 world_western_isles = {
 	duchies = {
 		# k_graeme
-		d_orknae d_shaetland d_larsen d_cobae d_inverbend d_goatland 
-		# k_ellswaere
-		d_far_ellswaere d_naersid d_duchy0044 
+		d_orknae d_shaetland d_goatland d_cobae d_inverbend d_larsen 
 		# k_baerde
-		d_norrbaer d_mittenbaer d_soderbaer 
+		d_norrbaer d_soderbaer d_mittenbaer 
+		# k_ellswaere
+		d_far_ellswaere d_faersid d_naersid 
 		# k_paelme
-		d_faeroe d_waeddel d_vestfjord d_manna d_ostfjord 
-	}
-}
-world_shactonnia = {
-	duchies = {
-		# k_shacleton
-		d_duchy0061 d_duchy0067 d_duchy0103 d_duchy0091 
-		# k_romarra
-		d_contrarra d_interu d_duchy0268 d_romarra_centra 
-		# k_reston
-		d_duchy0121 d_duchy0123 d_duchy0128 d_duchy0138 d_duchy0159 d_duchy0162 d_duchy0198 d_duchy0134 
-	}
-}
-world_fujarra = {
-	duchies = {
-		# k_valkyr
-		d_duchy0274 d_duchy0301 d_duchy0312 d_duchy0320 
-		# k_fujarra
-		d_duchy0150 d_duchy0191 d_duchy0197 d_duchy0212 d_duchy0232 d_duchy0242 d_duchy0251 d_duchy0283 d_duchy0163 
-	}
-}
-world_dronnin = {
-	duchies = {
-		# k_coets
-		d_duchy0055 d_duchy0075 d_duchy0085 d_duchy0095 d_duchy0118 d_duchy0112 
-		# k_fimbul
-		d_duchy0148 d_duchy0164 d_duchy0219 d_duchy0230 d_duchy0286 
-		# k_thorsh
-		d_duchy0280 d_duchy0310 d_duchy0311 d_duchy0350 d_duchy0351 d_duchy0346 
-		# k_dronne
-		d_duchy0139 d_duchy0160 d_duchy0161 d_duchy0205 d_duchy0231 d_duchy0186 
+		d_faeroe d_waeddel d_ostfjord d_manna d_vestfjord 
 	}
 }
 world_transantar = {
@@ -46,37 +16,47 @@ world_transantar = {
 		# k_maede
 		d_makria d_mescher d_omeya d_stoema d_ormo d_maede d_mittenmaede 
 		# k_traenge
-		d_duchy0097 d_duchy0169 d_duchy0233 d_duchy0113 
+		d_nort_traenge d_sut_traenge d_tran_traenge d_mitt_traenge 
 		# k_alexion
-		d_duchy0116 d_duchy0133 d_duchy0153 d_duchy0203 d_duchy0190 
+		d_anderia d_exolexion d_limnia d_mesipnos d_alexion 
+	}
+}
+world_fujarra = {
+	duchies = {
+		# k_valkyr
+		d_baruunu d_damjuul d_taldaar d_valkyrtov 
+		# k_fujarra
+		d_costamig d_alsur d_medrio d_ermit d_mesar d_lagrio d_riult d_altrio d_fujarra 
+	}
+}
+world_dronnin = {
+	duchies = {
+		# k_coets
+		d_auringon d_suun d_etevuon d_polaht d_pojvuon d_kannaots 
+		# k_fimbul
+		d_joutom d_lansimbul d_makinnen d_itaambul d_keskimbul 
+		# k_thorsh
+		d_gadna d_vutren d_duchy0324 d_severn d_thorshby 
+		# k_dronne
+		d_droncote d_frontiecoet d_leriv d_frontiefim d_friche d_dronne_centre 
+	}
+}
+world_shactonnia = {
+	duchies = {
+		# k_shacleton
+		d_insulos d_gran_peninsul d_occidens d_sinulac 
+		# k_reston
+		d_chester d_restocciden d_restaus d_peninsul d_restorien d_onium d_agricol d_restorro 
+		# k_romarra
+		d_contrarra d_interu d_remotu d_romarra_centra 
 	}
 }
 world_elizabethion = {
 	duchies = {
 		# k_abethi
-		d_duchy0236 d_duchy0281 d_duchy0295 d_duchy0298 d_duchy0326 d_duchy0333 d_duchy0345 d_duchy0353 d_duchy0319 
+		d_abetnix d_synethi d_suuethid d_ostekion d_estperas d_ostek d_suustelia d_suulak d_abethid 
 		# k_elizion
-		d_duchy0249 d_duchy0265 d_duchy0269 d_duchy0291 d_duchy0297 d_duchy0308 d_duchy0234 
-	}
-}
-world_argum = {
-	duchies = {
-		# k_macrobbe
-		d_duchy0335 d_duchy0374 d_duchy0379 d_duchy0399 d_duchy0396 
-		# k_prydess
-		d_duchy0476 d_duchy0513 d_duchy0515 d_duchy0510 
-		# k_argus
-		d_duchy0341 d_duchy0365 d_duchy0401 d_duchy0414 d_duchy0426 d_duchy0440 d_duchy0372 
-	}
-}
-world_vostum = {
-	duchies = {
-		# k_wilksid
-		d_duchy0422 d_duchy0436 d_duchy0471 d_duchy0475 d_duchy0493 d_duchy0502 d_duchy0483 
-		# k_davir
-		d_duchy0506 d_duchy0520 d_duchy0523 d_duchy0526 d_duchy0530 d_duchy0532 d_duchy0514 
-		# k_vosto
-		d_duchy0389 d_duchy0391 d_duchy0418 d_duchy0424 d_duchy0453 d_duchy0462 d_duchy0465 d_duchy0392 
+		d_romi d_exolim d_peralizion d_makrino d_bethion d_peras d_elizion 
 	}
 }
 world_gran_adelia = {
@@ -84,20 +64,40 @@ world_gran_adelia = {
 		# k_victiri
 		d_erebus d_murdo d_oriassur d_oria 
 		# k_oettir
-		d_duchy0207 d_duchy0254 d_duchy0300 d_duchy0252 
-		# k_domus
-		d_duchy0317 d_duchy0343 d_duchy0354 
-		# k_south_adelie
-		d_duchy0362 d_duchy0386 d_duchy0431 d_duchy0461 d_duchy0385 
+		d_desol d_sutland d_mittmarsh d_oettinott 
 		# k_north_adelie
-		d_duchy0330 d_duchy0339 d_duchy0357 d_duchy0459 d_duchy0492 d_duchy0398 
+		d_peninulas d_surtapenina d_nortamas d_wilkasha d_wilkiils d_westamas 
+		# k_south_adelie
+		d_otcappase d_gra_cappase d_inncappase d_surlamas d_lagamas 
+		# k_domus
+		d_adelidom d_wilkdom d_doma 
+	}
+}
+world_argum = {
+	duchies = {
+		# k_macrobbe
+		d_hophia d_biengao d_mienaroa d_bacca d_macrobbe 
+		# k_prydess
+		d_buhay d_nojanuu d_januu d_prydhal 
+		# k_argus
+		d_wahalta d_khalargus d_qiugus d_lijal d_ziragharb d_sharzirat d_argamal 
+	}
+}
+world_vostum = {
+	duchies = {
+		# k_wilksid
+		d_westilk d_estilk d_wixilsi d_xilkosur d_wixilisurpa d_vilksir 
+		# k_davir
+		d_xilket d_davisuctl d_otwilk d_xenin d_davozmu d_estebir d_davibir 
+		# k_vosto
+		d_suustok d_norlak d_bamoth d_voster d_suloasir d_ostvilk d_oasir d_vostokia 
 	}
 }
 world_kempia = {
 	duchies = {
 		# k_enderby
-		d_duchy0382 d_duchy0387 d_duchy0419 d_duchy0420 d_duchy0421 d_duchy0452 d_duchy0437 
+		d_zuush d_nuuby d_dalagar d_omnuu d_enbulan d_gaamon d_enderb 
 		# k_kemp
-		d_duchy0451 d_duchy0480 d_duchy0486 d_duchy0494 d_duchy0498 d_duchy0457 
+		d_kaodo d_prybao d_xiawan d_chitadon d_dadon d_kempwan 
 	}
 }

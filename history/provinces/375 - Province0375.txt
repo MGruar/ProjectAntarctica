@@ -5,7 +5,7 @@ title = c_province0375
 
 # Settlements
 max_settlements = 5
-b_barony0375c = tribal
+b_province0375 = tribal
 b_barony0375d = temple
 
 # Misc

@@ -1,0 +1,15 @@
+# 372 - Argamal
+
+# County Title
+title = c_argamal
+
+# Settlements
+max_settlements = 2
+b_argamal = castle
+b_barony0372d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

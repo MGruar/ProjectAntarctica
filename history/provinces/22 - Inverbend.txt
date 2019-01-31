@@ -1,0 +1,14 @@
+# 22 - Inverbend
+
+# County Title
+title = c_inverbend
+
+# Settlements
+max_settlements = 3
+b_inverbend = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

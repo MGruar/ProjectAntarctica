@@ -4,8 +4,8 @@
 title = c_province0242
 
 # Settlements
-max_settlements = 3
-b_barony0242c = tribal
+max_settlements = 4
+b_province0242 = tribal
 
 # Misc
 culture = catalan

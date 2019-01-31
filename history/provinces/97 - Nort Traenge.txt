@@ -1,0 +1,15 @@
+# 97 - Nort Traenge
+
+# County Title
+title = c_nort_traenge
+
+# Settlements
+max_settlements = 4
+b_nort_traenge = tribal
+b_barony0097d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

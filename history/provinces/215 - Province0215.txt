@@ -5,7 +5,7 @@ title = c_province0215
 
 # Settlements
 max_settlements = 3
-b_barony0215c = tribal
+b_province0215 = tribal
 
 # Misc
 culture = ashkenazi

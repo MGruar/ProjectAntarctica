@@ -1,0 +1,15 @@
+# 532 - Estebir
+
+# County Title
+title = c_estebir
+
+# Settlements
+max_settlements = 3
+b_estebir = castle
+b_barony0532d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

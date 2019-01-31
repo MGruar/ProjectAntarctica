@@ -1,0 +1,15 @@
+# 339 - Surtapenina
+
+# County Title
+title = c_surtapenina
+
+# Settlements
+max_settlements = 5
+b_surtapenina = tribal
+b_barony0339d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 111 - Polaht
+
+# County Title
+title = c_polaht
+
+# Settlements
+max_settlements = 4
+b_polaht = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

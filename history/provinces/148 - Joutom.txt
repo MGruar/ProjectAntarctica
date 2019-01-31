@@ -1,0 +1,14 @@
+# 148 - Joutom
+
+# County Title
+title = c_joutom
+
+# Settlements
+max_settlements = 3
+b_joutom = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

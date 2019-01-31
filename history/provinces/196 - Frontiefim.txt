@@ -1,0 +1,15 @@
+# 196 - Frontiefim
+
+# County Title
+title = c_frontiefim
+
+# Settlements
+max_settlements = 3
+b_frontiefim = castle
+b_barony0196d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

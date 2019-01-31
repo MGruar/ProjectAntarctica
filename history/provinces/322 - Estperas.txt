@@ -1,0 +1,14 @@
+# 322 - Estperas
+
+# County Title
+title = c_estperas
+
+# Settlements
+max_settlements = 2
+b_estperas = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 212 - Ermit
+
+# County Title
+title = c_ermit
+
+# Settlements
+max_settlements = 4
+b_ermit = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

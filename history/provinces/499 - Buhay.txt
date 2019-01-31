@@ -1,0 +1,14 @@
+# 499 - Buhay
+
+# County Title
+title = c_buhay
+
+# Settlements
+max_settlements = 3
+b_buhay = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

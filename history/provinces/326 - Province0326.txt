@@ -5,7 +5,7 @@ title = c_province0326
 
 # Settlements
 max_settlements = 1
-b_barony0326c = tribal
+b_province0326 = tribal
 
 # Misc
 culture = songhay

@@ -4,8 +4,9 @@
 title = c_interu
 
 # Settlements
-max_settlements = 2
+max_settlements = 3
 b_interu = castle
+b_barony0224d = temple
 
 # Misc
 culture = roman

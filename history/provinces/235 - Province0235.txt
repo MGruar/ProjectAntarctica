@@ -5,8 +5,7 @@ title = c_province0235
 
 # Settlements
 max_settlements = 3
-b_barony0235c = castle
-b_barony0235d = temple
+b_province0235 = tribal
 
 # Misc
 culture = catalan

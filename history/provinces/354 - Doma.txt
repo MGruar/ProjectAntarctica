@@ -1,0 +1,15 @@
+# 354 - Doma
+
+# County Title
+title = c_doma
+
+# Settlements
+max_settlements = 7
+b_doma = tribal
+b_barony0354d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -2,5 +2,5 @@
 	holder = 101525
 }
 1066.1.1 = {
-	liege=d_duchy0134
+	liege=d_restorro
 }

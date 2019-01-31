@@ -1,0 +1,15 @@
+# 320 - Taldaar
+
+# County Title
+title = c_taldaar
+
+# Settlements
+max_settlements = 6
+b_taldaar = tribal
+b_barony0320d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

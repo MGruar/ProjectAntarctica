@@ -1,0 +1,14 @@
+# 500 - Xilkosur
+
+# County Title
+title = c_xilkosur
+
+# Settlements
+max_settlements = 2
+b_xilkosur = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

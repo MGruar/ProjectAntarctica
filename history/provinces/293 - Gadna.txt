@@ -1,0 +1,14 @@
+# 293 - Gadna
+
+# County Title
+title = c_gadna
+
+# Settlements
+max_settlements = 2
+b_gadna = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

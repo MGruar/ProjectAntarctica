@@ -1,0 +1,16 @@
+# 178 - Agricol
+
+# County Title
+title = c_agricol
+
+# Settlements
+max_settlements = 4
+b_agricol = castle
+b_barony0178d = temple
+b_barony0178e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,17 @@
+# 514 - Davibir
+
+# County Title
+title = c_davibir
+
+# Settlements
+max_settlements = 5
+b_davibir = castle
+b_barony0514d = temple
+b_barony0514e = city
+b_barony0514f = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

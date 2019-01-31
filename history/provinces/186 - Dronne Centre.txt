@@ -1,0 +1,17 @@
+# 186 - Dronne Centre
+
+# County Title
+title = c_dronne_centre
+
+# Settlements
+max_settlements = 5
+b_dronne_centre = castle
+b_barony0186d = temple
+b_barony0186e = city
+b_barony0186f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

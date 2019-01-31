@@ -1,0 +1,16 @@
+# 419 - Dalagar
+
+# County Title
+title = c_dalagar
+
+# Settlements
+max_settlements = 4
+b_dalagar = castle
+b_barony0419d = temple
+b_barony0419e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

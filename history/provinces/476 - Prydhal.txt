@@ -1,0 +1,15 @@
+# 476 - Prydhal
+
+# County Title
+title = c_prydhal
+
+# Settlements
+max_settlements = 1
+b_prydhal = castle
+b_barony0476d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

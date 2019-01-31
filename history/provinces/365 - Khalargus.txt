@@ -1,0 +1,14 @@
+# 365 - Khalargus
+
+# County Title
+title = c_khalargus
+
+# Settlements
+max_settlements = 2
+b_khalargus = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,15 @@
+# 236 - Abetnix
+
+# County Title
+title = c_abetnix
+
+# Settlements
+max_settlements = 5
+b_abetnix = tribal
+b_barony0236d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

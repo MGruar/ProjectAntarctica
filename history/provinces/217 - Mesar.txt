@@ -1,0 +1,14 @@
+# 217 - Mesar
+
+# County Title
+title = c_mesar
+
+# Settlements
+max_settlements = 4
+b_mesar = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History
