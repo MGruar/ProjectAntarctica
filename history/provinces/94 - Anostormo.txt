@@ -1,0 +1,15 @@
+# 94 - Anostormo
+
+# County Title
+title = c_anostormo
+
+# Settlements
+max_settlements = 5
+b_anostormo = tribal
+b_barony0094d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

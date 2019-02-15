@@ -1,0 +1,14 @@
+# 523 - Martwilk
+
+# County Title
+title = c_martwilk
+
+# Settlements
+max_settlements = 2
+b_martwilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

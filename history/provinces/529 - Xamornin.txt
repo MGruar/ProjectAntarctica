@@ -1,0 +1,14 @@
+# 529 - Xamornin
+
+# County Title
+title = c_xamornin
+
+# Settlements
+max_settlements = 4
+b_xamornin = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

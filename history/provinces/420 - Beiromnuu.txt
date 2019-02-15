@@ -1,0 +1,14 @@
+# 420 - Beiromnuu
+
+# County Title
+title = c_beiromnuu
+
+# Settlements
+max_settlements = 2
+b_beiromnuu = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

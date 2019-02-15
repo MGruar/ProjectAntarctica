@@ -1,0 +1,14 @@
+# 268 - Monlatu
+
+# County Title
+title = c_monlatu
+
+# Settlements
+max_settlements = 2
+b_monlatu = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

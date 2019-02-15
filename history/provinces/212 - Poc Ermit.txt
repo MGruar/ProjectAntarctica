@@ -1,0 +1,14 @@
+# 212 - Poc Ermit
+
+# County Title
+title = c_poc_ermit
+
+# Settlements
+max_settlements = 4
+b_poc_ermit = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

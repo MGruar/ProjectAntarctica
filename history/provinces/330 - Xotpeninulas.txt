@@ -1,0 +1,14 @@
+# 330 - Xotpeninulas
+
+# County Title
+title = c_xotpeninulas
+
+# Settlements
+max_settlements = 4
+b_xotpeninulas = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

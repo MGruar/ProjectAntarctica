@@ -1,0 +1,14 @@
+# 277 - Surjuttoria
+
+# County Title
+title = c_surjuttoria
+
+# Settlements
+max_settlements = 3
+b_surjuttoria = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

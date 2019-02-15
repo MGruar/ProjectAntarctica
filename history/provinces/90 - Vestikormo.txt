@@ -1,0 +1,15 @@
+# 90 - Vestikormo
+
+# County Title
+title = c_vestikormo
+
+# Settlements
+max_settlements = 5
+b_vestikormo = tribal
+b_barony0090d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

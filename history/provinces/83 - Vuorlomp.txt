@@ -1,0 +1,14 @@
+# 83 - Vuorlomp
+
+# County Title
+title = c_vuorlomp
+
+# Settlements
+max_settlements = 3
+b_vuorlomp = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

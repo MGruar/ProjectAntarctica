@@ -1,0 +1,15 @@
+# 405 - Ermessa
+
+# County Title
+title = c_ermessa
+
+# Settlements
+max_settlements = 3
+b_ermessa = castle
+b_barony0405d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

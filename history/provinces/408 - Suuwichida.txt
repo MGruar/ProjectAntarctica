@@ -1,0 +1,17 @@
+# 408 - Suuwichida
+
+# County Title
+title = c_suuwichida
+
+# Settlements
+max_settlements = 5
+b_suuwichida = castle
+b_barony0408d = temple
+b_barony0408e = city
+b_barony0408f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

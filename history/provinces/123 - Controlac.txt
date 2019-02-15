@@ -1,0 +1,17 @@
+# 123 - Controlac
+
+# County Title
+title = c_controlac
+
+# Settlements
+max_settlements = 5
+b_controlac = castle
+b_barony0123d = temple
+b_barony0123e = city
+b_barony0123f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

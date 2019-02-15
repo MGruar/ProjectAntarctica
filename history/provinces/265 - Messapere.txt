@@ -1,0 +1,16 @@
+# 265 - Messapere
+
+# County Title
+title = c_messapere
+
+# Settlements
+max_settlements = 4
+b_messapere = castle
+b_barony0265d = temple
+b_barony0265e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

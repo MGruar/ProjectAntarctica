@@ -1,0 +1,15 @@
+# 513 - Januudina
+
+# County Title
+title = c_januudina
+
+# Settlements
+max_settlements = 2
+b_januudina = tribal
+b_barony0513d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

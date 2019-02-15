@@ -1,0 +1,14 @@
+# 199 - Ultran
+
+# County Title
+title = c_ultran
+
+# Settlements
+max_settlements = 4
+b_ultran = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 62 - Pojaurin
+
+# County Title
+title = c_pojaurin
+
+# Settlements
+max_settlements = 3
+b_pojaurin = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

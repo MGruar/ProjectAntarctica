@@ -1,0 +1,15 @@
+# 227 - Interu Altu
+
+# County Title
+title = c_interu_altu
+
+# Settlements
+max_settlements = 3
+b_interu_altu = castle
+b_barony0227d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

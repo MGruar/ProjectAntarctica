@@ -1,0 +1,14 @@
+# 261 - Mimmibul
+
+# County Title
+title = c_mimmibul
+
+# Settlements
+max_settlements = 2
+b_mimmibul = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

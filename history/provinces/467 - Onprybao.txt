@@ -1,0 +1,16 @@
+# 467 - Onprybao
+
+# County Title
+title = c_onprybao
+
+# Settlements
+max_settlements = 4
+b_onprybao = castle
+b_barony0467d = temple
+b_barony0467e = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,15 @@
+# 82 - Sinula Centra
+
+# County Title
+title = c_sinula_centra
+
+# Settlements
+max_settlements = 5
+b_sinula_centra = tribal
+b_barony0082d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

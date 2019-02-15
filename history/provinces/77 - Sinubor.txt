@@ -1,0 +1,15 @@
+# 77 - Sinubor
+
+# County Title
+title = c_sinubor
+
+# Settlements
+max_settlements = 5
+b_sinubor = tribal
+b_barony0077d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,14 @@
+# 331 - Hopinuur
+
+# County Title
+title = c_hopinuur
+
+# Settlements
+max_settlements = 4
+b_hopinuur = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 152 - Parumsinus
+
+# County Title
+title = c_parumsinus
+
+# Settlements
+max_settlements = 4
+b_parumsinus = city
+b_barony0152d = temple
+b_barony0152e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

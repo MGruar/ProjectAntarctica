@@ -1,0 +1,14 @@
+# 219 - Keskimakinnen
+
+# County Title
+title = c_keskimakinnen
+
+# Settlements
+max_settlements = 3
+b_keskimakinnen = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

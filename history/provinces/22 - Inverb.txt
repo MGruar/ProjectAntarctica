@@ -1,0 +1,14 @@
+# 22 - Inverb
+
+# County Title
+title = c_inverb
+
+# Settlements
+max_settlements = 3
+b_inverb = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

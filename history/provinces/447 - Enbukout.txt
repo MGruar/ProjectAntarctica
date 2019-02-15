@@ -1,0 +1,17 @@
+# 447 - Enbukout
+
+# County Title
+title = c_enbukout
+
+# Settlements
+max_settlements = 5
+b_enbukout = castle
+b_barony0447d = temple
+b_barony0447e = city
+b_barony0447f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

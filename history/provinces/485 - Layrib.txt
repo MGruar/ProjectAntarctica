@@ -1,0 +1,14 @@
+# 485 - Layrib
+
+# County Title
+title = c_layrib
+
+# Settlements
+max_settlements = 4
+b_layrib = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

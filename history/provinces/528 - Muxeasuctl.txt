@@ -1,0 +1,14 @@
+# 528 - Muxeasuctl
+
+# County Title
+title = c_muxeasuctl
+
+# Settlements
+max_settlements = 2
+b_muxeasuctl = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

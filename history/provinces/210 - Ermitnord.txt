@@ -1,0 +1,14 @@
+# 210 - Ermitnord
+
+# County Title
+title = c_ermitnord
+
+# Settlements
+max_settlements = 3
+b_ermitnord = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

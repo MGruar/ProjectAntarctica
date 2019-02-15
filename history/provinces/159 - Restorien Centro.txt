@@ -1,0 +1,16 @@
+# 159 - Restorien Centro
+
+# County Title
+title = c_restorien_centro
+
+# Settlements
+max_settlements = 4
+b_restorien_centro = city
+b_barony0159d = temple
+b_barony0159e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

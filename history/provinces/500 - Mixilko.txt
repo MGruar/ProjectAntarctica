@@ -1,0 +1,15 @@
+# 500 - Mixilko
+
+# County Title
+title = c_mixilko
+
+# Settlements
+max_settlements = 3
+b_mixilko = castle
+b_barony0500d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

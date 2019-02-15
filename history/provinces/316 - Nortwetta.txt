@@ -1,0 +1,14 @@
+# 316 - Nortwetta
+
+# County Title
+title = c_nortwetta
+
+# Settlements
+max_settlements = 4
+b_nortwetta = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

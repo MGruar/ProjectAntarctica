@@ -1,0 +1,15 @@
+# 85 - Keskannaots
+
+# County Title
+title = c_keskannaots
+
+# Settlements
+max_settlements = 3
+b_keskannaots = tribal
+b_barony0085d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

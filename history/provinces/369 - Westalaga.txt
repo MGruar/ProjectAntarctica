@@ -1,0 +1,14 @@
+# 369 - Westalaga
+
+# County Title
+title = c_westalaga
+
+# Settlements
+max_settlements = 4
+b_westalaga = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

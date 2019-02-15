@@ -1,0 +1,14 @@
+# 17 - Gonverb
+
+# County Title
+title = c_gonverb
+
+# Settlements
+max_settlements = 3
+b_gonverb = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

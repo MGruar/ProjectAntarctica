@@ -1,0 +1,14 @@
+# 29 - Nasfjord
+
+# County Title
+title = c_nasfjord
+
+# Settlements
+max_settlements = 4
+b_nasfjord = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

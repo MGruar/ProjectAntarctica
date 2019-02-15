@@ -1,0 +1,14 @@
+# 207 - Desolpass
+
+# County Title
+title = c_desolpass
+
+# Settlements
+max_settlements = 3
+b_desolpass = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

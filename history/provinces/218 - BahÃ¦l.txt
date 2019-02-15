@@ -1,0 +1,14 @@
+# 218 - Bahæl
+
+# County Title
+title = c_bahal
+
+# Settlements
+max_settlements = 4
+b_bahal = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

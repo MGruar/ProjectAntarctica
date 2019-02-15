@@ -1,0 +1,14 @@
+# 189 - Fyorden
+
+# County Title
+title = c_fyorden
+
+# Settlements
+max_settlements = 3
+b_fyorden = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 347 - Badar Suulak
+
+# County Title
+title = c_badar_suulak
+
+# Settlements
+max_settlements = 4
+b_badar_suulak = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

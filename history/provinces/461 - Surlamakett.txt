@@ -1,0 +1,14 @@
+# 461 - Surlamakett
+
+# County Title
+title = c_surlamakett
+
+# Settlements
+max_settlements = 4
+b_surlamakett = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

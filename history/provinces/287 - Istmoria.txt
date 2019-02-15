@@ -1,0 +1,14 @@
+# 287 - Istmoria
+
+# County Title
+title = c_istmoria
+
+# Settlements
+max_settlements = 4
+b_istmoria = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

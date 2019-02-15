@@ -1,0 +1,15 @@
+# 97 - Greemunt
+
+# County Title
+title = c_greemunt
+
+# Settlements
+max_settlements = 4
+b_greemunt = tribal
+b_barony0097d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

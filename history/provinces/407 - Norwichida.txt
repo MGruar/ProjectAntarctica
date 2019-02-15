@@ -1,0 +1,17 @@
+# 407 - Norwichida
+
+# County Title
+title = c_norwichida
+
+# Settlements
+max_settlements = 5
+b_norwichida = castle
+b_barony0407d = temple
+b_barony0407e = city
+b_barony0407f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

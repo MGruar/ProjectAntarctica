@@ -1,0 +1,15 @@
+# 364 - Diils Nordom
+
+# County Title
+title = c_diils_nordom
+
+# Settlements
+max_settlements = 5
+b_diils_nordom = tribal
+b_barony0364d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

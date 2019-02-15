@@ -1,0 +1,14 @@
+# 492 - Surkiils
+
+# County Title
+title = c_surkiils
+
+# Settlements
+max_settlements = 4
+b_surkiils = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

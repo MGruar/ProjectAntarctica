@@ -1,0 +1,14 @@
+# 390 - Norsalak
+
+# County Title
+title = c_norsalak
+
+# Settlements
+max_settlements = 1
+b_norsalak = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

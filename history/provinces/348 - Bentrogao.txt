@@ -1,0 +1,14 @@
+# 348 - Bentrogao
+
+# County Title
+title = c_bentrogao
+
+# Settlements
+max_settlements = 2
+b_bentrogao = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

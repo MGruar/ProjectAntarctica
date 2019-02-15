@@ -1,0 +1,14 @@
+# 365 - Wasakhal
+
+# County Title
+title = c_wasakhal
+
+# Settlements
+max_settlements = 2
+b_wasakhal = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

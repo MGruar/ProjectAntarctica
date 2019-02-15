@@ -1,0 +1,16 @@
+# 209 - Contrarra Borea
+
+# County Title
+title = c_contrarra_borea
+
+# Settlements
+max_settlements = 4
+b_contrarra_borea = castle
+b_barony0209d = temple
+b_barony0209e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,14 @@
+# 99 - Länsiniem
+
+# County Title
+title = c_lansiniem
+
+# Settlements
+max_settlements = 2
+b_lansiniem = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

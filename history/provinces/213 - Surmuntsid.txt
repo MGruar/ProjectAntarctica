@@ -1,0 +1,14 @@
+# 213 - Surmuntsid
+
+# County Title
+title = c_surmuntsid
+
+# Settlements
+max_settlements = 3
+b_surmuntsid = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

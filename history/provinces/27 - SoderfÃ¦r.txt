@@ -1,0 +1,14 @@
+# 27 - Soderfær
+
+# County Title
+title = c_soderfar
+
+# Settlements
+max_settlements = 4
+b_soderfar = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

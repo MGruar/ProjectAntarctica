@@ -1,0 +1,15 @@
+# 439 - Baejazir
+
+# County Title
+title = c_baejazir
+
+# Settlements
+max_settlements = 3
+b_baejazir = castle
+b_barony0439d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

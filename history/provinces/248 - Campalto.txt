@@ -1,0 +1,15 @@
+# 248 - Campalto
+
+# County Title
+title = c_campalto
+
+# Settlements
+max_settlements = 3
+b_campalto = castle
+b_barony0248d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

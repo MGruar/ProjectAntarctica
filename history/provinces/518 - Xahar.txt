@@ -1,0 +1,14 @@
+# 518 - Xahar
+
+# County Title
+title = c_xahar
+
+# Settlements
+max_settlements = 3
+b_xahar = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

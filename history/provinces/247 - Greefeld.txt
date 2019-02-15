@@ -1,0 +1,14 @@
+# 247 - Greefeld
+
+# County Title
+title = c_greefeld
+
+# Settlements
+max_settlements = 4
+b_greefeld = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

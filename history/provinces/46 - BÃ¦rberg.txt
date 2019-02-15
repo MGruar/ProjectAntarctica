@@ -1,0 +1,14 @@
+# 46 - Bærberg
+
+# County Title
+title = c_barberg
+
+# Settlements
+max_settlements = 4
+b_barberg = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

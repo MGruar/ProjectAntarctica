@@ -1,0 +1,14 @@
+# 496 - Xahi-Goniblay
+
+# County Title
+title = c_xahi-goniblay
+
+# Settlements
+max_settlements = 1
+b_xahi-goniblay = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

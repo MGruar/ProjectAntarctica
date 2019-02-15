@@ -1,0 +1,14 @@
+# 377 - Macralhud
+
+# County Title
+title = c_macralhud
+
+# Settlements
+max_settlements = 2
+b_macralhud = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

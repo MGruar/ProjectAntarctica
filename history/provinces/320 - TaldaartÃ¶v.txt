@@ -1,0 +1,15 @@
+# 320 - Taldaartöv
+
+# County Title
+title = c_taldaartav
+
+# Settlements
+max_settlements = 6
+b_taldaartav = tribal
+b_barony0320d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

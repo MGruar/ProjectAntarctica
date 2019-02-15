@@ -1,0 +1,18 @@
+20.1.1 = {
+	historical_nomad = yes
+}
+142.1.1 = {
+	holder = 103010
+}
+229.1.1 = {
+	holder = 103011
+}
+250.1.1 = {
+	holder = 103012
+}
+251.1.1 = {
+	holder = 103015
+}
+256.1.1 = {
+	liege=d_valkyrtav
+}

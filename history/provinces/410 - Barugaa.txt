@@ -1,0 +1,15 @@
+# 410 - Barugaa
+
+# County Title
+title = c_barugaa
+
+# Settlements
+max_settlements = 3
+b_barugaa = castle
+b_barony0410d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

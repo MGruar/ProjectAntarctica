@@ -1,0 +1,14 @@
+# 361 - Gadkhophia
+
+# County Title
+title = c_gadkhophia
+
+# Settlements
+max_settlements = 4
+b_gadkhophia = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

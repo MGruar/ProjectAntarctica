@@ -1,0 +1,14 @@
+# 487 - Westenin
+
+# County Title
+title = c_westenin
+
+# Settlements
+max_settlements = 2
+b_westenin = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,15 @@
+# 147 - Baiefrontie
+
+# County Title
+title = c_baiefrontie
+
+# Settlements
+max_settlements = 3
+b_baiefrontie = castle
+b_barony0147d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

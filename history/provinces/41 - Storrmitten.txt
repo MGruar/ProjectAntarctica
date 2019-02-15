@@ -1,0 +1,15 @@
+# 41 - Storrmitten
+
+# County Title
+title = c_storrmitten
+
+# Settlements
+max_settlements = 5
+b_storrmitten = tribal
+b_barony0041d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

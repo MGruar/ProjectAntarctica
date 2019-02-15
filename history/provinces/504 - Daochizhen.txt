@@ -1,0 +1,14 @@
+# 504 - Daochizhen
+
+# County Title
+title = c_daochizhen
+
+# Settlements
+max_settlements = 2
+b_daochizhen = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

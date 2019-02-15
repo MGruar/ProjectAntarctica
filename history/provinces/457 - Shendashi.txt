@@ -1,0 +1,18 @@
+# 457 - Shendashi
+
+# County Title
+title = c_shendashi
+
+# Settlements
+max_settlements = 7
+b_shendashi = castle
+b_barony0457d = temple
+b_barony0457e = city
+b_barony0457f = castle
+b_barony0457g = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

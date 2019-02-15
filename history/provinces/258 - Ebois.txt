@@ -1,0 +1,14 @@
+# 258 - Ebois
+
+# County Title
+title = c_ebois
+
+# Settlements
+max_settlements = 2
+b_ebois = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

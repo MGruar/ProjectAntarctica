@@ -1,0 +1,14 @@
+# 469 - Bai Ce
+
+# County Title
+title = c_bai_ce
+
+# Settlements
+max_settlements = 4
+b_bai_ce = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

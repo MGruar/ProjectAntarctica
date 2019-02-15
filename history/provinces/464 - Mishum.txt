@@ -1,0 +1,14 @@
+# 464 - Mishum
+
+# County Title
+title = c_mishum
+
+# Settlements
+max_settlements = 4
+b_mishum = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

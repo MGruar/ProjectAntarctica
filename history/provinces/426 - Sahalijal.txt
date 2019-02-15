@@ -1,0 +1,14 @@
+# 426 - Sahalijal
+
+# County Title
+title = c_sahalijal
+
+# Settlements
+max_settlements = 1
+b_sahalijal = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

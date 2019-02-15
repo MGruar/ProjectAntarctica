@@ -1,0 +1,14 @@
+# 352 - Gaomphia
+
+# County Title
+title = c_gaomphia
+
+# Settlements
+max_settlements = 4
+b_gaomphia = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

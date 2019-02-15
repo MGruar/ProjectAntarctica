@@ -1,0 +1,14 @@
+# 378 - Wichisuustok
+
+# County Title
+title = c_wichisuustok
+
+# Settlements
+max_settlements = 4
+b_wichisuustok = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

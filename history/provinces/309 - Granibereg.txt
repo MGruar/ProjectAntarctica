@@ -1,0 +1,14 @@
+# 309 - Granibereg
+
+# County Title
+title = c_granibereg
+
+# Settlements
+max_settlements = 3
+b_granibereg = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 196 - Frontiefim de Nord
+
+# County Title
+title = c_frontiefim_de_nord
+
+# Settlements
+max_settlements = 3
+b_frontiefim_de_nord = castle
+b_barony0196d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

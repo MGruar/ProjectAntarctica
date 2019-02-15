@@ -1,0 +1,15 @@
+# 156 - Milieuchamp
+
+# County Title
+title = c_milieuchamp
+
+# Settlements
+max_settlements = 3
+b_milieuchamp = castle
+b_barony0156d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

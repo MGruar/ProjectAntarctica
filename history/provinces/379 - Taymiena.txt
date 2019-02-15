@@ -1,0 +1,14 @@
+# 379 - Taymiena
+
+# County Title
+title = c_taymiena
+
+# Settlements
+max_settlements = 3
+b_taymiena = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

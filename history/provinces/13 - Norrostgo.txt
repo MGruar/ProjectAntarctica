@@ -1,0 +1,14 @@
+# 13 - Norrostgo
+
+# County Title
+title = c_norrostgo
+
+# Settlements
+max_settlements = 3
+b_norrostgo = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

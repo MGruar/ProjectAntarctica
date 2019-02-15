@@ -1,0 +1,14 @@
+# 376 - Nwaiiby
+
+# County Title
+title = c_nwaiiby
+
+# Settlements
+max_settlements = 3
+b_nwaiiby = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

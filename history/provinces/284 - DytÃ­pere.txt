@@ -1,0 +1,16 @@
+# 284 - Dytípere
+
+# County Title
+title = c_dytapere
+
+# Settlements
+max_settlements = 4
+b_dytapere = castle
+b_barony0284d = temple
+b_barony0284e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

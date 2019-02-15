@@ -1,0 +1,14 @@
+# 111 - Keskpolaht
+
+# County Title
+title = c_keskpolaht
+
+# Settlements
+max_settlements = 4
+b_keskpolaht = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,17 @@
+# 437 - Tson Endershi
+
+# County Title
+title = c_tson_endershi
+
+# Settlements
+max_settlements = 6
+b_tson_endershi = castle
+b_barony0437d = temple
+b_barony0437e = city
+b_barony0437f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

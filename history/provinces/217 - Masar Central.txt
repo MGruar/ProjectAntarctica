@@ -1,0 +1,14 @@
+# 217 - Masar Central
+
+# County Title
+title = c_masar_central
+
+# Settlements
+max_settlements = 4
+b_masar_central = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

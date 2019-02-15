@@ -1,0 +1,15 @@
+# 477 - Yebosurix
+
+# County Title
+title = c_yebosurix
+
+# Settlements
+max_settlements = 3
+b_yebosurix = castle
+b_barony0477d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

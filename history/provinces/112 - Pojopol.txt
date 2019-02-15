@@ -1,0 +1,14 @@
+# 112 - Pojopol
+
+# County Title
+title = c_pojopol
+
+# Settlements
+max_settlements = 3
+b_pojopol = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

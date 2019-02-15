@@ -1,0 +1,16 @@
+# 466 - Huche
+
+# County Title
+title = c_huche
+
+# Settlements
+max_settlements = 4
+b_huche = castle
+b_barony0466d = temple
+b_barony0466e = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

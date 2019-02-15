@@ -1,0 +1,15 @@
+# 442 - Omderby
+
+# County Title
+title = c_omderby
+
+# Settlements
+max_settlements = 3
+b_omderby = castle
+b_barony0442d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 118 - Pojvuonki
+
+# County Title
+title = c_pojvuonki
+
+# Settlements
+max_settlements = 2
+b_pojvuonki = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

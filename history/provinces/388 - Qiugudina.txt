@@ -1,0 +1,14 @@
+# 388 - Qiugudina
+
+# County Title
+title = c_qiugudina
+
+# Settlements
+max_settlements = 2
+b_qiugudina = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

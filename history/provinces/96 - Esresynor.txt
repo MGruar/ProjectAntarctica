@@ -1,0 +1,15 @@
+# 96 - Esresynor
+
+# County Title
+title = c_esresynor
+
+# Settlements
+max_settlements = 5
+b_esresynor = tribal
+b_barony0096d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 184 - Surdesol
+
+# County Title
+title = c_surdesol
+
+# Settlements
+max_settlements = 3
+b_surdesol = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

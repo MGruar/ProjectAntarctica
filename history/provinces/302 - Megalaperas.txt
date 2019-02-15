@@ -1,0 +1,14 @@
+# 302 - Megalaperas
+
+# County Title
+title = c_megalaperas
+
+# Settlements
+max_settlements = 3
+b_megalaperas = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

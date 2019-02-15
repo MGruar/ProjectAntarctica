@@ -1,0 +1,15 @@
+# 267 - Synepoli
+
+# County Title
+title = c_synepoli
+
+# Settlements
+max_settlements = 6
+b_synepoli = tribal
+b_barony0267d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

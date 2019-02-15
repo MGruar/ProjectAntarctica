@@ -1,0 +1,14 @@
+# 50 - Ansonria
+
+# County Title
+title = c_ansonria
+
+# Settlements
+max_settlements = 3
+b_ansonria = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

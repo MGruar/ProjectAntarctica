@@ -1,0 +1,14 @@
+# 280 - Khilga
+
+# County Title
+title = c_khilga
+
+# Settlements
+max_settlements = 2
+b_khilga = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

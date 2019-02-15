@@ -1,0 +1,17 @@
+# 424 - Mivoster
+
+# County Title
+title = c_mivoster
+
+# Settlements
+max_settlements = 5
+b_mivoster = castle
+b_barony0424d = temple
+b_barony0424e = city
+b_barony0424f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

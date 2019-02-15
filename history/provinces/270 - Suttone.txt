@@ -1,0 +1,14 @@
+# 270 - Suttone
+
+# County Title
+title = c_suttone
+
+# Settlements
+max_settlements = 3
+b_suttone = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 92 - Länsit
+
+# County Title
+title = c_lansit
+
+# Settlements
+max_settlements = 3
+b_lansit = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

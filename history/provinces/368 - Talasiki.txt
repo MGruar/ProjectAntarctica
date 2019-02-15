@@ -1,0 +1,14 @@
+# 368 - Talasiki
+
+# County Title
+title = c_talasiki
+
+# Settlements
+max_settlements = 2
+b_talasiki = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

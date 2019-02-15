@@ -1,0 +1,16 @@
+# 251 - Migriult
+
+# County Title
+title = c_migriult
+
+# Settlements
+max_settlements = 4
+b_migriult = castle
+b_barony0251d = temple
+b_barony0251e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

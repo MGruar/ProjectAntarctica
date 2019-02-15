@@ -1,0 +1,16 @@
+# 443 - Sulostasir
+
+# County Title
+title = c_sulostasir
+
+# Settlements
+max_settlements = 4
+b_sulostasir = castle
+b_barony0443d = temple
+b_barony0443e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

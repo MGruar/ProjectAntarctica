@@ -1,0 +1,16 @@
+# 192 - Medrinur
+
+# County Title
+title = c_medrinur
+
+# Settlements
+max_settlements = 4
+b_medrinur = castle
+b_barony0192d = temple
+b_barony0192e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

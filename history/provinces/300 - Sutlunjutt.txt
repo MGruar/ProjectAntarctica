@@ -1,0 +1,14 @@
+# 300 - Sutlunjutt
+
+# County Title
+title = c_sutlunjutt
+
+# Settlements
+max_settlements = 4
+b_sutlunjutt = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 231 - Frichille
+
+# County Title
+title = c_frichille
+
+# Settlements
+max_settlements = 3
+b_frichille = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

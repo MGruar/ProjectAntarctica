@@ -1,0 +1,14 @@
+# 525 - Xamotwilk
+
+# County Title
+title = c_xamotwilk
+
+# Settlements
+max_settlements = 3
+b_xamotwilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

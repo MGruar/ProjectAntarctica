@@ -1,0 +1,14 @@
+# 402 - Gra Meddiils
+
+# County Title
+title = c_gra_meddiils
+
+# Settlements
+max_settlements = 4
+b_gra_meddiils = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

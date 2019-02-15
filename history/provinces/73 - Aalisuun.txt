@@ -1,0 +1,15 @@
+# 73 - Aalisuun
+
+# County Title
+title = c_aalisuun
+
+# Settlements
+max_settlements = 4
+b_aalisuun = tribal
+b_barony0073d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

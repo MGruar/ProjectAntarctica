@@ -1,0 +1,15 @@
+# 438 - Yuanulan
+
+# County Title
+title = c_yuanulan
+
+# Settlements
+max_settlements = 3
+b_yuanulan = castle
+b_barony0438d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

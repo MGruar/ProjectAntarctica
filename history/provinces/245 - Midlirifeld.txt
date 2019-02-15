@@ -1,0 +1,15 @@
+# 245 - Midlirifeld
+
+# County Title
+title = c_midlirifeld
+
+# Settlements
+max_settlements = 3
+b_midlirifeld = tribal
+b_barony0245d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

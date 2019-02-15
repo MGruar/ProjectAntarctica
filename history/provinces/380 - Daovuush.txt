@@ -1,0 +1,14 @@
+# 380 - Daovuush
+
+# County Title
+title = c_daovuush
+
+# Settlements
+max_settlements = 2
+b_daovuush = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

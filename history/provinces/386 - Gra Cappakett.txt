@@ -1,0 +1,14 @@
+# 386 - Gra Cappakett
+
+# County Title
+title = c_gra_cappakett
+
+# Settlements
+max_settlements = 4
+b_gra_cappakett = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

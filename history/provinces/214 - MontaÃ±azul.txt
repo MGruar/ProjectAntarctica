@@ -1,0 +1,14 @@
+# 214 - Montañazul
+
+# County Title
+title = c_montaaazul
+
+# Settlements
+max_settlements = 3
+b_montaaazul = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

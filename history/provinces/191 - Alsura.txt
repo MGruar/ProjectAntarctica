@@ -1,0 +1,17 @@
+# 191 - Alsura
+
+# County Title
+title = c_alsura
+
+# Settlements
+max_settlements = 5
+b_alsura = castle
+b_barony0191d = temple
+b_barony0191e = city
+b_barony0191f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

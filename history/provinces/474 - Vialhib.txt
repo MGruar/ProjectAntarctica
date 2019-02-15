@@ -1,0 +1,16 @@
+# 474 - Vialhib
+
+# County Title
+title = c_vialhib
+
+# Settlements
+max_settlements = 4
+b_vialhib = castle
+b_barony0474d = temple
+b_barony0474e = city
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

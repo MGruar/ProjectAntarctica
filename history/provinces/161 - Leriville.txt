@@ -1,0 +1,16 @@
+# 161 - Leriville
+
+# County Title
+title = c_leriville
+
+# Settlements
+max_settlements = 4
+b_leriville = castle
+b_barony0161d = temple
+b_barony0161e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

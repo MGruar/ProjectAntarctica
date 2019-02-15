@@ -1,0 +1,14 @@
+# 67 - Occitus
+
+# County Title
+title = c_occitus
+
+# Settlements
+max_settlements = 4
+b_occitus = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

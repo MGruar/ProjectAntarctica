@@ -1,0 +1,15 @@
+# 255 - Interu Terminu
+
+# County Title
+title = c_interu_terminu
+
+# Settlements
+max_settlements = 3
+b_interu_terminu = castle
+b_barony0255d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

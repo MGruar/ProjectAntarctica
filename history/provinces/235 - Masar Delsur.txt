@@ -1,0 +1,14 @@
+# 235 - Masar Delsur
+
+# County Title
+title = c_masar_delsur
+
+# Settlements
+max_settlements = 3
+b_masar_delsur = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

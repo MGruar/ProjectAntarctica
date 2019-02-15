@@ -1,0 +1,14 @@
+# 101 - Extresynor
+
+# County Title
+title = c_extresynor
+
+# Settlements
+max_settlements = 3
+b_extresynor = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

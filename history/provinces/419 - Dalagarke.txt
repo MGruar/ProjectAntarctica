@@ -1,0 +1,16 @@
+# 419 - Dalagarke
+
+# County Title
+title = c_dalagarke
+
+# Settlements
+max_settlements = 4
+b_dalagarke = castle
+b_barony0419d = temple
+b_barony0419e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

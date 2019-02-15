@@ -1,0 +1,15 @@
+# 478 - Alshurina
+
+# County Title
+title = c_alshurina
+
+# Settlements
+max_settlements = 2
+b_alshurina = tribal
+b_barony0478d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 489 - Moxil
+
+# County Title
+title = c_moxil
+
+# Settlements
+max_settlements = 2
+b_moxil = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

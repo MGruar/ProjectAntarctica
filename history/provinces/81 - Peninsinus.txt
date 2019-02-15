@@ -1,0 +1,15 @@
+# 81 - Peninsinus
+
+# County Title
+title = c_peninsinus
+
+# Settlements
+max_settlements = 5
+b_peninsinus = tribal
+b_barony0081d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

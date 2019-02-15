@@ -1,0 +1,14 @@
+# 65 - Keskauringon
+
+# County Title
+title = c_keskauringon
+
+# Settlements
+max_settlements = 3
+b_keskauringon = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

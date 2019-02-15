@@ -1,0 +1,15 @@
+# 129 - Mittmunt
+
+# County Title
+title = c_mittmunt
+
+# Settlements
+max_settlements = 4
+b_mittmunt = tribal
+b_barony0129d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

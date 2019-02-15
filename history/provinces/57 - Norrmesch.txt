@@ -1,0 +1,14 @@
+# 57 - Norrmesch
+
+# County Title
+title = c_norrmesch
+
+# Settlements
+max_settlements = 4
+b_norrmesch = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

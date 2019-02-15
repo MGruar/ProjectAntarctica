@@ -1,0 +1,16 @@
+# 452 - Sronjiulan
+
+# County Title
+title = c_sronjiulan
+
+# Settlements
+max_settlements = 4
+b_sronjiulan = castle
+b_barony0452d = temple
+b_barony0452e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

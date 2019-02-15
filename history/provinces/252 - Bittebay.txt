@@ -1,0 +1,14 @@
+# 252 - Bittebay
+
+# County Title
+title = c_bittebay
+
+# Settlements
+max_settlements = 4
+b_bittebay = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

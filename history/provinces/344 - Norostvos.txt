@@ -1,0 +1,14 @@
+# 344 - Norostvos
+
+# County Title
+title = c_norostvos
+
+# Settlements
+max_settlements = 3
+b_norostvos = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,16 @@
+# 142 - Restorromus
+
+# County Title
+title = c_restorromus
+
+# Settlements
+max_settlements = 4
+b_restorromus = city
+b_barony0142d = temple
+b_barony0142e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

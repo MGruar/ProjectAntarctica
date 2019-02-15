@@ -1,0 +1,15 @@
+# 221 - Nisperio
+
+# County Title
+title = c_nisperio
+
+# Settlements
+max_settlements = 3
+b_nisperio = castle
+b_barony0221d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

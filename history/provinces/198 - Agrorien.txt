@@ -1,0 +1,14 @@
+# 198 - Agrorien
+
+# County Title
+title = c_agrorien
+
+# Settlements
+max_settlements = 3
+b_agrorien = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

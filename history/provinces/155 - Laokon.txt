@@ -1,0 +1,14 @@
+# 155 - Laokon
+
+# County Title
+title = c_laokon
+
+# Settlements
+max_settlements = 3
+b_laokon = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

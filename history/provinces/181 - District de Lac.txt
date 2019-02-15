@@ -1,0 +1,15 @@
+# 181 - District de Lac
+
+# County Title
+title = c_district_de_lac
+
+# Settlements
+max_settlements = 3
+b_district_de_lac = castle
+b_barony0181d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 428 - Erladascil
+
+# County Title
+title = c_erladascil
+
+# Settlements
+max_settlements = 4
+b_erladascil = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

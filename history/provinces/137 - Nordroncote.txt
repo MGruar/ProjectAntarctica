@@ -1,0 +1,16 @@
+# 137 - Nordroncote
+
+# County Title
+title = c_nordroncote
+
+# Settlements
+max_settlements = 4
+b_nordroncote = castle
+b_barony0137d = temple
+b_barony0137e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 358 - Eabrnahr
+
+# County Title
+title = c_eabrnahr
+
+# Settlements
+max_settlements = 1
+b_eabrnahr = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

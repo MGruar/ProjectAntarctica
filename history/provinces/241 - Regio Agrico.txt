@@ -1,0 +1,16 @@
+# 241 - Regio Agrico
+
+# County Title
+title = c_regio_agrico
+
+# Settlements
+max_settlements = 4
+b_regio_agrico = castle
+b_barony0241d = temple
+b_barony0241e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

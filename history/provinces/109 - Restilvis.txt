@@ -1,0 +1,14 @@
+# 109 - Restilvis
+
+# County Title
+title = c_restilvis
+
+# Settlements
+max_settlements = 3
+b_restilvis = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

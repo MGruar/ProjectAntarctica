@@ -1,0 +1,14 @@
+# 172 - Keskulkea
+
+# County Title
+title = c_keskulkea
+
+# Settlements
+max_settlements = 2
+b_keskulkea = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

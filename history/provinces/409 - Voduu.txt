@@ -1,0 +1,16 @@
+# 409 - Voduu
+
+# County Title
+title = c_voduu
+
+# Settlements
+max_settlements = 4
+b_voduu = castle
+b_barony0409d = temple
+b_barony0409e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

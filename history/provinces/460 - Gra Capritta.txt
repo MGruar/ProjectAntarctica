@@ -1,0 +1,15 @@
+# 460 - Gra Capritta
+
+# County Title
+title = c_gra_capritta
+
+# Settlements
+max_settlements = 5
+b_gra_capritta = tribal
+b_barony0460d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

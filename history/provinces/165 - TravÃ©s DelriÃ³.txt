@@ -1,0 +1,15 @@
+# 165 - Través Delrió
+
+# County Title
+title = c_travas_delria
+
+# Settlements
+max_settlements = 3
+b_travas_delria = castle
+b_barony0165d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

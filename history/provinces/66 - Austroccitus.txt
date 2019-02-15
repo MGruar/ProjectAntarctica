@@ -1,0 +1,15 @@
+# 66 - Austroccitus
+
+# County Title
+title = c_austroccitus
+
+# Settlements
+max_settlements = 5
+b_austroccitus = tribal
+b_barony0066d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

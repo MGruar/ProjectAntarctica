@@ -1,0 +1,16 @@
+# 445 - Qubeiwan
+
+# County Title
+title = c_qubeiwan
+
+# Settlements
+max_settlements = 4
+b_qubeiwan = castle
+b_barony0445d = temple
+b_barony0445e = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

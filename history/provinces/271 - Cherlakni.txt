@@ -1,0 +1,17 @@
+# 271 - Cherlakni
+
+# County Title
+title = c_cherlakni
+
+# Settlements
+max_settlements = 5
+b_cherlakni = castle
+b_barony0271d = temple
+b_barony0271e = city
+b_barony0271f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

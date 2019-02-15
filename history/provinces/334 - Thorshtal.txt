@@ -1,0 +1,14 @@
+# 334 - Thorshtal
+
+# County Title
+title = c_thorshtal
+
+# Settlements
+max_settlements = 4
+b_thorshtal = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

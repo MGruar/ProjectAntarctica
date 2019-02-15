@@ -1,0 +1,16 @@
+# 167 - Essexion
+
+# County Title
+title = c_essexion
+
+# Settlements
+max_settlements = 4
+b_essexion = castle
+b_barony0167d = temple
+b_barony0167e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

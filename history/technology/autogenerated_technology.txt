@@ -1,25 +1,25 @@
 # Western Isles
 technology = {
 	titles = {
-		d_orknae
-		d_shaetland
+		d_orkna
+		d_shatland
 		d_larsen
 		d_goatland
-		d_cobae
-		d_faeroe
+		d_coba
+		d_faroe
 		d_inverbend
-		d_far_ellswaere
-		d_waeddel
+		d_far_ellsware
+		d_waddel
 		d_vestfjord
 		d_ostfjord
 		d_manna
-		d_norrbaer
-		d_mittenbaer
-		d_faersid
-		d_naersid
-		d_soderbaer
+		d_norrbar
+		d_mittenbar
+		d_farsid
+		d_narsid
+		d_soderbar
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -32,10 +32,10 @@ technology = {
 		d_makria
 		d_mescher
 		d_omeya
-		d_stoema
+		d_stama
 		d_nort_traenge
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -43,13 +43,13 @@ technology = {
 }
 technology = {
 	titles = {
-		d_mittenmaede
-		d_mitt_traenge
-		d_sut_traenge
+		d_mittenmade
+		d_mitt_trange
+		d_sut_trange
 		d_mesipnos
-		d_tran_traenge
+		d_tran_trange
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -58,13 +58,13 @@ technology = {
 technology = {
 	titles = {
 		d_ormo
-		d_maede
+		d_synor
 		d_anderia
 		d_alexion
 		d_exolexion
 		d_limnia
 	}
-	1066 = {
+	256 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0
@@ -77,13 +77,13 @@ technology = {
 		d_costamig
 		d_alsur
 		d_ermit
-		d_mesar
-		d_lagrio
+		d_masar
+		d_lagria
 		d_riult
-		d_altrio
+		d_altria
 		d_baruunu
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -92,9 +92,9 @@ technology = {
 technology = {
 	titles = {
 		d_fujarra
-		d_medrio
+		d_medria
 	}
-	1066 = {
+	256 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0
@@ -102,11 +102,11 @@ technology = {
 }
 technology = {
 	titles = {
-		d_valkyrtov
+		d_valkyrtav
 		d_damjuul
 		d_taldaar
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -119,7 +119,7 @@ technology = {
 		d_auringon
 		d_vutren
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -144,11 +144,11 @@ technology = {
 		d_friche
 		d_itaambul
 		d_gadna
-		d_duchy0324
+		d_zapapob
 		d_severn
 		d_thorshby
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -162,7 +162,7 @@ technology = {
 		d_gran_peninsul
 		d_sinulac
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -181,7 +181,7 @@ technology = {
 		d_romarra_centra
 		d_interu
 	}
-	1066 = {
+	256 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0
@@ -193,7 +193,7 @@ technology = {
 		d_agricol
 		d_remotu
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -206,11 +206,11 @@ technology = {
 		d_romi
 		d_elizion
 		d_exolim
-		d_peralizion
+		d_perelizion
 		d_bethion
 		d_peras
 	}
-	1066 = {
+	256 = {
 		military = 2.0
 		economy = 2.0
 		culture = 2.0
@@ -229,7 +229,7 @@ technology = {
 		d_suustelia
 		d_suulak
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -247,7 +247,7 @@ technology = {
 		d_wilkdom
 		d_doma
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -271,7 +271,7 @@ technology = {
 		d_surlamas
 		d_wilkiils
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -285,7 +285,7 @@ technology = {
 		d_nojanuu
 		d_januu
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -307,7 +307,7 @@ technology = {
 		d_prydhal
 		d_buhay
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -338,7 +338,7 @@ technology = {
 		d_davozmu
 		d_estebir
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -348,7 +348,7 @@ technology = {
 	titles = {
 		d_oasir
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0
@@ -361,7 +361,7 @@ technology = {
 		d_zuush
 		d_nuuby
 		d_dalagar
-		d_omnuu
+		d_amnuu
 		d_enderb
 		d_enbulan
 		d_kaodo
@@ -371,7 +371,7 @@ technology = {
 		d_chitadon
 		d_dadon
 	}
-	1066 = {
+	256 = {
 		military = 1.0
 		economy = 1.0
 		culture = 1.0
@@ -381,7 +381,7 @@ technology = {
 	titles = {
 		d_gaamon
 	}
-	1066 = {
+	256 = {
 		military = 0.0
 		economy = 0.0
 		culture = 0.0

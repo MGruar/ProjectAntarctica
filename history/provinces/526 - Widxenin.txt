@@ -1,0 +1,15 @@
+# 526 - Widxenin
+
+# County Title
+title = c_widxenin
+
+# Settlements
+max_settlements = 5
+b_widxenin = tribal
+b_barony0526d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

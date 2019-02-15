@@ -1,0 +1,15 @@
+# 313 - Khoidnuur
+
+# County Title
+title = c_khoidnuur
+
+# Settlements
+max_settlements = 5
+b_khoidnuur = tribal
+b_barony0313d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 403 - Shamaqiu
+
+# County Title
+title = c_shamaqiu
+
+# Settlements
+max_settlements = 3
+b_shamaqiu = castle
+b_barony0403d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

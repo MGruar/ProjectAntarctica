@@ -1,0 +1,14 @@
+# 431 - Grinncappa
+
+# County Title
+title = c_grinncappa
+
+# Settlements
+max_settlements = 4
+b_grinncappa = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

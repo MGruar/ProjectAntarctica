@@ -1,0 +1,14 @@
+# 42 - Vestikell
+
+# County Title
+title = c_vestikell
+
+# Settlements
+max_settlements = 4
+b_vestikell = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

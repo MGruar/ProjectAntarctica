@@ -1,0 +1,17 @@
+# 216 - Lagrió Través
+
+# County Title
+title = c_lagria_travas
+
+# Settlements
+max_settlements = 5
+b_lagria_travas = castle
+b_barony0216d = temple
+b_barony0216e = city
+b_barony0216f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

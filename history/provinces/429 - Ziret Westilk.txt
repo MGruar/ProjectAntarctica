@@ -1,0 +1,14 @@
+# 429 - Ziret Westilk
+
+# County Title
+title = c_ziret_westilk
+
+# Settlements
+max_settlements = 2
+b_ziret_westilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

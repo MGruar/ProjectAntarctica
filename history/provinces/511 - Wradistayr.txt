@@ -1,0 +1,14 @@
+# 511 - Wradistayr
+
+# County Title
+title = c_wradistayr
+
+# Settlements
+max_settlements = 2
+b_wradistayr = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

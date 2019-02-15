@@ -1,0 +1,15 @@
+# 166 - Chamriv
+
+# County Title
+title = c_chamriv
+
+# Settlements
+max_settlements = 3
+b_chamriv = castle
+b_barony0166d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

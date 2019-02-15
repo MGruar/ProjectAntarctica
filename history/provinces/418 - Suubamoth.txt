@@ -1,0 +1,17 @@
+# 418 - Suubamoth
+
+# County Title
+title = c_suubamoth
+
+# Settlements
+max_settlements = 5
+b_suubamoth = castle
+b_barony0418d = temple
+b_barony0418e = city
+b_barony0418f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

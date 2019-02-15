@@ -1,0 +1,16 @@
+# 416 - Macrobandao
+
+# County Title
+title = c_macrobandao
+
+# Settlements
+max_settlements = 4
+b_macrobandao = castle
+b_barony0416d = temple
+b_barony0416e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

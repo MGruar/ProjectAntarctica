@@ -1,0 +1,14 @@
+# 434 - Runcoasti
+
+# County Title
+title = c_runcoasti
+
+# Settlements
+max_settlements = 4
+b_runcoasti = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

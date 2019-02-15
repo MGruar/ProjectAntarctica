@@ -1,0 +1,15 @@
+# 444 - Megrakasha
+
+# County Title
+title = c_megrakasha
+
+# Settlements
+max_settlements = 5
+b_megrakasha = tribal
+b_barony0444d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

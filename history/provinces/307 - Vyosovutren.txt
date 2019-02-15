@@ -1,0 +1,14 @@
+# 307 - Vyosovutren
+
+# County Title
+title = c_vyosovutren
+
+# Settlements
+max_settlements = 3
+b_vyosovutren = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

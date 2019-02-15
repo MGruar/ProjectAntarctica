@@ -1,0 +1,16 @@
+# 132 - Anisander Anato
+
+# County Title
+title = c_anisander_anato
+
+# Settlements
+max_settlements = 4
+b_anisander_anato = castle
+b_barony0132d = temple
+b_barony0132e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

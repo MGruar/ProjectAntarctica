@@ -1,0 +1,17 @@
+# 306 - Estepoli
+
+# County Title
+title = c_estepoli
+
+# Settlements
+max_settlements = 5
+b_estepoli = castle
+b_barony0306d = temple
+b_barony0306e = city
+b_barony0306f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 363 - Norlacoasti ta Gracappa
+
+# County Title
+title = c_norlacoasti_ta_gracappa
+
+# Settlements
+max_settlements = 3
+b_norlacoasti_ta_gracappa = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

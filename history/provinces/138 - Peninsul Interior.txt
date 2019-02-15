@@ -1,0 +1,17 @@
+# 138 - Peninsul Interior
+
+# County Title
+title = c_peninsul_interior
+
+# Settlements
+max_settlements = 5
+b_peninsul_interior = castle
+b_barony0138d = temple
+b_barony0138e = city
+b_barony0138f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

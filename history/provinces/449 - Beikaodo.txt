@@ -1,0 +1,16 @@
+# 449 - Beikaodo
+
+# County Title
+title = c_beikaodo
+
+# Settlements
+max_settlements = 4
+b_beikaodo = castle
+b_barony0449d = temple
+b_barony0449e = city
+
+# Misc
+culture = han
+religion = taoist
+
+# History

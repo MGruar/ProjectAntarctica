@@ -1,0 +1,14 @@
+# 264 - Estisle
+
+# County Title
+title = c_estisle
+
+# Settlements
+max_settlements = 3
+b_estisle = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

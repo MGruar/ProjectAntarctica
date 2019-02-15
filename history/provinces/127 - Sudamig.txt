@@ -1,0 +1,15 @@
+# 127 - Sudamig
+
+# County Title
+title = c_sudamig
+
+# Settlements
+max_settlements = 3
+b_sudamig = castle
+b_barony0127d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

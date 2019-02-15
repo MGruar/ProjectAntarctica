@@ -1,0 +1,14 @@
+# 71 - Quttsuulund
+
+# County Title
+title = c_quttsuulund
+
+# Settlements
+max_settlements = 4
+b_quttsuulund = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

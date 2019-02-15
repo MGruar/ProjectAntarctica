@@ -1,0 +1,14 @@
+# 240 - Oestriult
+
+# County Title
+title = c_oestriult
+
+# Settlements
+max_settlements = 4
+b_oestriult = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

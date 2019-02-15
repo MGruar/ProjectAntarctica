@@ -1,0 +1,16 @@
+# 107 - Parumchester
+
+# County Title
+title = c_parumchester
+
+# Settlements
+max_settlements = 4
+b_parumchester = castle
+b_barony0107d = temple
+b_barony0107e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

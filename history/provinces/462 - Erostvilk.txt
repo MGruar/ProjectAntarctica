@@ -1,0 +1,16 @@
+# 462 - Erostvilk
+
+# County Title
+title = c_erostvilk
+
+# Settlements
+max_settlements = 4
+b_erostvilk = castle
+b_barony0462d = temple
+b_barony0462e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

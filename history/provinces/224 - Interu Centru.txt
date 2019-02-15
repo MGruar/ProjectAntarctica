@@ -1,0 +1,15 @@
+# 224 - Interu Centru
+
+# County Title
+title = c_interu_centru
+
+# Settlements
+max_settlements = 3
+b_interu_centru = castle
+b_barony0224d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,14 @@
+# 98 - Occidens Borea
+
+# County Title
+title = c_occidens_borea
+
+# Settlements
+max_settlements = 4
+b_occidens_borea = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

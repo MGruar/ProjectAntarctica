@@ -1,0 +1,14 @@
+# 381 - Shamal min Madina
+
+# County Title
+title = c_shamal_min_madina
+
+# Settlements
+max_settlements = 1
+b_shamal_min_madina = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

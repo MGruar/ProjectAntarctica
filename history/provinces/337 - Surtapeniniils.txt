@@ -1,0 +1,14 @@
+# 337 - Surtapeniniils
+
+# County Title
+title = c_surtapeniniils
+
+# Settlements
+max_settlements = 3
+b_surtapeniniils = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

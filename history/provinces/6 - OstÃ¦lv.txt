@@ -1,0 +1,14 @@
+# 6 - Ostælv
+
+# County Title
+title = c_ostalv
+
+# Settlements
+max_settlements = 2
+b_ostalv = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 125 - Peninsul Exterior
+
+# County Title
+title = c_peninsul_exterior
+
+# Settlements
+max_settlements = 3
+b_peninsul_exterior = castle
+b_barony0125d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

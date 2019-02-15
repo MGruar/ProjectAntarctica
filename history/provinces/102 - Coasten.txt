@@ -1,0 +1,14 @@
+# 102 - Coasten
+
+# County Title
+title = c_coasten
+
+# Settlements
+max_settlements = 2
+b_coasten = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

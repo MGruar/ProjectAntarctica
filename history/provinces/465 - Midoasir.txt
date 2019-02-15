@@ -1,0 +1,14 @@
+# 465 - Midoasir
+
+# County Title
+title = c_midoasir
+
+# Settlements
+max_settlements = 1
+b_midoasir = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

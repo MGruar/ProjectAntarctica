@@ -1,0 +1,14 @@
+# 108 - Itääniem
+
+# County Title
+title = c_itaaniem
+
+# Settlements
+max_settlements = 2
+b_itaaniem = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

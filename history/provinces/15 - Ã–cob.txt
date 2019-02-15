@@ -1,0 +1,14 @@
+# 15 - Öcob
+
+# County Title
+title = c_acob
+
+# Settlements
+max_settlements = 2
+b_acob = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

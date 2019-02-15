@@ -1,0 +1,14 @@
+# 230 - Kevuori
+
+# County Title
+title = c_kevuori
+
+# Settlements
+max_settlements = 2
+b_kevuori = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

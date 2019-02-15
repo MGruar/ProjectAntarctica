@@ -1,0 +1,18 @@
+# 211 - Regio Capitol
+
+# County Title
+title = c_regio_capitol
+
+# Settlements
+max_settlements = 7
+b_regio_capitol = castle
+b_barony0211d = temple
+b_barony0211e = city
+b_barony0211f = castle
+b_barony0211g = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

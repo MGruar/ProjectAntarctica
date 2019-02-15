@@ -1,0 +1,15 @@
+# 317 - Adepenina
+
+# County Title
+title = c_adepenina
+
+# Settlements
+max_settlements = 5
+b_adepenina = tribal
+b_barony0317d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

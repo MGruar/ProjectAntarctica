@@ -1,0 +1,14 @@
+# 450 - Ghardina
+
+# County Title
+title = c_ghardina
+
+# Settlements
+max_settlements = 1
+b_ghardina = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

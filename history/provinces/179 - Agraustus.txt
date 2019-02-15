@@ -1,0 +1,15 @@
+# 179 - Agraustus
+
+# County Title
+title = c_agraustus
+
+# Settlements
+max_settlements = 3
+b_agraustus = castle
+b_barony0179d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

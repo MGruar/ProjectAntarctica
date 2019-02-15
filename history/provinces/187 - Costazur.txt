@@ -1,0 +1,17 @@
+# 187 - Costazur
+
+# County Title
+title = c_costazur
+
+# Settlements
+max_settlements = 5
+b_costazur = castle
+b_barony0187d = temple
+b_barony0187e = city
+b_barony0187f = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

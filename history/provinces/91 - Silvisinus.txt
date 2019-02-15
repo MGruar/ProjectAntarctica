@@ -1,0 +1,14 @@
+# 91 - Silvisinus
+
+# County Title
+title = c_silvisinus
+
+# Settlements
+max_settlements = 4
+b_silvisinus = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

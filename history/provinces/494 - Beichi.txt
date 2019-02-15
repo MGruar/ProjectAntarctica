@@ -1,0 +1,15 @@
+# 494 - Beichi
+
+# County Title
+title = c_beichi
+
+# Settlements
+max_settlements = 5
+b_beichi = tribal
+b_barony0494d = temple
+
+# Misc
+culture = han
+religion = taoist
+
+# History

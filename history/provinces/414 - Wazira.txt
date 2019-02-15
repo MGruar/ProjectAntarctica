@@ -1,0 +1,15 @@
+# 414 - Wazira
+
+# County Title
+title = c_wazira
+
+# Settlements
+max_settlements = 3
+b_wazira = castle
+b_barony0414d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,16 @@
+# 151 - Travleriv
+
+# County Title
+title = c_travleriv
+
+# Settlements
+max_settlements = 4
+b_travleriv = castle
+b_barony0151d = temple
+b_barony0151e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

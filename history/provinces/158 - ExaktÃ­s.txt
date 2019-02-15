@@ -1,0 +1,17 @@
+# 158 - Exaktís
+
+# County Title
+title = c_exaktas
+
+# Settlements
+max_settlements = 5
+b_exaktas = castle
+b_barony0158d = temple
+b_barony0158e = city
+b_barony0158f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

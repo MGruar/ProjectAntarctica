@@ -1,0 +1,14 @@
+# 25 - Soderoe
+
+# County Title
+title = c_soderoe
+
+# Settlements
+max_settlements = 3
+b_soderoe = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

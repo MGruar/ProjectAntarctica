@@ -1,0 +1,14 @@
+# 119 - Puokkvonkki
+
+# County Title
+title = c_puokkvonkki
+
+# Settlements
+max_settlements = 2
+b_puokkvonkki = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 502 - Wixilisurpama
+
+# County Title
+title = c_wixilisurpama
+
+# Settlements
+max_settlements = 3
+b_wixilisurpama = castle
+b_barony0502d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

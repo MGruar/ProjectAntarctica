@@ -1,0 +1,14 @@
+# 177 - Gran Ermit
+
+# County Title
+title = c_gran_ermit
+
+# Settlements
+max_settlements = 4
+b_gran_ermit = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

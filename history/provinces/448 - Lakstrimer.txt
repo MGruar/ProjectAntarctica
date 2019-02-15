@@ -1,0 +1,17 @@
+# 448 - Lakstrimer
+
+# County Title
+title = c_lakstrimer
+
+# Settlements
+max_settlements = 5
+b_lakstrimer = castle
+b_barony0448d = temple
+b_barony0448e = city
+b_barony0448f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

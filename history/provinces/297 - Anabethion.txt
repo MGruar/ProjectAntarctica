@@ -1,0 +1,16 @@
+# 297 - Anabethion
+
+# County Title
+title = c_anabethion
+
+# Settlements
+max_settlements = 4
+b_anabethion = castle
+b_barony0297d = temple
+b_barony0297e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

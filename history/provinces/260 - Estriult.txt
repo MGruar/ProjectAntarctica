@@ -1,0 +1,14 @@
+# 260 - Estriult
+
+# County Title
+title = c_estriult
+
+# Settlements
+max_settlements = 3
+b_estriult = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

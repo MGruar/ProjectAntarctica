@@ -1,0 +1,14 @@
+# 345 - Suuostvos
+
+# County Title
+title = c_suuostvos
+
+# Settlements
+max_settlements = 4
+b_suuostvos = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

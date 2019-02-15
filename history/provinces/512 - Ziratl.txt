@@ -1,0 +1,14 @@
+# 512 - Ziratl
+
+# County Title
+title = c_ziratl
+
+# Settlements
+max_settlements = 2
+b_ziratl = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,14 @@
+# 490 - Onjiabin
+
+# County Title
+title = c_onjiabin
+
+# Settlements
+max_settlements = 4
+b_onjiabin = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

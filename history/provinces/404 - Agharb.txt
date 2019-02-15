@@ -1,0 +1,15 @@
+# 404 - Agharb
+
+# County Title
+title = c_agharb
+
+# Settlements
+max_settlements = 3
+b_agharb = castle
+b_barony0404d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

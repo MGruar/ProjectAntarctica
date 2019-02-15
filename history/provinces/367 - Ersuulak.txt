@@ -1,0 +1,14 @@
+# 367 - Ersuulak
+
+# County Title
+title = c_ersuulak
+
+# Settlements
+max_settlements = 4
+b_ersuulak = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 422 - Bursur Ziret
+
+# County Title
+title = c_bursur_ziret
+
+# Settlements
+max_settlements = 3
+b_bursur_ziret = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

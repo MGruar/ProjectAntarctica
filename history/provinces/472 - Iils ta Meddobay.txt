@@ -1,0 +1,14 @@
+# 472 - Iils ta Meddobay
+
+# County Title
+title = c_iils_ta_meddobay
+
+# Settlements
+max_settlements = 4
+b_iils_ta_meddobay = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 323 - Vutreniy
+
+# County Title
+title = c_vutreniy
+
+# Settlements
+max_settlements = 3
+b_vutreniy = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

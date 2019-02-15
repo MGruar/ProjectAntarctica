@@ -1,0 +1,14 @@
+# 88 - Etlahao
+
+# County Title
+title = c_etlahao
+
+# Settlements
+max_settlements = 3
+b_etlahao = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

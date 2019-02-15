@@ -1,0 +1,14 @@
+# 87 - Temikko
+
+# County Title
+title = c_temikko
+
+# Settlements
+max_settlements = 2
+b_temikko = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 113 - Hælen
+
+# County Title
+title = c_halen
+
+# Settlements
+max_settlements = 3
+b_halen = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

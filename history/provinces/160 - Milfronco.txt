@@ -1,0 +1,15 @@
+# 160 - Milfronco
+
+# County Title
+title = c_milfronco
+
+# Settlements
+max_settlements = 3
+b_milfronco = castle
+b_barony0160d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

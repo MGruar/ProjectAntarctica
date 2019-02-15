@@ -1,0 +1,14 @@
+# 510 - Nojanura
+
+# County Title
+title = c_nojanura
+
+# Settlements
+max_settlements = 3
+b_nojanura = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

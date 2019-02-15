@@ -1,0 +1,15 @@
+# 49 - Soderstorr
+
+# County Title
+title = c_soderstorr
+
+# Settlements
+max_settlements = 4
+b_soderstorr = tribal
+b_barony0049d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

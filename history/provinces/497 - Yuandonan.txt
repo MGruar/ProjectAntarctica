@@ -1,0 +1,14 @@
+# 497 - Yuandonan
+
+# County Title
+title = c_yuandonan
+
+# Settlements
+max_settlements = 3
+b_yuandonan = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

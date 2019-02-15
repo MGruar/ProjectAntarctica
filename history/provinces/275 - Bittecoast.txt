@@ -1,0 +1,14 @@
+# 275 - Bittecoast
+
+# County Title
+title = c_bittecoast
+
+# Settlements
+max_settlements = 3
+b_bittecoast = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

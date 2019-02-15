@@ -1,0 +1,15 @@
+# 425 - Dongaoma
+
+# County Title
+title = c_dongaoma
+
+# Settlements
+max_settlements = 3
+b_dongaoma = castle
+b_barony0425d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

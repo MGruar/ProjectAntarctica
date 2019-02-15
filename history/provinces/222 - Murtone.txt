@@ -1,0 +1,14 @@
+# 222 - Murtone
+
+# County Title
+title = c_murtone
+
+# Settlements
+max_settlements = 3
+b_murtone = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

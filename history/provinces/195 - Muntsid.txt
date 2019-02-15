@@ -1,0 +1,14 @@
+# 195 - Muntsid
+
+# County Title
+title = c_muntsid
+
+# Settlements
+max_settlements = 3
+b_muntsid = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 124 - Reundron
+
+# County Title
+title = c_reundron
+
+# Settlements
+max_settlements = 4
+b_reundron = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

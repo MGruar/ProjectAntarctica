@@ -1,0 +1,15 @@
+# 126 - Costamig Centre
+
+# County Title
+title = c_costamig_centre
+
+# Settlements
+max_settlements = 3
+b_costamig_centre = castle
+b_barony0126d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

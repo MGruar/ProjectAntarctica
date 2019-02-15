@@ -1,0 +1,14 @@
+# 459 - Kashapenina
+
+# County Title
+title = c_kashapenina
+
+# Settlements
+max_settlements = 4
+b_kashapenina = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

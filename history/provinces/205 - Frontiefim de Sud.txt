@@ -1,0 +1,14 @@
+# 205 - Frontiefim de Sud
+
+# County Title
+title = c_frontiefim_de_sud
+
+# Settlements
+max_settlements = 2
+b_frontiefim_de_sud = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

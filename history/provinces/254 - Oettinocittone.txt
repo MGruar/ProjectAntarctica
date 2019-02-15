@@ -1,0 +1,15 @@
+# 254 - Oettinocittone
+
+# County Title
+title = c_oettinocittone
+
+# Settlements
+max_settlements = 4
+b_oettinocittone = tribal
+b_barony0254d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

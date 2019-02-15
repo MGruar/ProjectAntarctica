@@ -1,0 +1,14 @@
+# 286 - Itäämbul
+
+# County Title
+title = c_itaambul
+
+# Settlements
+max_settlements = 2
+b_itaambul = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

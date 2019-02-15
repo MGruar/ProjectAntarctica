@@ -1,0 +1,14 @@
+# 215 - Nottesol
+
+# County Title
+title = c_nottesol
+
+# Settlements
+max_settlements = 3
+b_nottesol = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

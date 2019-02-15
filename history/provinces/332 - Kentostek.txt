@@ -1,0 +1,15 @@
+# 332 - Kentostek
+
+# County Title
+title = c_kentostek
+
+# Settlements
+max_settlements = 3
+b_kentostek = castle
+b_barony0332d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

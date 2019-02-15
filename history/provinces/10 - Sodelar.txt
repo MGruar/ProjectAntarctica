@@ -1,0 +1,14 @@
+# 10 - Sodelar
+
+# County Title
+title = c_sodelar
+
+# Settlements
+max_settlements = 2
+b_sodelar = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

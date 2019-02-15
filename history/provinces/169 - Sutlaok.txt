@@ -1,0 +1,14 @@
+# 169 - Sutlaok
+
+# County Title
+title = c_sutlaok
+
+# Settlements
+max_settlements = 3
+b_sutlaok = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

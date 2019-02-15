@@ -1,0 +1,14 @@
+# 480 - Binshan
+
+# County Title
+title = c_binshan
+
+# Settlements
+max_settlements = 3
+b_binshan = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

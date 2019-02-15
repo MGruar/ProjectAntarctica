@@ -1,0 +1,16 @@
+# 232 - Lagrió Central
+
+# County Title
+title = c_lagria_central
+
+# Settlements
+max_settlements = 4
+b_lagria_central = castle
+b_barony0232d = temple
+b_barony0232e = city
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

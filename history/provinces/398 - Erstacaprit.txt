@@ -1,0 +1,14 @@
+# 398 - Erstacaprit
+
+# County Title
+title = c_erstacaprit
+
+# Settlements
+max_settlements = 4
+b_erstacaprit = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

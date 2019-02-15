@@ -1,0 +1,16 @@
+# 120 - Medi Shacton
+
+# County Title
+title = c_medi_shacton
+
+# Settlements
+max_settlements = 4
+b_medi_shacton = castle
+b_barony0120d = temple
+b_barony0120e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

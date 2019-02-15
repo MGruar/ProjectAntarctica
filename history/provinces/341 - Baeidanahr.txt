@@ -1,0 +1,14 @@
+# 341 - Baeidanahr
+
+# County Title
+title = c_baeidanahr
+
+# Settlements
+max_settlements = 1
+b_baeidanahr = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

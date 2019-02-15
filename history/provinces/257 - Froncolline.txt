@@ -1,0 +1,14 @@
+# 257 - Froncolline
+
+# County Title
+title = c_froncolline
+
+# Settlements
+max_settlements = 2
+b_froncolline = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

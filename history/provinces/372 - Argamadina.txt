@@ -1,0 +1,15 @@
+# 372 - Argamadina
+
+# County Title
+title = c_argamadina
+
+# Settlements
+max_settlements = 2
+b_argamadina = castle
+b_barony0372d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

@@ -1,0 +1,14 @@
+# 89 - Mittenkullfo
+
+# County Title
+title = c_mittenkullfo
+
+# Settlements
+max_settlements = 3
+b_mittenkullfo = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

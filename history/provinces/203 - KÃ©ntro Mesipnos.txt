@@ -1,0 +1,14 @@
+# 203 - Kéntro Mesipnos
+
+# County Title
+title = c_kantro_mesipnos
+
+# Settlements
+max_settlements = 4
+b_kantro_mesipnos = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

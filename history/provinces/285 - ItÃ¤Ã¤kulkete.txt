@@ -1,0 +1,15 @@
+# 285 - Itääkulkete
+
+# County Title
+title = c_itaakulkete
+
+# Settlements
+max_settlements = 2
+b_itaakulkete = tribal
+b_barony0285d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

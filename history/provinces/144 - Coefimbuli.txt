@@ -1,0 +1,14 @@
+# 144 - Coefimbuli
+
+# County Title
+title = c_coefimbuli
+
+# Settlements
+max_settlements = 2
+b_coefimbuli = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

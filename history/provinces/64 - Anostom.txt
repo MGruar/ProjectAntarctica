@@ -1,0 +1,14 @@
+# 64 - Anostom
+
+# County Title
+title = c_anostom
+
+# Settlements
+max_settlements = 3
+b_anostom = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

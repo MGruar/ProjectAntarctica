@@ -1,0 +1,14 @@
+# 117 - Puolojo
+
+# County Title
+title = c_puolojo
+
+# Settlements
+max_settlements = 2
+b_puolojo = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 356 - Tsenthorshby
+
+# County Title
+title = c_tsenthorshby
+
+# Settlements
+max_settlements = 4
+b_tsenthorshby = tribal
+b_barony0356d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

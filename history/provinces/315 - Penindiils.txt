@@ -1,0 +1,14 @@
+# 315 - Penindiils
+
+# County Title
+title = c_penindiils
+
+# Settlements
+max_settlements = 3
+b_penindiils = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

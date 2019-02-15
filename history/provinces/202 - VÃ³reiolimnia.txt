@@ -1,0 +1,16 @@
+# 202 - Vóreiolimnia
+
+# County Title
+title = c_vareiolimnia
+
+# Settlements
+max_settlements = 4
+b_vareiolimnia = castle
+b_barony0202d = temple
+b_barony0202e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

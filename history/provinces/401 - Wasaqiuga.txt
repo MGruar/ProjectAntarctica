@@ -1,0 +1,14 @@
+# 401 - Wasaqiuga
+
+# County Title
+title = c_wasaqiuga
+
+# Settlements
+max_settlements = 2
+b_wasaqiuga = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

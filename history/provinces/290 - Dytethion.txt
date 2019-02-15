@@ -1,0 +1,15 @@
+# 290 - Dytethion
+
+# County Title
+title = c_dytethion
+
+# Settlements
+max_settlements = 3
+b_dytethion = castle
+b_barony0290d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

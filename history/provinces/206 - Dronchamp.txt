@@ -1,0 +1,14 @@
+# 206 - Dronchamp
+
+# County Title
+title = c_dronchamp
+
+# Settlements
+max_settlements = 2
+b_dronchamp = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

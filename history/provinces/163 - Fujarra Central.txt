@@ -1,0 +1,18 @@
+# 163 - Fujarra Central
+
+# County Title
+title = c_fujarra_central
+
+# Settlements
+max_settlements = 7
+b_fujarra_central = castle
+b_barony0163d = temple
+b_barony0163e = city
+b_barony0163f = castle
+b_barony0163g = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

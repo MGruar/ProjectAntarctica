@@ -1,0 +1,14 @@
+# 183 - Erejutt
+
+# County Title
+title = c_erejutt
+
+# Settlements
+max_settlements = 4
+b_erejutt = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

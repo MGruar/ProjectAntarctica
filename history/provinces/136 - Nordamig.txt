@@ -1,0 +1,15 @@
+# 136 - Nordamig
+
+# County Title
+title = c_nordamig
+
+# Settlements
+max_settlements = 3
+b_nordamig = castle
+b_barony0136d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

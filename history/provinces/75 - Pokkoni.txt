@@ -1,0 +1,14 @@
+# 75 - Pokkoni
+
+# County Title
+title = c_pokkoni
+
+# Settlements
+max_settlements = 2
+b_pokkoni = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

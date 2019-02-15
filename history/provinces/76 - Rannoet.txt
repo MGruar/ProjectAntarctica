@@ -1,0 +1,14 @@
+# 76 - Rannoet
+
+# County Title
+title = c_rannoet
+
+# Settlements
+max_settlements = 2
+b_rannoet = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

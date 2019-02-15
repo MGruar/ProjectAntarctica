@@ -1,22 +1,22 @@
 # Geographical regions
 world_western_isles = {
 	duchies = {
-		# k_graeme
-		d_orknae d_shaetland d_goatland d_cobae d_inverbend d_larsen 
-		# k_baerde
-		d_norrbaer d_soderbaer d_mittenbaer 
-		# k_ellswaere
-		d_far_ellswaere d_faersid d_naersid 
-		# k_paelme
-		d_faeroe d_waeddel d_ostfjord d_manna d_vestfjord 
+		# k_grame
+		d_orkna d_shatland d_goatland d_coba d_inverbend d_larsen 
+		# k_barde
+		d_norrbar d_soderbar d_mittenbar 
+		# k_ellsware
+		d_far_ellsware d_farsid d_narsid 
+		# k_palme
+		d_faroe d_waddel d_ostfjord d_manna d_vestfjord 
 	}
 }
 world_transantar = {
 	duchies = {
-		# k_maede
-		d_makria d_mescher d_omeya d_stoema d_ormo d_maede d_mittenmaede 
+		# k_made
+		d_makria d_mescher d_omeya d_stama d_ormo d_synor d_mittenmade 
 		# k_traenge
-		d_nort_traenge d_sut_traenge d_tran_traenge d_mitt_traenge 
+		d_nort_traenge d_sut_trange d_tran_trange d_mitt_trange 
 		# k_alexion
 		d_anderia d_exolexion d_limnia d_mesipnos d_alexion 
 	}
@@ -24,9 +24,9 @@ world_transantar = {
 world_fujarra = {
 	duchies = {
 		# k_valkyr
-		d_baruunu d_damjuul d_taldaar d_valkyrtov 
+		d_baruunu d_damjuul d_taldaar d_valkyrtav 
 		# k_fujarra
-		d_costamig d_alsur d_medrio d_ermit d_mesar d_lagrio d_riult d_altrio d_fujarra 
+		d_costamig d_alsur d_medria d_ermit d_masar d_lagria d_riult d_altria d_fujarra 
 	}
 }
 world_dronnin = {
@@ -36,7 +36,7 @@ world_dronnin = {
 		# k_fimbul
 		d_joutom d_lansimbul d_makinnen d_itaambul d_keskimbul 
 		# k_thorsh
-		d_gadna d_vutren d_duchy0324 d_severn d_thorshby 
+		d_gadna d_vutren d_zapapob d_severn d_thorshby 
 		# k_dronne
 		d_droncote d_frontiecoet d_leriv d_frontiefim d_friche d_dronne_centre 
 	}
@@ -56,7 +56,7 @@ world_elizabethion = {
 		# k_abethi
 		d_abetnix d_synethi d_suuethid d_ostekion d_estperas d_ostek d_suustelia d_suulak d_abethid 
 		# k_elizion
-		d_romi d_exolim d_peralizion d_makrino d_bethion d_peras d_elizion 
+		d_romi d_exolim d_perelizion d_makrino d_bethion d_peras d_elizion 
 	}
 }
 world_gran_adelia = {
@@ -96,7 +96,7 @@ world_vostum = {
 world_kempia = {
 	duchies = {
 		# k_enderby
-		d_zuush d_nuuby d_dalagar d_omnuu d_enbulan d_gaamon d_enderb 
+		d_zuush d_nuuby d_dalagar d_amnuu d_enbulan d_gaamon d_enderb 
 		# k_kemp
 		d_kaodo d_prybao d_xiawan d_chitadon d_dadon d_kempwan 
 	}

@@ -1,0 +1,15 @@
+# 483 - Wixilsima
+
+# County Title
+title = c_wixilsima
+
+# Settlements
+max_settlements = 3
+b_wixilsima = castle
+b_barony0483d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

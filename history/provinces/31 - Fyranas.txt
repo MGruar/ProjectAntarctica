@@ -1,0 +1,14 @@
+# 31 - Fyranas
+
+# County Title
+title = c_fyranas
+
+# Settlements
+max_settlements = 3
+b_fyranas = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

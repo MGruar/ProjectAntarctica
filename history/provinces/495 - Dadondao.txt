@@ -1,0 +1,14 @@
+# 495 - Dadondao
+
+# County Title
+title = c_dadondao
+
+# Settlements
+max_settlements = 3
+b_dadondao = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

@@ -1,0 +1,14 @@
+# 488 - Ongxiawan
+
+# County Title
+title = c_ongxiawan
+
+# Settlements
+max_settlements = 4
+b_ongxiawan = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

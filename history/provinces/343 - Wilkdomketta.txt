@@ -1,0 +1,14 @@
+# 343 - Wilkdomketta
+
+# County Title
+title = c_wilkdomketta
+
+# Settlements
+max_settlements = 4
+b_wilkdomketta = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

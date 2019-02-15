@@ -1,0 +1,15 @@
+# 484 - Woch Wixilisurpa
+
+# County Title
+title = c_woch_wixilisurpa
+
+# Settlements
+max_settlements = 3
+b_woch_wixilisurpa = castle
+b_barony0484d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,15 @@
+# 375 - Nortacaprit
+
+# County Title
+title = c_nortacaprit
+
+# Settlements
+max_settlements = 5
+b_nortacaprit = tribal
+b_barony0375d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

@@ -1,0 +1,14 @@
+# 456 - Wikhitilk
+
+# County Title
+title = c_wikhitilk
+
+# Settlements
+max_settlements = 3
+b_wikhitilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

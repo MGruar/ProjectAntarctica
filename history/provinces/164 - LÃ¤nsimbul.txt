@@ -1,0 +1,15 @@
+# 164 - Länsimbul
+
+# County Title
+title = c_lansimbul
+
+# Settlements
+max_settlements = 2
+b_lansimbul = tribal
+b_barony0164d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

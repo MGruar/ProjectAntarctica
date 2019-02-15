@@ -1,0 +1,14 @@
+# 393 - Iilsinncappa
+
+# County Title
+title = c_iilsinncappa
+
+# Settlements
+max_settlements = 2
+b_iilsinncappa = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

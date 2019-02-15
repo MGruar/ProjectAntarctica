@@ -1,0 +1,15 @@
+# 291 - Makrivuonó
+
+# County Title
+title = c_makrivuona
+
+# Settlements
+max_settlements = 3
+b_makrivuona = castle
+b_barony0291d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 479 - Xiaobadao
+
+# County Title
+title = c_xiaobadao
+
+# Settlements
+max_settlements = 3
+b_xiaobadao = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

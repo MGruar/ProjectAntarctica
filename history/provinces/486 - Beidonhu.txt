@@ -1,0 +1,14 @@
+# 486 - Beidonhu
+
+# County Title
+title = c_beidonhu
+
+# Settlements
+max_settlements = 4
+b_beidonhu = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

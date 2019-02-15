@@ -1,0 +1,14 @@
+# 208 - Oesutt
+
+# County Title
+title = c_oesutt
+
+# Settlements
+max_settlements = 3
+b_oesutt = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

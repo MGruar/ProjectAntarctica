@@ -1,0 +1,16 @@
+# 223 - Regio Porto
+
+# County Title
+title = c_regio_porto
+
+# Settlements
+max_settlements = 4
+b_regio_porto = castle
+b_barony0223d = temple
+b_barony0223e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

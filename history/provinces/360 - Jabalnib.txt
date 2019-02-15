@@ -1,0 +1,14 @@
+# 360 - Jabalnib
+
+# County Title
+title = c_jabalnib
+
+# Settlements
+max_settlements = 1
+b_jabalnib = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

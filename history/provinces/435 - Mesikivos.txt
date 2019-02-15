@@ -1,0 +1,16 @@
+# 435 - Mesikivos
+
+# County Title
+title = c_mesikivos
+
+# Settlements
+max_settlements = 4
+b_mesikivos = castle
+b_barony0435d = temple
+b_barony0435e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

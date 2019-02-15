@@ -1,0 +1,14 @@
+# 499 - Buhil
+
+# County Title
+title = c_buhil
+
+# Settlements
+max_settlements = 3
+b_buhil = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

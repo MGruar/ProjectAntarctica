@@ -1,0 +1,14 @@
+# 362 - Westcoasti ta Gracappa
+
+# County Title
+title = c_westcoasti_ta_gracappa
+
+# Settlements
+max_settlements = 4
+b_westcoasti_ta_gracappa = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

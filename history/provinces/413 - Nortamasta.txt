@@ -1,0 +1,14 @@
+# 413 - Nortamasta
+
+# County Title
+title = c_nortamasta
+
+# Settlements
+max_settlements = 4
+b_nortamasta = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

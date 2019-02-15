@@ -1,0 +1,15 @@
+# 516 - Akhisuctl
+
+# County Title
+title = c_akhisuctl
+
+# Settlements
+max_settlements = 3
+b_akhisuctl = castle
+b_barony0516d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

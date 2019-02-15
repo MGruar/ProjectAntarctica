@@ -1,0 +1,14 @@
+# 237 - Oettinojutt
+
+# County Title
+title = c_oettinojutt
+
+# Settlements
+max_settlements = 4
+b_oettinojutt = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

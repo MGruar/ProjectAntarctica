@@ -1,0 +1,17 @@
+# 141 - Occinium
+
+# County Title
+title = c_occinium
+
+# Settlements
+max_settlements = 5
+b_occinium = castle
+b_barony0141d = temple
+b_barony0141e = city
+b_barony0141f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

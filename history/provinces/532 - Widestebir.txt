@@ -1,0 +1,15 @@
+# 532 - Widestebir
+
+# County Title
+title = c_widestebir
+
+# Settlements
+max_settlements = 3
+b_widestebir = castle
+b_barony0532d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

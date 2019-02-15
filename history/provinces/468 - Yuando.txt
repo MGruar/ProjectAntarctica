@@ -1,0 +1,14 @@
+# 468 - Yuando
+
+# County Title
+title = c_yuando
+
+# Settlements
+max_settlements = 3
+b_yuando = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

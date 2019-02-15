@@ -1,0 +1,14 @@
+# 68 - Oslitus
+
+# County Title
+title = c_oslitus
+
+# Settlements
+max_settlements = 3
+b_oslitus = tribal
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

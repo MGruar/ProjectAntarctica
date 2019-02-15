@@ -1,0 +1,14 @@
+# 281 - Suusynepoli
+
+# County Title
+title = c_suusynepoli
+
+# Settlements
+max_settlements = 4
+b_suusynepoli = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 349 - Wesseva
+
+# County Title
+title = c_wesseva
+
+# Settlements
+max_settlements = 4
+b_wesseva = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

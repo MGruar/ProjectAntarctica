@@ -1,0 +1,14 @@
+# 220 - Norlina
+
+# County Title
+title = c_norlina
+
+# Settlements
+max_settlements = 2
+b_norlina = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

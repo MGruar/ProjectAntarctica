@@ -1,0 +1,15 @@
+# 233 - Baymous
+
+# County Title
+title = c_baymous
+
+# Settlements
+max_settlements = 5
+b_baymous = tribal
+b_barony0233d = temple
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

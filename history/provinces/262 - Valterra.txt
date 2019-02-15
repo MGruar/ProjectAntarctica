@@ -1,0 +1,15 @@
+# 262 - Valterra
+
+# County Title
+title = c_valterra
+
+# Settlements
+max_settlements = 3
+b_valterra = castle
+b_barony0262d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

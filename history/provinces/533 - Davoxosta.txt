@@ -1,0 +1,14 @@
+# 533 - Davoxosta
+
+# County Title
+title = c_davoxosta
+
+# Settlements
+max_settlements = 3
+b_davoxosta = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

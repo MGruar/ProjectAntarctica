@@ -1,0 +1,15 @@
+# 100 - Sinorien
+
+# County Title
+title = c_sinorien
+
+# Settlements
+max_settlements = 5
+b_sinorien = tribal
+b_barony0100d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

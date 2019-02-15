@@ -1,0 +1,14 @@
+# 14 - Goatten
+
+# County Title
+title = c_goatten
+
+# Settlements
+max_settlements = 3
+b_goatten = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

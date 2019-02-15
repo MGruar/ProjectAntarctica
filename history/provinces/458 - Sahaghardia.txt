@@ -1,0 +1,14 @@
+# 458 - Sahaghardia
+
+# County Title
+title = c_sahaghardia
+
+# Settlements
+max_settlements = 2
+b_sahaghardia = castle
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

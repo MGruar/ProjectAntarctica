@@ -1,0 +1,15 @@
+# 201 - Interu Contru
+
+# County Title
+title = c_interu_contru
+
+# Settlements
+max_settlements = 3
+b_interu_contru = castle
+b_barony0201d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

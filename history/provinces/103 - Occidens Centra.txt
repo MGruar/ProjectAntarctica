@@ -1,0 +1,16 @@
+# 103 - Occidens Centra
+
+# County Title
+title = c_occidens_centra
+
+# Settlements
+max_settlements = 4
+b_occidens_centra = castle
+b_barony0103d = temple
+b_barony0103e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,14 @@
+# 436 - Widestilk
+
+# County Title
+title = c_widestilk
+
+# Settlements
+max_settlements = 3
+b_widestilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

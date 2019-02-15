@@ -1,0 +1,14 @@
+# 324 - Zapapobitol
+
+# County Title
+title = c_zapapobitol
+
+# Settlements
+max_settlements = 4
+b_zapapobitol = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

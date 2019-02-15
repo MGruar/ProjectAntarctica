@@ -1,0 +1,15 @@
+# 520 - Davixenuctl
+
+# County Title
+title = c_davixenuctl
+
+# Settlements
+max_settlements = 3
+b_davixenuctl = castle
+b_barony0520d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

@@ -1,0 +1,14 @@
+# 534 - Esteziret
+
+# County Title
+title = c_esteziret
+
+# Settlements
+max_settlements = 2
+b_esteziret = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

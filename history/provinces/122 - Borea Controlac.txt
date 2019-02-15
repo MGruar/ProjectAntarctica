@@ -1,0 +1,17 @@
+# 122 - Borea Controlac
+
+# County Title
+title = c_borea_controlac
+
+# Settlements
+max_settlements = 5
+b_borea_controlac = castle
+b_barony0122d = temple
+b_barony0122e = city
+b_barony0122f = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

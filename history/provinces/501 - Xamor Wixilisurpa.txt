@@ -1,0 +1,14 @@
+# 501 - Xamor Wixilisurpa
+
+# County Title
+title = c_xamor_wixilisurpa
+
+# Settlements
+max_settlements = 2
+b_xamor_wixilisurpa = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

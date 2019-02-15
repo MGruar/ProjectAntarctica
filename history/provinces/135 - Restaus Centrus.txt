@@ -1,0 +1,16 @@
+# 135 - Restaus Centrus
+
+# County Title
+title = c_restaus_centrus
+
+# Settlements
+max_settlements = 4
+b_restaus_centrus = city
+b_barony0135d = temple
+b_barony0135e = castle
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

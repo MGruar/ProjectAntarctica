@@ -1,0 +1,15 @@
+# 430 - Grastma
+
+# County Title
+title = c_grastma
+
+# Settlements
+max_settlements = 6
+b_grastma = tribal
+b_barony0430d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

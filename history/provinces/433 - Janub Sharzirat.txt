@@ -1,0 +1,15 @@
+# 433 - Janub Sharzirat
+
+# County Title
+title = c_janub_sharzirat
+
+# Settlements
+max_settlements = 3
+b_janub_sharzirat = castle
+b_barony0433d = temple
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

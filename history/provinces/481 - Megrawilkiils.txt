@@ -1,0 +1,15 @@
+# 481 - Megrawilkiils
+
+# County Title
+title = c_megrawilkiils
+
+# Settlements
+max_settlements = 6
+b_megrawilkiils = tribal
+b_barony0481d = temple
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

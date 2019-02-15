@@ -1,0 +1,15 @@
+# 312 - Ikh Damjuul
+
+# County Title
+title = c_ikh_damjuul
+
+# Settlements
+max_settlements = 5
+b_ikh_damjuul = tribal
+b_barony0312d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

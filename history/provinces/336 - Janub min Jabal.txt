@@ -1,0 +1,14 @@
+# 336 - Janub min Jabal
+
+# County Title
+title = c_janub_min_jabal
+
+# Settlements
+max_settlements = 1
+b_janub_min_jabal = tribal
+
+# Misc
+culture = egyptian_arabic
+religion = shiite
+
+# History

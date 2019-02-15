@@ -1,0 +1,14 @@
+# 2 - Havork
+
+# County Title
+title = c_havork
+
+# Settlements
+max_settlements = 1
+b_havork = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

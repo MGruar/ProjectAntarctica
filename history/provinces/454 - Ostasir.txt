@@ -1,0 +1,14 @@
+# 454 - Ostasir
+
+# County Title
+title = c_ostasir
+
+# Settlements
+max_settlements = 1
+b_ostasir = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

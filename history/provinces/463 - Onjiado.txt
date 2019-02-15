@@ -1,0 +1,14 @@
+# 463 - Onjiado
+
+# County Title
+title = c_onjiado
+
+# Settlements
+max_settlements = 2
+b_onjiado = tribal
+
+# Misc
+culture = han
+religion = taoist
+
+# History

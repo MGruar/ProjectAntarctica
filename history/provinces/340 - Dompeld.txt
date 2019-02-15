@@ -1,0 +1,14 @@
+# 340 - Dompeld
+
+# County Title
+title = c_dompeld
+
+# Settlements
+max_settlements = 4
+b_dompeld = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

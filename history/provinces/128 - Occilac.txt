@@ -1,0 +1,15 @@
+# 128 - Occilac
+
+# County Title
+title = c_occilac
+
+# Settlements
+max_settlements = 3
+b_occilac = castle
+b_barony0128d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

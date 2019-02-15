@@ -1,0 +1,16 @@
+# 412 - Nuughuro
+
+# County Title
+title = c_nuughuro
+
+# Settlements
+max_settlements = 4
+b_nuughuro = castle
+b_barony0412d = temple
+b_barony0412e = city
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

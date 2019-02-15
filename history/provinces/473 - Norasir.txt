@@ -1,0 +1,14 @@
+# 473 - Norasir
+
+# County Title
+title = c_norasir
+
+# Settlements
+max_settlements = 1
+b_norasir = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

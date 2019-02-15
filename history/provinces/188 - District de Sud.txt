@@ -1,0 +1,14 @@
+# 188 - District de Sud
+
+# County Title
+title = c_district_de_sud
+
+# Settlements
+max_settlements = 2
+b_district_de_sud = castle
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

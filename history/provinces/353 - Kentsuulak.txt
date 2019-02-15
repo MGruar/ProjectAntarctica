@@ -1,0 +1,14 @@
+# 353 - Kentsuulak
+
+# County Title
+title = c_kentsuulak
+
+# Settlements
+max_settlements = 4
+b_kentsuulak = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

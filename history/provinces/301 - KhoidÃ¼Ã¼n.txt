@@ -1,0 +1,14 @@
+# 301 - Khoidüün
+
+# County Title
+title = c_khoidaan
+
+# Settlements
+max_settlements = 3
+b_khoidaan = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

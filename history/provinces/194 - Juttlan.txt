@@ -1,0 +1,14 @@
+# 194 - Juttlan
+
+# County Title
+title = c_juttlan
+
+# Settlements
+max_settlements = 3
+b_juttlan = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

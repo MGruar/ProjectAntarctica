@@ -1,0 +1,14 @@
+# 53 - Eteniem
+
+# County Title
+title = c_eteniem
+
+# Settlements
+max_settlements = 3
+b_eteniem = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

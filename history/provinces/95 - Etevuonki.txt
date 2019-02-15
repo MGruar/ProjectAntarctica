@@ -1,0 +1,14 @@
+# 95 - Etevuonki
+
+# County Title
+title = c_etevuonki
+
+# Settlements
+max_settlements = 2
+b_etevuonki = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

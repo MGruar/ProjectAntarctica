@@ -1,0 +1,17 @@
+# 482 - Vilksirma
+
+# County Title
+title = c_vilksirma
+
+# Settlements
+max_settlements = 5
+b_vilksirma = castle
+b_barony0482d = temple
+b_barony0482e = city
+b_barony0482f = castle
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

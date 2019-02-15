@@ -1,0 +1,14 @@
+# 9 - Norrlar
+
+# County Title
+title = c_norrlar
+
+# Settlements
+max_settlements = 2
+b_norrlar = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

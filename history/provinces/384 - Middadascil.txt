@@ -1,0 +1,14 @@
+# 384 - Middadascil
+
+# County Title
+title = c_middadascil
+
+# Settlements
+max_settlements = 3
+b_middadascil = tribal
+
+# Misc
+culture = hindustani
+religion = hindu
+
+# History

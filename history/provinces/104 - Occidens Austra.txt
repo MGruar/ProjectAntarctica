@@ -1,0 +1,16 @@
+# 104 - Occidens Austra
+
+# County Title
+title = c_occidens_austra
+
+# Settlements
+max_settlements = 4
+b_occidens_austra = castle
+b_barony0104d = temple
+b_barony0104e = city
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

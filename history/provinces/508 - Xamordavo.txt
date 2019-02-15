@@ -1,0 +1,15 @@
+# 508 - Xamordavo
+
+# County Title
+title = c_xamordavo
+
+# Settlements
+max_settlements = 3
+b_xamordavo = castle
+b_barony0508d = temple
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

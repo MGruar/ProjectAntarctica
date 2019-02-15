@@ -1,0 +1,15 @@
+# 400 - Jianuuby
+
+# County Title
+title = c_jianuuby
+
+# Settlements
+max_settlements = 3
+b_jianuuby = castle
+b_barony0400d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

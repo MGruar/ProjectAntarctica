@@ -1,0 +1,14 @@
+# 45 - Mittenells
+
+# County Title
+title = c_mittenells
+
+# Settlements
+max_settlements = 4
+b_mittenells = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

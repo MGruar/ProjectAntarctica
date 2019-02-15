@@ -1,0 +1,16 @@
+# 153 - Órvikion
+
+# County Title
+title = c_arvikion
+
+# Settlements
+max_settlements = 4
+b_arvikion = castle
+b_barony0153d = temple
+b_barony0153e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

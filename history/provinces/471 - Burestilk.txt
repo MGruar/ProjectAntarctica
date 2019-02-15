@@ -1,0 +1,14 @@
+# 471 - Burestilk
+
+# County Title
+title = c_burestilk
+
+# Settlements
+max_settlements = 2
+b_burestilk = tribal
+
+# Misc
+culture = nahuatl
+religion = aztec
+
+# History

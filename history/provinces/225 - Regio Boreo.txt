@@ -1,0 +1,15 @@
+# 225 - Regio Boreo
+
+# County Title
+title = c_regio_boreo
+
+# Settlements
+max_settlements = 3
+b_regio_boreo = castle
+b_barony0225d = temple
+
+# Misc
+culture = roman
+religion = hellenic_pagan_reformed
+
+# History

@@ -1,0 +1,17 @@
+# 396 - Macropho
+
+# County Title
+title = c_macropho
+
+# Settlements
+max_settlements = 6
+b_macropho = castle
+b_barony0396d = temple
+b_barony0396e = city
+b_barony0396f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

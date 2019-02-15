@@ -1,0 +1,14 @@
+# 395 - Dotömnuu
+
+# County Title
+title = c_dotamnuu
+
+# Settlements
+max_settlements = 3
+b_dotamnuu = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

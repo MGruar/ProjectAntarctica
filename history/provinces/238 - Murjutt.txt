@@ -1,0 +1,14 @@
+# 238 - Murjutt
+
+# County Title
+title = c_murjutt
+
+# Settlements
+max_settlements = 4
+b_murjutt = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

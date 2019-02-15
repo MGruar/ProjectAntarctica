@@ -1,0 +1,14 @@
+# 55 - Meripol
+
+# County Title
+title = c_meripol
+
+# Settlements
+max_settlements = 3
+b_meripol = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History
