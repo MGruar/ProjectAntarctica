@@ -1,0 +1,15 @@
+# 28 - Wædvik
+
+# County Title
+title = c_wdvik
+
+# Settlements
+max_settlements = 3
+b_wdvik = tribal
+b_barony0028d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

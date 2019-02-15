@@ -1,0 +1,14 @@
+# 272 - It‰‰kulkea
+
+# County Title
+title = c_itaakulkea
+
+# Settlements
+max_settlements = 1
+b_itaakulkea = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 294 - Suurbaktír
+
+# County Title
+title = c_suurbaktir
+
+# Settlements
+max_settlements = 5
+b_suurbaktir = tribal
+b_barony0294d = temple
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

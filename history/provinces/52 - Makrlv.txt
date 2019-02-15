@@ -1,0 +1,14 @@
+# 52 - Makrælv
+
+# County Title
+title = c_makrlv
+
+# Settlements
+max_settlements = 4
+b_makrlv = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

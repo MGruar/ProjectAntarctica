@@ -1,0 +1,14 @@
+# 20 - Vestvärb
+
+# County Title
+title = c_vestvarb
+
+# Settlements
+max_settlements = 3
+b_vestvarb = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

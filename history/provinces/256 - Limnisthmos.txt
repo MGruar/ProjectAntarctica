@@ -1,0 +1,17 @@
+# 256 - Limnisthmós
+
+# County Title
+title = c_limnisthmos
+
+# Settlements
+max_settlements = 5
+b_limnisthmos = castle
+b_barony0256d = temple
+b_barony0256e = city
+b_barony0256f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 200 - Pitkäpojo
+
+# County Title
+title = c_pitkapojo
+
+# Settlements
+max_settlements = 2
+b_pitkapojo = tribal
+b_barony0200d = temple
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

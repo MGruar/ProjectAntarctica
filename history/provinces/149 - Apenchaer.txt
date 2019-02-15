@@ -1,0 +1,16 @@
+# 149 - Apénchaer
+
+# County Title
+title = c_apenchaer
+
+# Settlements
+max_settlements = 4
+b_apenchaer = castle
+b_barony0149d = temple
+b_barony0149e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

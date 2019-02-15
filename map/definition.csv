@@ -1,119 +1,119 @@
 province;red;green;blue;x;x
-1;15;121;115;Oshætland;x
+1;15;121;115;Oshtland;x
 2;3;100;133;Havork;x
-3;52;95;168;Shælvet;x
-4;43;91;130;Mittorkshæ;x
-5;27;97;152;Orknæ Centrum;x
-6;43;71;128;Ostælv;x
-7;8;121;172;Lærven;x
-8;16;86;174;Havagræ;x
+3;52;95;168;Shlvet;x
+4;43;91;130;Mittorksh;x
+5;27;97;152;Orkn Centrum;x
+6;43;71;128;Ostlv;x
+7;8;121;172;Lrven;x
+8;16;86;174;Havagr;x
 9;46;83;122;Norrlar;x
 10;51;110;165;Sodelar;x
-11;25;91;158;Lagræme;x
-12;36;87;162;Vestcobæ;x
+11;25;91;158;Lagrme;x
+12;36;87;162;Vestcob;x
 13;0;111;115;Norrostgo;x
 14;52;78;171;Goatten;x
-15;54;119;164;Öcob;x
-16;20;103;164;Mittencobæ;x
+15;54;119;164;Ocob;x
+16;20;103;164;Mittencob;x
 17;12;100;115;Gonverb;x
-18;2;99;135;Hærve;x
-19;25;111;146;Ostcobæ;x
-20;61;101;158;Vestvärb;x
-21;41;74;156;Færoe;x
+18;2;99;135;Hrve;x
+19;25;111;146;Ostcob;x
+20;61;101;158;Vestvarb;x
+21;41;74;156;Froe;x
 22;25;91;129;Inverb;x
-23;14;66;164;Öfær;x
-24;41;123;162;Ostvärb;x
+23;14;66;164;Ofr;x
+24;41;123;162;Ostvarb;x
 25;17;69;167;Soderoe;x
-26;42;93;166;Norrfær;x
-27;27;96;118;Soderfær;x
-28;47;122;143;Wædvik;x
+26;42;93;166;Norrfr;x
+27;27;96;118;Soderfr;x
+28;47;122;143;Wdvik;x
 29;1;70;169;Nasfjord;x
-30;45;84;170;Inwæd;x
+30;45;84;170;Inwd;x
 31;8;80;126;Fyranas;x
-32;21;92;151;Wætvär;x
+32;21;92;151;Wtvar;x
 33;11;108;175;Vestfjord;x
-34;39;112;155;Oppæl;x
+34;39;112;155;Oppl;x
 35;9;111;141;Ostfjord;x
-36;33;93;150;Yttwæd;x
-37;50;67;159;Öbærus;x
+36;33;93;150;Yttwd;x
+37;50;67;159;Obrus;x
 38;60;93;163;Manna;x
-39;1;76;174;Norrbær;x
-40;19;70;165;Norrnä;x
+39;1;76;174;Norrbr;x
+40;19;70;165;Norrna;x
 41;45;90;141;Storrmitten;x
 42;56;98;150;Vestikell;x
-43;62;72;134;Sobær;x
-44;48;118;169;Færii;x
+43;62;72;134;Sobr;x
+44;48;118;169;Frii;x
 45;11;101;147;Mittenells;x
-46;0;89;135;Bærberg;x
-47;33;108;143;Sonotær;x
-48;51;117;116;Vorrær;x
+46;0;89;135;Brberg;x
+47;33;108;143;Sonotr;x
+48;51;117;116;Vorrr;x
 49;53;97;153;Soderstorr;x
 50;15;70;127;Ansonria;x
-51;3;92;158;Bærnä;x
-52;3;87;143;Makrælv;x
+51;3;92;158;Brna;x
+52;3;87;143;Makrlv;x
 53;6;120;250;Eteniem;x
-54;1;113;174;Näsom;x
+54;1;113;174;Nasom;x
 55;20;154;210;Meripol;x
 56;12;79;162;Mittenmescher;x
 57;22;86;152;Norrmesch;x
-58;62;110;155;Bærælv;x
+58;62;110;155;Brlv;x
 59;62;123;171;Omevik;x
-60;18;91;131;Önistœma;x
+60;18;91;131;Onistma;x
 61;236;27;14;Insulos;x
 62;14;173;211;Pojaurin;x
-63;60;61;139;Ypsilmæde;x
+63;60;61;139;Ypsilmde;x
 64;29;105;143;Anostom;x
 65;47;150;228;Keskauringon;x
 66;226;60;47;Austroccitus;x
 67;220;39;10;Occitus;x
 68;245;19;32;Oslitus;x
-69;24;104;132;Küstkull;x
+69;24;104;132;Kustkull;x
 70;60;173;240;Valtalomp;x
 71;26;128;255;Quttsuulund;x
-72;23;80;170;Stœmælv;x
+72;23;80;170;Stmlv;x
 73;55;141;199;Aalisuun;x
-74;63;80;160;Megypsilmæde;x
+74;63;80;160;Megypsilmde;x
 75;39;167;207;Pokkoni;x
 76;57;121;247;Rannoet;x
 77;249;56;53;Sinubor;x
-78;62;104;167;Stœmvik;x
+78;62;104;167;Stmvik;x
 79;240;29;27;Boreados;x
-80;51;80;144;Mæde Centrum;x
+80;51;80;144;Mde Centrum;x
 81;255;47;6;Peninsinus;x
 82;233;47;12;Sinula Centra;x
 83;29;145;218;Vuorlomp;x
-84;58;58;203;Lænort;x
+84;58;58;203;Lnort;x
 85;37;158;197;Keskannaots;x
-86;37;61;128;Tvärvik;x
+86;37;61;128;Tvarvik;x
 87;62;161;216;Temikko;x
 88;61;143;240;Etlahao;x
 89;43;78;172;Mittenkullfo;x
 90;1;77;159;Vestikormo;x
 91;237;5;58;Silvisinus;x
-92;26;122;214;Länsit;x
+92;26;122;214;Lansit;x
 93;14;120;215;Saariqutt;x
 94;53;102;122;Anostormo;x
 95;59;154;193;Etevuonki;x
 96;23;93;129;Esresynor;x
 97;41;7;198;Greemunt;x
 98;227;5;53;Occidens Borea;x
-99;59;150;195;Länsiniem;x
+99;59;150;195;Lansiniem;x
 100;238;1;17;Sinorien;x
 101;0;71;151;Extresynor;x
 102;4;33;204;Coasten;x
 103;206;33;57;Occidens Centra;x
 104;234;14;54;Occidens Austra;x
-105;52;102;136;Önisamun;x
-106;204;54;137;Anisander Vytík;x
+105;52;102;136;Onisamun;x
+106;204;54;137;Anisander Vytik;x
 107;207;7;31;Parumchester;x
-108;38;142;213;Itääniem;x
+108;38;142;213;Itaaniem;x
 109;218;61;12;Restilvis;x
-110;46;147;222;Pitkäpola;x
+110;46;147;222;Pitkapola;x
 111;8;114;232;Keskpolaht;x
 112;5;128;228;Pojopol;x
-113;60;48;226;Hælen;x
-114;248;8;129;Anderia Kéntro;x
-115;210;58;120;Vounsýnor;x
+113;60;48;226;Hlen;x
+114;248;8;129;Anderia Kentro;x
+115;210;58;120;Vounsynor;x
 116;225;25;138;Anisander Messa;x
 117;21;143;229;Puolojo;x
 118;50;152;192;Pojvuonki;x
@@ -128,42 +128,42 @@ province;red;green;blue;x;x
 127;235;213;40;Sudamig;x
 128;251;27;14;Occilac;x
 129;11;50;255;Mittmunt;x
-130;220;27;147;Perikt Apéna;x
+130;220;27;147;Perikt Apena;x
 131;208;26;8;Australac;x
 132;202;52;108;Anisander Anato;x
-133;207;45;107;Vórrvuon;x
+133;207;45;107;Vorrvuon;x
 134;208;33;0;Reston Centro;x
 135;206;60;16;Restaus Centrus;x
 136;198;198;63;Nordamig;x
 137;208;161;4;Nordroncote;x
 138;196;61;53;Peninsul Interior;x
 139;250;206;49;Subouche;x
-140;235;48;148;Alexion Kéntro;x
+140;235;48;148;Alexion Kentro;x
 141;202;28;11;Occinium;x
 142;246;30;46;Restorromus;x
-143;29;159;234;Korkemetsä;x
+143;29;159;234;Korkemetsa;x
 144;47;167;206;Coefimbuli;x
 145;235;1;37;Lacorien;x
 146;219;177;16;Districte Costoest;x
 147;213;212;34;Baiefrontie;x
 148;51;163;198;Joutom;x
-149;247;28;112;Apénchaer;x
+149;247;28;112;Apenchaer;x
 150;203;175;5;Camp Estemig;x
 151;215;161;47;Travleriv;x
 152;254;27;41;Parumsinus;x
-153;216;0;114;Órvikion;x
+153;216;0;114;Orvikion;x
 154;232;41;119;Messavuon;x
 155;3;9;203;Laokon;x
 156;208;209;54;Milieuchamp;x
 157;198;44;101;Alexoenis;x
-158;221;18;147;Exaktís;x
+158;221;18;147;Exaktis;x
 159;230;9;59;Restorien Centro;x
 160;222;153;12;Milfronco;x
 161;212;200;52;Leriville;x
 162;213;11;30;Onilac;x
 163;252;170;5;Fujarra Central;x
-164;58;141;252;Länsimbul;x
-165;246;173;36;Través Delrió;x
+164;58;141;252;Lansimbul;x
+165;246;173;36;Traves Delrio;x
 166;217;182;49;Chamriv;x
 167;200;58;110;Essexion;x
 168;227;179;40;District Traverriv;x
@@ -171,19 +171,19 @@ province;red;green;blue;x;x
 170;252;185;19;Fronlac;x
 171;234;42;28;Restoborean;x
 172;52;137;244;Keskulkea;x
-173;218;162;52;Surtravés;x
+173;218;162;52;Surtraves;x
 174;233;177;30;Fujarra Interior;x
 175;207;18;61;Contrarra Occiden;x
-176;214;62;148;Sónotovuon;x
+176;214;62;148;Sonotovuon;x
 177;196;173;45;Gran Ermit;x
 178;223;47;25;Agricol Centro;x
 179;224;43;51;Agraustus;x
-180;203;58;152;Nótolimnia;x
+180;203;58;152;Notolimnia;x
 181;200;184;62;District de Lac;x
 182;196;50;38;Contrarra Centra;x
 183;8;6;213;Erejutt;x
 184;23;51;225;Surdesol;x
-185;3;140;223;Länsimakinnen;x
+185;3;140;223;Lansimakinnen;x
 186;219;178;54;Grandi Dronne;x
 187;252;195;27;Costazur;x
 188;202;155;40;District de Sud;x
@@ -198,10 +198,10 @@ province;red;green;blue;x;x
 197;221;190;41;Medrisur;x
 198;240;40;56;Agrorien;x
 199;62;50;226;Ultran;x
-200;30;132;219;Pitkäpojo;x
+200;30;132;219;Pitkapojo;x
 201;200;60;26;Interu Contru;x
-202;210;5;105;Vóreiolimnia;x
-203;219;54;141;Kéntro Mesipnos;x
+202;210;5;105;Voreiolimnia;x
+203;219;54;141;Kentro Mesipnos;x
 204;237;22;11;Regio Contraflumen;x
 205;210;204;11;Frontiefim de Sud;x
 206;226;167;54;Dronchamp;x
@@ -212,11 +212,11 @@ province;red;green;blue;x;x
 211;193;6;36;Regio Capitol;x
 212;216;153;58;Poc Ermit;x
 213;40;38;217;Surmuntsid;x
-214;234;158;50;Montañazul;x
+214;234;158;50;Montanazul;x
 215;13;52;210;Nottesol;x
-216;223;176;6;Lagrió Través;x
+216;223;176;6;Lagrio Traves;x
 217;200;188;15;Masar Central;x
-218;19;12;224;Bahæl;x
+218;19;12;224;Bahl;x
 219;34;166;211;Keskimakinnen;x
 220;193;199;6;Norlina;x
 221;238;16;152;Nisperio;x
@@ -224,15 +224,15 @@ province;red;green;blue;x;x
 223;197;54;32;Regio Porto;x
 224;215;57;26;Interu Centru;x
 225;205;6;0;Regio Boreo;x
-226;219;224;43;Órbanix;x
+226;219;224;43;Orbanix;x
 227;203;50;25;Interu Altu;x
-228;248;59;132;Nóperio;x
-229;217;26;150;Romatkí;x
+228;248;59;132;Noperio;x
+229;217;26;150;Romatki;x
 230;51;138;250;Kevuori;x
 231;233;198;61;Frichille;x
-232;243;176;7;Lagrió Central;x
+232;243;176;7;Lagrio Central;x
 233;28;43;216;Baymous;x
-234;216;28;107;Megapolis Kéntro;x
+234;216;28;107;Megapolis Kentro;x
 235;211;180;10;Masar Delsur;x
 236;202;248;47;Abelaknix;x
 237;55;38;249;Oettinojutt;x
@@ -240,11 +240,11 @@ province;red;green;blue;x;x
 239;43;12;241;Nottoria;x
 240;237;156;46;Oestriult;x
 241;198;28;51;Regio Agrico;x
-242;230;157;2;Campobarún;x
-243;196;50;132;Vórperio;x
+242;230;157;2;Campobarun;x
+243;196;50;132;Vorperio;x
 244;224;42;157;Messolim;x
 245;4;9;249;Midlirifeld;x
-246;27;156;255;Itäämakinnen;x
+246;27;156;255;Itaamakinnen;x
 247;42;56;254;Greefeld;x
 248;229;203;31;Campalto;x
 249;235;11;159;Esoromi;x
@@ -254,55 +254,55 @@ province;red;green;blue;x;x
 253;237;52;100;Anaperio;x
 254;30;60;239;Oettinocittone;x
 255;193;5;50;Interu Terminu;x
-256;201;17;108;Limnisthmós;x
+256;201;17;108;Limnisthmos;x
 257;205;158;13;Froncolline;x
 258;225;203;37;Ebois;x
-259;34;140;171;Altrió Interior;x
+259;34;140;171;Altrio Interior;x
 260;233;200;8;Estriult;x
 261;54;128;245;Mimmibul;x
 262;207;170;17;Valterra;x
-263;241;42;141;Perekéntro;x
+263;241;42;141;Perekentro;x
 264;62;6;225;Estisle;x
 265;211;30;146;Messapere;x
 266;16;170;122;Romkhil;x
 267;196;252;31;Synepoli;x
 268;236;3;11;Monlatu;x
-269;240;6;109;Potámni;x
+269;240;6;109;Potamni;x
 270;4;27;209;Suttone;x
 271;243;227;0;Cherlakni;x
-272;55;148;252;Itääkulkea;x
+272;55;148;252;Itaakulkea;x
 273;47;142;165;Granitana;x
 274;21;115;155;Baruunul;x
 275;36;32;246;Bittecoast;x
-276;217;31;119;Esomakriá;x
+276;217;31;119;Esomakria;x
 277;63;1;246;Surjuttoria;x
 278;53;19;250;Mittmarshtone;x
-279;204;54;128;Apénapotmi;x
+279;204;54;128;Apenapotmi;x
 280;10;143;113;Khilga;x
 281;198;234;11;Suusynepoli;x
-282;201;254;13;Vórlakni;x
-283;34;161;124;Altrió Exterior;x
-284;249;21;119;Dytípere;x
-285;26;118;250;Itääkulkete;x
-286;45;139;194;Itäämbul;x
+282;201;254;13;Vorlakni;x
+283;34;161;124;Altrio Exterior;x
+284;249;21;119;Dytipere;x
+285;26;118;250;Itaakulkete;x
+286;45;139;194;Itaambul;x
 287;12;6;220;Istmoria;x
 288;232;215;37;Abethipoli;x
-289;35;152;129;Ilzüünkhil;x
+289;35;152;129;Ilzuunkhil;x
 290;249;46;134;Dytethion;x
-291;223;37;146;Makrivuonó;x
-292;30;146;134;Ömnögda;x
+291;223;37;146;Makrivuono;x
+292;30;146;134;Omnogda;x
 293;20;147;133;Dungadna;x
-294;204;202;5;Suurbaktír;x
-295;241;218;25;Abepedí;x
+294;204;202;5;Suurbaktir;x
+295;241;218;25;Abepedi;x
 296;24;129;156;Gadnadam;x
 297;250;30;159;Anabethion;x
-298;251;218;57;Bálassaplev;x
-299;251;23;124;Dytíkas;x
+298;251;218;57;Balassaplev;x
+299;251;23;124;Dytikas;x
 300;19;48;199;Sutlunjutt;x
-301;45;159;119;Khoidüün;x
+301;45;159;119;Khoiduun;x
 302;209;27;138;Megalaperas;x
-303;56;147;115;Ikhnuurtöv;x
-304;55;140;157;Öndördund;x
+303;56;147;115;Ikhnuurtov;x
+304;55;140;157;Ondordund;x
 305;30;175;140;Talbarna;x
 306;239;234;60;Estepoli;x
 307;15;123;120;Vyosovutren;x
@@ -312,20 +312,20 @@ province;red;green;blue;x;x
 311;52;117;126;Vnutribereg;x
 312;4;133;118;Ikh Damjuul;x
 313;21;165;133;Khoidnuur;x
-314;250;206;7;Isthidmás;x
+314;250;206;7;Isthidmas;x
 315;51;149;15;Penindiils;x
 316;55;153;61;Nortwetta;x
 317;38;157;18;Adepenina;x
-318;202;224;49;Vórcherelia;x
+318;202;224;49;Vorcherelia;x
 319;225;210;7;Ostekopoli;x
-320;23;171;175;Taldaartöv;x
+320;23;171;175;Taldaartov;x
 321;201;220;58;Cherelia;x
 322;241;233;23;Estyperas;x
 323;12;140;160;Vutreniy;x
 324;5;145;128;Zapapobitol;x
-325;6;141;130;Ömnuur;x
-326;247;210;20;Érimoperas;x
-327;210;216;4;Amólastek;x
+325;6;141;130;Omnuur;x
+326;247;210;20;Erimoperas;x
+327;210;216;4;Amolastek;x
 328;55;163;28;Middadelidom;x
 329;36;115;1;Westilk;x
 330;43;118;0;Xotpeninulas;x
@@ -393,7 +393,7 @@ province;red;green;blue;x;x
 392;210;224;61;Ketema Vostokia;x
 393;14;150;9;Iilsinncappa;x
 394;62;113;160;Beiruzuush;x
-395;60;157;143;Dotömnuu;x
+395;60;157;143;Dotomnuu;x
 396;56;139;168;Macropho;x
 397;52;149;146;Mienaroa;x
 398;17;159;52;Erstacaprit;x
@@ -419,9 +419,9 @@ province;red;green;blue;x;x
 418;234;197;37;Suubamoth;x
 419;55;145;165;Dalagarke;x
 420;46;162;144;Beiromnuu;x
-421;49;133;153;Ömgaamon;x
+421;49;133;153;Omgaamon;x
 422;239;158;33;Bursur Ziret;x
-423;30;154;140;Ömnuutöv;x
+423;30;154;140;Omnuutov;x
 424;214;230;35;Mivoster;x
 425;60;151;174;Dongaoma;x
 426;215;177;13;Sahalijal;x
@@ -453,7 +453,7 @@ province;red;green;blue;x;x
 452;47;141;155;Sronjiulan;x
 453;231;237;61;Miuloasir;x
 454;206;239;30;Ostasir;x
-455;17;165;160;Gaamontöv;x
+455;17;165;160;Gaamontov;x
 456;232;147;4;Wikhitilk;x
 457;176;8;21;Shendashi;x
 458;199;172;30;Sahaghardia;x

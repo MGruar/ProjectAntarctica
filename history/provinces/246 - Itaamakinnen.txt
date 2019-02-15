@@ -1,0 +1,14 @@
+# 246 - It‰‰makinnen
+
+# County Title
+title = c_itaamakinnen
+
+# Settlements
+max_settlements = 3
+b_itaamakinnen = tribal
+
+# Misc
+culture = finnish
+religion = finnish_pagan
+
+# History

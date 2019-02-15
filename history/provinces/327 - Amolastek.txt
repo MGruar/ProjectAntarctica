@@ -1,0 +1,16 @@
+# 327 - Amólastek
+
+# County Title
+title = c_amolastek
+
+# Settlements
+max_settlements = 4
+b_amolastek = castle
+b_barony0327d = temple
+b_barony0327e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 283 - Altrió Exterior
+
+# County Title
+title = c_altrio_exterior
+
+# Settlements
+max_settlements = 2
+b_altrio_exterior = tribal
+b_barony0283d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

@@ -1,0 +1,14 @@
+# 176 - Sónotovuon
+
+# County Title
+title = c_sonotovuon
+
+# Settlements
+max_settlements = 4
+b_sonotovuon = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

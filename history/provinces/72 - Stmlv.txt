@@ -1,0 +1,15 @@
+# 72 - Stœmælv
+
+# County Title
+title = c_stmlv
+
+# Settlements
+max_settlements = 6
+b_stmlv = tribal
+b_barony0072d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

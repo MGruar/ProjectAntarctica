@@ -1,0 +1,14 @@
+# 242 - Campobarún
+
+# County Title
+title = c_campobarun
+
+# Settlements
+max_settlements = 4
+b_campobarun = tribal
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

@@ -1,0 +1,14 @@
+# 78 - Stœmvik
+
+# County Title
+title = c_stmvik
+
+# Settlements
+max_settlements = 3
+b_stmvik = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

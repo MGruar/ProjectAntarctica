@@ -1,0 +1,14 @@
+# 5 - Orknæ Centrum
+
+# County Title
+title = c_orkn_centrum
+
+# Settlements
+max_settlements = 2
+b_orkn_centrum = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

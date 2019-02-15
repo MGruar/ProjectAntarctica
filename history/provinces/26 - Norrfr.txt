@@ -1,0 +1,15 @@
+# 26 - Norrfær
+
+# County Title
+title = c_norrfr
+
+# Settlements
+max_settlements = 5
+b_norrfr = tribal
+b_barony0026d = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

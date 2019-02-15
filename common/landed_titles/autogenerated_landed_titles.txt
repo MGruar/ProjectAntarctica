@@ -6,7 +6,7 @@ e_western_isles = {
 	
 	culture = norse
 	
-	k_grame = {
+	k_grme = {
 		color={ 25 91 158 }
 		color2={ 255 255 255 }
 		
@@ -14,7 +14,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_orkna = {
+		d_orkn = {
 			color={ 27 97 152 }
 			color2={ 255 255 255 }
 			
@@ -34,12 +34,12 @@ e_western_isles = {
 				b_barony0002i = { }
 				b_barony0002j = { }
 			}
-			c_mittorksha = {
+			c_mittorksh = {
 				color={ 43 91 130 }
 				color2={ 255 255 255 }
 				
 				
-				b_mittorksha = { }
+				b_mittorksh = { }
 				b_barony0004d = { }
 				b_barony0004e = { }
 				b_barony0004f = { }
@@ -48,12 +48,12 @@ e_western_isles = {
 				b_barony0004i = { }
 				b_barony0004j = { }
 			}
-			c_orkna_centrum = {
+			c_orkn_centrum = {
 				color={ 27 97 152 }
 				color2={ 255 255 255 }
 				
 				
-				b_orkna_centrum = { }
+				b_orkn_centrum = { }
 				b_barony0005d = { }
 				b_barony0005e = { }
 				b_barony0005f = { }
@@ -63,18 +63,18 @@ e_western_isles = {
 				b_barony0005j = { }
 			}
 		}
-		d_shatland = {
+		d_shtland = {
 			color={ 43 71 128 }
 			color2={ 255 255 255 }
 			
 			capital = 6
 			
-			c_oshatland = {
+			c_oshtland = {
 				color={ 15 121 115 }
 				color2={ 255 255 255 }
 				
 				
-				b_oshatland = { }
+				b_oshtland = { }
 				b_barony0001d = { }
 				b_barony0001e = { }
 				b_barony0001f = { }
@@ -83,12 +83,12 @@ e_western_isles = {
 				b_barony0001i = { }
 				b_barony0001j = { }
 			}
-			c_shalvet = {
+			c_shlvet = {
 				color={ 52 95 168 }
 				color2={ 255 255 255 }
 				
 				
-				b_shalvet = { }
+				b_shlvet = { }
 				b_barony0003d = { }
 				b_barony0003e = { }
 				b_barony0003f = { }
@@ -97,12 +97,12 @@ e_western_isles = {
 				b_barony0003i = { }
 				b_barony0003j = { }
 			}
-			c_ostalv = {
+			c_ostlv = {
 				color={ 43 71 128 }
 				color2={ 255 255 255 }
 				
 				
-				b_ostalv = { }
+				b_ostlv = { }
 				b_barony0006d = { }
 				b_barony0006e = { }
 				b_barony0006f = { }
@@ -147,18 +147,18 @@ e_western_isles = {
 				b_barony0014j = { }
 			}
 		}
-		d_coba = {
+		d_cob = {
 			color={ 20 103 164 }
 			color2={ 255 255 255 }
 			
 			capital = 16
 			
-			c_vestcoba = {
+			c_vestcob = {
 				color={ 36 87 162 }
 				color2={ 255 255 255 }
 				
 				
-				b_vestcoba = { }
+				b_vestcob = { }
 				b_barony0012d = { }
 				b_barony0012e = { }
 				b_barony0012f = { }
@@ -167,12 +167,12 @@ e_western_isles = {
 				b_barony0012i = { }
 				b_barony0012j = { }
 			}
-			c_acob = {
+			c_ocob = {
 				color={ 54 119 164 }
 				color2={ 255 255 255 }
 				
 				
-				b_acob = { }
+				b_ocob = { }
 				b_barony0015d = { }
 				b_barony0015e = { }
 				b_barony0015f = { }
@@ -181,12 +181,12 @@ e_western_isles = {
 				b_barony0015i = { }
 				b_barony0015j = { }
 			}
-			c_ostcoba = {
+			c_ostcob = {
 				color={ 25 111 146 }
 				color2={ 255 255 255 }
 				
 				
-				b_ostcoba = { }
+				b_ostcob = { }
 				b_barony0019d = { }
 				b_barony0019e = { }
 				b_barony0019f = { }
@@ -195,12 +195,12 @@ e_western_isles = {
 				b_barony0019i = { }
 				b_barony0019j = { }
 			}
-			c_mittencoba = {
+			c_mittencob = {
 				color={ 20 103 164 }
 				color2={ 255 255 255 }
 				
 				
-				b_mittencoba = { }
+				b_mittencob = { }
 				b_barony0016d = { }
 				b_barony0016e = { }
 				b_barony0016f = { }
@@ -279,12 +279,12 @@ e_western_isles = {
 			
 			capital = 11
 			
-			c_larven = {
+			c_lrven = {
 				color={ 8 121 172 }
 				color2={ 255 255 255 }
 				
 				
-				b_larven = { }
+				b_lrven = { }
 				b_barony0007d = { }
 				b_barony0007e = { }
 				b_barony0007f = { }
@@ -293,12 +293,12 @@ e_western_isles = {
 				b_barony0007i = { }
 				b_barony0007j = { }
 			}
-			c_havagra = {
+			c_havagr = {
 				color={ 16 86 174 }
 				color2={ 255 255 255 }
 				
 				
-				b_havagra = { }
+				b_havagr = { }
 				b_barony0008d = { }
 				b_barony0008e = { }
 				b_barony0008f = { }
@@ -335,12 +335,12 @@ e_western_isles = {
 				b_barony0010i = { }
 				b_barony0010j = { }
 			}
-			c_lagrame = {
+			c_lagrme = {
 				color={ 25 91 158 }
 				color2={ 255 255 255 }
 				
 				
-				b_lagrame = { }
+				b_lagrme = { }
 				b_barony0011d = { }
 				b_barony0011e = { }
 				b_barony0011f = { }
@@ -351,7 +351,7 @@ e_western_isles = {
 			}
 		}
 	}
-	k_barde = {
+	k_brde = {
 		color={ 45 90 141 }
 		color2={ 255 255 255 }
 		
@@ -359,18 +359,18 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_norrbar = {
+		d_norrbr = {
 			color={ 1 76 174 }
 			color2={ 255 255 255 }
 			
 			capital = 39
 			
-			c_abarus = {
+			c_obrus = {
 				color={ 50 67 159 }
 				color2={ 255 255 255 }
 				
 				
-				b_abarus = { }
+				b_obrus = { }
 				b_barony0037d = { }
 				b_barony0037e = { }
 				b_barony0037f = { }
@@ -379,12 +379,12 @@ e_western_isles = {
 				b_barony0037i = { }
 				b_barony0037j = { }
 			}
-			c_norrbar = {
+			c_norrbr = {
 				color={ 1 76 174 }
 				color2={ 255 255 255 }
 				
 				
-				b_norrbar = { }
+				b_norrbr = { }
 				b_barony0039d = { }
 				b_barony0039e = { }
 				b_barony0039f = { }
@@ -394,18 +394,18 @@ e_western_isles = {
 				b_barony0039j = { }
 			}
 		}
-		d_soderbar = {
+		d_soderbr = {
 			color={ 53 97 153 }
 			color2={ 255 255 255 }
 			
 			capital = 49
 			
-			c_sobar = {
+			c_sobr = {
 				color={ 62 72 134 }
 				color2={ 255 255 255 }
 				
 				
-				b_sobar = { }
+				b_sobr = { }
 				b_barony0043d = { }
 				b_barony0043e = { }
 				b_barony0043f = { }
@@ -414,12 +414,12 @@ e_western_isles = {
 				b_barony0043i = { }
 				b_barony0043j = { }
 			}
-			c_barna = {
+			c_brna = {
 				color={ 3 92 158 }
 				color2={ 255 255 255 }
 				
 				
-				b_barna = { }
+				b_brna = { }
 				b_barony0051d = { }
 				b_barony0051e = { }
 				b_barony0051f = { }
@@ -428,12 +428,12 @@ e_western_isles = {
 				b_barony0051i = { }
 				b_barony0051j = { }
 			}
-			c_baralv = {
+			c_brlv = {
 				color={ 62 110 155 }
 				color2={ 255 255 255 }
 				
 				
-				b_baralv = { }
+				b_brlv = { }
 				b_barony0058d = { }
 				b_barony0058e = { }
 				b_barony0058f = { }
@@ -460,7 +460,7 @@ e_western_isles = {
 				b_barony0049j = { }
 			}
 		}
-		d_mittenbar = {
+		d_mittenbr = {
 			color={ 45 90 141 }
 			color2={ 255 255 255 }
 			
@@ -480,12 +480,12 @@ e_western_isles = {
 				b_barony0040i = { }
 				b_barony0040j = { }
 			}
-			c_barberg = {
+			c_brberg = {
 				color={ 0 89 135 }
 				color2={ 255 255 255 }
 				
 				
-				b_barberg = { }
+				b_brberg = { }
 				b_barony0046d = { }
 				b_barony0046e = { }
 				b_barony0046f = { }
@@ -510,7 +510,7 @@ e_western_isles = {
 			}
 		}
 	}
-	k_ellsware = {
+	k_ellswre = {
 		color={ 51 117 116 }
 		color2={ 255 255 255 }
 		
@@ -518,18 +518,18 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_far_ellsware = {
+		d_far_ellswre = {
 			color={ 42 93 166 }
 			color2={ 255 255 255 }
 			
 			capital = 26
 			
-			c_harve = {
+			c_hrve = {
 				color={ 2 99 135 }
 				color2={ 255 255 255 }
 				
 				
-				b_harve = { }
+				b_hrve = { }
 				b_barony0018d = { }
 				b_barony0018e = { }
 				b_barony0018f = { }
@@ -538,12 +538,12 @@ e_western_isles = {
 				b_barony0018i = { }
 				b_barony0018j = { }
 			}
-			c_afar = {
+			c_ofr = {
 				color={ 14 66 164 }
 				color2={ 255 255 255 }
 				
 				
-				b_afar = { }
+				b_ofr = { }
 				b_barony0023d = { }
 				b_barony0023e = { }
 				b_barony0023f = { }
@@ -552,12 +552,12 @@ e_western_isles = {
 				b_barony0023i = { }
 				b_barony0023j = { }
 			}
-			c_soderfar = {
+			c_soderfr = {
 				color={ 27 96 118 }
 				color2={ 255 255 255 }
 				
 				
-				b_soderfar = { }
+				b_soderfr = { }
 				b_barony0027d = { }
 				b_barony0027e = { }
 				b_barony0027f = { }
@@ -566,12 +566,12 @@ e_western_isles = {
 				b_barony0027i = { }
 				b_barony0027j = { }
 			}
-			c_norrfar = {
+			c_norrfr = {
 				color={ 42 93 166 }
 				color2={ 255 255 255 }
 				
 				
-				b_norrfar = { }
+				b_norrfr = { }
 				b_barony0026d = { }
 				b_barony0026e = { }
 				b_barony0026f = { }
@@ -581,7 +581,7 @@ e_western_isles = {
 				b_barony0026j = { }
 			}
 		}
-		d_farsid = {
+		d_frsid = {
 			color={ 48 118 169 }
 			color2={ 255 255 255 }
 			
@@ -601,12 +601,12 @@ e_western_isles = {
 				b_barony0042i = { }
 				b_barony0042j = { }
 			}
-			c_farii = {
+			c_frii = {
 				color={ 48 118 169 }
 				color2={ 255 255 255 }
 				
 				
-				b_farii = { }
+				b_frii = { }
 				b_barony0044d = { }
 				b_barony0044e = { }
 				b_barony0044f = { }
@@ -616,7 +616,7 @@ e_western_isles = {
 				b_barony0044j = { }
 			}
 		}
-		d_narsid = {
+		d_nrsid = {
 			color={ 51 117 116 }
 			color2={ 255 255 255 }
 			
@@ -636,12 +636,12 @@ e_western_isles = {
 				b_barony0045i = { }
 				b_barony0045j = { }
 			}
-			c_sonotar = {
+			c_sonotr = {
 				color={ 33 108 143 }
 				color2={ 255 255 255 }
 				
 				
-				b_sonotar = { }
+				b_sonotr = { }
 				b_barony0047d = { }
 				b_barony0047e = { }
 				b_barony0047f = { }
@@ -650,12 +650,12 @@ e_western_isles = {
 				b_barony0047i = { }
 				b_barony0047j = { }
 			}
-			c_vorrar = {
+			c_vorrr = {
 				color={ 51 117 116 }
 				color2={ 255 255 255 }
 				
 				
-				b_vorrar = { }
+				b_vorrr = { }
 				b_barony0048d = { }
 				b_barony0048e = { }
 				b_barony0048f = { }
@@ -666,7 +666,7 @@ e_western_isles = {
 			}
 		}
 	}
-	k_palme = {
+	k_plme = {
 		color={ 11 108 175 }
 		color2={ 255 255 255 }
 		
@@ -674,7 +674,7 @@ e_western_isles = {
 		
 		culture = norse
 		
-		d_faroe = {
+		d_froe = {
 			color={ 41 74 156 }
 			color2={ 255 255 255 }
 			
@@ -694,12 +694,12 @@ e_western_isles = {
 				b_barony0025i = { }
 				b_barony0025j = { }
 			}
-			c_faroe = {
+			c_froe = {
 				color={ 41 74 156 }
 				color2={ 255 255 255 }
 				
 				
-				b_faroe = { }
+				b_froe = { }
 				b_barony0021d = { }
 				b_barony0021e = { }
 				b_barony0021f = { }
@@ -709,18 +709,18 @@ e_western_isles = {
 				b_barony0021j = { }
 			}
 		}
-		d_waddel = {
+		d_wddel = {
 			color={ 47 122 143 }
 			color2={ 255 255 255 }
 			
 			capital = 28
 			
-			c_inwad = {
+			c_inwd = {
 				color={ 45 84 170 }
 				color2={ 255 255 255 }
 				
 				
-				b_inwad = { }
+				b_inwd = { }
 				b_barony0030d = { }
 				b_barony0030e = { }
 				b_barony0030f = { }
@@ -729,12 +729,12 @@ e_western_isles = {
 				b_barony0030i = { }
 				b_barony0030j = { }
 			}
-			c_watvar = {
+			c_wtvar = {
 				color={ 21 92 151 }
 				color2={ 255 255 255 }
 				
 				
-				b_watvar = { }
+				b_wtvar = { }
 				b_barony0032d = { }
 				b_barony0032e = { }
 				b_barony0032f = { }
@@ -743,12 +743,12 @@ e_western_isles = {
 				b_barony0032i = { }
 				b_barony0032j = { }
 			}
-			c_yttwad = {
+			c_yttwd = {
 				color={ 33 93 150 }
 				color2={ 255 255 255 }
 				
 				
-				b_yttwad = { }
+				b_yttwd = { }
 				b_barony0036d = { }
 				b_barony0036e = { }
 				b_barony0036f = { }
@@ -757,13 +757,13 @@ e_western_isles = {
 				b_barony0036i = { }
 				b_barony0036j = { }
 			}
-			c_wadvik = {
+			c_wdvik = {
 				color={ 47 122 143 }
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
 				
-				b_wadvik = {
+				b_wdvik = {
 				dynasty_title_names = no
 				}
 				b_barony0028d = { }
@@ -781,12 +781,12 @@ e_western_isles = {
 			
 			capital = 35
 			
-			c_oppal = {
+			c_oppl = {
 				color={ 39 112 155 }
 				color2={ 255 255 255 }
 				
 				
-				b_oppal = { }
+				b_oppl = { }
 				b_barony0034d = { }
 				b_barony0034e = { }
 				b_barony0034f = { }
@@ -890,7 +890,7 @@ e_transantar = {
 	
 	culture = greek
 	
-	k_made = {
+	k_mde = {
 		color={ 51 80 144 }
 		color2={ 255 255 255 }
 		
@@ -918,12 +918,12 @@ e_transantar = {
 				b_barony0050i = { }
 				b_barony0050j = { }
 			}
-			c_makralv = {
+			c_makrlv = {
 				color={ 3 87 143 }
 				color2={ 255 255 255 }
 				
 				
-				b_makralv = { }
+				b_makrlv = { }
 				b_barony0052d = { }
 				b_barony0052e = { }
 				b_barony0052f = { }
@@ -988,12 +988,12 @@ e_transantar = {
 				b_barony0054i = { }
 				b_barony0054j = { }
 			}
-			c_ypsilmade = {
+			c_ypsilmde = {
 				color={ 60 61 139 }
 				color2={ 255 255 255 }
 				
 				
-				b_ypsilmade = { }
+				b_ypsilmde = { }
 				b_barony0063d = { }
 				b_barony0063e = { }
 				b_barony0063f = { }
@@ -1031,18 +1031,18 @@ e_transantar = {
 				b_barony0059j = { }
 			}
 		}
-		d_stama = {
+		d_stma = {
 			color={ 23 80 170 }
 			color2={ 255 255 255 }
 			
 			capital = 72
 			
-			c_anistama = {
+			c_onistma = {
 				color={ 18 91 131 }
 				color2={ 255 255 255 }
 				
 				
-				b_anistama = { }
+				b_onistma = { }
 				b_barony0060d = { }
 				b_barony0060e = { }
 				b_barony0060f = { }
@@ -1051,12 +1051,12 @@ e_transantar = {
 				b_barony0060i = { }
 				b_barony0060j = { }
 			}
-			c_stamvik = {
+			c_stmvik = {
 				color={ 62 104 167 }
 				color2={ 255 255 255 }
 				
 				
-				b_stamvik = { }
+				b_stmvik = { }
 				b_barony0078d = { }
 				b_barony0078e = { }
 				b_barony0078f = { }
@@ -1065,12 +1065,12 @@ e_transantar = {
 				b_barony0078i = { }
 				b_barony0078j = { }
 			}
-			c_stamalv = {
+			c_stmlv = {
 				color={ 23 80 170 }
 				color2={ 255 255 255 }
 				
 				
-				b_stamalv = { }
+				b_stmlv = { }
 				b_barony0072d = { }
 				b_barony0072e = { }
 				b_barony0072f = { }
@@ -1135,12 +1135,12 @@ e_transantar = {
 				b_barony0101i = { }
 				b_barony0101j = { }
 			}
-			c_anisamun = {
+			c_onisamun = {
 				color={ 52 102 136 }
 				color2={ 255 255 255 }
 				
 				
-				b_anisamun = { }
+				b_onisamun = { }
 				b_barony0105d = { }
 				b_barony0105e = { }
 				b_barony0105f = { }
@@ -1164,18 +1164,18 @@ e_transantar = {
 				b_barony0096j = { }
 			}
 		}
-		d_mittenmade = {
+		d_mittenmde = {
 			color={ 51 80 144 }
 			color2={ 255 255 255 }
 			
 			capital = 80
 			
-			c_kastkull = {
+			c_kustkull = {
 				color={ 24 104 132 }
 				color2={ 255 255 255 }
 				
 				
-				b_kastkull = { }
+				b_kustkull = { }
 				b_barony0069d = { }
 				b_barony0069e = { }
 				b_barony0069f = { }
@@ -1184,12 +1184,12 @@ e_transantar = {
 				b_barony0069i = { }
 				b_barony0069j = { }
 			}
-			c_megypsilmade = {
+			c_megypsilmde = {
 				color={ 63 80 160 }
 				color2={ 255 255 255 }
 				
 				
-				b_megypsilmade = { }
+				b_megypsilmde = { }
 				b_barony0074d = { }
 				b_barony0074e = { }
 				b_barony0074f = { }
@@ -1226,14 +1226,14 @@ e_transantar = {
 				b_barony0089i = { }
 				b_barony0089j = { }
 			}
-			c_made_centrum = {
+			c_mde_centrum = {
 				color={ 51 80 144 }
 				color2={ 255 255 255 }
 				
 				holy_site = norse_pagan
 				holy_site = jewish
 				
-				b_made_centrum = {
+				b_mde_centrum = {
 				dynasty_title_names = no
 				}
 				b_barony0080d = { }
@@ -1260,12 +1260,12 @@ e_transantar = {
 			
 			capital = 97
 			
-			c_lanort = {
+			c_lnort = {
 				color={ 58 58 203 }
 				color2={ 255 255 255 }
 				
 				
-				b_lanort = { }
+				b_lnort = { }
 				b_barony0084d = { }
 				b_barony0084e = { }
 				b_barony0084f = { }
@@ -1293,7 +1293,7 @@ e_transantar = {
 				b_barony0097j = { }
 			}
 		}
-		d_sut_trange = {
+		d_sut_trnge = {
 			color={ 28 20 216 }
 			color2={ 255 255 255 }
 			
@@ -1342,7 +1342,7 @@ e_transantar = {
 				b_barony0169j = { }
 			}
 		}
-		d_tran_trange = {
+		d_tran_trnge = {
 			color={ 28 43 216 }
 			color2={ 255 255 255 }
 			
@@ -1362,12 +1362,12 @@ e_transantar = {
 				b_barony0199i = { }
 				b_barony0199j = { }
 			}
-			c_bahal = {
+			c_bahl = {
 				color={ 19 12 224 }
 				color2={ 255 255 255 }
 				
 				
-				b_bahal = { }
+				b_bahl = { }
 				b_barony0218d = { }
 				b_barony0218e = { }
 				b_barony0218f = { }
@@ -1391,7 +1391,7 @@ e_transantar = {
 				b_barony0233j = { }
 			}
 		}
-		d_mitt_trange = {
+		d_mitt_trnge = {
 			color={ 11 50 255 }
 			color2={ 255 255 255 }
 			
@@ -1411,12 +1411,12 @@ e_transantar = {
 				b_barony0102i = { }
 				b_barony0102j = { }
 			}
-			c_halen = {
+			c_hlen = {
 				color={ 60 48 226 }
 				color2={ 255 255 255 }
 				
 				
-				b_halen = { }
+				b_hlen = { }
 				b_barony0113d = { }
 				b_barony0113e = { }
 				b_barony0113f = { }
@@ -1455,12 +1455,12 @@ e_transantar = {
 			
 			capital = 114
 			
-			c_anisander_vytak = {
+			c_anisander_vytik = {
 				color={ 204 54 137 }
 				color2={ 255 255 255 }
 				
 				
-				b_anisander_vytak = { }
+				b_anisander_vytik = { }
 				b_barony0106d = { }
 				b_barony0106e = { }
 				b_barony0106f = { }
@@ -1497,12 +1497,12 @@ e_transantar = {
 				b_barony0132i = { }
 				b_barony0132j = { }
 			}
-			c_anderia_kantro = {
+			c_anderia_kentro = {
 				color={ 248 8 129 }
 				color2={ 255 255 255 }
 				
 				
-				b_anderia_kantro = { }
+				b_anderia_kentro = { }
 				b_barony0114d = { }
 				b_barony0114e = { }
 				b_barony0114f = { }
@@ -1518,12 +1518,12 @@ e_transantar = {
 			
 			capital = 158
 			
-			c_vounsanor = {
+			c_vounsynor = {
 				color={ 210 58 120 }
 				color2={ 255 255 255 }
 				
 				
-				b_vounsanor = { }
+				b_vounsynor = { }
 				b_barony0115d = { }
 				b_barony0115e = { }
 				b_barony0115f = { }
@@ -1532,12 +1532,12 @@ e_transantar = {
 				b_barony0115i = { }
 				b_barony0115j = { }
 			}
-			c_varrvuon = {
+			c_vorrvuon = {
 				color={ 207 45 107 }
 				color2={ 255 255 255 }
 				
 				
-				b_varrvuon = { }
+				b_vorrvuon = { }
 				b_barony0133d = { }
 				b_barony0133e = { }
 				b_barony0133f = { }
@@ -1574,12 +1574,12 @@ e_transantar = {
 				b_barony0167i = { }
 				b_barony0167j = { }
 			}
-			c_exaktas = {
+			c_exaktis = {
 				color={ 221 18 147 }
 				color2={ 255 255 255 }
 				
 				
-				b_exaktas = { }
+				b_exaktis = { }
 				b_barony0158d = { }
 				b_barony0158e = { }
 				b_barony0158f = { }
@@ -1595,12 +1595,12 @@ e_transantar = {
 			
 			capital = 190
 			
-			c_natolimnia = {
+			c_notolimnia = {
 				color={ 203 58 152 }
 				color2={ 255 255 255 }
 				
 				
-				b_natolimnia = { }
+				b_notolimnia = { }
 				b_barony0180d = { }
 				b_barony0180e = { }
 				b_barony0180f = { }
@@ -1609,12 +1609,12 @@ e_transantar = {
 				b_barony0180i = { }
 				b_barony0180j = { }
 			}
-			c_vareiolimnia = {
+			c_voreiolimnia = {
 				color={ 210 5 105 }
 				color2={ 255 255 255 }
 				
 				
-				b_vareiolimnia = { }
+				b_voreiolimnia = { }
 				b_barony0202d = { }
 				b_barony0202e = { }
 				b_barony0202f = { }
@@ -1644,12 +1644,12 @@ e_transantar = {
 			
 			capital = 203
 			
-			c_sanotovuon = {
+			c_sonotovuon = {
 				color={ 214 62 148 }
 				color2={ 255 255 255 }
 				
 				
-				b_sanotovuon = { }
+				b_sonotovuon = { }
 				b_barony0176d = { }
 				b_barony0176e = { }
 				b_barony0176f = { }
@@ -1658,12 +1658,12 @@ e_transantar = {
 				b_barony0176i = { }
 				b_barony0176j = { }
 			}
-			c_kantro_mesipnos = {
+			c_kentro_mesipnos = {
 				color={ 219 54 141 }
 				color2={ 255 255 255 }
 				
 				
-				b_kantro_mesipnos = { }
+				b_kentro_mesipnos = { }
 				b_barony0203d = { }
 				b_barony0203e = { }
 				b_barony0203f = { }
@@ -1679,12 +1679,12 @@ e_transantar = {
 			
 			capital = 140
 			
-			c_perikt_apana = {
+			c_perikt_apena = {
 				color={ 220 27 147 }
 				color2={ 255 255 255 }
 				
 				
-				b_perikt_apana = { }
+				b_perikt_apena = { }
 				b_barony0130d = { }
 				b_barony0130e = { }
 				b_barony0130f = { }
@@ -1693,12 +1693,12 @@ e_transantar = {
 				b_barony0130i = { }
 				b_barony0130j = { }
 			}
-			c_apanchaer = {
+			c_apenchaer = {
 				color={ 247 28 112 }
 				color2={ 255 255 255 }
 				
 				
-				b_apanchaer = { }
+				b_apenchaer = { }
 				b_barony0149d = { }
 				b_barony0149e = { }
 				b_barony0149f = { }
@@ -1707,12 +1707,12 @@ e_transantar = {
 				b_barony0149i = { }
 				b_barony0149j = { }
 			}
-			c_arvikion = {
+			c_orvikion = {
 				color={ 216 0 114 }
 				color2={ 255 255 255 }
 				
 				
-				b_arvikion = { }
+				b_orvikion = { }
 				b_barony0153d = { }
 				b_barony0153e = { }
 				b_barony0153f = { }
@@ -1735,12 +1735,12 @@ e_transantar = {
 				b_barony0157i = { }
 				b_barony0157j = { }
 			}
-			c_alexion_kantro = {
+			c_alexion_kentro = {
 				color={ 235 48 148 }
 				color2={ 255 255 255 }
 				
 				
-				b_alexion_kantro = { }
+				b_alexion_kentro = { }
 				b_barony0140d = { }
 				b_barony0140e = { }
 				b_barony0140f = { }
@@ -1844,12 +1844,12 @@ e_fujarra = {
 			
 			capital = 320
 			
-			c_andardund = {
+			c_ondordund = {
 				color={ 55 140 157 }
 				color2={ 255 255 255 }
 				
 				
-				b_andardund = { }
+				b_ondordund = { }
 				b_barony0304d = { }
 				b_barony0304e = { }
 				b_barony0304f = { }
@@ -1858,12 +1858,12 @@ e_fujarra = {
 				b_barony0304i = { }
 				b_barony0304j = { }
 			}
-			c_amnuur = {
+			c_omnuur = {
 				color={ 6 141 130 }
 				color2={ 255 255 255 }
 				
 				
-				b_amnuur = { }
+				b_omnuur = { }
 				b_barony0325d = { }
 				b_barony0325e = { }
 				b_barony0325f = { }
@@ -1872,12 +1872,12 @@ e_fujarra = {
 				b_barony0325i = { }
 				b_barony0325j = { }
 			}
-			c_taldaartav = {
+			c_taldaartov = {
 				color={ 23 171 175 }
 				color2={ 255 255 255 }
 				
 				
-				b_taldaartav = { }
+				b_taldaartov = { }
 				b_barony0320d = { }
 				b_barony0320e = { }
 				b_barony0320f = { }
@@ -1887,18 +1887,18 @@ e_fujarra = {
 				b_barony0320j = { }
 			}
 		}
-		d_valkyrtav = {
+		d_valkyrtov = {
 			color={ 56 147 115 }
 			color2={ 255 255 255 }
 			
 			capital = 303
 			
-			c_ilzaankhil = {
+			c_ilzuunkhil = {
 				color={ 35 152 129 }
 				color2={ 255 255 255 }
 				
 				
-				b_ilzaankhil = { }
+				b_ilzuunkhil = { }
 				b_barony0289d = { }
 				b_barony0289e = { }
 				b_barony0289f = { }
@@ -1907,12 +1907,12 @@ e_fujarra = {
 				b_barony0289i = { }
 				b_barony0289j = { }
 			}
-			c_khoidaan = {
+			c_khoiduun = {
 				color={ 45 159 119 }
 				color2={ 255 255 255 }
 				
 				
-				b_khoidaan = { }
+				b_khoiduun = { }
 				b_barony0301d = { }
 				b_barony0301e = { }
 				b_barony0301f = { }
@@ -1935,12 +1935,12 @@ e_fujarra = {
 				b_barony0313i = { }
 				b_barony0313j = { }
 			}
-			c_ikhnuurtav = {
+			c_ikhnuurtov = {
 				color={ 56 147 115 }
 				color2={ 255 255 255 }
 				
 				
-				b_ikhnuurtav = { }
+				b_ikhnuurtov = { }
 				b_barony0303d = { }
 				b_barony0303e = { }
 				b_barony0303f = { }
@@ -2028,12 +2028,12 @@ e_fujarra = {
 			
 			capital = 191
 			
-			c_surtravas = {
+			c_surtraves = {
 				color={ 218 162 52 }
 				color2={ 255 255 255 }
 				
 				
-				b_surtravas = { }
+				b_surtraves = { }
 				b_barony0173d = { }
 				b_barony0173e = { }
 				b_barony0173f = { }
@@ -2056,12 +2056,12 @@ e_fujarra = {
 				b_barony0187i = { }
 				b_barony0187j = { }
 			}
-			c_montaaazul = {
+			c_montanazul = {
 				color={ 234 158 50 }
 				color2={ 255 255 255 }
 				
 				
-				b_montaaazul = { }
+				b_montanazul = { }
 				b_barony0214d = { }
 				b_barony0214e = { }
 				b_barony0214f = { }
@@ -2085,7 +2085,7 @@ e_fujarra = {
 				b_barony0191j = { }
 			}
 		}
-		d_medria = {
+		d_medrio = {
 			color={ 221 190 41 }
 			color2={ 255 255 255 }
 			
@@ -2175,12 +2175,12 @@ e_fujarra = {
 				b_barony0235i = { }
 				b_barony0235j = { }
 			}
-			c_campobaran = {
+			c_campobarun = {
 				color={ 230 157 2 }
 				color2={ 255 255 255 }
 				
 				
-				b_campobaran = { }
+				b_campobarun = { }
 				b_barony0242d = { }
 				b_barony0242e = { }
 				b_barony0242f = { }
@@ -2204,18 +2204,18 @@ e_fujarra = {
 				b_barony0217j = { }
 			}
 		}
-		d_lagria = {
+		d_lagrio = {
 			color={ 243 176 7 }
 			color2={ 255 255 255 }
 			
 			capital = 232
 			
-			c_lagria_travas = {
+			c_lagrio_traves = {
 				color={ 223 176 6 }
 				color2={ 255 255 255 }
 				
 				
-				b_lagria_travas = { }
+				b_lagrio_traves = { }
 				b_barony0216d = { }
 				b_barony0216e = { }
 				b_barony0216f = { }
@@ -2266,12 +2266,12 @@ e_fujarra = {
 				b_barony0262i = { }
 				b_barony0262j = { }
 			}
-			c_lagria_central = {
+			c_lagrio_central = {
 				color={ 243 176 7 }
 				color2={ 255 255 255 }
 				
 				
-				b_lagria_central = { }
+				b_lagrio_central = { }
 				b_barony0232d = { }
 				b_barony0232e = { }
 				b_barony0232f = { }
@@ -2330,20 +2330,20 @@ e_fujarra = {
 				b_barony0251j = { }
 			}
 		}
-		d_altria = {
+		d_altrio = {
 			color={ 34 140 171 }
 			color2={ 255 255 255 }
 			
 			capital = 259
 			
-			c_altria_exterior = {
+			c_altrio_exterior = {
 				color={ 34 161 124 }
 				color2={ 255 255 255 }
 				
 				holy_site = tengri_pagan
 				holy_site = catholic
 				
-				b_altria_exterior = {
+				b_altrio_exterior = {
 				dynasty_title_names = no
 				}
 				b_barony0283d = { }
@@ -2354,12 +2354,12 @@ e_fujarra = {
 				b_barony0283i = { }
 				b_barony0283j = { }
 			}
-			c_altria_interior = {
+			c_altrio_interior = {
 				color={ 34 140 171 }
 				color2={ 255 255 255 }
 				
 				
-				b_altria_interior = { }
+				b_altrio_interior = { }
 				b_barony0259d = { }
 				b_barony0259e = { }
 				b_barony0259f = { }
@@ -2389,12 +2389,12 @@ e_fujarra = {
 				b_barony0146i = { }
 				b_barony0146j = { }
 			}
-			c_travas_delria = {
+			c_traves_delrio = {
 				color={ 246 173 36 }
 				color2={ 255 255 255 }
 				
 				
-				b_travas_delria = { }
+				b_traves_delrio = { }
 				b_barony0165d = { }
 				b_barony0165e = { }
 				b_barony0165f = { }
@@ -3144,12 +3144,12 @@ e_dronnin = {
 				b_barony0280i = { }
 				b_barony0280j = { }
 			}
-			c_amnagda = {
+			c_omnogda = {
 				color={ 30 146 134 }
 				color2={ 255 255 255 }
 				
 				
-				b_amnagda = { }
+				b_omnogda = { }
 				b_barony0292d = { }
 				b_barony0292e = { }
 				b_barony0292f = { }
@@ -4614,12 +4614,12 @@ e_elizabethion = {
 			
 			capital = 236
 			
-			c_arbanix = {
+			c_orbanix = {
 				color={ 219 224 43 }
 				color2={ 255 255 255 }
 				
 				
-				b_arbanix = { }
+				b_orbanix = { }
 				b_barony0226d = { }
 				b_barony0226e = { }
 				b_barony0226f = { }
@@ -4716,12 +4716,12 @@ e_elizabethion = {
 				b_barony0314i = { }
 				b_barony0314j = { }
 			}
-			c_suurbaktar = {
+			c_suurbaktir = {
 				color={ 204 202 5 }
 				color2={ 255 255 255 }
 				
 				
-				b_suurbaktar = { }
+				b_suurbaktir = { }
 				b_barony0294d = { }
 				b_barony0294e = { }
 				b_barony0294f = { }
@@ -4737,12 +4737,12 @@ e_elizabethion = {
 			
 			capital = 319
 			
-			c_varcherelia = {
+			c_vorcherelia = {
 				color={ 202 224 49 }
 				color2={ 255 255 255 }
 				
 				
-				b_varcherelia = { }
+				b_vorcherelia = { }
 				b_barony0318d = { }
 				b_barony0318e = { }
 				b_barony0318f = { }
@@ -4751,12 +4751,12 @@ e_elizabethion = {
 				b_barony0318i = { }
 				b_barony0318j = { }
 			}
-			c_amalastek = {
+			c_amolastek = {
 				color={ 210 216 4 }
 				color2={ 255 255 255 }
 				
 				
-				b_amalastek = { }
+				b_amolastek = { }
 				b_barony0327d = { }
 				b_barony0327e = { }
 				b_barony0327f = { }
@@ -4786,12 +4786,12 @@ e_elizabethion = {
 			
 			capital = 322
 			
-			c_arimoperas = {
+			c_erimoperas = {
 				color={ 247 210 20 }
 				color2={ 255 255 255 }
 				
 				
-				b_arimoperas = { }
+				b_erimoperas = { }
 				b_barony0326d = { }
 				b_barony0326e = { }
 				b_barony0326f = { }
@@ -4968,12 +4968,12 @@ e_elizabethion = {
 				b_barony0271i = { }
 				b_barony0271j = { }
 			}
-			c_varlakni = {
+			c_vorlakni = {
 				color={ 201 254 13 }
 				color2={ 255 255 255 }
 				
 				
-				b_varlakni = { }
+				b_vorlakni = { }
 				b_barony0282d = { }
 				b_barony0282e = { }
 				b_barony0282f = { }
@@ -4982,12 +4982,12 @@ e_elizabethion = {
 				b_barony0282i = { }
 				b_barony0282j = { }
 			}
-			c_abepeda = {
+			c_abepedi = {
 				color={ 241 218 25 }
 				color2={ 255 255 255 }
 				
 				
-				b_abepeda = { }
+				b_abepedi = { }
 				b_barony0295d = { }
 				b_barony0295e = { }
 				b_barony0295f = { }
@@ -5054,12 +5054,12 @@ e_elizabethion = {
 				b_barony0249i = { }
 				b_barony0249j = { }
 			}
-			c_romatka = {
+			c_romatki = {
 				color={ 217 26 150 }
 				color2={ 255 255 255 }
 				
 				
-				b_romatka = { }
+				b_romatki = { }
 				b_barony0229d = { }
 				b_barony0229e = { }
 				b_barony0229f = { }
@@ -5075,12 +5075,12 @@ e_elizabethion = {
 			
 			capital = 244
 			
-			c_limnisthmas = {
+			c_limnisthmos = {
 				color={ 201 17 108 }
 				color2={ 255 255 255 }
 				
 				
-				b_limnisthmas = { }
+				b_limnisthmos = { }
 				b_barony0256d = { }
 				b_barony0256e = { }
 				b_barony0256f = { }
@@ -5103,12 +5103,12 @@ e_elizabethion = {
 				b_barony0269i = { }
 				b_barony0269j = { }
 			}
-			c_apanapotmi = {
+			c_apenapotmi = {
 				color={ 204 54 128 }
 				color2={ 255 255 255 }
 				
 				
-				b_apanapotmi = { }
+				b_apenapotmi = { }
 				b_barony0279d = { }
 				b_barony0279e = { }
 				b_barony0279f = { }
@@ -5152,12 +5152,12 @@ e_elizabethion = {
 				b_barony0265i = { }
 				b_barony0265j = { }
 			}
-			c_dytapere = {
+			c_dytipere = {
 				color={ 249 21 119 }
 				color2={ 255 255 255 }
 				
 				
-				b_dytapere = { }
+				b_dytipere = { }
 				b_barony0284d = { }
 				b_barony0284e = { }
 				b_barony0284f = { }
@@ -5166,12 +5166,12 @@ e_elizabethion = {
 				b_barony0284i = { }
 				b_barony0284j = { }
 			}
-			c_perekantro = {
+			c_perekentro = {
 				color={ 241 42 141 }
 				color2={ 255 255 255 }
 				
 				
-				b_perekantro = { }
+				b_perekentro = { }
 				b_barony0263d = { }
 				b_barony0263e = { }
 				b_barony0263f = { }
@@ -5187,12 +5187,12 @@ e_elizabethion = {
 			
 			capital = 276
 			
-			c_makrivuona = {
+			c_makrivuono = {
 				color={ 223 37 146 }
 				color2={ 255 255 255 }
 				
 				
-				b_makrivuona = { }
+				b_makrivuono = { }
 				b_barony0291d = { }
 				b_barony0291e = { }
 				b_barony0291f = { }
@@ -5257,12 +5257,12 @@ e_elizabethion = {
 			
 			capital = 308
 			
-			c_dytakas = {
+			c_dytikas = {
 				color={ 251 23 124 }
 				color2={ 255 255 255 }
 				
 				
-				b_dytakas = { }
+				b_dytikas = { }
 				b_barony0299d = { }
 				b_barony0299e = { }
 				b_barony0299f = { }
@@ -5320,12 +5320,12 @@ e_elizabethion = {
 				b_barony0221i = { }
 				b_barony0221j = { }
 			}
-			c_naperio = {
+			c_noperio = {
 				color={ 248 59 132 }
 				color2={ 255 255 255 }
 				
 				
-				b_naperio = { }
+				b_noperio = { }
 				b_barony0228d = { }
 				b_barony0228e = { }
 				b_barony0228f = { }
@@ -5334,12 +5334,12 @@ e_elizabethion = {
 				b_barony0228i = { }
 				b_barony0228j = { }
 			}
-			c_varperio = {
+			c_vorperio = {
 				color={ 196 50 132 }
 				color2={ 255 255 255 }
 				
 				
-				b_varperio = { }
+				b_vorperio = { }
 				b_barony0243d = { }
 				b_barony0243e = { }
 				b_barony0243f = { }
@@ -5362,14 +5362,14 @@ e_elizabethion = {
 				b_barony0253i = { }
 				b_barony0253j = { }
 			}
-			c_megapolis_kantro = {
+			c_megapolis_kentro = {
 				color={ 216 28 107 }
 				color2={ 255 255 255 }
 				
 				holy_site = hellenic_pagan
 				holy_site = shiite
 				
-				b_megapolis_kantro = {
+				b_megapolis_kentro = {
 				dynasty_title_names = no
 				}
 				b_barony0234d = { }
@@ -8575,18 +8575,18 @@ e_kempia = {
 				b_barony0419j = { }
 			}
 		}
-		d_amnuu = {
+		d_omnuu = {
 			color={ 30 154 140 }
 			color2={ 255 255 255 }
 			
 			capital = 423
 			
-			c_dotamnuu = {
+			c_dotomnuu = {
 				color={ 60 157 143 }
 				color2={ 255 255 255 }
 				
 				
-				b_dotamnuu = { }
+				b_dotomnuu = { }
 				b_barony0395d = { }
 				b_barony0395e = { }
 				b_barony0395f = { }
@@ -8623,12 +8623,12 @@ e_kempia = {
 				b_barony0442i = { }
 				b_barony0442j = { }
 			}
-			c_amnuutav = {
+			c_omnuutov = {
 				color={ 30 154 140 }
 				color2={ 255 255 255 }
 				
 				
-				b_amnuutav = { }
+				b_omnuutov = { }
 				b_barony0423d = { }
 				b_barony0423e = { }
 				b_barony0423f = { }
@@ -8707,12 +8707,12 @@ e_kempia = {
 				b_barony0410i = { }
 				b_barony0410j = { }
 			}
-			c_amgaamon = {
+			c_omgaamon = {
 				color={ 49 133 153 }
 				color2={ 255 255 255 }
 				
 				
-				b_amgaamon = { }
+				b_omgaamon = { }
 				b_barony0421d = { }
 				b_barony0421e = { }
 				b_barony0421f = { }
@@ -8721,12 +8721,12 @@ e_kempia = {
 				b_barony0421i = { }
 				b_barony0421j = { }
 			}
-			c_gaamontav = {
+			c_gaamontov = {
 				color={ 17 165 160 }
 				color2={ 255 255 255 }
 				
 				
-				b_gaamontav = { }
+				b_gaamontov = { }
 				b_barony0455d = { }
 				b_barony0455e = { }
 				b_barony0455f = { }

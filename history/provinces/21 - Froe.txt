@@ -1,0 +1,14 @@
+# 21 - Færoe
+
+# County Title
+title = c_froe
+
+# Settlements
+max_settlements = 3
+b_froe = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 173 - Surtravés
+
+# County Title
+title = c_surtraves
+
+# Settlements
+max_settlements = 3
+b_surtraves = castle
+b_barony0173d = temple
+
+# Misc
+culture = catalan
+religion = catholic
+
+# History

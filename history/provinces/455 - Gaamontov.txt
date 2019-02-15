@@ -1,0 +1,14 @@
+# 455 - Gaamontöv
+
+# County Title
+title = c_gaamontov
+
+# Settlements
+max_settlements = 3
+b_gaamontov = tribal
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

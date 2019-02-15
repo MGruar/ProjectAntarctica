@@ -1,0 +1,14 @@
+# 326 - Érimoperas
+
+# County Title
+title = c_erimoperas
+
+# Settlements
+max_settlements = 1
+b_erimoperas = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

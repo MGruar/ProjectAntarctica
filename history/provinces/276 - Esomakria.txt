@@ -1,0 +1,17 @@
+# 276 - Esomakriá
+
+# County Title
+title = c_esomakria
+
+# Settlements
+max_settlements = 5
+b_esomakria = castle
+b_barony0276d = temple
+b_barony0276e = city
+b_barony0276f = castle
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

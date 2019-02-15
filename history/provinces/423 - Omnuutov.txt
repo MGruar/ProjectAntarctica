@@ -1,0 +1,14 @@
+# 423 - Ömnuutöv
+
+# County Title
+title = c_omnuutov
+
+# Settlements
+max_settlements = 2
+b_omnuutov = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

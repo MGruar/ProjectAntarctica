@@ -1,0 +1,14 @@
+# 74 - Megypsilmæde
+
+# County Title
+title = c_megypsilmde
+
+# Settlements
+max_settlements = 3
+b_megypsilmde = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

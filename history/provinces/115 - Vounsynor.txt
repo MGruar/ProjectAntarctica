@@ -1,0 +1,15 @@
+# 115 - Vounsýnor
+
+# County Title
+title = c_vounsynor
+
+# Settlements
+max_settlements = 3
+b_vounsynor = castle
+b_barony0115d = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

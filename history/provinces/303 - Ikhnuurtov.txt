@@ -1,0 +1,15 @@
+# 303 - Ikhnuurtöv
+
+# County Title
+title = c_ikhnuurtov
+
+# Settlements
+max_settlements = 6
+b_ikhnuurtov = tribal
+b_barony0303d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

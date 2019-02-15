@@ -1,0 +1,16 @@
+# 318 - Vórcherelia
+
+# County Title
+title = c_vorcherelia
+
+# Settlements
+max_settlements = 4
+b_vorcherelia = castle
+b_barony0318d = temple
+b_barony0318e = city
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

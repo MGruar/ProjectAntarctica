@@ -1,0 +1,14 @@
+# 24 - Ostvärb
+
+# County Title
+title = c_ostvarb
+
+# Settlements
+max_settlements = 3
+b_ostvarb = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

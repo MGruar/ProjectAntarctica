@@ -1,0 +1,14 @@
+# 86 - Tvärvik
+
+# County Title
+title = c_tvarvik
+
+# Settlements
+max_settlements = 4
+b_tvarvik = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

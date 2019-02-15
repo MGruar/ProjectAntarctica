@@ -1,0 +1,14 @@
+# 54 - Näsom
+
+# County Title
+title = c_nasom
+
+# Settlements
+max_settlements = 4
+b_nasom = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

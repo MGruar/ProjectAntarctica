@@ -1,0 +1,14 @@
+# 40 - Norrnä
+
+# County Title
+title = c_norrna
+
+# Settlements
+max_settlements = 4
+b_norrna = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

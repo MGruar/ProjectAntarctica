@@ -1,0 +1,16 @@
+# 130 - Perikt Apéna
+
+# County Title
+title = c_perikt_apena
+
+# Settlements
+max_settlements = 4
+b_perikt_apena = castle
+b_barony0130d = temple
+b_barony0130e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

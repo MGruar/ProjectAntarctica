@@ -1,0 +1,14 @@
+# 298 - Bálassaplev
+
+# County Title
+title = c_balassaplev
+
+# Settlements
+max_settlements = 4
+b_balassaplev = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

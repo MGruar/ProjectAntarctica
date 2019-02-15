@@ -1,0 +1,17 @@
+# 282 - Vórlakni
+
+# County Title
+title = c_vorlakni
+
+# Settlements
+max_settlements = 5
+b_vorlakni = castle
+b_barony0282d = temple
+b_barony0282e = city
+b_barony0282f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

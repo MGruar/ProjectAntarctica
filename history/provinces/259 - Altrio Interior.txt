@@ -1,0 +1,17 @@
+# 259 - Altrió Interior
+
+# County Title
+title = c_altrio_interior
+
+# Settlements
+max_settlements = 5
+b_altrio_interior = castle
+b_barony0259d = temple
+b_barony0259e = city
+b_barony0259f = castle
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

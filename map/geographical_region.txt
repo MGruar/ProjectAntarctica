@@ -1,22 +1,22 @@
 # Geographical regions
 world_western_isles = {
 	duchies = {
-		# k_grame
-		d_orkna d_shatland d_goatland d_coba d_inverbend d_larsen 
-		# k_barde
-		d_norrbar d_soderbar d_mittenbar 
-		# k_ellsware
-		d_far_ellsware d_farsid d_narsid 
-		# k_palme
-		d_faroe d_waddel d_ostfjord d_manna d_vestfjord 
+		# k_grme
+		d_orkn d_shtland d_goatland d_cob d_inverbend d_larsen 
+		# k_brde
+		d_norrbr d_soderbr d_mittenbr 
+		# k_ellswre
+		d_far_ellswre d_frsid d_nrsid 
+		# k_plme
+		d_froe d_wddel d_ostfjord d_manna d_vestfjord 
 	}
 }
 world_transantar = {
 	duchies = {
-		# k_made
-		d_makria d_mescher d_omeya d_stama d_ormo d_synor d_mittenmade 
+		# k_mde
+		d_makria d_mescher d_omeya d_stma d_ormo d_synor d_mittenmde 
 		# k_traenge
-		d_nort_traenge d_sut_trange d_tran_trange d_mitt_trange 
+		d_nort_traenge d_sut_trnge d_tran_trnge d_mitt_trnge 
 		# k_alexion
 		d_anderia d_exolexion d_limnia d_mesipnos d_alexion 
 	}
@@ -24,9 +24,9 @@ world_transantar = {
 world_fujarra = {
 	duchies = {
 		# k_valkyr
-		d_baruunu d_damjuul d_taldaar d_valkyrtav 
+		d_baruunu d_damjuul d_taldaar d_valkyrtov 
 		# k_fujarra
-		d_costamig d_alsur d_medria d_ermit d_masar d_lagria d_riult d_altria d_fujarra 
+		d_costamig d_alsur d_medrio d_ermit d_masar d_lagrio d_riult d_altrio d_fujarra 
 	}
 }
 world_dronnin = {
@@ -96,7 +96,7 @@ world_vostum = {
 world_kempia = {
 	duchies = {
 		# k_enderby
-		d_zuush d_nuuby d_dalagar d_amnuu d_enbulan d_gaamon d_enderb 
+		d_zuush d_nuuby d_dalagar d_omnuu d_enbulan d_gaamon d_enderb 
 		# k_kemp
 		d_kaodo d_prybao d_xiawan d_chitadon d_dadon d_kempwan 
 	}

@@ -1,0 +1,14 @@
+# 12 - Vestcobæ
+
+# County Title
+title = c_vestcob
+
+# Settlements
+max_settlements = 4
+b_vestcob = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

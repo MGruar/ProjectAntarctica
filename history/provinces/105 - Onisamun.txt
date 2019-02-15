@@ -1,0 +1,14 @@
+# 105 - Önisamun
+
+# County Title
+title = c_onisamun
+
+# Settlements
+max_settlements = 2
+b_onisamun = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -1,0 +1,15 @@
+# 304 - Öndördund
+
+# County Title
+title = c_ondordund
+
+# Settlements
+max_settlements = 6
+b_ondordund = tribal
+b_barony0304d = temple
+
+# Misc
+culture = mongol
+religion = tengri_pagan
+
+# History

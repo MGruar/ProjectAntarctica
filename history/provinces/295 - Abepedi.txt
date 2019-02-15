@@ -1,0 +1,17 @@
+# 295 - Abepedí
+
+# County Title
+title = c_abepedi
+
+# Settlements
+max_settlements = 5
+b_abepedi = castle
+b_barony0295d = temple
+b_barony0295e = city
+b_barony0295f = castle
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

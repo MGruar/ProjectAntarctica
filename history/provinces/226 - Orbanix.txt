@@ -1,0 +1,14 @@
+# 226 - Órbanix
+
+# County Title
+title = c_orbanix
+
+# Settlements
+max_settlements = 4
+b_orbanix = tribal
+
+# Misc
+culture = songhay
+religion = west_african_pagan
+
+# History

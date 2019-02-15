@@ -1,0 +1,16 @@
+# 180 - Nótolimnia
+
+# County Title
+title = c_notolimnia
+
+# Settlements
+max_settlements = 4
+b_notolimnia = castle
+b_barony0180d = temple
+b_barony0180e = city
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

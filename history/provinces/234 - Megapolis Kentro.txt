@@ -1,0 +1,18 @@
+# 234 - Megapolis Kéntro
+
+# County Title
+title = c_megapolis_kentro
+
+# Settlements
+max_settlements = 7
+b_megapolis_kentro = castle
+b_barony0234d = temple
+b_barony0234e = city
+b_barony0234f = castle
+b_barony0234g = temple
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

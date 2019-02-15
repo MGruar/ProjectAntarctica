@@ -1,0 +1,14 @@
+# 8 - Havagræ
+
+# County Title
+title = c_havagr
+
+# Settlements
+max_settlements = 1
+b_havagr = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

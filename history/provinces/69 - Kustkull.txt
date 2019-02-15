@@ -1,0 +1,14 @@
+# 69 - Küstkull
+
+# County Title
+title = c_kustkull
+
+# Settlements
+max_settlements = 2
+b_kustkull = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

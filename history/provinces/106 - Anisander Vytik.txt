@@ -1,0 +1,14 @@
+# 106 - Anisander Vytík
+
+# County Title
+title = c_anisander_vytik
+
+# Settlements
+max_settlements = 2
+b_anisander_vytik = tribal
+
+# Misc
+culture = greek
+religion = hellenic_pagan
+
+# History

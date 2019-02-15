@@ -1,0 +1,14 @@
+# 23 - Öfær
+
+# County Title
+title = c_ofr
+
+# Settlements
+max_settlements = 3
+b_ofr = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History
