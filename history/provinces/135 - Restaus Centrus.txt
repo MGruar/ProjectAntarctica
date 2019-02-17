@@ -5,9 +5,9 @@ title = c_restaus_centrus
 
 # Settlements
 max_settlements = 4
-b_restaus_centrus = city
-b_barony0135d = temple
-b_barony0135e = castle
+b_restaus_centrus_i = city
+b_restaus_centrus_ii = temple
+b_restaus_centrus_iii = castle
 
 # Misc
 culture = roman

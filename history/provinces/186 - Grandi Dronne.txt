@@ -5,10 +5,10 @@ title = c_grandi_dronne
 
 # Settlements
 max_settlements = 5
-b_grandi_dronne = castle
-b_barony0186d = temple
-b_barony0186e = city
-b_barony0186f = castle
+b_grandi_dronne_i = castle
+b_grandi_dronne_ii = temple
+b_grandi_dronne_iii = city
+b_grandi_dronne_iv = castle
 
 # Misc
 culture = catalan

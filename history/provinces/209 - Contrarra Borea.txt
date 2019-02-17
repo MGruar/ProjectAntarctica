@@ -5,9 +5,9 @@ title = c_contrarra_borea
 
 # Settlements
 max_settlements = 4
-b_contrarra_borea = castle
-b_barony0209d = temple
-b_barony0209e = city
+b_contrarra_borea_i = castle
+b_contrarra_borea_ii = temple
+b_contrarra_borea_iii = city
 
 # Misc
 culture = roman

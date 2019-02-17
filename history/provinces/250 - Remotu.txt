@@ -5,8 +5,8 @@ title = c_remotu
 
 # Settlements
 max_settlements = 3
-b_remotu = castle
-b_barony0250d = temple
+b_remotu_i = castle
+b_remotu_ii = temple
 
 # Misc
 culture = roman

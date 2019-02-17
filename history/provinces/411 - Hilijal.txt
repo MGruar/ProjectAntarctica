@@ -5,9 +5,9 @@ title = c_hilijal
 
 # Settlements
 max_settlements = 4
-b_hilijal = castle
-b_barony0411d = temple
-b_barony0411e = city
+b_hilijal_i = castle
+b_hilijal_ii = temple
+b_hilijal_iii = city
 
 # Misc
 culture = egyptian_arabic

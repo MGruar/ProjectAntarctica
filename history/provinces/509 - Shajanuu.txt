@@ -5,7 +5,7 @@ title = c_shajanuu
 
 # Settlements
 max_settlements = 1
-b_shajanuu = tribal
+b_shajanuu_i = tribal
 
 # Misc
 culture = nahuatl

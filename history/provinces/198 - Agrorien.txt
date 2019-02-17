@@ -5,7 +5,7 @@ title = c_agrorien
 
 # Settlements
 max_settlements = 3
-b_agrorien = tribal
+b_agrorien_i = tribal
 
 # Misc
 culture = roman

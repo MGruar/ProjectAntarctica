@@ -5,7 +5,7 @@ title = c_ostrovean
 
 # Settlements
 max_settlements = 2
-b_ostrovean = tribal
+b_ostrovean_i = tribal
 
 # Misc
 culture = mongol

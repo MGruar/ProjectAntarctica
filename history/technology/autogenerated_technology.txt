@@ -1,23 +1,23 @@
 # Western Isles
 technology = {
 	titles = {
-		d_orkn
-		d_shtland
+		d_orknae
+		d_shaetland
 		d_larsen
 		d_goatland
-		d_cob
-		d_froe
+		d_cobae
+		d_faeroe
 		d_inverbend
-		d_far_ellswre
-		d_wddel
+		d_far_ellswaere
+		d_waeddel
 		d_vestfjord
 		d_ostfjord
 		d_manna
-		d_norrbr
-		d_mittenbr
-		d_frsid
-		d_nrsid
-		d_soderbr
+		d_norrbaer
+		d_mittenbaer
+		d_faersid
+		d_naersid
+		d_soderbaer
 	}
 	256 = {
 		military = 0.0
@@ -32,7 +32,7 @@ technology = {
 		d_makria
 		d_mescher
 		d_omeya
-		d_stma
+		d_stoma
 		d_nort_traenge
 	}
 	256 = {
@@ -43,11 +43,11 @@ technology = {
 }
 technology = {
 	titles = {
-		d_mittenmde
-		d_mitt_trnge
-		d_sut_trnge
+		d_mittenmaede
+		d_mitt_traenge
+		d_sut_traenge
 		d_mesipnos
-		d_tran_trnge
+		d_tran_traenge
 	}
 	256 = {
 		military = 1.0

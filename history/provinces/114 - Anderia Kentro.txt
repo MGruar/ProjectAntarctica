@@ -5,10 +5,10 @@ title = c_anderia_kentro
 
 # Settlements
 max_settlements = 5
-b_anderia_kentro = castle
-b_barony0114d = temple
-b_barony0114e = city
-b_barony0114f = castle
+b_anderia_kentro_i = castle
+b_anderia_kentro_ii = temple
+b_anderia_kentro_iii = city
+b_anderia_kentro_iv = castle
 
 # Misc
 culture = greek

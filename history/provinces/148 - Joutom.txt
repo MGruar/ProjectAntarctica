@@ -5,7 +5,7 @@ title = c_joutom
 
 # Settlements
 max_settlements = 3
-b_joutom = tribal
+b_joutom_i = tribal
 
 # Misc
 culture = finnish

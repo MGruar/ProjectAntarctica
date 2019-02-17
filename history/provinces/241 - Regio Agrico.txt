@@ -5,9 +5,9 @@ title = c_regio_agrico
 
 # Settlements
 max_settlements = 4
-b_regio_agrico = castle
-b_barony0241d = temple
-b_barony0241e = city
+b_regio_agrico_i = castle
+b_regio_agrico_ii = temple
+b_regio_agrico_iii = city
 
 # Misc
 culture = roman

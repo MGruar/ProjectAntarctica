@@ -5,9 +5,9 @@ title = c_huche
 
 # Settlements
 max_settlements = 4
-b_huche = castle
-b_barony0466d = temple
-b_barony0466e = city
+b_huche_i = castle
+b_huche_ii = temple
+b_huche_iii = city
 
 # Misc
 culture = han

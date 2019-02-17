@@ -1,0 +1,14 @@
+# 84 - Lænort
+
+# County Title
+title = c_laenort
+
+# Settlements
+max_settlements = 3
+b_laenort_i = tribal
+
+# Misc
+culture = ashkenazi
+religion = jewish
+
+# History

@@ -1,0 +1,14 @@
+# 60 - Önistoma
+
+# County Title
+title = c_onistoma
+
+# Settlements
+max_settlements = 3
+b_onistoma_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

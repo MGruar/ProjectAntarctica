@@ -5,9 +5,9 @@ title = c_dytipere
 
 # Settlements
 max_settlements = 4
-b_dytipere = castle
-b_barony0284d = temple
-b_barony0284e = city
+b_dytipere_i = castle
+b_dytipere_ii = temple
+b_dytipere_iii = city
 
 # Misc
 culture = greek

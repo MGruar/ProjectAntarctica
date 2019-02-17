@@ -5,8 +5,8 @@ title = c_yebosurix
 
 # Settlements
 max_settlements = 3
-b_yebosurix = castle
-b_barony0477d = temple
+b_yebosurix_i = castle
+b_yebosurix_ii = temple
 
 # Misc
 culture = nahuatl

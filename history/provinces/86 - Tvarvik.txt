@@ -5,7 +5,7 @@ title = c_tvarvik
 
 # Settlements
 max_settlements = 4
-b_tvarvik = tribal
+b_tvarvik_i = tribal
 
 # Misc
 culture = norse

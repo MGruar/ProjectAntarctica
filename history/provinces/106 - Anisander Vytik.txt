@@ -5,7 +5,7 @@ title = c_anisander_vytik
 
 # Settlements
 max_settlements = 2
-b_anisander_vytik = tribal
+b_anisander_vytik_i = tribal
 
 # Misc
 culture = greek

@@ -5,8 +5,8 @@ title = c_widozmu
 
 # Settlements
 max_settlements = 5
-b_widozmu = tribal
-b_barony0524d = temple
+b_widozmu_i = tribal
+b_widozmu_ii = temple
 
 # Misc
 culture = nahuatl

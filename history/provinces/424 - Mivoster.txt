@@ -5,10 +5,10 @@ title = c_mivoster
 
 # Settlements
 max_settlements = 5
-b_mivoster = castle
-b_barony0424d = temple
-b_barony0424e = city
-b_barony0424f = castle
+b_mivoster_i = castle
+b_mivoster_ii = temple
+b_mivoster_iii = city
+b_mivoster_iv = castle
 
 # Misc
 culture = songhay

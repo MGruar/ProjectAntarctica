@@ -5,8 +5,8 @@ title = c_dadongyan
 
 # Settlements
 max_settlements = 5
-b_dadongyan = tribal
-b_barony0498d = temple
+b_dadongyan_i = tribal
+b_dadongyan_ii = temple
 
 # Misc
 culture = han

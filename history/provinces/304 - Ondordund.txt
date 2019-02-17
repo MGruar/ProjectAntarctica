@@ -5,8 +5,8 @@ title = c_ondordund
 
 # Settlements
 max_settlements = 6
-b_ondordund = tribal
-b_barony0304d = temple
+b_ondordund_i = tribal
+b_ondordund_ii = temple
 
 # Misc
 culture = mongol

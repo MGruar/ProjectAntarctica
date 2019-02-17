@@ -5,7 +5,7 @@ title = c_norrostgo
 
 # Settlements
 max_settlements = 3
-b_norrostgo = tribal
+b_norrostgo_i = tribal
 
 # Misc
 culture = norse

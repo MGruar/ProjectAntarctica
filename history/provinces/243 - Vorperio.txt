@@ -5,10 +5,10 @@ title = c_vorperio
 
 # Settlements
 max_settlements = 5
-b_vorperio = castle
-b_barony0243d = temple
-b_barony0243e = city
-b_barony0243f = castle
+b_vorperio_i = castle
+b_vorperio_ii = temple
+b_vorperio_iii = city
+b_vorperio_iv = castle
 
 # Misc
 culture = greek

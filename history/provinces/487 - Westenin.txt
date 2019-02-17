@@ -5,7 +5,7 @@ title = c_westenin
 
 # Settlements
 max_settlements = 2
-b_westenin = castle
+b_westenin_i = castle
 
 # Misc
 culture = nahuatl

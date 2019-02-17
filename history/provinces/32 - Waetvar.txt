@@ -1,0 +1,14 @@
+# 32 - Wætvär
+
+# County Title
+title = c_waetvar
+
+# Settlements
+max_settlements = 3
+b_waetvar_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -5,7 +5,7 @@ title = c_norsalak
 
 # Settlements
 max_settlements = 1
-b_norsalak = castle
+b_norsalak_i = castle
 
 # Misc
 culture = songhay

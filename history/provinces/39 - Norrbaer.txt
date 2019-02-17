@@ -1,0 +1,15 @@
+# 39 - Norrbær
+
+# County Title
+title = c_norrbaer
+
+# Settlements
+max_settlements = 5
+b_norrbaer_i = tribal
+b_norrbaer_ii = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

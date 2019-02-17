@@ -5,8 +5,8 @@ title = c_davixenuctl
 
 # Settlements
 max_settlements = 3
-b_davixenuctl = castle
-b_barony0520d = temple
+b_davixenuctl_i = castle
+b_davixenuctl_ii = temple
 
 # Misc
 culture = nahuatl

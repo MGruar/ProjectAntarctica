@@ -5,8 +5,8 @@ title = c_milfronco
 
 # Settlements
 max_settlements = 3
-b_milfronco = castle
-b_barony0160d = temple
+b_milfronco_i = castle
+b_milfronco_ii = temple
 
 # Misc
 culture = catalan

@@ -1,0 +1,14 @@
+# 16 - Mittencobæ
+
+# County Title
+title = c_mittencobae
+
+# Settlements
+max_settlements = 4
+b_mittencobae_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

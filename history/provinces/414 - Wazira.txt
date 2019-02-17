@@ -5,8 +5,8 @@ title = c_wazira
 
 # Settlements
 max_settlements = 3
-b_wazira = castle
-b_barony0414d = temple
+b_wazira_i = castle
+b_wazira_ii = temple
 
 # Misc
 culture = egyptian_arabic

@@ -5,7 +5,7 @@ title = c_beiromnuu
 
 # Settlements
 max_settlements = 2
-b_beiromnuu = castle
+b_beiromnuu_i = castle
 
 # Misc
 culture = mongol

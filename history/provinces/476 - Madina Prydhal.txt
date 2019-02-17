@@ -5,8 +5,8 @@ title = c_madina_prydhal
 
 # Settlements
 max_settlements = 1
-b_madina_prydhal = castle
-b_barony0476d = temple
+b_madina_prydhal_i = castle
+b_madina_prydhal_ii = temple
 
 # Misc
 culture = egyptian_arabic

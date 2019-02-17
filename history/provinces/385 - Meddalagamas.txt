@@ -5,8 +5,8 @@ title = c_meddalagamas
 
 # Settlements
 max_settlements = 4
-b_meddalagamas = tribal
-b_barony0385d = temple
+b_meddalagamas_i = tribal
+b_meddalagamas_ii = temple
 
 # Misc
 culture = hindustani

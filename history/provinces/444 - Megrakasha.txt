@@ -5,8 +5,8 @@ title = c_megrakasha
 
 # Settlements
 max_settlements = 5
-b_megrakasha = tribal
-b_barony0444d = temple
+b_megrakasha_i = tribal
+b_megrakasha_ii = temple
 
 # Misc
 culture = hindustani

@@ -5,7 +5,7 @@ title = c_buhil
 
 # Settlements
 max_settlements = 3
-b_buhil = tribal
+b_buhil_i = tribal
 
 # Misc
 culture = egyptian_arabic

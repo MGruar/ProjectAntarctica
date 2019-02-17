@@ -5,9 +5,9 @@ title = c_esoromi
 
 # Settlements
 max_settlements = 4
-b_esoromi = castle
-b_barony0249d = temple
-b_barony0249e = city
+b_esoromi_i = castle
+b_esoromi_ii = temple
+b_esoromi_iii = city
 
 # Misc
 culture = greek

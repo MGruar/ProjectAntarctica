@@ -5,8 +5,8 @@ title = c_akhisuctl
 
 # Settlements
 max_settlements = 3
-b_akhisuctl = castle
-b_barony0516d = temple
+b_akhisuctl_i = castle
+b_akhisuctl_ii = temple
 
 # Misc
 culture = nahuatl

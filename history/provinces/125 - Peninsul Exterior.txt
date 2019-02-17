@@ -5,8 +5,8 @@ title = c_peninsul_exterior
 
 # Settlements
 max_settlements = 3
-b_peninsul_exterior = castle
-b_barony0125d = temple
+b_peninsul_exterior_i = castle
+b_peninsul_exterior_ii = temple
 
 # Misc
 culture = roman

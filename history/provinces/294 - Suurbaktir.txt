@@ -5,8 +5,8 @@ title = c_suurbaktir
 
 # Settlements
 max_settlements = 5
-b_suurbaktir = tribal
-b_barony0294d = temple
+b_suurbaktir_i = tribal
+b_suurbaktir_ii = temple
 
 # Misc
 culture = songhay

@@ -5,11 +5,11 @@ title = c_fujarra_central
 
 # Settlements
 max_settlements = 7
-b_fujarra_central = castle
-b_barony0163d = temple
-b_barony0163e = city
-b_barony0163f = castle
-b_barony0163g = temple
+b_fujarra_central_i = castle
+b_fujarra_central_ii = temple
+b_fujarra_central_iii = city
+b_fujarra_central_iv = castle
+b_fujarra_central_v = temple
 
 # Misc
 culture = catalan

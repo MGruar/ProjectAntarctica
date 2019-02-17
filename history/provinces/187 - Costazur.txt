@@ -5,10 +5,10 @@ title = c_costazur
 
 # Settlements
 max_settlements = 5
-b_costazur = castle
-b_barony0187d = temple
-b_barony0187e = city
-b_barony0187f = castle
+b_costazur_i = castle
+b_costazur_ii = temple
+b_costazur_iii = city
+b_costazur_iv = castle
 
 # Misc
 culture = catalan

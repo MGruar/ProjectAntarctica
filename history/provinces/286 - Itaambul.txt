@@ -5,7 +5,7 @@ title = c_itaambul
 
 # Settlements
 max_settlements = 2
-b_itaambul = tribal
+b_itaambul_i = tribal
 
 # Misc
 culture = finnish

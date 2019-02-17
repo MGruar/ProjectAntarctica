@@ -5,7 +5,7 @@ title = c_greefeld
 
 # Settlements
 max_settlements = 4
-b_greefeld = tribal
+b_greefeld_i = tribal
 
 # Misc
 culture = ashkenazi

@@ -5,7 +5,7 @@ title = c_gadkhophia
 
 # Settlements
 max_settlements = 4
-b_gadkhophia = tribal
+b_gadkhophia_i = tribal
 
 # Misc
 culture = mongol

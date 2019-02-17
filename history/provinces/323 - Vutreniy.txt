@@ -5,7 +5,7 @@ title = c_vutreniy
 
 # Settlements
 max_settlements = 3
-b_vutreniy = tribal
+b_vutreniy_i = tribal
 
 # Misc
 culture = mongol

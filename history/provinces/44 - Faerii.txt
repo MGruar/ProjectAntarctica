@@ -1,0 +1,14 @@
+# 44 - Færii
+
+# County Title
+title = c_faerii
+
+# Settlements
+max_settlements = 3
+b_faerii_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

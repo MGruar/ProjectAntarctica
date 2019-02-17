@@ -1,0 +1,14 @@
+# 7 - Lærven
+
+# County Title
+title = c_laerven
+
+# Settlements
+max_settlements = 2
+b_laerven_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

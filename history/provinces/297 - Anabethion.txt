@@ -5,9 +5,9 @@ title = c_anabethion
 
 # Settlements
 max_settlements = 4
-b_anabethion = castle
-b_barony0297d = temple
-b_barony0297e = city
+b_anabethion_i = castle
+b_anabethion_ii = temple
+b_anabethion_iii = city
 
 # Misc
 culture = greek

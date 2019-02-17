@@ -5,8 +5,8 @@ title = c_grastma
 
 # Settlements
 max_settlements = 6
-b_grastma = tribal
-b_barony0430d = temple
+b_grastma_i = tribal
+b_grastma_ii = temple
 
 # Misc
 culture = hindustani

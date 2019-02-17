@@ -5,7 +5,7 @@ title = c_surlamakett
 
 # Settlements
 max_settlements = 4
-b_surlamakett = tribal
+b_surlamakett_i = tribal
 
 # Misc
 culture = hindustani

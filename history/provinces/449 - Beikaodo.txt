@@ -5,9 +5,9 @@ title = c_beikaodo
 
 # Settlements
 max_settlements = 4
-b_beikaodo = castle
-b_barony0449d = temple
-b_barony0449e = city
+b_beikaodo_i = castle
+b_beikaodo_ii = temple
+b_beikaodo_iii = city
 
 # Misc
 culture = han

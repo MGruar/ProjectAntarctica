@@ -5,9 +5,9 @@ title = c_vialhib
 
 # Settlements
 max_settlements = 4
-b_vialhib = castle
-b_barony0474d = temple
-b_barony0474e = city
+b_vialhib_i = castle
+b_vialhib_ii = temple
+b_vialhib_iii = city
 
 # Misc
 culture = nahuatl

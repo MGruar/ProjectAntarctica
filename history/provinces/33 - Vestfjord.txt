@@ -5,8 +5,8 @@ title = c_vestfjord
 
 # Settlements
 max_settlements = 4
-b_vestfjord = tribal
-b_barony0033d = temple
+b_vestfjord_i = tribal
+b_vestfjord_ii = temple
 
 # Misc
 culture = norse

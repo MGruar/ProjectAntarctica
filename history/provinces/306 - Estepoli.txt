@@ -5,10 +5,10 @@ title = c_estepoli
 
 # Settlements
 max_settlements = 5
-b_estepoli = castle
-b_barony0306d = temple
-b_barony0306e = city
-b_barony0306f = castle
+b_estepoli_i = castle
+b_estepoli_ii = temple
+b_estepoli_iii = city
+b_estepoli_iv = castle
 
 # Misc
 culture = songhay

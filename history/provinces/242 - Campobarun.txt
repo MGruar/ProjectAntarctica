@@ -5,7 +5,7 @@ title = c_campobarun
 
 # Settlements
 max_settlements = 4
-b_campobarun = tribal
+b_campobarun_i = tribal
 
 # Misc
 culture = catalan

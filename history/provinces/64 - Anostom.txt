@@ -5,7 +5,7 @@ title = c_anostom
 
 # Settlements
 max_settlements = 3
-b_anostom = tribal
+b_anostom_i = tribal
 
 # Misc
 culture = norse

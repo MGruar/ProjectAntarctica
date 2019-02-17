@@ -5,8 +5,8 @@ title = c_itaakulkete
 
 # Settlements
 max_settlements = 2
-b_itaakulkete = tribal
-b_barony0285d = temple
+b_itaakulkete_i = tribal
+b_itaakulkete_ii = temple
 
 # Misc
 culture = finnish

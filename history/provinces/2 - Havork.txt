@@ -5,7 +5,7 @@ title = c_havork
 
 # Settlements
 max_settlements = 1
-b_havork = tribal
+b_havork_i = tribal
 
 # Misc
 culture = norse

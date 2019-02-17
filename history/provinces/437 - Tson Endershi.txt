@@ -5,10 +5,10 @@ title = c_tson_endershi
 
 # Settlements
 max_settlements = 6
-b_tson_endershi = castle
-b_barony0437d = temple
-b_barony0437e = city
-b_barony0437f = castle
+b_tson_endershi_i = castle
+b_tson_endershi_ii = temple
+b_tson_endershi_iii = city
+b_tson_endershi_iv = castle
 
 # Misc
 culture = mongol

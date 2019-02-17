@@ -5,7 +5,7 @@ title = c_qiugudina
 
 # Settlements
 max_settlements = 2
-b_qiugudina = castle
+b_qiugudina_i = castle
 
 # Misc
 culture = egyptian_arabic

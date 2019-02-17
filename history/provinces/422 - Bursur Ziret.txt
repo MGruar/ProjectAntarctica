@@ -5,7 +5,7 @@ title = c_bursur_ziret
 
 # Settlements
 max_settlements = 3
-b_bursur_ziret = tribal
+b_bursur_ziret_i = tribal
 
 # Misc
 culture = nahuatl

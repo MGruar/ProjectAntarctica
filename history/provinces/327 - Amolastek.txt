@@ -5,9 +5,9 @@ title = c_amolastek
 
 # Settlements
 max_settlements = 4
-b_amolastek = castle
-b_barony0327d = temple
-b_barony0327e = city
+b_amolastek_i = castle
+b_amolastek_ii = temple
+b_amolastek_iii = city
 
 # Misc
 culture = songhay

@@ -5,8 +5,8 @@ title = c_fujarra_interior
 
 # Settlements
 max_settlements = 3
-b_fujarra_interior = castle
-b_barony0174d = temple
+b_fujarra_interior_i = castle
+b_fujarra_interior_ii = temple
 
 # Misc
 culture = catalan

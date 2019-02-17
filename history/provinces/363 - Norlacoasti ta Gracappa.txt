@@ -5,7 +5,7 @@ title = c_norlacoasti_ta_gracappa
 
 # Settlements
 max_settlements = 3
-b_norlacoasti_ta_gracappa = tribal
+b_norlacoasti_ta_gracappa_i = tribal
 
 # Misc
 culture = hindustani

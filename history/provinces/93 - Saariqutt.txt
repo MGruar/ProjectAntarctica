@@ -5,8 +5,8 @@ title = c_saariqutt
 
 # Settlements
 max_settlements = 5
-b_saariqutt = tribal
-b_barony0093d = temple
+b_saariqutt_i = tribal
+b_saariqutt_ii = temple
 
 # Misc
 culture = finnish

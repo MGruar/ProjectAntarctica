@@ -5,7 +5,7 @@ title = c_wasaqiuga
 
 # Settlements
 max_settlements = 2
-b_wasaqiuga = castle
+b_wasaqiuga_i = castle
 
 # Misc
 culture = egyptian_arabic

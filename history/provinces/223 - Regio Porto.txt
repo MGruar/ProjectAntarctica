@@ -5,9 +5,9 @@ title = c_regio_porto
 
 # Settlements
 max_settlements = 4
-b_regio_porto = castle
-b_barony0223d = temple
-b_barony0223e = city
+b_regio_porto_i = castle
+b_regio_porto_ii = temple
+b_regio_porto_iii = city
 
 # Misc
 culture = roman

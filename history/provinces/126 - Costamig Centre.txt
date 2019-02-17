@@ -5,8 +5,8 @@ title = c_costamig_centre
 
 # Settlements
 max_settlements = 3
-b_costamig_centre = castle
-b_barony0126d = temple
+b_costamig_centre_i = castle
+b_costamig_centre_ii = temple
 
 # Misc
 culture = catalan

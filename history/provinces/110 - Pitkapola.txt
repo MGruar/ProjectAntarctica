@@ -5,8 +5,8 @@ title = c_pitkapola
 
 # Settlements
 max_settlements = 3
-b_pitkapola = tribal
-b_barony0110d = temple
+b_pitkapola_i = tribal
+b_pitkapola_ii = temple
 
 # Misc
 culture = finnish

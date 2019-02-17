@@ -5,7 +5,7 @@ title = c_gra_meddiils
 
 # Settlements
 max_settlements = 4
-b_gra_meddiils = tribal
+b_gra_meddiils_i = tribal
 
 # Misc
 culture = hindustani

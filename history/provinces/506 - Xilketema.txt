@@ -5,7 +5,7 @@ title = c_xilketema
 
 # Settlements
 max_settlements = 4
-b_xilketema = tribal
+b_xilketema_i = tribal
 
 # Misc
 culture = nahuatl

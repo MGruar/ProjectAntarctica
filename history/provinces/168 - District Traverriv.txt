@@ -5,9 +5,9 @@ title = c_district_traverriv
 
 # Settlements
 max_settlements = 4
-b_district_traverriv = castle
-b_barony0168d = temple
-b_barony0168e = city
+b_district_traverriv_i = castle
+b_district_traverriv_ii = temple
+b_district_traverriv_iii = city
 
 # Misc
 culture = catalan

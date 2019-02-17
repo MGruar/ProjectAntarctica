@@ -5,9 +5,9 @@ title = c_westilksir
 
 # Settlements
 max_settlements = 4
-b_westilksir = castle
-b_barony0475d = temple
-b_barony0475e = city
+b_westilksir_i = castle
+b_westilksir_ii = temple
+b_westilksir_iii = city
 
 # Misc
 culture = nahuatl

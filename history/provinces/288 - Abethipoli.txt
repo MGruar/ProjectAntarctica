@@ -5,10 +5,10 @@ title = c_abethipoli
 
 # Settlements
 max_settlements = 6
-b_abethipoli = castle
-b_barony0288d = temple
-b_barony0288e = city
-b_barony0288f = castle
+b_abethipoli_i = castle
+b_abethipoli_ii = temple
+b_abethipoli_iii = city
+b_abethipoli_iv = castle
 
 # Misc
 culture = songhay

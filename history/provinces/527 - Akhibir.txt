@@ -5,8 +5,8 @@ title = c_akhibir
 
 # Settlements
 max_settlements = 3
-b_akhibir = castle
-b_barony0527d = temple
+b_akhibir_i = castle
+b_akhibir_ii = temple
 
 # Misc
 culture = nahuatl

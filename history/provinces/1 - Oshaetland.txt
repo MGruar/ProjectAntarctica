@@ -1,0 +1,14 @@
+# 1 - Oshætland
+
+# County Title
+title = c_oshaetland
+
+# Settlements
+max_settlements = 1
+b_oshaetland_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

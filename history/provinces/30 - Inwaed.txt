@@ -1,0 +1,14 @@
+# 30 - Inwæd
+
+# County Title
+title = c_inwaed
+
+# Settlements
+max_settlements = 3
+b_inwaed_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

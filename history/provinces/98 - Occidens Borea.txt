@@ -5,7 +5,7 @@ title = c_occidens_borea
 
 # Settlements
 max_settlements = 4
-b_occidens_borea = tribal
+b_occidens_borea_i = tribal
 
 # Misc
 culture = roman

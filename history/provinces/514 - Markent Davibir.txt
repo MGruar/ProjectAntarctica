@@ -5,10 +5,10 @@ title = c_markent_davibir
 
 # Settlements
 max_settlements = 5
-b_markent_davibir = castle
-b_barony0514d = temple
-b_barony0514e = city
-b_barony0514f = castle
+b_markent_davibir_i = castle
+b_markent_davibir_ii = temple
+b_markent_davibir_iii = city
+b_markent_davibir_iv = castle
 
 # Misc
 culture = nahuatl

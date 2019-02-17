@@ -5,8 +5,8 @@ title = c_contrarra_media
 
 # Settlements
 max_settlements = 3
-b_contrarra_media = castle
-b_barony0193d = temple
+b_contrarra_media_i = castle
+b_contrarra_media_ii = temple
 
 # Misc
 culture = roman

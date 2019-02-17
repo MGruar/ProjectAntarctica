@@ -5,7 +5,7 @@ title = c_desolpass
 
 # Settlements
 max_settlements = 3
-b_desolpass = tribal
+b_desolpass_i = tribal
 
 # Misc
 culture = ashkenazi

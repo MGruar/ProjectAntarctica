@@ -1,0 +1,14 @@
+# 63 - Ypsilmæde
+
+# County Title
+title = c_ypsilmaede
+
+# Settlements
+max_settlements = 3
+b_ypsilmaede_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

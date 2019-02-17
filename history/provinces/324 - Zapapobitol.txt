@@ -5,7 +5,7 @@ title = c_zapapobitol
 
 # Settlements
 max_settlements = 4
-b_zapapobitol = tribal
+b_zapapobitol_i = tribal
 
 # Misc
 culture = mongol

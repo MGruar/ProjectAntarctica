@@ -5,7 +5,7 @@ title = c_miuloasir
 
 # Settlements
 max_settlements = 4
-b_miuloasir = tribal
+b_miuloasir_i = tribal
 
 # Misc
 culture = songhay

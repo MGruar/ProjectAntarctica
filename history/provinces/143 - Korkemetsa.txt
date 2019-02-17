@@ -5,7 +5,7 @@ title = c_korkemetsa
 
 # Settlements
 max_settlements = 3
-b_korkemetsa = tribal
+b_korkemetsa_i = tribal
 
 # Misc
 culture = finnish

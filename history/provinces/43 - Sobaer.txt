@@ -1,0 +1,14 @@
+# 43 - Sobær
+
+# County Title
+title = c_sobaer
+
+# Settlements
+max_settlements = 4
+b_sobaer_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

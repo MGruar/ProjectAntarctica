@@ -5,8 +5,8 @@ title = c_yuanulan
 
 # Settlements
 max_settlements = 3
-b_yuanulan = castle
-b_barony0438d = temple
+b_yuanulan_i = castle
+b_yuanulan_ii = temple
 
 # Misc
 culture = mongol

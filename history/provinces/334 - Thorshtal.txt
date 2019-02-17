@@ -5,7 +5,7 @@ title = c_thorshtal
 
 # Settlements
 max_settlements = 4
-b_thorshtal = tribal
+b_thorshtal_i = tribal
 
 # Misc
 culture = mongol

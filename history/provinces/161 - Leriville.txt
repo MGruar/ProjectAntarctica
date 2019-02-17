@@ -5,9 +5,9 @@ title = c_leriville
 
 # Settlements
 max_settlements = 4
-b_leriville = castle
-b_barony0161d = temple
-b_barony0161e = city
+b_leriville_i = castle
+b_leriville_ii = temple
+b_leriville_iii = city
 
 # Misc
 culture = catalan

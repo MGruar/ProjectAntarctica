@@ -5,8 +5,8 @@ title = c_taldaartov
 
 # Settlements
 max_settlements = 6
-b_taldaartov = tribal
-b_barony0320d = temple
+b_taldaartov_i = tribal
+b_taldaartov_ii = temple
 
 # Misc
 culture = mongol

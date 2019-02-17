@@ -5,8 +5,8 @@ title = c_makrivuono
 
 # Settlements
 max_settlements = 3
-b_makrivuono = castle
-b_barony0291d = temple
+b_makrivuono_i = castle
+b_makrivuono_ii = temple
 
 # Misc
 culture = greek

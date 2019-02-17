@@ -5,9 +5,9 @@ title = c_ongyan_kaodo
 
 # Settlements
 max_settlements = 4
-b_ongyan_kaodo = castle
-b_barony0451d = temple
-b_barony0451e = city
+b_ongyan_kaodo_i = castle
+b_ongyan_kaodo_ii = temple
+b_ongyan_kaodo_iii = city
 
 # Misc
 culture = han

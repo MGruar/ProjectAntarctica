@@ -5,7 +5,7 @@ title = c_bentrogao
 
 # Settlements
 max_settlements = 2
-b_bentrogao = tribal
+b_bentrogao_i = tribal
 
 # Misc
 culture = mongol

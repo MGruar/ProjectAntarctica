@@ -5,7 +5,7 @@ title = c_westalaga
 
 # Settlements
 max_settlements = 4
-b_westalaga = tribal
+b_westalaga_i = tribal
 
 # Misc
 culture = hindustani

@@ -5,7 +5,7 @@ title = c_kashapenina
 
 # Settlements
 max_settlements = 4
-b_kashapenina = tribal
+b_kashapenina_i = tribal
 
 # Misc
 culture = hindustani

@@ -5,7 +5,7 @@ title = c_wasatalta
 
 # Settlements
 max_settlements = 1
-b_wasatalta = castle
+b_wasatalta_i = castle
 
 # Misc
 culture = egyptian_arabic

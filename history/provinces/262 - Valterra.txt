@@ -5,8 +5,8 @@ title = c_valterra
 
 # Settlements
 max_settlements = 3
-b_valterra = castle
-b_barony0262d = temple
+b_valterra_i = castle
+b_valterra_ii = temple
 
 # Misc
 culture = catalan

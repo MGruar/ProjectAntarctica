@@ -5,8 +5,8 @@ title = c_nottoria
 
 # Settlements
 max_settlements = 5
-b_nottoria = tribal
-b_barony0239d = temple
+b_nottoria_i = tribal
+b_nottoria_ii = temple
 
 # Misc
 culture = ashkenazi

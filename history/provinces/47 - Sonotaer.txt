@@ -1,0 +1,14 @@
+# 47 - Sonotær
+
+# County Title
+title = c_sonotaer
+
+# Settlements
+max_settlements = 4
+b_sonotaer_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

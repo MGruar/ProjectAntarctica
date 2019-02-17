@@ -5,7 +5,7 @@ title = c_layrib
 
 # Settlements
 max_settlements = 4
-b_layrib = tribal
+b_layrib_i = tribal
 
 # Misc
 culture = nahuatl

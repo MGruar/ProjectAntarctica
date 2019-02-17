@@ -5,7 +5,7 @@ title = c_wichisuustok
 
 # Settlements
 max_settlements = 4
-b_wichisuustok = tribal
+b_wichisuustok_i = tribal
 
 # Misc
 culture = songhay

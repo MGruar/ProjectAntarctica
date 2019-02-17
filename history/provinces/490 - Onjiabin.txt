@@ -5,7 +5,7 @@ title = c_onjiabin
 
 # Settlements
 max_settlements = 4
-b_onjiabin = tribal
+b_onjiabin_i = tribal
 
 # Misc
 culture = han

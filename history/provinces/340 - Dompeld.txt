@@ -5,7 +5,7 @@ title = c_dompeld
 
 # Settlements
 max_settlements = 4
-b_dompeld = tribal
+b_dompeld_i = tribal
 
 # Misc
 culture = hindustani

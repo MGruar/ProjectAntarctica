@@ -5,10 +5,10 @@ title = c_perapoli
 
 # Settlements
 max_settlements = 5
-b_perapoli = castle
-b_barony0308d = temple
-b_barony0308e = city
-b_barony0308f = castle
+b_perapoli_i = castle
+b_perapoli_ii = temple
+b_perapoli_iii = city
+b_perapoli_iv = castle
 
 # Misc
 culture = greek

@@ -5,9 +5,9 @@ title = c_agricol_centro
 
 # Settlements
 max_settlements = 4
-b_agricol_centro = castle
-b_barony0178d = temple
-b_barony0178e = city
+b_agricol_centro_i = castle
+b_agricol_centro_ii = temple
+b_agricol_centro_iii = city
 
 # Misc
 culture = roman

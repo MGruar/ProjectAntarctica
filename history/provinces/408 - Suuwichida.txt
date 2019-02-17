@@ -5,10 +5,10 @@ title = c_suuwichida
 
 # Settlements
 max_settlements = 5
-b_suuwichida = castle
-b_barony0408d = temple
-b_barony0408e = city
-b_barony0408f = castle
+b_suuwichida_i = castle
+b_suuwichida_ii = temple
+b_suuwichida_iii = city
+b_suuwichida_iv = castle
 
 # Misc
 culture = songhay

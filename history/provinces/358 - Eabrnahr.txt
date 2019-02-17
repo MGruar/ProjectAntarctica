@@ -5,7 +5,7 @@ title = c_eabrnahr
 
 # Settlements
 max_settlements = 1
-b_eabrnahr = castle
+b_eabrnahr_i = castle
 
 # Misc
 culture = egyptian_arabic

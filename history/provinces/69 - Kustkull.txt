@@ -5,7 +5,7 @@ title = c_kustkull
 
 # Settlements
 max_settlements = 2
-b_kustkull = tribal
+b_kustkull_i = tribal
 
 # Misc
 culture = norse

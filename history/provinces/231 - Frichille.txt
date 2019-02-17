@@ -5,7 +5,7 @@ title = c_frichille
 
 # Settlements
 max_settlements = 3
-b_frichille = tribal
+b_frichille_i = tribal
 
 # Misc
 culture = catalan

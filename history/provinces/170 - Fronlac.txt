@@ -5,9 +5,9 @@ title = c_fronlac
 
 # Settlements
 max_settlements = 4
-b_fronlac = castle
-b_barony0170d = temple
-b_barony0170e = city
+b_fronlac_i = castle
+b_fronlac_ii = temple
+b_fronlac_iii = city
 
 # Misc
 culture = catalan

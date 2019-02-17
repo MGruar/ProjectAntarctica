@@ -5,10 +5,10 @@ title = c_altrio_interior
 
 # Settlements
 max_settlements = 5
-b_altrio_interior = castle
-b_barony0259d = temple
-b_barony0259e = city
-b_barony0259f = castle
+b_altrio_interior_i = castle
+b_altrio_interior_ii = temple
+b_altrio_interior_iii = city
+b_altrio_interior_iv = castle
 
 # Misc
 culture = mongol

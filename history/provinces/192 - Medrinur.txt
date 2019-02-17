@@ -5,9 +5,9 @@ title = c_medrinur
 
 # Settlements
 max_settlements = 4
-b_medrinur = castle
-b_barony0192d = temple
-b_barony0192e = city
+b_medrinur_i = castle
+b_medrinur_ii = temple
+b_medrinur_iii = city
 
 # Misc
 culture = catalan

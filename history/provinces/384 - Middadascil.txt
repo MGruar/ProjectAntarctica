@@ -5,7 +5,7 @@ title = c_middadascil
 
 # Settlements
 max_settlements = 3
-b_middadascil = tribal
+b_middadascil_i = tribal
 
 # Misc
 culture = hindustani

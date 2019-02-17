@@ -5,7 +5,7 @@ title = c_surtapeniniils
 
 # Settlements
 max_settlements = 3
-b_surtapeniniils = tribal
+b_surtapeniniils_i = tribal
 
 # Misc
 culture = hindustani

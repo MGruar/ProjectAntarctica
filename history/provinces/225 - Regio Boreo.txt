@@ -5,8 +5,8 @@ title = c_regio_boreo
 
 # Settlements
 max_settlements = 3
-b_regio_boreo = castle
-b_barony0225d = temple
+b_regio_boreo_i = castle
+b_regio_boreo_ii = temple
 
 # Misc
 culture = roman

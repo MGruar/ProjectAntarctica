@@ -5,7 +5,7 @@ title = c_davoxosta
 
 # Settlements
 max_settlements = 3
-b_davoxosta = tribal
+b_davoxosta_i = tribal
 
 # Misc
 culture = nahuatl

@@ -5,7 +5,7 @@ title = c_vnutribereg
 
 # Settlements
 max_settlements = 2
-b_vnutribereg = tribal
+b_vnutribereg_i = tribal
 
 # Misc
 culture = mongol

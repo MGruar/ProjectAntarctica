@@ -5,7 +5,7 @@ title = c_huronuu
 
 # Settlements
 max_settlements = 2
-b_huronuu = tribal
+b_huronuu_i = tribal
 
 # Misc
 culture = mongol

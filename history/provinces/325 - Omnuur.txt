@@ -5,8 +5,8 @@ title = c_omnuur
 
 # Settlements
 max_settlements = 6
-b_omnuur = tribal
-b_barony0325d = temple
+b_omnuur_i = tribal
+b_omnuur_ii = temple
 
 # Misc
 culture = mongol

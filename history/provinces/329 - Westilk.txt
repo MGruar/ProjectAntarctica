@@ -5,8 +5,8 @@ title = c_westilk
 
 # Settlements
 max_settlements = 5
-b_westilk = tribal
-b_barony0329d = temple
+b_westilk_i = tribal
+b_westilk_ii = temple
 
 # Misc
 culture = hindustani

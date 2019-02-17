@@ -5,8 +5,8 @@ title = c_lansimbul
 
 # Settlements
 max_settlements = 2
-b_lansimbul = tribal
-b_barony0164d = temple
+b_lansimbul_i = tribal
+b_lansimbul_ii = temple
 
 # Misc
 culture = finnish

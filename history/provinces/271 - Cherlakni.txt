@@ -5,10 +5,10 @@ title = c_cherlakni
 
 # Settlements
 max_settlements = 5
-b_cherlakni = castle
-b_barony0271d = temple
-b_barony0271e = city
-b_barony0271f = castle
+b_cherlakni_i = castle
+b_cherlakni_ii = temple
+b_cherlakni_iii = city
+b_cherlakni_iv = castle
 
 # Misc
 culture = songhay

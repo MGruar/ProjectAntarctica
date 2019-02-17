@@ -5,7 +5,7 @@ title = c_muntsid
 
 # Settlements
 max_settlements = 3
-b_muntsid = tribal
+b_muntsid_i = tribal
 
 # Misc
 culture = ashkenazi

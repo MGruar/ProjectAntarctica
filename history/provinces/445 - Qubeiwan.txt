@@ -5,9 +5,9 @@ title = c_qubeiwan
 
 # Settlements
 max_settlements = 4
-b_qubeiwan = castle
-b_barony0445d = temple
-b_barony0445e = city
+b_qubeiwan_i = castle
+b_qubeiwan_ii = temple
+b_qubeiwan_iii = city
 
 # Misc
 culture = han

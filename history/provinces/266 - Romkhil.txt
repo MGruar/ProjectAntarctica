@@ -5,7 +5,7 @@ title = c_romkhil
 
 # Settlements
 max_settlements = 3
-b_romkhil = tribal
+b_romkhil_i = tribal
 
 # Misc
 culture = mongol

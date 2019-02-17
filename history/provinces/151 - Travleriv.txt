@@ -5,9 +5,9 @@ title = c_travleriv
 
 # Settlements
 max_settlements = 4
-b_travleriv = castle
-b_barony0151d = temple
-b_barony0151e = city
+b_travleriv_i = castle
+b_travleriv_ii = temple
+b_travleriv_iii = city
 
 # Misc
 culture = catalan

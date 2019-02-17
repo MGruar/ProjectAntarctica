@@ -5,10 +5,10 @@ title = c_controlac
 
 # Settlements
 max_settlements = 5
-b_controlac = castle
-b_barony0123d = temple
-b_barony0123e = city
-b_barony0123f = castle
+b_controlac_i = castle
+b_controlac_ii = temple
+b_controlac_iii = city
+b_controlac_iv = castle
 
 # Misc
 culture = roman

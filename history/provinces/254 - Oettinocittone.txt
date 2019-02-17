@@ -5,8 +5,8 @@ title = c_oettinocittone
 
 # Settlements
 max_settlements = 4
-b_oettinocittone = tribal
-b_barony0254d = temple
+b_oettinocittone_i = tribal
+b_oettinocittone_ii = temple
 
 # Misc
 culture = ashkenazi

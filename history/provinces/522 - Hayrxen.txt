@@ -5,8 +5,8 @@ title = c_hayrxen
 
 # Settlements
 max_settlements = 3
-b_hayrxen = castle
-b_barony0522d = temple
+b_hayrxen_i = castle
+b_hayrxen_ii = temple
 
 # Misc
 culture = nahuatl

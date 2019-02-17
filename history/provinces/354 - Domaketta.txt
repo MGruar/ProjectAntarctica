@@ -5,8 +5,8 @@ title = c_domaketta
 
 # Settlements
 max_settlements = 7
-b_domaketta = tribal
-b_barony0354d = temple
+b_domaketta_i = tribal
+b_domaketta_ii = temple
 
 # Misc
 culture = hindustani

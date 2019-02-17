@@ -5,7 +5,7 @@ title = c_widestilk
 
 # Settlements
 max_settlements = 3
-b_widestilk = tribal
+b_widestilk_i = tribal
 
 # Misc
 culture = nahuatl

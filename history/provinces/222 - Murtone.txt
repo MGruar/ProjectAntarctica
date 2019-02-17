@@ -5,7 +5,7 @@ title = c_murtone
 
 # Settlements
 max_settlements = 3
-b_murtone = tribal
+b_murtone_i = tribal
 
 # Misc
 culture = ashkenazi

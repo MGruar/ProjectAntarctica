@@ -5,7 +5,7 @@ title = c_xamornin
 
 # Settlements
 max_settlements = 4
-b_xamornin = tribal
+b_xamornin_i = tribal
 
 # Misc
 culture = nahuatl

@@ -5,9 +5,9 @@ title = c_lacorien
 
 # Settlements
 max_settlements = 4
-b_lacorien = castle
-b_barony0145d = temple
-b_barony0145e = city
+b_lacorien_i = castle
+b_lacorien_ii = temple
+b_lacorien_iii = city
 
 # Misc
 culture = roman

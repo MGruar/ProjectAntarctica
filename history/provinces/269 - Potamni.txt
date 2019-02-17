@@ -5,10 +5,10 @@ title = c_potamni
 
 # Settlements
 max_settlements = 5
-b_potamni = castle
-b_barony0269d = temple
-b_barony0269e = city
-b_barony0269f = castle
+b_potamni_i = castle
+b_potamni_ii = temple
+b_potamni_iii = city
+b_potamni_iv = castle
 
 # Misc
 culture = greek

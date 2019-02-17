@@ -5,7 +5,7 @@ title = c_janub_min_madina
 
 # Settlements
 max_settlements = 1
-b_janub_min_madina = castle
+b_janub_min_madina_i = castle
 
 # Misc
 culture = egyptian_arabic

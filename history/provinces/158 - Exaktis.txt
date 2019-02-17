@@ -5,10 +5,10 @@ title = c_exaktis
 
 # Settlements
 max_settlements = 5
-b_exaktis = castle
-b_barony0158d = temple
-b_barony0158e = city
-b_barony0158f = castle
+b_exaktis_i = castle
+b_exaktis_ii = temple
+b_exaktis_iii = city
+b_exaktis_iv = castle
 
 # Misc
 culture = greek

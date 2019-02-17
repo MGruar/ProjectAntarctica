@@ -5,7 +5,7 @@ title = c_rannoet
 
 # Settlements
 max_settlements = 2
-b_rannoet = tribal
+b_rannoet_i = tribal
 
 # Misc
 culture = finnish

@@ -5,7 +5,7 @@ title = c_iils_ta_meddobay
 
 # Settlements
 max_settlements = 4
-b_iils_ta_meddobay = tribal
+b_iils_ta_meddobay_i = tribal
 
 # Misc
 culture = hindustani

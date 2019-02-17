@@ -5,8 +5,8 @@ title = c_isthidmas
 
 # Settlements
 max_settlements = 5
-b_isthidmas = tribal
-b_barony0314d = temple
+b_isthidmas_i = tribal
+b_isthidmas_ii = temple
 
 # Misc
 culture = songhay

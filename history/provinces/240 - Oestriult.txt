@@ -5,7 +5,7 @@ title = c_oestriult
 
 # Settlements
 max_settlements = 4
-b_oestriult = tribal
+b_oestriult_i = tribal
 
 # Misc
 culture = catalan

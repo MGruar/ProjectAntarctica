@@ -5,8 +5,8 @@ title = c_peninsinus
 
 # Settlements
 max_settlements = 5
-b_peninsinus = tribal
-b_barony0081d = temple
+b_peninsinus_i = tribal
+b_peninsinus_ii = temple
 
 # Misc
 culture = roman

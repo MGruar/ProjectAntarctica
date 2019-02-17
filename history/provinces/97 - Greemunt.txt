@@ -5,8 +5,8 @@ title = c_greemunt
 
 # Settlements
 max_settlements = 4
-b_greemunt = tribal
-b_barony0097d = temple
+b_greemunt_i = tribal
+b_greemunt_ii = temple
 
 # Misc
 culture = ashkenazi

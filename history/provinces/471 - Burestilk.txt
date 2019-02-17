@@ -5,7 +5,7 @@ title = c_burestilk
 
 # Settlements
 max_settlements = 2
-b_burestilk = tribal
+b_burestilk_i = tribal
 
 # Misc
 culture = nahuatl

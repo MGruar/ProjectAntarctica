@@ -5,7 +5,7 @@ title = c_jabalnib
 
 # Settlements
 max_settlements = 1
-b_jabalnib = castle
+b_jabalnib_i = castle
 
 # Misc
 culture = egyptian_arabic

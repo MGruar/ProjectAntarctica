@@ -5,7 +5,7 @@ title = c_masar_central
 
 # Settlements
 max_settlements = 4
-b_masar_central = tribal
+b_masar_central_i = tribal
 
 # Misc
 culture = catalan

@@ -5,8 +5,8 @@ title = c_anisander_messa
 
 # Settlements
 max_settlements = 3
-b_anisander_messa = castle
-b_barony0116d = temple
+b_anisander_messa_i = castle
+b_anisander_messa_ii = temple
 
 # Misc
 culture = greek

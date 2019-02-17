@@ -5,7 +5,7 @@ title = c_etlahao
 
 # Settlements
 max_settlements = 3
-b_etlahao = tribal
+b_etlahao_i = tribal
 
 # Misc
 culture = finnish

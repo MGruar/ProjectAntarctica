@@ -5,7 +5,7 @@ title = c_pojopol
 
 # Settlements
 max_settlements = 3
-b_pojopol = tribal
+b_pojopol_i = tribal
 
 # Misc
 culture = finnish

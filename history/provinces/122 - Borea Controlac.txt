@@ -5,10 +5,10 @@ title = c_borea_controlac
 
 # Settlements
 max_settlements = 5
-b_borea_controlac = castle
-b_barony0122d = temple
-b_barony0122e = city
-b_barony0122f = castle
+b_borea_controlac_i = castle
+b_borea_controlac_ii = temple
+b_borea_controlac_iii = city
+b_borea_controlac_iv = castle
 
 # Misc
 culture = roman

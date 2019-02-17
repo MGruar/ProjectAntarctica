@@ -5,9 +5,9 @@ title = c_nuughuro
 
 # Settlements
 max_settlements = 4
-b_nuughuro = castle
-b_barony0412d = temple
-b_barony0412e = city
+b_nuughuro_i = castle
+b_nuughuro_ii = temple
+b_nuughuro_iii = city
 
 # Misc
 culture = mongol

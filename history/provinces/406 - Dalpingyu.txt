@@ -5,9 +5,9 @@ title = c_dalpingyu
 
 # Settlements
 max_settlements = 4
-b_dalpingyu = castle
-b_barony0406d = temple
-b_barony0406e = city
+b_dalpingyu_i = castle
+b_dalpingyu_ii = temple
+b_dalpingyu_iii = city
 
 # Misc
 culture = mongol

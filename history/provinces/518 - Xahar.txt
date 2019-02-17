@@ -5,7 +5,7 @@ title = c_xahar
 
 # Settlements
 max_settlements = 3
-b_xahar = tribal
+b_xahar_i = tribal
 
 # Misc
 culture = nahuatl

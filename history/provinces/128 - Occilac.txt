@@ -5,8 +5,8 @@ title = c_occilac
 
 # Settlements
 max_settlements = 3
-b_occilac = castle
-b_barony0128d = temple
+b_occilac_i = castle
+b_occilac_ii = temple
 
 # Misc
 culture = roman

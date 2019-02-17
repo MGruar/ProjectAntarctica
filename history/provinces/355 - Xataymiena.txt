@@ -5,8 +5,8 @@ title = c_xataymiena
 
 # Settlements
 max_settlements = 5
-b_xataymiena = tribal
-b_barony0355d = temple
+b_xataymiena_i = tribal
+b_xataymiena_ii = temple
 
 # Misc
 culture = mongol

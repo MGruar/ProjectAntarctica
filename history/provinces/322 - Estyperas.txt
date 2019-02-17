@@ -5,7 +5,7 @@ title = c_estyperas
 
 # Settlements
 max_settlements = 2
-b_estyperas = tribal
+b_estyperas_i = tribal
 
 # Misc
 culture = songhay

@@ -5,8 +5,8 @@ title = c_megrawilkiils
 
 # Settlements
 max_settlements = 6
-b_megrawilkiils = tribal
-b_barony0481d = temple
+b_megrawilkiils_i = tribal
+b_megrawilkiils_ii = temple
 
 # Misc
 culture = hindustani

@@ -5,10 +5,10 @@ title = c_occinium
 
 # Settlements
 max_settlements = 5
-b_occinium = castle
-b_barony0141d = temple
-b_barony0141e = city
-b_barony0141f = castle
+b_occinium_i = castle
+b_occinium_ii = temple
+b_occinium_iii = city
+b_occinium_iv = castle
 
 # Misc
 culture = roman

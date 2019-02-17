@@ -5,7 +5,7 @@ title = c_suuostvos
 
 # Settlements
 max_settlements = 4
-b_suuostvos = tribal
+b_suuostvos_i = tribal
 
 # Misc
 culture = songhay

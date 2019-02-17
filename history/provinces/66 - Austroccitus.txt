@@ -5,8 +5,8 @@ title = c_austroccitus
 
 # Settlements
 max_settlements = 5
-b_austroccitus = tribal
-b_barony0066d = temple
+b_austroccitus_i = tribal
+b_austroccitus_ii = temple
 
 # Misc
 culture = roman

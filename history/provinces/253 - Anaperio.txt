@@ -5,10 +5,10 @@ title = c_anaperio
 
 # Settlements
 max_settlements = 5
-b_anaperio = castle
-b_barony0253d = temple
-b_barony0253e = city
-b_barony0253f = castle
+b_anaperio_i = castle
+b_anaperio_ii = temple
+b_anaperio_iii = city
+b_anaperio_iv = castle
 
 # Misc
 culture = greek

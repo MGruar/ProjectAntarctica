@@ -5,7 +5,7 @@ title = c_norteva
 
 # Settlements
 max_settlements = 4
-b_norteva = tribal
+b_norteva_i = tribal
 
 # Misc
 culture = hindustani

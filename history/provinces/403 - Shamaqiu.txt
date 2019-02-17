@@ -5,8 +5,8 @@ title = c_shamaqiu
 
 # Settlements
 max_settlements = 3
-b_shamaqiu = castle
-b_barony0403d = temple
+b_shamaqiu_i = castle
+b_shamaqiu_ii = temple
 
 # Misc
 culture = egyptian_arabic

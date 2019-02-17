@@ -5,9 +5,9 @@ title = c_hayrbarmu
 
 # Settlements
 max_settlements = 4
-b_hayrbarmu = castle
-b_barony0530d = temple
-b_barony0530e = city
+b_hayrbarmu_i = castle
+b_hayrbarmu_ii = temple
+b_hayrbarmu_iii = city
 
 # Misc
 culture = nahuatl

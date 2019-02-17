@@ -5,8 +5,8 @@ title = c_soderstorr
 
 # Settlements
 max_settlements = 4
-b_soderstorr = tribal
-b_barony0049d = temple
+b_soderstorr_i = tribal
+b_soderstorr_ii = temple
 
 # Misc
 culture = norse

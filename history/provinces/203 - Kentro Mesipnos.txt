@@ -5,7 +5,7 @@ title = c_kentro_mesipnos
 
 # Settlements
 max_settlements = 4
-b_kentro_mesipnos = tribal
+b_kentro_mesipnos_i = tribal
 
 # Misc
 culture = greek

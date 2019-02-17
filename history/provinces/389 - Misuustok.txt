@@ -5,10 +5,10 @@ title = c_misuustok
 
 # Settlements
 max_settlements = 6
-b_misuustok = castle
-b_barony0389d = temple
-b_barony0389e = city
-b_barony0389f = castle
+b_misuustok_i = castle
+b_misuustok_ii = temple
+b_misuustok_iii = city
+b_misuustok_iv = castle
 
 # Misc
 culture = songhay

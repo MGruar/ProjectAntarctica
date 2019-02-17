@@ -5,10 +5,10 @@ title = c_norwichida
 
 # Settlements
 max_settlements = 5
-b_norwichida = castle
-b_barony0407d = temple
-b_barony0407e = city
-b_barony0407f = castle
+b_norwichida_i = castle
+b_norwichida_ii = temple
+b_norwichida_iii = city
+b_norwichida_iv = castle
 
 # Misc
 culture = songhay

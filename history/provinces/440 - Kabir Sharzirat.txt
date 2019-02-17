@@ -5,9 +5,9 @@ title = c_kabir_sharzirat
 
 # Settlements
 max_settlements = 4
-b_kabir_sharzirat = castle
-b_barony0440d = temple
-b_barony0440e = city
+b_kabir_sharzirat_i = castle
+b_kabir_sharzirat_ii = temple
+b_kabir_sharzirat_iii = city
 
 # Misc
 culture = egyptian_arabic

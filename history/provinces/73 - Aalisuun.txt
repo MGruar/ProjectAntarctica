@@ -5,8 +5,8 @@ title = c_aalisuun
 
 # Settlements
 max_settlements = 4
-b_aalisuun = tribal
-b_barony0073d = temple
+b_aalisuun_i = tribal
+b_aalisuun_ii = temple
 
 # Misc
 culture = finnish

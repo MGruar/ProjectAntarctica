@@ -1,0 +1,15 @@
+# 80 - Mæde Centrum
+
+# County Title
+title = c_maede_centrum
+
+# Settlements
+max_settlements = 4
+b_maede_centrum_i = tribal
+b_maede_centrum_ii = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

@@ -5,7 +5,7 @@ title = c_binshan
 
 # Settlements
 max_settlements = 3
-b_binshan = tribal
+b_binshan_i = tribal
 
 # Misc
 culture = han

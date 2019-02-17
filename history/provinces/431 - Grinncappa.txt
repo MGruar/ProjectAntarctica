@@ -5,7 +5,7 @@ title = c_grinncappa
 
 # Settlements
 max_settlements = 4
-b_grinncappa = tribal
+b_grinncappa_i = tribal
 
 # Misc
 culture = hindustani

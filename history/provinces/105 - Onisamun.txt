@@ -5,7 +5,7 @@ title = c_onisamun
 
 # Settlements
 max_settlements = 2
-b_onisamun = tribal
+b_onisamun_i = tribal
 
 # Misc
 culture = norse

@@ -5,9 +5,9 @@ title = c_sronjiulan
 
 # Settlements
 max_settlements = 4
-b_sronjiulan = castle
-b_barony0452d = temple
-b_barony0452e = city
+b_sronjiulan_i = castle
+b_sronjiulan_ii = temple
+b_sronjiulan_iii = city
 
 # Misc
 culture = mongol

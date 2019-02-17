@@ -1,0 +1,14 @@
+# 36 - Yttwæd
+
+# County Title
+title = c_yttwaed
+
+# Settlements
+max_settlements = 2
+b_yttwaed_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

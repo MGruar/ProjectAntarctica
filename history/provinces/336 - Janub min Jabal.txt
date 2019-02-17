@@ -5,7 +5,7 @@ title = c_janub_min_jabal
 
 # Settlements
 max_settlements = 1
-b_janub_min_jabal = tribal
+b_janub_min_jabal_i = tribal
 
 # Misc
 culture = egyptian_arabic

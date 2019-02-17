@@ -5,10 +5,10 @@ title = c_reston_centro
 
 # Settlements
 max_settlements = 5
-b_reston_centro = city
-b_barony0134d = temple
-b_barony0134e = castle
-b_barony0134f = city
+b_reston_centro_i = city
+b_reston_centro_ii = temple
+b_reston_centro_iii = castle
+b_reston_centro_iv = city
 
 # Misc
 culture = roman

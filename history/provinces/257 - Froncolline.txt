@@ -5,7 +5,7 @@ title = c_froncolline
 
 # Settlements
 max_settlements = 2
-b_froncolline = tribal
+b_froncolline_i = tribal
 
 # Misc
 culture = catalan

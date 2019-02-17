@@ -5,9 +5,9 @@ title = c_onprybao
 
 # Settlements
 max_settlements = 4
-b_onprybao = castle
-b_barony0467d = temple
-b_barony0467e = city
+b_onprybao_i = castle
+b_onprybao_ii = temple
+b_onprybao_iii = city
 
 # Misc
 culture = han

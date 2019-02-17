@@ -5,8 +5,8 @@ title = c_vounsynor
 
 # Settlements
 max_settlements = 3
-b_vounsynor = castle
-b_barony0115d = temple
+b_vounsynor_i = castle
+b_vounsynor_ii = temple
 
 # Misc
 culture = greek

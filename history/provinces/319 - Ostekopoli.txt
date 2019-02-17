@@ -5,9 +5,9 @@ title = c_ostekopoli
 
 # Settlements
 max_settlements = 4
-b_ostekopoli = castle
-b_barony0319d = temple
-b_barony0319e = city
+b_ostekopoli_i = castle
+b_ostekopoli_ii = temple
+b_ostekopoli_iii = city
 
 # Misc
 culture = songhay

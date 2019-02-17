@@ -5,7 +5,7 @@ title = c_wradistayr
 
 # Settlements
 max_settlements = 2
-b_wradistayr = castle
+b_wradistayr_i = castle
 
 # Misc
 culture = nahuatl

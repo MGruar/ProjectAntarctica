@@ -5,8 +5,8 @@ title = c_layrkosur
 
 # Settlements
 max_settlements = 3
-b_layrkosur = castle
-b_barony0493d = temple
+b_layrkosur_i = castle
+b_layrkosur_ii = temple
 
 # Misc
 culture = nahuatl

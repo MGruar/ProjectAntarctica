@@ -1,0 +1,14 @@
+# 34 - Oppæl
+
+# County Title
+title = c_oppael
+
+# Settlements
+max_settlements = 2
+b_oppael_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

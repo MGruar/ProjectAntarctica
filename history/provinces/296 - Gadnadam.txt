@@ -5,8 +5,8 @@ title = c_gadnadam
 
 # Settlements
 max_settlements = 5
-b_gadnadam = tribal
-b_barony0296d = temple
+b_gadnadam_i = tribal
+b_gadnadam_ii = temple
 
 # Misc
 culture = mongol

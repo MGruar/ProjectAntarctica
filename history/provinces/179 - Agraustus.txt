@@ -5,8 +5,8 @@ title = c_agraustus
 
 # Settlements
 max_settlements = 3
-b_agraustus = castle
-b_barony0179d = temple
+b_agraustus_i = castle
+b_agraustus_ii = temple
 
 # Misc
 culture = roman

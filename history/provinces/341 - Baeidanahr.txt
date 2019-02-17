@@ -5,7 +5,7 @@ title = c_baeidanahr
 
 # Settlements
 max_settlements = 1
-b_baeidanahr = tribal
+b_baeidanahr_i = tribal
 
 # Misc
 culture = egyptian_arabic

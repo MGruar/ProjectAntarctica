@@ -5,8 +5,8 @@ title = c_sinubor
 
 # Settlements
 max_settlements = 5
-b_sinubor = tribal
-b_barony0077d = temple
+b_sinubor_i = tribal
+b_sinubor_ii = temple
 
 # Misc
 culture = roman

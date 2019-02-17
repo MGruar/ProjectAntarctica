@@ -5,9 +5,9 @@ title = c_contrarra_occiden
 
 # Settlements
 max_settlements = 4
-b_contrarra_occiden = castle
-b_barony0175d = temple
-b_barony0175e = city
+b_contrarra_occiden_i = castle
+b_contrarra_occiden_ii = temple
+b_contrarra_occiden_iii = city
 
 # Misc
 culture = roman

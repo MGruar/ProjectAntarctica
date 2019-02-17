@@ -5,7 +5,7 @@ title = c_laokon
 
 # Settlements
 max_settlements = 3
-b_laokon = tribal
+b_laokon_i = tribal
 
 # Misc
 culture = ashkenazi

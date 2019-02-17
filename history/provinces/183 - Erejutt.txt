@@ -5,7 +5,7 @@ title = c_erejutt
 
 # Settlements
 max_settlements = 4
-b_erejutt = tribal
+b_erejutt_i = tribal
 
 # Misc
 culture = ashkenazi

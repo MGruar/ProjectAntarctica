@@ -5,7 +5,7 @@ title = c_ghardina
 
 # Settlements
 max_settlements = 1
-b_ghardina = castle
+b_ghardina_i = castle
 
 # Misc
 culture = egyptian_arabic

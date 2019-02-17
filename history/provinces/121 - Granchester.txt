@@ -5,10 +5,10 @@ title = c_granchester
 
 # Settlements
 max_settlements = 5
-b_granchester = castle
-b_barony0121d = temple
-b_barony0121e = city
-b_barony0121f = castle
+b_granchester_i = castle
+b_granchester_ii = temple
+b_granchester_iii = city
+b_granchester_iv = castle
 
 # Misc
 culture = roman

@@ -5,9 +5,9 @@ title = c_nordroncote
 
 # Settlements
 max_settlements = 4
-b_nordroncote = castle
-b_barony0137d = temple
-b_barony0137e = city
+b_nordroncote_i = castle
+b_nordroncote_ii = temple
+b_nordroncote_iii = city
 
 # Misc
 culture = catalan

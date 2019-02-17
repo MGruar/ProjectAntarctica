@@ -5,7 +5,7 @@ title = c_mimmibul
 
 # Settlements
 max_settlements = 2
-b_mimmibul = tribal
+b_mimmibul_i = tribal
 
 # Misc
 culture = finnish

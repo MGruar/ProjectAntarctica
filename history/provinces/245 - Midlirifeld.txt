@@ -5,8 +5,8 @@ title = c_midlirifeld
 
 # Settlements
 max_settlements = 3
-b_midlirifeld = tribal
-b_barony0245d = temple
+b_midlirifeld_i = tribal
+b_midlirifeld_ii = temple
 
 # Misc
 culture = ashkenazi

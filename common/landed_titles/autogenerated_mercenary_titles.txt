@@ -1,4 +1,4 @@
-d_grme_band = {
+d_graeme_band = {
 	color={ 25 91 158 }
 	color2={ 255 255 255 }
 	
@@ -22,7 +22,7 @@ d_grme_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = norse_band_composition
 }
-d_plme_band = {
+d_paelme_band = {
 	color={ 11 108 175 }
 	color2={ 255 255 255 }
 	
@@ -46,7 +46,7 @@ d_plme_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = norse_band_composition
 }
-d_brde_band = {
+d_baerde_band = {
 	color={ 45 90 141 }
 	color2={ 255 255 255 }
 	
@@ -70,7 +70,7 @@ d_brde_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = norse_band_composition
 }
-d_ellswre_band = {
+d_ellswaere_band = {
 	color={ 51 117 116 }
 	color2={ 255 255 255 }
 	
@@ -94,7 +94,7 @@ d_ellswre_band = {
 	strength_growth_per_century = 1.0
 	mercenary_type = norse_band_composition
 }
-d_mde_band = {
+d_maede_band = {
 	color={ 51 80 144 }
 	color2={ 255 255 255 }
 	

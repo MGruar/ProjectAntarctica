@@ -5,10 +5,10 @@ title = c_vorrvuon
 
 # Settlements
 max_settlements = 5
-b_vorrvuon = castle
-b_barony0133d = temple
-b_barony0133e = city
-b_barony0133f = castle
+b_vorrvuon_i = castle
+b_vorrvuon_ii = temple
+b_vorrvuon_iii = city
+b_vorrvuon_iv = castle
 
 # Misc
 culture = greek

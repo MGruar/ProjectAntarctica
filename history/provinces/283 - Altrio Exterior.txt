@@ -5,8 +5,8 @@ title = c_altrio_exterior
 
 # Settlements
 max_settlements = 2
-b_altrio_exterior = tribal
-b_barony0283d = temple
+b_altrio_exterior_i = tribal
+b_altrio_exterior_ii = temple
 
 # Misc
 culture = mongol

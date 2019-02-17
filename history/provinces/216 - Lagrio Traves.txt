@@ -5,10 +5,10 @@ title = c_lagrio_traves
 
 # Settlements
 max_settlements = 5
-b_lagrio_traves = castle
-b_barony0216d = temple
-b_barony0216e = city
-b_barony0216f = castle
+b_lagrio_traves_i = castle
+b_lagrio_traves_ii = temple
+b_lagrio_traves_iii = city
+b_lagrio_traves_iv = castle
 
 # Misc
 culture = catalan

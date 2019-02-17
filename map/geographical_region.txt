@@ -1,22 +1,22 @@
 # Geographical regions
 world_western_isles = {
 	duchies = {
-		# k_grme
-		d_orkn d_shtland d_goatland d_cob d_inverbend d_larsen 
-		# k_brde
-		d_norrbr d_soderbr d_mittenbr 
-		# k_ellswre
-		d_far_ellswre d_frsid d_nrsid 
-		# k_plme
-		d_froe d_wddel d_ostfjord d_manna d_vestfjord 
+		# k_graeme
+		d_orknae d_shaetland d_goatland d_cobae d_inverbend d_larsen 
+		# k_baerde
+		d_norrbaer d_soderbaer d_mittenbaer 
+		# k_ellswaere
+		d_far_ellswaere d_faersid d_naersid 
+		# k_paelme
+		d_faeroe d_waeddel d_ostfjord d_manna d_vestfjord 
 	}
 }
 world_transantar = {
 	duchies = {
-		# k_mde
-		d_makria d_mescher d_omeya d_stma d_ormo d_synor d_mittenmde 
+		# k_maede
+		d_makria d_mescher d_omeya d_stoma d_ormo d_synor d_mittenmaede 
 		# k_traenge
-		d_nort_traenge d_sut_trnge d_tran_trnge d_mitt_trnge 
+		d_nort_traenge d_sut_traenge d_tran_traenge d_mitt_traenge 
 		# k_alexion
 		d_anderia d_exolexion d_limnia d_mesipnos d_alexion 
 	}

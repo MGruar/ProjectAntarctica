@@ -1,0 +1,14 @@
+# 58 - Bærælv
+
+# County Title
+title = c_baeraelv
+
+# Settlements
+max_settlements = 4
+b_baeraelv_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

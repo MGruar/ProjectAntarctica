@@ -5,7 +5,7 @@ title = c_xotpeninulas
 
 # Settlements
 max_settlements = 4
-b_xotpeninulas = tribal
+b_xotpeninulas_i = tribal
 
 # Misc
 culture = hindustani

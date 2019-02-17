@@ -5,7 +5,7 @@ title = c_gra_cappakett
 
 # Settlements
 max_settlements = 4
-b_gra_cappakett = tribal
+b_gra_cappakett_i = tribal
 
 # Misc
 culture = hindustani

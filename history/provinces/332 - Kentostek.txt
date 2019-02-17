@@ -5,8 +5,8 @@ title = c_kentostek
 
 # Settlements
 max_settlements = 3
-b_kentostek = castle
-b_barony0332d = temple
+b_kentostek_i = castle
+b_kentostek_ii = temple
 
 # Misc
 culture = songhay

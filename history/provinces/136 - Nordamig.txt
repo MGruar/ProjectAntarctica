@@ -5,8 +5,8 @@ title = c_nordamig
 
 # Settlements
 max_settlements = 3
-b_nordamig = castle
-b_barony0136d = temple
+b_nordamig_i = castle
+b_nordamig_ii = temple
 
 # Misc
 culture = catalan

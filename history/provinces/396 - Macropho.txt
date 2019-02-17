@@ -5,10 +5,10 @@ title = c_macropho
 
 # Settlements
 max_settlements = 6
-b_macropho = castle
-b_barony0396d = temple
-b_barony0396e = city
-b_barony0396f = castle
+b_macropho_i = castle
+b_macropho_ii = temple
+b_macropho_iii = city
+b_macropho_iv = castle
 
 # Misc
 culture = mongol

@@ -5,8 +5,8 @@ title = c_sinula_centra
 
 # Settlements
 max_settlements = 5
-b_sinula_centra = tribal
-b_barony0082d = temple
+b_sinula_centra_i = tribal
+b_sinula_centra_ii = temple
 
 # Misc
 culture = roman

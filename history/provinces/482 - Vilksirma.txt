@@ -5,10 +5,10 @@ title = c_vilksirma
 
 # Settlements
 max_settlements = 5
-b_vilksirma = castle
-b_barony0482d = temple
-b_barony0482e = city
-b_barony0482f = castle
+b_vilksirma_i = castle
+b_vilksirma_ii = temple
+b_vilksirma_iii = city
+b_vilksirma_iv = castle
 
 # Misc
 culture = nahuatl

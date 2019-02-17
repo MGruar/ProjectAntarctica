@@ -5,7 +5,7 @@ title = c_megalaperas
 
 # Settlements
 max_settlements = 3
-b_megalaperas = tribal
+b_megalaperas_i = tribal
 
 # Misc
 culture = greek

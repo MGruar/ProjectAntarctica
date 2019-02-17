@@ -5,8 +5,8 @@ title = c_districte_costoest
 
 # Settlements
 max_settlements = 3
-b_districte_costoest = castle
-b_barony0146d = temple
+b_districte_costoest_i = castle
+b_districte_costoest_ii = temple
 
 # Misc
 culture = catalan

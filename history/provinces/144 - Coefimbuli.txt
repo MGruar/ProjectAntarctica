@@ -5,7 +5,7 @@ title = c_coefimbuli
 
 # Settlements
 max_settlements = 2
-b_coefimbuli = tribal
+b_coefimbuli_i = tribal
 
 # Misc
 culture = finnish

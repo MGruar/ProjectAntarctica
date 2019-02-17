@@ -5,9 +5,9 @@ title = c_voreiolimnia
 
 # Settlements
 max_settlements = 4
-b_voreiolimnia = castle
-b_barony0202d = temple
-b_barony0202e = city
+b_voreiolimnia_i = castle
+b_voreiolimnia_ii = temple
+b_voreiolimnia_iii = city
 
 # Misc
 culture = greek

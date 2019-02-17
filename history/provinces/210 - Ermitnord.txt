@@ -5,7 +5,7 @@ title = c_ermitnord
 
 # Settlements
 max_settlements = 3
-b_ermitnord = tribal
+b_ermitnord_i = tribal
 
 # Misc
 culture = catalan

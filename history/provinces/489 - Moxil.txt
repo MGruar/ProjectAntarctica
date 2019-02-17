@@ -5,7 +5,7 @@ title = c_moxil
 
 # Settlements
 max_settlements = 2
-b_moxil = castle
+b_moxil_i = castle
 
 # Misc
 culture = nahuatl

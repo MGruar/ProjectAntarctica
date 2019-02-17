@@ -5,7 +5,7 @@ title = c_coasten
 
 # Settlements
 max_settlements = 2
-b_coasten = tribal
+b_coasten_i = tribal
 
 # Misc
 culture = ashkenazi

@@ -5,9 +5,9 @@ title = c_oostvilk
 
 # Settlements
 max_settlements = 4
-b_oostvilk = castle
-b_barony0446d = temple
-b_barony0446e = city
+b_oostvilk_i = castle
+b_oostvilk_ii = temple
+b_oostvilk_iii = city
 
 # Misc
 culture = songhay

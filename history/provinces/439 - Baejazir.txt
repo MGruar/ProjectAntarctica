@@ -5,8 +5,8 @@ title = c_baejazir
 
 # Settlements
 max_settlements = 3
-b_baejazir = castle
-b_barony0439d = temple
+b_baejazir_i = castle
+b_baejazir_ii = temple
 
 # Misc
 culture = egyptian_arabic

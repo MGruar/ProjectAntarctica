@@ -5,8 +5,8 @@ title = c_baymous
 
 # Settlements
 max_settlements = 5
-b_baymous = tribal
-b_barony0233d = temple
+b_baymous_i = tribal
+b_baymous_ii = temple
 
 # Misc
 culture = ashkenazi

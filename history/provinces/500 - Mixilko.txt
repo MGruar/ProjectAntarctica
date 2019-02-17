@@ -5,8 +5,8 @@ title = c_mixilko
 
 # Settlements
 max_settlements = 3
-b_mixilko = castle
-b_barony0500d = temple
+b_mixilko_i = castle
+b_mixilko_ii = temple
 
 # Misc
 culture = nahuatl

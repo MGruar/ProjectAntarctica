@@ -5,7 +5,7 @@ title = c_khoiduun
 
 # Settlements
 max_settlements = 3
-b_khoiduun = tribal
+b_khoiduun_i = tribal
 
 # Misc
 culture = mongol

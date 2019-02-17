@@ -5,10 +5,10 @@ title = c_perekentro
 
 # Settlements
 max_settlements = 6
-b_perekentro = castle
-b_barony0263d = temple
-b_barony0263e = city
-b_barony0263f = castle
+b_perekentro_i = castle
+b_perekentro_ii = temple
+b_perekentro_iii = city
+b_perekentro_iv = castle
 
 # Misc
 culture = greek

@@ -5,11 +5,11 @@ title = c_megapolis_kentro
 
 # Settlements
 max_settlements = 7
-b_megapolis_kentro = castle
-b_barony0234d = temple
-b_barony0234e = city
-b_barony0234f = castle
-b_barony0234g = temple
+b_megapolis_kentro_i = castle
+b_megapolis_kentro_ii = temple
+b_megapolis_kentro_iii = city
+b_megapolis_kentro_iv = castle
+b_megapolis_kentro_v = temple
 
 # Misc
 culture = greek

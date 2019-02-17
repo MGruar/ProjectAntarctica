@@ -5,8 +5,8 @@ title = c_bentracca
 
 # Settlements
 max_settlements = 6
-b_bentracca = tribal
-b_barony0399d = temple
+b_bentracca_i = tribal
+b_bentracca_ii = temple
 
 # Misc
 culture = mongol

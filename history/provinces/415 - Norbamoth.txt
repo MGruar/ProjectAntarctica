@@ -5,10 +5,10 @@ title = c_norbamoth
 
 # Settlements
 max_settlements = 6
-b_norbamoth = castle
-b_barony0415d = temple
-b_barony0415e = city
-b_barony0415f = castle
+b_norbamoth_i = castle
+b_norbamoth_ii = temple
+b_norbamoth_iii = city
+b_norbamoth_iv = castle
 
 # Misc
 culture = songhay

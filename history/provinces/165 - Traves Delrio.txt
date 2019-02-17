@@ -5,8 +5,8 @@ title = c_traves_delrio
 
 # Settlements
 max_settlements = 3
-b_traves_delrio = castle
-b_barony0165d = temple
+b_traves_delrio_i = castle
+b_traves_delrio_ii = temple
 
 # Misc
 culture = catalan

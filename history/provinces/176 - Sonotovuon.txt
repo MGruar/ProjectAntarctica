@@ -5,7 +5,7 @@ title = c_sonotovuon
 
 # Settlements
 max_settlements = 4
-b_sonotovuon = tribal
+b_sonotovuon_i = tribal
 
 # Misc
 culture = greek

@@ -1,0 +1,14 @@
+# 19 - Ostcobæ
+
+# County Title
+title = c_ostcobae
+
+# Settlements
+max_settlements = 3
+b_ostcobae_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

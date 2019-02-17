@@ -5,9 +5,9 @@ title = c_parumsinus
 
 # Settlements
 max_settlements = 4
-b_parumsinus = city
-b_barony0152d = temple
-b_barony0152e = castle
+b_parumsinus_i = city
+b_parumsinus_ii = temple
+b_parumsinus_iii = castle
 
 # Misc
 culture = roman

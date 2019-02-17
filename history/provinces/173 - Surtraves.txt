@@ -5,8 +5,8 @@ title = c_surtraves
 
 # Settlements
 max_settlements = 3
-b_surtraves = castle
-b_barony0173d = temple
+b_surtraves_i = castle
+b_surtraves_ii = temple
 
 # Misc
 culture = catalan

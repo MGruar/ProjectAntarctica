@@ -5,7 +5,7 @@ title = c_eteniem
 
 # Settlements
 max_settlements = 3
-b_eteniem = tribal
+b_eteniem_i = tribal
 
 # Misc
 culture = finnish

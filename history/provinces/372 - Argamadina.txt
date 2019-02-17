@@ -5,8 +5,8 @@ title = c_argamadina
 
 # Settlements
 max_settlements = 2
-b_argamadina = castle
-b_barony0372d = temple
+b_argamadina_i = castle
+b_argamadina_ii = temple
 
 # Misc
 culture = egyptian_arabic

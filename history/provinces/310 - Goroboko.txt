@@ -5,7 +5,7 @@ title = c_goroboko
 
 # Settlements
 max_settlements = 2
-b_goroboko = tribal
+b_goroboko_i = tribal
 
 # Misc
 culture = mongol

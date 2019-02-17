@@ -5,8 +5,8 @@ title = c_wradinghar
 
 # Settlements
 max_settlements = 3
-b_wradinghar = castle
-b_barony0505d = temple
+b_wradinghar_i = castle
+b_wradinghar_ii = temple
 
 # Misc
 culture = nahuatl

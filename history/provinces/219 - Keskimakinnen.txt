@@ -5,7 +5,7 @@ title = c_keskimakinnen
 
 # Settlements
 max_settlements = 3
-b_keskimakinnen = tribal
+b_keskimakinnen_i = tribal
 
 # Misc
 culture = finnish

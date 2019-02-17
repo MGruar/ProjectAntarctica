@@ -5,7 +5,7 @@ title = c_itaamakinnen
 
 # Settlements
 max_settlements = 3
-b_itaamakinnen = tribal
+b_itaamakinnen_i = tribal
 
 # Misc
 culture = finnish

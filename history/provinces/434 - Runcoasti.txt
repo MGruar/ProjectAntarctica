@@ -5,7 +5,7 @@ title = c_runcoasti
 
 # Settlements
 max_settlements = 4
-b_runcoasti = tribal
+b_runcoasti_i = tribal
 
 # Misc
 culture = hindustani

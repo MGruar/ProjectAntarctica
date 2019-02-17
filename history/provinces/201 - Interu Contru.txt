@@ -5,8 +5,8 @@ title = c_interu_contru
 
 # Settlements
 max_settlements = 3
-b_interu_contru = castle
-b_barony0201d = temple
+b_interu_contru_i = castle
+b_interu_contru_ii = temple
 
 # Misc
 culture = roman

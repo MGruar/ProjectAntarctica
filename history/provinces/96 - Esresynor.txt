@@ -5,8 +5,8 @@ title = c_esresynor
 
 # Settlements
 max_settlements = 5
-b_esresynor = tribal
-b_barony0096d = temple
+b_esresynor_i = tribal
+b_esresynor_ii = temple
 
 # Misc
 culture = norse

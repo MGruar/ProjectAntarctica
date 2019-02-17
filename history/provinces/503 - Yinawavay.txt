@@ -5,8 +5,8 @@ title = c_yinawavay
 
 # Settlements
 max_settlements = 3
-b_yinawavay = castle
-b_barony0503d = temple
+b_yinawavay_i = castle
+b_yinawavay_ii = temple
 
 # Misc
 culture = nahuatl

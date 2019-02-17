@@ -5,10 +5,10 @@ title = c_qufang
 
 # Settlements
 max_settlements = 5
-b_qufang = castle
-b_barony0441d = temple
-b_barony0441e = city
-b_barony0441f = castle
+b_qufang_i = castle
+b_qufang_ii = temple
+b_qufang_iii = city
+b_qufang_iv = castle
 
 # Misc
 culture = han

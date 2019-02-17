@@ -5,7 +5,7 @@ title = c_meripol
 
 # Settlements
 max_settlements = 3
-b_meripol = tribal
+b_meripol_i = tribal
 
 # Misc
 culture = finnish

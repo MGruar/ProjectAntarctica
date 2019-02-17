@@ -5,7 +5,7 @@ title = c_norlina
 
 # Settlements
 max_settlements = 2
-b_norlina = castle
+b_norlina_i = castle
 
 # Misc
 culture = catalan

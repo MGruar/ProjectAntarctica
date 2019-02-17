@@ -5,8 +5,8 @@ title = c_dytethion
 
 # Settlements
 max_settlements = 3
-b_dytethion = castle
-b_barony0290d = temple
+b_dytethion_i = castle
+b_dytethion_ii = temple
 
 # Misc
 culture = greek

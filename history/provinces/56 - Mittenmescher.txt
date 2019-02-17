@@ -5,7 +5,7 @@ title = c_mittenmescher
 
 # Settlements
 max_settlements = 4
-b_mittenmescher = tribal
+b_mittenmescher_i = tribal
 
 # Misc
 culture = norse

@@ -5,7 +5,7 @@ title = c_lansiniem
 
 # Settlements
 max_settlements = 2
-b_lansiniem = tribal
+b_lansiniem_i = tribal
 
 # Misc
 culture = finnish

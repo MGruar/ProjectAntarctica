@@ -5,9 +5,9 @@ title = c_nwai_endershi
 
 # Settlements
 max_settlements = 4
-b_nwai_endershi = castle
-b_barony0432d = temple
-b_barony0432e = city
+b_nwai_endershi_i = castle
+b_nwai_endershi_ii = temple
+b_nwai_endershi_iii = city
 
 # Misc
 culture = mongol

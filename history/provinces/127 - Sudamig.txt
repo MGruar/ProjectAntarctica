@@ -5,8 +5,8 @@ title = c_sudamig
 
 # Settlements
 max_settlements = 3
-b_sudamig = castle
-b_barony0127d = temple
+b_sudamig_i = castle
+b_sudamig_ii = temple
 
 # Misc
 culture = catalan

@@ -5,8 +5,8 @@ title = c_barugaa
 
 # Settlements
 max_settlements = 3
-b_barugaa = castle
-b_barony0410d = temple
+b_barugaa_i = castle
+b_barugaa_ii = temple
 
 # Misc
 culture = mongol

@@ -5,9 +5,9 @@ title = c_lagrio_central
 
 # Settlements
 max_settlements = 4
-b_lagrio_central = castle
-b_barony0232d = temple
-b_barony0232e = city
+b_lagrio_central_i = castle
+b_lagrio_central_ii = temple
+b_lagrio_central_iii = city
 
 # Misc
 culture = catalan

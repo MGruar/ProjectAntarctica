@@ -5,8 +5,8 @@ title = c_wixilisurpama
 
 # Settlements
 max_settlements = 3
-b_wixilisurpama = castle
-b_barony0502d = temple
+b_wixilisurpama_i = castle
+b_wixilisurpama_ii = temple
 
 # Misc
 culture = nahuatl

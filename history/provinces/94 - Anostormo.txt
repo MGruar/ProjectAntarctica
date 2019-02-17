@@ -5,8 +5,8 @@ title = c_anostormo
 
 # Settlements
 max_settlements = 5
-b_anostormo = tribal
-b_barony0094d = temple
+b_anostormo_i = tribal
+b_anostormo_ii = temple
 
 # Misc
 culture = norse

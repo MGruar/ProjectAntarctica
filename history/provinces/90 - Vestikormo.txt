@@ -5,8 +5,8 @@ title = c_vestikormo
 
 # Settlements
 max_settlements = 5
-b_vestikormo = tribal
-b_barony0090d = temple
+b_vestikormo_i = tribal
+b_vestikormo_ii = temple
 
 # Misc
 culture = norse

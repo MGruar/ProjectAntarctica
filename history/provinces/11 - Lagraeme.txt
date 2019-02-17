@@ -1,0 +1,15 @@
+# 11 - Lagræme
+
+# County Title
+title = c_lagraeme
+
+# Settlements
+max_settlements = 2
+b_lagraeme_i = tribal
+b_lagraeme_ii = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

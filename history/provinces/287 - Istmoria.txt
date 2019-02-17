@@ -5,7 +5,7 @@ title = c_istmoria
 
 # Settlements
 max_settlements = 4
-b_istmoria = tribal
+b_istmoria_i = tribal
 
 # Misc
 culture = ashkenazi

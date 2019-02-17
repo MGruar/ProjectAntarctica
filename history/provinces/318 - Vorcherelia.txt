@@ -5,9 +5,9 @@ title = c_vorcherelia
 
 # Settlements
 max_settlements = 4
-b_vorcherelia = castle
-b_barony0318d = temple
-b_barony0318e = city
+b_vorcherelia_i = castle
+b_vorcherelia_ii = temple
+b_vorcherelia_iii = city
 
 # Misc
 culture = songhay

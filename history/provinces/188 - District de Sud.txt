@@ -5,7 +5,7 @@ title = c_district_de_sud
 
 # Settlements
 max_settlements = 2
-b_district_de_sud = castle
+b_district_de_sud_i = castle
 
 # Misc
 culture = catalan

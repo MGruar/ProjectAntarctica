@@ -5,7 +5,7 @@ title = c_nojanura
 
 # Settlements
 max_settlements = 3
-b_nojanura = tribal
+b_nojanura_i = tribal
 
 # Misc
 culture = egyptian_arabic

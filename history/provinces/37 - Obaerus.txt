@@ -1,0 +1,14 @@
+# 37 - Öbærus
+
+# County Title
+title = c_obaerus
+
+# Settlements
+max_settlements = 3
+b_obaerus_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

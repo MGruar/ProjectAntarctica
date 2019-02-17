@@ -5,9 +5,9 @@ title = c_voduu
 
 # Settlements
 max_settlements = 4
-b_voduu = castle
-b_barony0409d = temple
-b_barony0409e = city
+b_voduu_i = castle
+b_voduu_ii = temple
+b_voduu_iii = city
 
 # Misc
 culture = mongol

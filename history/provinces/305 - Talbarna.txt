@@ -5,7 +5,7 @@ title = c_talbarna
 
 # Settlements
 max_settlements = 3
-b_talbarna = tribal
+b_talbarna_i = tribal
 
 # Misc
 culture = mongol

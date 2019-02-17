@@ -5,8 +5,8 @@ title = c_camp_estemig
 
 # Settlements
 max_settlements = 3
-b_camp_estemig = castle
-b_barony0150d = temple
+b_camp_estemig_i = castle
+b_camp_estemig_ii = temple
 
 # Misc
 culture = catalan

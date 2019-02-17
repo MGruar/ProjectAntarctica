@@ -5,7 +5,7 @@ title = c_omevik
 
 # Settlements
 max_settlements = 3
-b_omevik = tribal
+b_omevik_i = tribal
 
 # Misc
 culture = norse

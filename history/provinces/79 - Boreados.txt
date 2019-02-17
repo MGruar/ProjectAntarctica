@@ -5,8 +5,8 @@ title = c_boreados
 
 # Settlements
 max_settlements = 5
-b_boreados = tribal
-b_barony0079d = temple
+b_boreados_i = tribal
+b_boreados_ii = temple
 
 # Misc
 culture = roman

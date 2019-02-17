@@ -5,7 +5,7 @@ title = c_sodelar
 
 # Settlements
 max_settlements = 2
-b_sodelar = tribal
+b_sodelar_i = tribal
 
 # Misc
 culture = norse

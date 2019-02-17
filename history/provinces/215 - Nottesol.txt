@@ -5,7 +5,7 @@ title = c_nottesol
 
 # Settlements
 max_settlements = 3
-b_nottesol = tribal
+b_nottesol_i = tribal
 
 # Misc
 culture = ashkenazi

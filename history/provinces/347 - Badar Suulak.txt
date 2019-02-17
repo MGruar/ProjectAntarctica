@@ -5,7 +5,7 @@ title = c_badar_suulak
 
 # Settlements
 max_settlements = 4
-b_badar_suulak = tribal
+b_badar_suulak_i = tribal
 
 # Misc
 culture = songhay

@@ -5,10 +5,10 @@ title = c_onilac
 
 # Settlements
 max_settlements = 5
-b_onilac = castle
-b_barony0162d = temple
-b_barony0162e = city
-b_barony0162f = castle
+b_onilac_i = castle
+b_onilac_ii = temple
+b_onilac_iii = city
+b_onilac_iv = castle
 
 # Misc
 culture = roman

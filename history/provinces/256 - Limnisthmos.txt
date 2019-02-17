@@ -5,10 +5,10 @@ title = c_limnisthmos
 
 # Settlements
 max_settlements = 5
-b_limnisthmos = castle
-b_barony0256d = temple
-b_barony0256e = city
-b_barony0256f = castle
+b_limnisthmos_i = castle
+b_limnisthmos_ii = temple
+b_limnisthmos_iii = city
+b_limnisthmos_iv = castle
 
 # Misc
 culture = greek

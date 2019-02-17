@@ -1,0 +1,15 @@
+# 48 - Vorrær
+
+# County Title
+title = c_vorraer
+
+# Settlements
+max_settlements = 5
+b_vorraer_i = tribal
+b_vorraer_ii = temple
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

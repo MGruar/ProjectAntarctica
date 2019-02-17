@@ -5,7 +5,7 @@ title = c_gaamontov
 
 # Settlements
 max_settlements = 3
-b_gaamontov = tribal
+b_gaamontov_i = tribal
 
 # Misc
 culture = mongol

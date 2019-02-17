@@ -5,10 +5,10 @@ title = c_lakstrimer
 
 # Settlements
 max_settlements = 5
-b_lakstrimer = castle
-b_barony0448d = temple
-b_barony0448e = city
-b_barony0448f = castle
+b_lakstrimer_i = castle
+b_lakstrimer_ii = temple
+b_lakstrimer_iii = city
+b_lakstrimer_iv = castle
 
 # Misc
 culture = songhay

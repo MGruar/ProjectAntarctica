@@ -5,7 +5,7 @@ title = c_omnuutov
 
 # Settlements
 max_settlements = 2
-b_omnuutov = castle
+b_omnuutov_i = castle
 
 # Misc
 culture = mongol

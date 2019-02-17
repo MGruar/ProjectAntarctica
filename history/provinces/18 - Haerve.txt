@@ -1,0 +1,14 @@
+# 18 - Hærve
+
+# County Title
+title = c_haerve
+
+# Settlements
+max_settlements = 3
+b_haerve_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

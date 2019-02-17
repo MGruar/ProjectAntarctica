@@ -5,11 +5,11 @@ title = c_ketema_vostokia
 
 # Settlements
 max_settlements = 7
-b_ketema_vostokia = castle
-b_barony0392d = temple
-b_barony0392e = city
-b_barony0392f = castle
-b_barony0392g = temple
+b_ketema_vostokia_i = castle
+b_ketema_vostokia_ii = temple
+b_ketema_vostokia_iii = city
+b_ketema_vostokia_iv = castle
+b_ketema_vostokia_v = temple
 
 # Misc
 culture = songhay

@@ -5,9 +5,9 @@ title = c_mesikivos
 
 # Settlements
 max_settlements = 4
-b_mesikivos = castle
-b_barony0435d = temple
-b_barony0435e = city
+b_mesikivos_i = castle
+b_mesikivos_ii = temple
+b_mesikivos_iii = city
 
 # Misc
 culture = songhay

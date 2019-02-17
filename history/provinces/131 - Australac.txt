@@ -5,9 +5,9 @@ title = c_australac
 
 # Settlements
 max_settlements = 4
-b_australac = castle
-b_barony0131d = temple
-b_barony0131e = city
+b_australac_i = castle
+b_australac_ii = temple
+b_australac_iii = city
 
 # Misc
 culture = roman

@@ -5,7 +5,7 @@ title = c_vyosothorshby
 
 # Settlements
 max_settlements = 3
-b_vyosothorshby = tribal
+b_vyosothorshby_i = tribal
 
 # Misc
 culture = mongol

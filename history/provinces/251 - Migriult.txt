@@ -5,9 +5,9 @@ title = c_migriult
 
 # Settlements
 max_settlements = 4
-b_migriult = castle
-b_barony0251d = temple
-b_barony0251e = city
+b_migriult_i = castle
+b_migriult_ii = temple
+b_migriult_iii = city
 
 # Misc
 culture = catalan

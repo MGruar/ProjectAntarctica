@@ -5,8 +5,8 @@ title = c_baiefrontie
 
 # Settlements
 max_settlements = 3
-b_baiefrontie = castle
-b_barony0147d = temple
+b_baiefrontie_i = castle
+b_baiefrontie_ii = temple
 
 # Misc
 culture = catalan

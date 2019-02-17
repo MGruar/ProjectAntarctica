@@ -5,7 +5,7 @@ title = c_ebois
 
 # Settlements
 max_settlements = 2
-b_ebois = tribal
+b_ebois_i = tribal
 
 # Misc
 culture = catalan

@@ -5,7 +5,7 @@ title = c_omnogda
 
 # Settlements
 max_settlements = 2
-b_omnogda = tribal
+b_omnogda_i = tribal
 
 # Misc
 culture = mongol

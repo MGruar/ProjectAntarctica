@@ -5,9 +5,9 @@ title = c_dalagarke
 
 # Settlements
 max_settlements = 4
-b_dalagarke = castle
-b_barony0419d = temple
-b_barony0419e = city
+b_dalagarke_i = castle
+b_dalagarke_ii = temple
+b_dalagarke_iii = city
 
 # Misc
 culture = mongol

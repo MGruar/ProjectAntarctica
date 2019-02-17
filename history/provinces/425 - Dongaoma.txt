@@ -5,8 +5,8 @@ title = c_dongaoma
 
 # Settlements
 max_settlements = 3
-b_dongaoma = castle
-b_barony0425d = temple
+b_dongaoma_i = castle
+b_dongaoma_ii = temple
 
 # Misc
 culture = mongol

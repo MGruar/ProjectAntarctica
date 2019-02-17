@@ -5,9 +5,9 @@ title = c_subouche
 
 # Settlements
 max_settlements = 4
-b_subouche = castle
-b_barony0139d = temple
-b_barony0139e = city
+b_subouche_i = castle
+b_subouche_ii = temple
+b_subouche_iii = city
 
 # Misc
 culture = catalan

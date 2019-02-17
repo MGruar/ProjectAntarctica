@@ -5,7 +5,7 @@ title = c_ziret_westilk
 
 # Settlements
 max_settlements = 2
-b_ziret_westilk = tribal
+b_ziret_westilk_i = tribal
 
 # Misc
 culture = nahuatl

@@ -5,11 +5,11 @@ title = c_regio_capitol
 
 # Settlements
 max_settlements = 7
-b_regio_capitol = castle
-b_barony0211d = temple
-b_barony0211e = city
-b_barony0211f = castle
-b_barony0211g = temple
+b_regio_capitol_i = castle
+b_regio_capitol_ii = temple
+b_regio_capitol_iii = city
+b_regio_capitol_iv = castle
+b_regio_capitol_v = temple
 
 # Misc
 culture = roman

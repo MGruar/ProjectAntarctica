@@ -5,8 +5,8 @@ title = c_adepenina
 
 # Settlements
 max_settlements = 5
-b_adepenina = tribal
-b_barony0317d = temple
+b_adepenina_i = tribal
+b_adepenina_ii = temple
 
 # Misc
 culture = hindustani

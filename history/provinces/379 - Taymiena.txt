@@ -5,7 +5,7 @@ title = c_taymiena
 
 # Settlements
 max_settlements = 3
-b_taymiena = tribal
+b_taymiena_i = tribal
 
 # Misc
 culture = mongol

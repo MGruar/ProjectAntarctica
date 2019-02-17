@@ -1,0 +1,14 @@
+# 3 - Shælvet
+
+# County Title
+title = c_shaelvet
+
+# Settlements
+max_settlements = 2
+b_shaelvet_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

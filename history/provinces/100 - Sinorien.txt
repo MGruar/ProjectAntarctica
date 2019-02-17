@@ -5,8 +5,8 @@ title = c_sinorien
 
 # Settlements
 max_settlements = 5
-b_sinorien = tribal
-b_barony0100d = temple
+b_sinorien_i = tribal
+b_sinorien_ii = temple
 
 # Misc
 culture = roman

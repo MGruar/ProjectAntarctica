@@ -5,8 +5,8 @@ title = c_ermessa
 
 # Settlements
 max_settlements = 3
-b_ermessa = castle
-b_barony0405d = temple
+b_ermessa_i = castle
+b_ermessa_ii = temple
 
 # Misc
 culture = songhay

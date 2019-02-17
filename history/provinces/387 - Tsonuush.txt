@@ -5,7 +5,7 @@ title = c_tsonuush
 
 # Settlements
 max_settlements = 4
-b_tsonuush = tribal
+b_tsonuush_i = tribal
 
 # Misc
 culture = mongol

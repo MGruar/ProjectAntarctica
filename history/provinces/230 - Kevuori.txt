@@ -5,7 +5,7 @@ title = c_kevuori
 
 # Settlements
 max_settlements = 2
-b_kevuori = tribal
+b_kevuori_i = tribal
 
 # Misc
 culture = finnish

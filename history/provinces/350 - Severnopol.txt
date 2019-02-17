@@ -5,8 +5,8 @@ title = c_severnopol
 
 # Settlements
 max_settlements = 5
-b_severnopol = tribal
-b_barony0350d = temple
+b_severnopol_i = tribal
+b_severnopol_ii = temple
 
 # Misc
 culture = mongol

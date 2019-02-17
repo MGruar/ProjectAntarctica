@@ -5,8 +5,8 @@ title = c_campalto
 
 # Settlements
 max_settlements = 3
-b_campalto = castle
-b_barony0248d = temple
+b_campalto_i = castle
+b_campalto_ii = temple
 
 # Misc
 culture = catalan

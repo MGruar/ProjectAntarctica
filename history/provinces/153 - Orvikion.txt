@@ -5,9 +5,9 @@ title = c_orvikion
 
 # Settlements
 max_settlements = 4
-b_orvikion = castle
-b_barony0153d = temple
-b_barony0153e = city
+b_orvikion_i = castle
+b_orvikion_ii = temple
+b_orvikion_iii = city
 
 # Misc
 culture = greek

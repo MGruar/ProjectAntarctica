@@ -1,0 +1,14 @@
+# 4 - Mittorkshæ
+
+# County Title
+title = c_mittorkshae
+
+# Settlements
+max_settlements = 2
+b_mittorkshae_i = tribal
+
+# Misc
+culture = norse
+religion = norse_pagan
+
+# History

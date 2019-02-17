@@ -5,8 +5,8 @@ title = c_middadelidom
 
 # Settlements
 max_settlements = 5
-b_middadelidom = tribal
-b_barony0328d = temple
+b_middadelidom_i = tribal
+b_middadelidom_ii = temple
 
 # Misc
 culture = hindustani

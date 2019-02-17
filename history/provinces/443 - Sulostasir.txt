@@ -5,9 +5,9 @@ title = c_sulostasir
 
 # Settlements
 max_settlements = 4
-b_sulostasir = castle
-b_barony0443d = temple
-b_barony0443e = city
+b_sulostasir_i = castle
+b_sulostasir_ii = temple
+b_sulostasir_iii = city
 
 # Misc
 culture = songhay
