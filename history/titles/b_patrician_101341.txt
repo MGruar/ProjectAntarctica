@@ -1,4 +1,4 @@
-254.1.1 = {
+247.1.1 = {
 	holding_dynasty = 101341 # of Reston Centro II - makes this a FAMILY_PALACE type Holding
 	liege="d_restorro"
 	holder = 202680
