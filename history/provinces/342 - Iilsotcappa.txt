@@ -1,11 +1,11 @@
-# 342 - Province0342
+# 342 - Iilsotcappa
 
 # County Title
-title = c_province0342
+title = c_iilsotcappa
 
 # Settlements
 max_settlements = 2
-b_province0342_i = tribal
+b_iilsotcappa_i = tribal
 
 # Misc
 culture = hindustani

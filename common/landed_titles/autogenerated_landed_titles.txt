@@ -6058,19 +6058,19 @@ e_gran_adelia = {
 			
 			capital = 362
 			
-			c_province0342 = {
+			c_iilsotcappa = {
 				color={ 37 126 52 }
 				color2={ 255 255 255 }
 				
 				
-				b_province0342_i = { }
-				b_province0342_ii = { }
-				b_province0342_iii = { }
-				b_province0342_iv = { }
-				b_province0342_v = { }
-				b_province0342_vi = { }
-				b_province0342_vii = { }
-				b_province0342_viii = { }
+				b_iilsotcappa_i = { }
+				b_iilsotcappa_ii = { }
+				b_iilsotcappa_iii = { }
+				b_iilsotcappa_iv = { }
+				b_iilsotcappa_v = { }
+				b_iilsotcappa_vi = { }
+				b_iilsotcappa_vii = { }
+				b_iilsotcappa_viii = { }
 			}
 			c_westcoasti_ta_gracappa = {
 				color={ 58 172 28 }
